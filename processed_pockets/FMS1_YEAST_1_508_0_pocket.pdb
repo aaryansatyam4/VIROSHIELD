@@ -1,0 +1,33 @@
+HETATM    1  CAB SP5 B 803      -4.169  -0.239  -4.233  1.00 69.64           C  
+HETATM    2  CAC SP5 B 803      -2.742  -0.789  -4.265  1.00 70.45           C  
+HETATM    3  OAA SP5 B 803      -2.381  -1.649  -3.463  1.00 70.21           O  
+HETATM    4  NAD SP5 B 803      -1.964  -0.293  -5.226  1.00 67.43           N  
+HETATM    5  CAE SP5 B 803      -2.452   0.705  -6.188  1.00 64.15           C  
+HETATM    6  CAF SP5 B 803      -1.402   0.979  -7.265  1.00 62.30           C  
+HETATM    7  CAG SP5 B 803      -1.962   1.946  -8.309  1.00 61.32           C  
+HETATM    8  NAH SP5 B 803      -0.961   2.958  -8.672  1.00 61.04           N  
+HETATM    9  CAI SP5 B 803      -1.365   4.290  -8.201  1.00 58.75           C  
+HETATM   10  CAJ SP5 B 803      -0.117   5.048  -7.742  1.00 57.62           C  
+HETATM   11  CAK SP5 B 803       0.388   6.011  -8.818  1.00 57.69           C  
+HETATM   12  CAL SP5 B 803       1.324   7.076  -8.245  1.00 56.65           C  
+HETATM   13  NAM SP5 B 803       1.603   6.764  -6.836  1.00 57.70           N  
+HETATM   14  CAN SP5 B 803       2.801   7.503  -6.415  1.00 59.11           C  
+HETATM   15  CAO SP5 B 803       3.986   7.101  -7.295  1.00 61.38           C  
+HETATM   16  CAP SP5 B 803       5.262   7.818  -6.849  1.00 62.07           C  
+HETATM   17  NAQ SP5 B 803       6.256   6.835  -6.392  1.00 62.94           N  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+END

@@ -1,0 +1,23 @@
+HETATM    1  C11 CPZ A 402     -15.707 -59.172 -11.613  1.00 37.81           C  
+HETATM    2  C10 CPZ A 402     -15.402 -59.420 -12.968  1.00 39.54           C  
+HETATM    3  C9  CPZ A 402     -14.670 -60.547 -13.286  1.00 46.10           C  
+HETATM    4  C8  CPZ A 402     -14.215 -61.433 -12.304  1.00 43.30           C  
+HETATM    5  C7  CPZ A 402     -14.526 -61.182 -10.960  1.00 36.87           C  
+HETATM    6  C6  CPZ A 402     -15.269 -60.058 -10.632  1.00 35.26           C  
+HETATM    7  C4  CPZ A 402     -15.591 -59.790  -9.232  1.00 36.17           C  
+HETATM    8  C2  CPZ A 402     -16.181 -58.693  -8.608  1.00 34.15           C  
+HETATM    9  N1  CPZ A 402     -16.299 -58.889  -7.217  1.00 40.35           N  
+HETATM   10  C5  CPZ A 402     -15.755 -60.127  -7.020  1.00 36.68           C  
+HETATM   11  N3  CPZ A 402     -15.323 -60.693  -8.203  1.00 39.09           N  
+HETATM   12  CL  CPZ A 402     -14.275 -60.855 -14.986  1.00 51.96          CL  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   12
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8   11
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+END

@@ -1,0 +1,57 @@
+HETATM    1  N1  MTX C 402       9.701 -17.274  32.410  1.00 12.28           N  
+HETATM    2  C2  MTX C 402       9.437 -16.123  31.671  1.00 11.81           C  
+HETATM    3  NA2 MTX C 402       9.303 -14.944  32.228  1.00 12.01           N  
+HETATM    4  N3  MTX C 402       9.275 -16.140  30.323  1.00 11.97           N  
+HETATM    5  C4  MTX C 402       9.365 -17.327  29.681  1.00 12.18           C  
+HETATM    6  NA4 MTX C 402       9.223 -17.457  28.375  1.00 12.09           N  
+HETATM    7  C4A MTX C 402       9.613 -18.447  30.414  1.00 12.51           C  
+HETATM    8  N5  MTX C 402       9.705 -19.557  29.676  1.00 13.25           N  
+HETATM    9  C6  MTX C 402       9.908 -20.746  30.282  1.00 13.06           C  
+HETATM   10  C7  MTX C 402      10.134 -20.907  31.654  1.00 12.52           C  
+HETATM   11  N8  MTX C 402      10.045 -19.729  32.396  1.00 12.09           N  
+HETATM   12  C8A MTX C 402       9.790 -18.498  31.778  1.00 12.12           C  
+HETATM   13  C9  MTX C 402      10.054 -21.655  29.160  1.00 13.23           C  
+HETATM   14  N10 MTX C 402      11.514 -21.327  28.991  1.00 12.93           N  
+HETATM   15  CM  MTX C 402      12.360 -22.410  29.498  1.00 13.63           C  
+HETATM   16  C11 MTX C 402      14.272 -18.492  27.174  1.00 11.91           C  
+HETATM   17  C12 MTX C 402      13.476 -19.341  26.380  1.00 12.21           C  
+HETATM   18  C13 MTX C 402      12.575 -20.271  26.950  1.00 12.34           C  
+HETATM   19  C14 MTX C 402      12.360 -20.339  28.340  1.00 12.43           C  
+HETATM   20  C15 MTX C 402      13.197 -19.526  29.122  1.00 12.32           C  
+HETATM   21  C16 MTX C 402      14.117 -18.614  28.562  1.00 11.84           C  
+HETATM   22  C   MTX C 402      15.315 -17.527  26.619  1.00 11.86           C  
+HETATM   23  O   MTX C 402      16.060 -16.771  27.534  1.00 11.95           O  
+HETATM   24  N   MTX C 402      15.668 -17.374  25.335  1.00 12.43           N  
+HETATM   25  CA  MTX C 402      16.749 -16.415  24.890  1.00 13.00           C  
+HETATM   26  CT  MTX C 402      16.624 -15.852  23.469  1.00 12.88           C  
+HETATM   27  O1  MTX C 402      17.234 -14.825  23.059  1.00 12.49           O  
+HETATM   28  O2  MTX C 402      15.863 -16.393  22.643  1.00 13.44           O  
+HETATM   29  CB  MTX C 402      18.190 -16.942  25.152  1.00 12.96           C  
+HETATM   30  CG  MTX C 402      18.855 -17.762  24.036  1.00 13.38           C  
+HETATM   31  CD  MTX C 402      20.154 -18.396  24.524  1.00 13.71           C  
+HETATM   32  OE1 MTX C 402      21.243 -18.327  23.862  1.00 12.67           O  
+HETATM   33  OE2 MTX C 402      20.103 -19.003  25.640  1.00 14.18           O  
+CONECT    1    2   12
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6    7
+CONECT    7    8   12
+CONECT    8    9
+CONECT    9   10   13
+CONECT   10   11
+CONECT   11   12
+CONECT   13   14
+CONECT   14   15   19
+CONECT   16   17   21   22
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   22   23   24
+CONECT   24   25
+CONECT   25   26   29
+CONECT   26   27   28
+CONECT   29   30
+CONECT   30   31
+CONECT   31   32   33
+END

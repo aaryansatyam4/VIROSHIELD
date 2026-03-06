@@ -1,0 +1,29 @@
+HETATM    1  N1  IPL A1001      -7.366   5.320  11.550  1.00 44.04           N  
+HETATM    2  C2  IPL A1001      -6.128   4.836  11.926  1.00 43.12           C  
+HETATM    3  C3  IPL A1001      -5.699   5.402  13.099  1.00 42.80           C  
+HETATM    4  C4  IPL A1001      -6.906   7.193  14.606  1.00 44.40           C  
+HETATM    5  C5  IPL A1001      -8.086   7.965  14.690  1.00 44.12           C  
+HETATM    6  C6  IPL A1001      -9.098   7.874  13.695  1.00 44.61           C  
+HETATM    7  C7  IPL A1001      -8.967   7.017  12.589  1.00 44.70           C  
+HETATM    8  C8  IPL A1001      -7.776   6.234  12.497  1.00 44.10           C  
+HETATM    9  C9  IPL A1001      -6.745   6.308  13.487  1.00 43.53           C  
+HETATM   10  C1' IPL A1001      -2.180   6.309  13.498  1.00 36.67           C  
+HETATM   11  C2' IPL A1001      -3.231   5.397  12.920  1.00 38.48           C  
+HETATM   12  C3' IPL A1001      -4.420   5.171  13.878  1.00 41.72           C  
+HETATM   13  P   IPL A1001      -0.707   8.451  12.983  1.00 27.40           P  
+HETATM   14  O1P IPL A1001      -0.512   9.377  11.839  1.00 33.15           O  
+HETATM   15  O2P IPL A1001       0.548   7.687  13.306  1.00 30.06           O  
+HETATM   16  O3P IPL A1001      -1.252   9.115  14.222  1.00 30.34           O  
+HETATM   17  O4P IPL A1001      -1.833   7.350  12.572  1.00 34.05           O  
+CONECT    1    2    8
+CONECT    2    3
+CONECT    3    9   12
+CONECT    4    5    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT   10   11   17
+CONECT   11   12
+CONECT   13   14   15   16   17
+END

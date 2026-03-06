@@ -1,0 +1,36 @@
+HETATM    1  CAB X2K A2017     -27.851  11.403 -10.785  1.00 47.94           C  
+HETATM    2  CAN X2K A2017     -26.475  11.944 -11.292  1.00 48.27           C  
+HETATM    3  CAH X2K A2017     -26.255  13.222 -11.628  1.00 47.66           C  
+HETATM    4  CAL X2K A2017     -24.966  13.276 -11.998  1.00 48.08           C  
+HETATM    5  CAA X2K A2017     -24.274  14.572 -12.473  1.00 47.00           C  
+HETATM    6  NAJ X2K A2017     -24.368  12.071 -11.900  1.00 46.47           N  
+HETATM    7  CAO X2K A2017     -25.284  11.196 -11.455  1.00 47.26           C  
+HETATM    8  CAE X2K A2017     -25.254   9.820 -11.138  1.00 46.57           C  
+HETATM    9  CAQ X2K A2017     -24.189   8.909 -11.274  1.00 47.02           C  
+HETATM   10  CAS X2K A2017     -24.233   7.546 -10.895  1.00 47.04           C  
+HETATM   11  CAI X2K A2017     -25.205   6.694 -10.317  1.00 44.78           C  
+HETATM   12  CAM X2K A2017     -24.882   5.325 -10.085  1.00 47.25           C  
+HETATM   13  NAC X2K A2017     -25.760   4.425  -9.539  1.00 47.28           N  
+HETATM   14  CAF X2K A2017     -23.604   4.840 -10.413  1.00 46.26           C  
+HETATM   15  CAG X2K A2017     -22.656   5.683 -10.978  1.00 46.24           C  
+HETATM   16  CAR X2K A2017     -22.948   7.032 -11.226  1.00 47.04           C  
+HETATM   17  NAK X2K A2017     -22.182   8.010 -11.766  1.00 46.14           N  
+HETATM   18  CAP X2K A2017     -22.902   9.143 -11.805  1.00 47.09           C  
+HETATM   19  OAD X2K A2017     -22.470  10.208 -12.254  1.00 46.44           O  
+CONECT    1    2
+CONECT    2    3    7
+CONECT    3    4
+CONECT    4    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   18
+CONECT   10   11   16
+CONECT   11   12
+CONECT   12   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+END

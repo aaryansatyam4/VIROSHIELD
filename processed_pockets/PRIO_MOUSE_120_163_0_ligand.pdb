@@ -1,0 +1,40 @@
+COMPND    4MA7_P2Z_A_301
+HETATM    1  N1  UNL     1     -20.119  23.475 -36.803  1.00  0.00           N  
+HETATM    2  C1  UNL     1     -19.706  24.350 -35.734  1.00  0.00           C  
+HETATM    3  C2  UNL     1     -18.347  24.488 -35.411  1.00  0.00           C  
+HETATM    4  C3  UNL     1     -17.960  25.212 -34.280  1.00  0.00           C  
+HETATM    5  C4  UNL     1     -18.927  25.792 -33.455  1.00  0.00           C  
+HETATM    6  C5  UNL     1     -20.282  25.668 -33.772  1.00  0.00           C  
+HETATM    7  C6  UNL     1     -20.672  24.958 -34.911  1.00  0.00           C  
+HETATM    8  S1  UNL     1     -22.397  24.951 -35.400  1.00  0.00           S  
+HETATM    9  C7  UNL     1     -22.393  23.224 -35.882  1.00  0.00           C  
+HETATM   10  C8  UNL     1     -21.331  22.711 -36.650  1.00  0.00           C  
+HETATM   11  C9  UNL     1     -21.415  21.400 -37.145  1.00  0.00           C  
+HETATM   12  C10 UNL     1     -22.535  20.610 -36.868  1.00  0.00           C  
+HETATM   13  C11 UNL     1     -23.573  21.120 -36.084  1.00  0.00           C  
+HETATM   14  C12 UNL     1     -23.504  22.426 -35.595  1.00  0.00           C  
+HETATM   15  C13 UNL     1     -19.217  23.188 -37.918  1.00  0.00           C  
+HETATM   16  C14 UNL     1     -18.369  21.958 -37.620  1.00  0.00           C  
+HETATM   17  C15 UNL     1     -18.134  21.132 -38.878  1.00  0.00           C  
+HETATM   18  C16 UNL     1     -16.510  19.817 -37.848  1.00  0.00           C  
+HETATM   19  N2  UNL     1     -16.743  20.719 -38.961  1.00  0.00           N  
+HETATM   20  C17 UNL     1     -16.608  19.928 -40.171  1.00  0.00           C  
+CONECT    1    2   10   15
+CONECT    2    3    7    7
+CONECT    3    4    4
+CONECT    4    5
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   10   14
+CONECT   10   11
+CONECT   11   12   12
+CONECT   12   13
+CONECT   13   14   14
+CONECT   15   16
+CONECT   16   17
+CONECT   17   19
+CONECT   18   19
+CONECT   19   20
+END

@@ -1,0 +1,21 @@
+COMPND    PocketomeGenCross_Output/TP53B_HUMAN_1484_1603_0/3lgl_mly_lig.pdb
+HETATM    1  N1  UNL     1     -16.364  -5.810  -7.659  1.00  0.00           N  
+HETATM    2  C1  UNL     1     -16.776  -7.064  -8.267  1.00  0.00           C  
+HETATM    3  C2  UNL     1     -16.299  -8.232  -7.418  1.00  0.00           C  
+HETATM    4  C3  UNL     1     -14.792  -8.411  -7.525  1.00  0.00           C  
+HETATM    5  C4  UNL     1     -14.426  -9.014  -8.868  1.00  0.00           C  
+HETATM    6  C5  UNL     1     -12.920  -9.166  -8.959  1.00  0.00           C  
+HETATM    7  N2  UNL     1     -12.558  -9.734 -10.246  1.00  0.00           N  
+HETATM    8  C6  UNL     1     -11.355 -10.516 -10.031  1.00  0.00           C  
+HETATM    9  C7  UNL     1     -12.182  -8.627 -11.109  1.00  0.00           C  
+HETATM   10  C8  UNL     1     -18.261  -7.099  -8.365  1.00  0.00           C  
+HETATM   11  O1  UNL     1     -18.799  -7.201  -9.455  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3   10
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8    9
+CONECT   10   11   11
+END

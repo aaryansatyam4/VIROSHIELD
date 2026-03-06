@@ -1,0 +1,43 @@
+HETATM    1  OAE PL6 A 501      31.392  79.374  -5.082  1.00 13.94           O  
+HETATM    2  PAY PL6 A 501      32.743  79.029  -4.502  1.00 11.90           P  
+HETATM    3  OAI PL6 A 501      33.655  78.327  -5.468  1.00 16.47           O  
+HETATM    4  OAD PL6 A 501      33.414  80.242  -3.888  1.00 11.43           O  
+HETATM    5  OAQ PL6 A 501      32.432  78.010  -3.300  1.00 16.52           O  
+HETATM    6  CAN PL6 A 501      33.358  77.915  -2.222  1.00 25.73           C  
+HETATM    7  CAU PL6 A 501      32.883  76.993  -1.126  1.00 22.16           C  
+HETATM    8  CAK PL6 A 501      32.239  77.521  -0.008  1.00 14.91           C  
+HETATM    9  NAO PL6 A 501      31.821  76.755   1.015  1.00 17.16           N  
+HETATM   10  CAT PL6 A 501      31.980  75.412   1.039  1.00 18.34           C  
+HETATM   11  CAA PL6 A 501      31.478  74.594   2.210  1.00 17.41           C  
+HETATM   12  CAV PL6 A 501      32.639  74.722  -0.088  1.00 22.97           C  
+HETATM   13  OAH PL6 A 501      32.808  73.381  -0.059  1.00 20.58           O  
+HETATM   14  CAW PL6 A 501      33.132  75.529  -1.222  1.00 24.02           C  
+HETATM   15  CAJ PL6 A 501      33.848  74.906  -2.412  1.00 31.98           C  
+HETATM   16  N   PL6 A 501      34.732  73.792  -2.028  1.00 27.48           N  
+HETATM   17  CA  PL6 A 501      35.631  73.175  -2.707  1.00 20.55           C  
+HETATM   18  C   PL6 A 501      36.353  72.070  -2.080  1.00 16.06           C  
+HETATM   19  OXT PL6 A 501      37.048  71.292  -2.769  1.00 20.23           O  
+HETATM   20  O   PL6 A 501      36.244  71.897  -0.847  1.00 18.28           O  
+HETATM   21  CB  PL6 A 501      35.954  73.625  -4.121  1.00 23.57           C  
+HETATM   22  CG  PL6 A 501      37.368  74.188  -4.211  1.00 29.66           C  
+HETATM   23  CD  PL6 A 501      37.610  75.203  -3.108  1.00 28.32           C  
+HETATM   24  OE2 PL6 A 501      37.255  76.399  -3.272  1.00 25.36           O  
+HETATM   25  OE1 PL6 A 501      38.160  74.793  -2.074  1.00 27.33           O  
+CONECT    1    2
+CONECT    2    3    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8   14
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12
+CONECT   12   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   21
+CONECT   18   19   20
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24   25
+END

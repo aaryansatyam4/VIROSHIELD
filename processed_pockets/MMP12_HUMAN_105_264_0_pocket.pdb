@@ -1,0 +1,29 @@
+HETATM    1  O4  TBL A   1       8.570  27.732   3.652  1.00 11.05           O  
+HETATM    2  S1  TBL A   1       9.031  26.456   3.203  1.00  7.54           S  
+HETATM    3  O3  TBL A   1      10.241  25.998   3.836  1.00  9.56           O  
+HETATM    4  N1  TBL A   1       9.219  26.593   1.609  1.00  6.27           N  
+HETATM    5  C2  TBL A   1       9.805  25.477   0.851  1.00  5.44           C  
+HETATM    6  C10 TBL A   1      10.698  26.018  -0.268  1.00  3.53           C  
+HETATM    7  C1  TBL A   1       8.728  24.605   0.259  1.00  5.83           C  
+HETATM    8  O2  TBL A   1       8.835  23.397   0.182  1.00  3.55           O  
+HETATM    9  O1  TBL A   1       7.612  25.176  -0.194  1.00  2.00           O  
+HETATM   10  C3  TBL A   1       7.892  25.384   3.657  1.00  7.99           C  
+HETATM   11  C4  TBL A   1       6.549  25.730   3.527  1.00  7.95           C  
+HETATM   12  C5  TBL A   1       5.538  24.842   3.937  1.00 12.35           C  
+HETATM   13  C6  TBL A   1       5.856  23.626   4.557  1.00 13.38           C  
+HETATM   14  C8  TBL A   1       7.179  23.248   4.700  1.00 12.25           C  
+HETATM   15  C9  TBL A   1       8.195  24.129   4.243  1.00 11.96           C  
+HETATM   16  O5  TBL A   1       4.814  22.796   4.939  1.00 21.13           O  
+HETATM   17  C7  TBL A   1       4.691  22.176   6.210  1.00 18.32           C  
+CONECT    1    2
+CONECT    2    3    4   10
+CONECT    4    5
+CONECT    5    6    7
+CONECT    7    8    9
+CONECT   10   11   15
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   16
+CONECT   14   15
+CONECT   16   17
+END

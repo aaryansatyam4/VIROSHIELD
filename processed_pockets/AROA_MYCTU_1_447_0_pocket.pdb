@@ -1,0 +1,15 @@
+HETATM    1  C1  PEP A 502       2.680  25.919  20.809  0.60 23.91           C  
+HETATM    2  O1 APEP A 502       2.172  25.795  21.805  0.60 24.14           O  
+HETATM    3  O2'APEP A 502       3.831  25.933  20.896  0.60 24.13           O  
+HETATM    4  C2 APEP A 502       1.860  26.049  19.519  0.60 24.41           C  
+HETATM    5  C3 APEP A 502       0.577  26.355  19.243  0.60 23.86           C  
+HETATM    6  O2 APEP A 502       2.836  25.711  18.300  0.60 23.87           O  
+HETATM    7  P  APEP A 502       2.390  25.780  16.710  0.60 23.92           P  
+HETATM    8  O1PAPEP A 502       1.120  26.579  16.505  0.60 24.21           O  
+HETATM    9  O2PAPEP A 502       2.231  24.500  15.918  0.60 24.20           O  
+HETATM   10  O3PAPEP A 502       3.345  26.658  15.934  0.60 23.88           O  
+CONECT    1    2    3    4
+CONECT    4    5    6
+CONECT    6    7
+CONECT    7    8    9   10
+END

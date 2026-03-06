@@ -1,0 +1,72 @@
+HETATM    1  N62 DTA A 273      18.712   3.084   6.645  1.00 30.28           N  
+HETATM    2  C62 DTA A 273      18.878   4.232   7.320  1.00 30.49           C  
+HETATM    3  N12 DTA A 273      20.084   4.529   7.828  1.00 29.16           N  
+HETATM    4  C22 DTA A 273      20.314   5.638   8.510  1.00 31.08           C  
+HETATM    5  N32 DTA A 273      19.353   6.523   8.721  1.00 30.65           N  
+HETATM    6  C42 DTA A 273      18.113   6.288   8.243  1.00 30.70           C  
+HETATM    7  C52 DTA A 273      17.833   5.138   7.525  1.00 30.20           C  
+HETATM    8  N72 DTA A 273      16.542   5.184   7.187  1.00 31.38           N  
+HETATM    9  C82 DTA A 273      16.028   6.326   7.669  1.00 30.37           C  
+HETATM   10  N92 DTA A 273      16.994   7.000   8.313  1.00 30.70           N  
+HETATM   11  C1' DTA A 273      16.907   8.309   9.016  1.00 30.58           C  
+HETATM   12  O4' DTA A 273      15.709   8.392   9.823  1.00 31.30           O  
+HETATM   13  C2' DTA A 273      16.804   9.437   7.981  1.00 30.54           C  
+HETATM   14  O2' DTA A 273      17.986  10.243   8.041  1.00 29.57           O  
+HETATM   15  C3' DTA A 273      15.572  10.230   8.445  1.00 31.32           C  
+HETATM   16  O3' DTA A 273      15.800  11.636   8.383  1.00 30.52           O  
+HETATM   17  C4' DTA A 273      15.399   9.783   9.896  1.00 31.95           C  
+HETATM   18  C5' DTA A 273      13.935   9.976  10.305  1.00 32.94           C  
+HETATM   19  S5' DTA A 273      13.467   9.227  11.915  0.50 34.68           S  
+HETATM   20  S5R DTA A 273      15.083   9.454  13.151  0.50 34.06           S  
+HETATM   21  C5R DTA A 273      15.618   7.738  13.546  1.00 34.06           C  
+HETATM   22  C4R DTA A 273      17.140   7.568  13.827  1.00 33.55           C  
+HETATM   23  O4R DTA A 273      17.907   8.480  12.985  1.00 34.41           O  
+HETATM   24  C3R DTA A 273      17.515   7.904  15.280  1.00 33.84           C  
+HETATM   25  O3R DTA A 273      18.450   6.929  15.779  1.00 33.97           O  
+HETATM   26  C2R DTA A 273      18.173   9.280  15.176  1.00 32.96           C  
+HETATM   27  O2R DTA A 273      19.142   9.485  16.216  1.00 33.26           O  
+HETATM   28  C1R DTA A 273      18.870   9.158  13.834  1.00 32.22           C  
+HETATM   29  N91 DTA A 273      19.185  10.481  13.228  1.00 31.71           N  
+HETATM   30  C81 DTA A 273      18.317  11.435  12.877  1.00 31.22           C  
+HETATM   31  N71 DTA A 273      18.979  12.473  12.367  1.00 30.78           N  
+HETATM   32  C51 DTA A 273      20.276  12.171  12.380  1.00 31.25           C  
+HETATM   33  C41 DTA A 273      20.406  10.901  12.926  1.00 31.39           C  
+HETATM   34  N31 DTA A 273      21.628  10.346  13.067  1.00 31.48           N  
+HETATM   35  C21 DTA A 273      22.709  11.008  12.675  1.00 31.40           C  
+HETATM   36  N11 DTA A 273      22.622  12.225  12.147  1.00 31.10           N  
+HETATM   37  C61 DTA A 273      21.435  12.837  11.976  1.00 31.66           C  
+HETATM   38  N61 DTA A 273      21.376  14.057  11.440  1.00 31.40           N  
+CONECT    1    2
+CONECT    2    3    7
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7   10
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   12   17
+CONECT   13   14   15
+CONECT   15   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23   24
+CONECT   23   28
+CONECT   24   25   26
+CONECT   26   27   28
+CONECT   28   29
+CONECT   29   30   33
+CONECT   30   31
+CONECT   31   32
+CONECT   32   33   37
+CONECT   33   34
+CONECT   34   35
+CONECT   35   36
+CONECT   36   37
+CONECT   37   38
+END

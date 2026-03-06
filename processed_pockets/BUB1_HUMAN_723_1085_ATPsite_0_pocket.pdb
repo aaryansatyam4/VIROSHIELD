@@ -1,0 +1,45 @@
+HETATM    1  PB  ADP A1501      -1.983   7.654  38.856  1.00 27.62           P  
+HETATM    2  O1B ADP A1501      -2.711   7.220  37.606  1.00 25.28           O  
+HETATM    3  O2B ADP A1501      -2.454   8.965  39.440  1.00 30.62           O  
+HETATM    4  O3B ADP A1501      -1.802   6.557  39.877  1.00 26.52           O  
+HETATM    5  PA  ADP A1501       0.122   7.420  36.979  1.00 23.94           P  
+HETATM    6  O1A ADP A1501       1.363   6.621  37.300  1.00 24.00           O  
+HETATM    7  O2A ADP A1501      -1.007   6.815  36.174  1.00 21.47           O  
+HETATM    8  O3A ADP A1501      -0.482   7.971  38.367  1.00 20.92           O  
+HETATM    9  O5' ADP A1501       0.579   8.786  36.263  1.00 21.05           O  
+HETATM   10  C5' ADP A1501      -0.396   9.656  35.696  1.00 24.27           C  
+HETATM   11  C4' ADP A1501       0.029  10.100  34.305  1.00 26.74           C  
+HETATM   12  O4' ADP A1501       1.375  10.589  34.287  1.00 27.85           O  
+HETATM   13  C3' ADP A1501       0.001   8.964  33.294  1.00 27.08           C  
+HETATM   14  O3' ADP A1501      -1.313   8.722  32.781  1.00 25.79           O  
+HETATM   15  C2' ADP A1501       0.984   9.445  32.248  1.00 29.09           C  
+HETATM   16  O2' ADP A1501       0.366  10.327  31.306  1.00 31.33           O  
+HETATM   17  C1' ADP A1501       2.008  10.223  33.055  1.00 28.38           C  
+HETATM   18  N9  ADP A1501       3.177   9.348  33.312  1.00 28.43           N  
+HETATM   19  C8  ADP A1501       3.247   8.390  34.260  1.00 26.78           C  
+HETATM   20  N7  ADP A1501       4.451   7.768  34.231  1.00 26.98           N  
+HETATM   21  C5  ADP A1501       5.171   8.329  33.246  1.00 29.08           C  
+HETATM   22  C6  ADP A1501       6.521   8.145  32.677  1.00 30.04           C  
+HETATM   23  N6  ADP A1501       7.361   7.211  33.174  1.00 30.83           N  
+HETATM   24  N1  ADP A1501       6.888   8.940  31.649  1.00 29.12           N  
+HETATM   25  C2  ADP A1501       6.068   9.875  31.139  1.00 28.79           C  
+HETATM   26  N3  ADP A1501       4.829  10.093  31.611  1.00 29.87           N  
+HETATM   27  C4  ADP A1501       4.329   9.368  32.639  1.00 29.97           C  
+CONECT    1    2    3    4    8
+CONECT    5    6    7    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   12   17
+CONECT   13   14   15
+CONECT   15   16   17
+CONECT   17   18
+CONECT   18   19   27
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22   27
+CONECT   22   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+END

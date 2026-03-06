@@ -1,0 +1,80 @@
+HETATM    1  C1  LPO A 167      26.980  -9.170  -5.953  1.00 27.26           C  
+HETATM    2  C2  LPO A 167      25.521  -8.902  -6.282  1.00 30.57           C  
+HETATM    3  N3  LPO A 167      25.283  -8.010  -7.411  1.00 29.20           N  
+HETATM    4  C4  LPO A 167      26.130  -7.941  -8.585  1.00 29.62           C  
+HETATM    5  C5  LPO A 167      27.593  -8.099  -8.215  1.00 30.81           C  
+HETATM    6  C6  LPO A 167      27.811  -9.261  -7.225  1.00 30.33           C  
+HETATM    7  C7  LPO A 167      28.438  -8.389  -9.442  1.00 33.87           C  
+HETATM    8  N8  LPO A 167      29.620  -7.764  -9.612  1.00 32.93           N  
+HETATM    9  O9  LPO A 167      27.502 -10.462  -7.945  1.00 27.54           O  
+HETATM   10  C10 LPO A 167      29.261  -9.319  -6.850  1.00 30.12           C  
+HETATM   11  C11 LPO A 167      29.798  -8.603  -5.771  1.00 29.20           C  
+HETATM   12  N12 LPO A 167      31.101  -8.684  -5.480  1.00 30.41           N  
+HETATM   13  C13 LPO A 167      31.930  -9.451  -6.259  1.00 30.80           C  
+HETATM   14  C14 LPO A 167      31.436 -10.167  -7.336  1.00 31.93           C  
+HETATM   15  C15 LPO A 167      30.077 -10.119  -7.635  1.00 31.16           C  
+HETATM   16  O16 LPO A 167      33.272  -9.585  -6.033  1.00 30.91           O  
+HETATM   17  C17 LPO A 167      34.016  -8.739  -5.182  1.00 34.98           C  
+HETATM   18  C18 LPO A 167      35.340  -8.526  -5.886  1.00 36.74           C  
+HETATM   19  O19 LPO A 167      35.271  -7.234  -6.476  1.00 41.05           O  
+HETATM   20  C20 LPO A 167      36.028  -6.928  -7.567  1.00 41.48           C  
+HETATM   21  C21 LPO A 167      37.390  -6.727  -7.483  1.00 41.47           C  
+HETATM   22  C22 LPO A 167      38.110  -6.424  -8.631  1.00 41.45           C  
+HETATM   23  C23 LPO A 167      37.449  -6.300  -9.849  1.00 41.65           C  
+HETATM   24  C24 LPO A 167      36.070  -6.497  -9.929  1.00 42.36           C  
+HETATM   25  C25 LPO A 167      35.373  -6.800  -8.766  1.00 41.96           C  
+HETATM   26 CL26 LPO A 167      33.614  -7.053  -8.736  1.00 42.26          CL  
+HETATM   27 CL27 LPO A 167      38.197  -6.847  -5.893  1.00 42.78          CL  
+HETATM   28  C28 LPO A 167      38.222  -5.971 -11.094  1.00 41.62           C  
+HETATM   29  O29 LPO A 167      28.038  -9.224 -10.264  1.00 33.43           O  
+HETATM   30  C30 LPO A 167      30.489  -8.076 -10.747  1.00 32.90           C  
+HETATM   31  C31 LPO A 167      30.200  -6.784  -8.640  1.00 34.22           C  
+HETATM   32  C32 LPO A 167      30.259  -7.344 -12.054  1.00 34.06           C  
+HETATM   33  C33 LPO A 167      29.236  -6.425 -12.269  1.00 37.44           C  
+HETATM   34  C34 LPO A 167      29.095  -5.769 -13.496  1.00 35.79           C  
+HETATM   35  C35 LPO A 167      29.978  -6.016 -14.529  1.00 34.31           C  
+HETATM   36  C36 LPO A 167      31.006  -6.917 -14.313  1.00 38.11           C  
+HETATM   37  C37 LPO A 167      31.131  -7.583 -13.088  1.00 37.26           C  
+HETATM   38  C38 LPO A 167      29.331  -5.538  -8.521  1.00 33.08           C  
+HETATM   39  C39 LPO A 167      30.630  -5.466  -9.305  1.00 31.76           C  
+HETATM   40 CL40 LPO A 167      32.480  -8.744 -12.846  1.00 39.11          CL  
+HETATM   41  C41 LPO A 167      27.988  -4.753 -13.710  1.00 35.93           C  
+HETATM   42  C42 LPO A 167      28.611  -3.390 -13.385  1.00 36.60           C  
+HETATM   43  O43 LPO A 167      27.726  -2.263 -13.329  1.00 36.85           O  
+HETATM   44  C44 LPO A 167      26.355  -2.543 -13.006  1.00 34.08           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    7
+CONECT    6    9   10
+CONECT    7    8   29
+CONECT    8   30   31
+CONECT   10   11   15
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   16
+CONECT   14   15
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21   25
+CONECT   21   22   27
+CONECT   22   23
+CONECT   23   24   28
+CONECT   24   25
+CONECT   25   26
+CONECT   30   32
+CONECT   31   38   39
+CONECT   32   33   37
+CONECT   33   34
+CONECT   34   35   41
+CONECT   35   36
+CONECT   36   37
+CONECT   37   40
+CONECT   38   39
+CONECT   41   42
+CONECT   42   43
+CONECT   43   44
+END

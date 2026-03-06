@@ -1,0 +1,13 @@
+COMPND    1DF1_ITU_A_899
+HETATM    1  C1  UNL     1      -8.004 -64.045  16.937  1.00  0.00           C  
+HETATM    2  N1  UNL     1      -6.779 -64.615  17.382  1.00  0.00           N  
+HETATM    3  N2  UNL     1      -9.124 -64.470  17.417  1.00  0.00           N  
+HETATM    4  H1  UNL     1      -9.972 -64.076  17.110  1.00  0.00           H  
+HETATM    5  S1  UNL     1      -7.994 -62.785  15.669  1.00  0.00           S  
+HETATM    6  C2  UNL     1      -6.876 -60.339  16.094  1.00  0.00           C  
+HETATM    7  C3  UNL     1      -6.790 -61.772  16.573  1.00  0.00           C  
+CONECT    1    2    3    3    5
+CONECT    3    4
+CONECT    5    7
+CONECT    6    7
+END

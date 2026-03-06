@@ -1,0 +1,50 @@
+HETATM    1  OAG GM6 B   1      45.617  65.022  52.950  1.00 55.53           O  
+HETATM    2  NAF GM6 B   1      46.765  64.820  53.655  1.00 46.35           N  
+HETATM    3  CAD GM6 B   1      47.924  64.602  53.032  1.00 43.82           C  
+HETATM    4  OAE GM6 B   1      48.058  64.566  51.807  1.00 43.32           O  
+HETATM    5  CAC GM6 B   1      49.129  64.395  53.967  1.00 38.81           C  
+HETATM    6  CAB GM6 B   1      49.871  65.696  54.280  1.00 36.73           C  
+HETATM    7  CAK GM6 B   1      51.066  65.409  55.201  1.00 36.61           C  
+HETATM    8  OAL GM6 B   1      50.924  65.334  56.419  1.00 45.15           O  
+HETATM    9  NAM GM6 B   1      52.237  65.272  54.566  1.00 34.89           N  
+HETATM   10  CAN GM6 B   1      53.561  65.035  55.211  1.00 34.44           C  
+HETATM   11  CAY GM6 B   1      53.925  66.288  56.046  1.00 33.23           C  
+HETATM   12  OAZ GM6 B   1      53.644  67.420  55.642  1.00 36.57           O  
+HETATM   13  NBB GM6 B   1      54.543  66.028  57.211  1.00 33.02           N  
+HETATM   14  CBA GM6 B   1      55.454  67.046  57.773  1.00 31.33           C  
+HETATM   15  CAO GM6 B   1      54.627  64.862  54.119  1.00 37.16           C  
+HETATM   16  CAP GM6 B   1      54.348  63.588  53.291  1.00 37.59           C  
+HETATM   17  CAT GM6 B   1      53.394  63.400  52.364  1.00 38.72           C  
+HETATM   18  NAU GM6 B   1      53.452  62.161  51.863  1.00 39.80           N  
+HETATM   19  CAR GM6 B   1      54.441  61.470  52.431  1.00 37.57           C  
+HETATM   20  CAV GM6 B   1      54.938  60.146  52.284  1.00 34.77           C  
+HETATM   21  CAX GM6 B   1      56.043  59.725  53.072  1.00 34.45           C  
+HETATM   22  CAW GM6 B   1      56.643  60.624  53.996  1.00 35.05           C  
+HETATM   23  CAS GM6 B   1      56.138  61.942  54.134  1.00 36.63           C  
+HETATM   24  CAQ GM6 B   1      55.023  62.377  53.347  1.00 37.15           C  
+HETATM   25  CAA GM6 B   1      48.903  66.721  54.929  1.00 36.22           C  
+HETATM   26  CAH GM6 B   1      49.543  68.092  55.188  1.00 36.45           C  
+HETATM   27  CAJ GM6 B   1      48.727  68.893  56.195  1.00 37.50           C  
+HETATM   28  CAI GM6 B   1      49.646  68.884  53.885  1.00 35.00           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7   25
+CONECT    7    8    9
+CONECT    9   10
+CONECT   10   11   15
+CONECT   11   12   13
+CONECT   13   14
+CONECT   15   16
+CONECT   16   17   24
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20   24
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   25   26
+CONECT   26   27   28
+END

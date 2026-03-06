@@ -1,0 +1,27 @@
+COMPND    __4eoh_A_rec_3keu_plp_lig_it1_docked.pdb
+HETATM    1  N1  UNL     1      12.460  28.478  31.720  1.00  0.00           N  
+HETATM    2  C1  UNL     1      13.641  27.889  31.500  1.00  0.00           C  
+HETATM    3  C2  UNL     1      14.826  28.150  32.431  1.00  0.00           C  
+HETATM    4  C3  UNL     1      13.806  27.065  30.392  1.00  0.00           C  
+HETATM    5  O1  UNL     1      15.021  26.504  30.145  1.00  0.00           O  
+HETATM    6  C4  UNL     1      12.734  26.869  29.523  1.00  0.00           C  
+HETATM    7  C5  UNL     1      11.526  27.516  29.762  1.00  0.00           C  
+HETATM    8  C6  UNL     1      11.438  28.314  30.898  1.00  0.00           C  
+HETATM    9  C7  UNL     1      12.851  25.912  28.337  1.00  0.00           C  
+HETATM   10  O2  UNL     1      13.370  24.811  28.466  1.00  0.00           O  
+HETATM   11  C8  UNL     1      10.345  27.511  28.788  1.00  0.00           C  
+HETATM   12  O3  UNL     1       9.232  26.717  29.227  1.00  0.00           O  
+HETATM   13  P1  UNL     1       7.788  26.876  28.534  1.00  0.00           P  
+HETATM   14  O4  UNL     1       7.555  28.456  28.296  1.00  0.00           O  
+HETATM   15  O5  UNL     1       6.686  26.272  29.320  1.00  0.00           O  
+HETATM   16  O6  UNL     1       7.924  26.221  27.074  1.00  0.00           O  
+CONECT    1    2    2    8
+CONECT    2    3    4
+CONECT    4    5    6    6
+CONECT    6    7    9
+CONECT    7    8    8   11
+CONECT    9   10   10
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   15   15   16
+END

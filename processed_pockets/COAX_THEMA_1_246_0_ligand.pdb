@@ -1,0 +1,25 @@
+COMPND    __3bf3_A_rec_3bex_pau_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1     -40.060  12.225  21.197  1.00  0.00           C  
+HETATM    2  O1  UNL     1     -39.445  13.183  20.635  1.00  0.00           O  
+HETATM    3  N1  UNL     1     -40.852  11.500  20.566  1.00  0.00           N  
+HETATM    4  C2  UNL     1     -39.815  11.978  22.668  1.00  0.00           C  
+HETATM    5  O2  UNL     1     -39.569  13.221  23.276  1.00  0.00           O  
+HETATM    6  C3  UNL     1     -38.719  10.996  23.051  1.00  0.00           C  
+HETATM    7  C4  UNL     1     -38.186  10.278  21.849  1.00  0.00           C  
+HETATM    8  C5  UNL     1     -37.617  11.762  23.750  1.00  0.00           C  
+HETATM    9  O3  UNL     1     -40.255   9.174  23.422  1.00  0.00           O  
+HETATM   10  C6  UNL     1     -39.292   9.983  24.009  1.00  0.00           C  
+HETATM   11  C7  UNL     1     -41.128  11.567  19.156  1.00  0.00           C  
+HETATM   12  C8  UNL     1     -42.581  11.181  18.887  1.00  0.00           C  
+HETATM   13  C9  UNL     1     -42.807   9.913  18.111  1.00  0.00           C  
+HETATM   14  O4  UNL     1     -42.586   9.846  16.932  1.00  0.00           O  
+HETATM   15  O5  UNL     1     -43.187   8.952  18.762  1.00  0.00           O  
+CONECT    1    2    2    3    4
+CONECT    3   11
+CONECT    4    5    6
+CONECT    6    7    8   10
+CONECT    9   10
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   15   15
+END

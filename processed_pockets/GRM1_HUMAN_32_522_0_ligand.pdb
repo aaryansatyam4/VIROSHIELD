@@ -1,0 +1,27 @@
+COMPND    1ISS_MCG_A_1001
+HETATM    1  N1  UNL     1     -47.437  10.079  36.684  1.00  0.00           N  
+HETATM    2  C1  UNL     1     -46.967  10.748  35.480  1.00  0.00           C  
+HETATM    3  C2  UNL     1     -47.620  10.136  34.268  1.00  0.00           C  
+HETATM    4  C3  UNL     1     -45.460  10.592  35.386  1.00  0.00           C  
+HETATM    5  C4  UNL     1     -44.896   9.305  35.392  1.00  0.00           C  
+HETATM    6  C5  UNL     1     -44.603  11.702  35.283  1.00  0.00           C  
+HETATM    7  C6  UNL     1     -43.512   9.133  35.301  1.00  0.00           C  
+HETATM    8  C7  UNL     1     -43.220  11.530  35.192  1.00  0.00           C  
+HETATM    9  C8  UNL     1     -42.665  10.244  35.200  1.00  0.00           C  
+HETATM   10  C9  UNL     1     -41.208  10.068  35.104  1.00  0.00           C  
+HETATM   11  O1  UNL     1     -40.373  11.175  35.004  1.00  0.00           O  
+HETATM   12  O2  UNL     1     -40.702   8.914  35.110  1.00  0.00           O  
+HETATM   13  O3  UNL     1     -47.361  10.582  33.117  1.00  0.00           O  
+HETATM   14  O4  UNL     1     -48.508   9.074  34.400  1.00  0.00           O  
+HETATM   15  C10 UNL     1     -47.393  12.210  35.566  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    4   15
+CONECT    3   13   13   14
+CONECT    4    5    5    6
+CONECT    5    7
+CONECT    6    8    8
+CONECT    7    9    9
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12   12
+END

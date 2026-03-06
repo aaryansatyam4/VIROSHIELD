@@ -1,0 +1,25 @@
+COMPND    PocketomeGenCross_Output/MMAC_HUMAN_1_242_0/5uos_171_lig.pdb
+HETATM    1  C1  UNL     1      41.572 -22.256  -9.178  1.00  0.00           C  
+HETATM    2  C2  UNL     1      42.265 -23.469  -9.237  1.00  0.00           C  
+HETATM    3  C3  UNL     1      42.714 -24.084  -8.058  1.00  0.00           C  
+HETATM    4  C4  UNL     1      42.463 -23.474  -6.824  1.00  0.00           C  
+HETATM    5  N1  UNL     1      43.424 -25.323  -8.092  1.00  0.00           N  
+HETATM    6  C5  UNL     1      43.728 -26.025  -9.329  1.00  0.00           C  
+HETATM    7  C6  UNL     1      44.486 -27.299  -9.014  1.00  0.00           C  
+HETATM    8  S1  UNL     1      44.866 -28.170 -10.518  1.00  0.00           S  
+HETATM    9  O1  UNL     1      45.716 -27.305 -11.405  1.00  0.00           O  
+HETATM   10  O2  UNL     1      43.594 -28.526 -11.234  1.00  0.00           O  
+HETATM   11  O3  UNL     1      45.705 -29.576 -10.145  1.00  0.00           O  
+HETATM   12  C7  UNL     1      41.770 -22.261  -6.765  1.00  0.00           C  
+HETATM   13  C8  UNL     1      41.325 -21.652  -7.942  1.00  0.00           C  
+CONECT    1    2    2   13
+CONECT    2    3
+CONECT    3    4    4    5
+CONECT    4   12
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9    9   10   10
+CONECT    8   11
+CONECT   12   13   13
+END

@@ -1,0 +1,60 @@
+HETATM    1  CAP 4VO A 401       2.376  15.462 -57.783  1.00 35.23           C  
+HETATM    2  CAO 4VO A 401       1.935  15.544 -56.303  1.00 34.72           C  
+HETATM    3  NBB 4VO A 401       1.141  16.781 -56.086  1.00 40.34           N  
+HETATM    4  CAB 4VO A 401       0.795  16.914 -54.647  1.00 40.31           C  
+HETATM    5  CAZ 4VO A 401      -0.082  16.788 -56.929  1.00 32.02           C  
+HETATM    6  CAQ 4VO A 401      -1.017  15.562 -56.691  1.00 38.17           C  
+HETATM    7  CAW 4VO A 401      -0.716  14.437 -57.498  1.00 39.43           C  
+HETATM    8  CAM 4VO A 401      -1.491  13.294 -57.331  1.00 36.65           C  
+HETATM    9  CAL 4VO A 401      -1.264  12.143 -58.085  1.00 42.46           C  
+HETATM   10  CAU 4VO A 401      -0.246  12.138 -59.027  1.00 42.95           C  
+HETATM   11  OAD 4VO A 401      -0.008  11.015 -59.771  1.00 37.44           O  
+HETATM   12  CAN 4VO A 401       0.530  13.278 -59.201  1.00 37.46           C  
+HETATM   13  CAX 4VO A 401       0.308  14.449 -58.467  1.00 34.54           C  
+HETATM   14  CBF 4VO A 401       1.140  15.589 -58.710  1.00 35.40           C  
+HETATM   15  CBA 4VO A 401       1.574  15.702 -60.230  1.00 34.49           C  
+HETATM   16  NAS 4VO A 401       2.923  16.304 -60.516  1.00 39.49           N  
+HETATM   17  CBE 4VO A 401       0.718  16.788 -60.935  1.00 40.82           C  
+HETATM   18  OAT 4VO A 401       0.940  16.783 -62.370  1.00 44.54           O  
+HETATM   19  CAA 4VO A 401       0.544  15.537 -62.958  1.00 39.73           C  
+HETATM   20  CAF 4VO A 401      -0.651  16.730 -60.605  1.00 37.08           C  
+HETATM   21  CAE 4VO A 401      -0.887  16.782 -59.232  1.00 30.66           C  
+HETATM   22  CBD 4VO A 401       0.261  16.826 -58.413  1.00 31.49           C  
+HETATM   23  CAR 4VO A 401       0.914  18.137 -58.806  1.00 33.11           C  
+HETATM   24  CBC 4VO A 401       1.309  18.051 -60.289  1.00 42.05           C  
+HETATM   25  CAC 4VO A 401       0.848  19.311 -61.038  1.00 37.87           C  
+HETATM   26  CAY 4VO A 401       2.825  17.734 -60.197  1.00 47.24           C  
+HETATM   27  CAV 4VO A 401       3.740  18.820 -60.193  1.00 39.64           C  
+HETATM   28  CAJ 4VO A 401       4.043  19.677 -61.233  1.00 47.10           C  
+HETATM   29  CAH 4VO A 401       4.945  20.715 -61.013  1.00 51.14           C  
+HETATM   30  CAG 4VO A 401       5.553  20.903 -59.776  1.00 52.14           C  
+HETATM   31  CAI 4VO A 401       5.253  20.044 -58.728  1.00 46.24           C  
+HETATM   32  CAK 4VO A 401       4.350  19.013 -58.948  1.00 41.97           C  
+CONECT    1    2   14
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6   22
+CONECT    6    7
+CONECT    7    8   13
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   22
+CONECT   15   16   17
+CONECT   16   26
+CONECT   17   18   20   24
+CONECT   18   19
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   26
+CONECT   26   27
+CONECT   27   28   32
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31
+CONECT   31   32
+END

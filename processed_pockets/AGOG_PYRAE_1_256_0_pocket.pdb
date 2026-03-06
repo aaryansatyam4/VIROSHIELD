@@ -1,0 +1,38 @@
+COMPND    8HG
+HETATM    1  O   UNL     1      12.474  23.572  30.884  1.00  0.00           O  
+HETATM    2  C   UNL     1      11.467  23.818  30.219  1.00  0.00           C  
+HETATM    3  N   UNL     1      10.535  22.775  30.048  1.00  0.00           N  
+HETATM    4  C   UNL     1       9.314  22.936  29.345  1.00  0.00           C  
+HETATM    5  N   UNL     1       8.505  21.820  29.217  1.00  0.00           N  
+HETATM    6  N   UNL     1       9.001  24.103  28.803  1.00  0.00           N  
+HETATM    7  C   UNL     1       9.880  25.132  28.939  1.00  0.00           C  
+HETATM    8  C   UNL     1      11.078  25.052  29.579  1.00  0.00           C  
+HETATM    9  N   UNL     1      11.744  26.315  29.508  1.00  0.00           N  
+HETATM   10  C   UNL     1      10.864  27.199  28.810  1.00  0.00           C  
+HETATM   11  O   UNL     1      11.042  28.399  28.579  1.00  0.00           O  
+HETATM   12  N   UNL     1       9.731  26.444  28.425  1.00  0.00           N  
+HETATM   13  C1* UNL     1       8.571  26.959  27.701  1.00  0.00           C  
+HETATM   14  O4* UNL     1       7.535  26.989  28.667  1.00  0.00           O  
+HETATM   15  C2* UNL     1       8.022  26.174  26.539  1.00  0.00           C  
+HETATM   16  C3* UNL     1       6.526  26.515  26.564  1.00  0.00           C  
+HETATM   17  O3* UNL     1       6.202  27.699  25.846  1.00  0.00           O  
+HETATM   18  C4* UNL     1       6.245  26.720  28.067  1.00  0.00           C  
+HETATM   19  C5* UNL     1       5.493  25.482  28.632  1.00  0.00           C  
+HETATM   20  O5* UNL     1       6.040  24.255  28.371  1.00  0.00           O  
+CONECT    1    2    2
+CONECT    2    3    8
+CONECT    3    4
+CONECT    4    5    6    6
+CONECT    6    7
+CONECT    7    8    8   12
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   11   12
+CONECT   12   13
+CONECT   13   14   15
+CONECT   14   18
+CONECT   15   16
+CONECT   16   17   18
+CONECT   18   19
+CONECT   19   20
+END

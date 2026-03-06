@@ -1,0 +1,31 @@
+COMPND    4IVR_N50_A_501
+HETATM    1  N1  UNL     1      39.865  14.758  33.222  1.00  0.00           N  
+HETATM    2  N2  UNL     1      39.328  13.148  31.598  1.00  0.00           N  
+HETATM    3  C1  UNL     1      39.706  13.456  32.864  1.00  0.00           C  
+HETATM    4  C2  UNL     1      39.102  14.119  30.671  1.00  0.00           C  
+HETATM    5  C3  UNL     1      39.262  15.465  31.025  1.00  0.00           C  
+HETATM    6  C4  UNL     1      39.014  16.540  30.014  1.00  0.00           C  
+HETATM    7  C5  UNL     1      39.659  15.772  32.339  1.00  0.00           C  
+HETATM    8  O1  UNL     1      39.926  12.430  33.782  1.00  0.00           O  
+HETATM    9  C6  UNL     1      40.512  12.670  35.053  1.00  0.00           C  
+HETATM   10  O2  UNL     1      38.711  13.781  29.372  1.00  0.00           O  
+HETATM   11  C7  UNL     1      37.739  12.780  29.114  1.00  0.00           C  
+HETATM   12  C8  UNL     1      39.826  17.185  32.751  1.00  0.00           C  
+HETATM   13  C9  UNL     1      40.911  17.757  33.293  1.00  0.00           C  
+HETATM   14  C10 UNL     1      40.838  19.191  33.691  1.00  0.00           C  
+HETATM   15  O3  UNL     1      41.098  19.323  35.055  1.00  0.00           O  
+HETATM   16  C11 UNL     1      42.183  17.024  33.571  1.00  0.00           C  
+HETATM   17  O4  UNL     1      42.086  16.349  34.789  1.00  0.00           O  
+CONECT    1    3    3    7
+CONECT    2    3    4    4
+CONECT    3    8
+CONECT    4    5   10
+CONECT    5    6    7    7
+CONECT    7   12
+CONECT    8    9
+CONECT   10   11
+CONECT   12   13   13
+CONECT   13   14   16
+CONECT   14   15
+CONECT   16   17
+END

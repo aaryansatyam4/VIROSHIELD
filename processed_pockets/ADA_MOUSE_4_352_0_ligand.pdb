@@ -1,0 +1,32 @@
+COMPND    __3mvi_A_rec_1uip_pur_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1      86.027  24.233  53.203  1.00  0.00           C  
+HETATM    2  C2  UNL     1      84.961  25.298  53.603  1.00  0.00           C  
+HETATM    3  O1  UNL     1      85.603  26.544  53.903  1.00  0.00           O  
+HETATM    4  C3  UNL     1      84.165  24.771  54.819  1.00  0.00           C  
+HETATM    5  O2  UNL     1      83.801  25.827  55.721  1.00  0.00           O  
+HETATM    6  C4  UNL     1      85.456  23.948  55.352  1.00  0.00           C  
+HETATM    7  O3  UNL     1      86.148  23.373  54.311  1.00  0.00           O  
+HETATM    8  N1  UNL     1      87.510  21.389  49.248  1.00  0.00           N  
+HETATM    9  C5  UNL     1      88.178  21.684  50.352  1.00  0.00           C  
+HETATM   10  N2  UNL     1      87.611  22.373  51.326  1.00  0.00           N  
+HETATM   11  C6  UNL     1      86.316  22.803  51.210  1.00  0.00           C  
+HETATM   12  C7  UNL     1      85.594  22.544  50.120  1.00  0.00           C  
+HETATM   13  C8  UNL     1      86.186  21.801  49.071  1.00  0.00           C  
+HETATM   14  N3  UNL     1      84.365  23.090  50.282  1.00  0.00           N  
+HETATM   15  C9  UNL     1      84.340  23.676  51.477  1.00  0.00           C  
+HETATM   16  N4  UNL     1      85.544  23.532  52.047  1.00  0.00           N  
+HETATM   17  C10 UNL     1      85.064  22.849  56.337  1.00  0.00           C  
+HETATM   18  O4  UNL     1      84.246  21.862  55.670  1.00  0.00           O  
+CONECT    1    2    7   16
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7   17
+CONECT    8    9   13   13
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   12   16
+CONECT   12   13   14
+CONECT   14   15   15
+CONECT   15   16
+CONECT   17   18
+END

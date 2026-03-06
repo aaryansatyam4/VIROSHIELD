@@ -1,0 +1,21 @@
+COMPND    1DXM_RED_A_163
+HETATM    1  C1  UNL     1      26.643  -0.012  21.358  1.00  0.00           C  
+HETATM    2  S1  UNL     1      26.057  -0.750  19.805  1.00  0.00           S  
+HETATM    3  C2  UNL     1      27.753  -0.878  21.926  1.00  0.00           C  
+HETATM    4  C3  UNL     1      28.754  -0.025  22.683  1.00  0.00           C  
+HETATM    5  C4  UNL     1      30.100  -0.724  22.702  1.00  0.00           C  
+HETATM    6  C5  UNL     1      31.176   0.179  22.120  1.00  0.00           C  
+HETATM    7  C6  UNL     1      30.973   0.381  20.652  1.00  0.00           C  
+HETATM    8  O1  UNL     1      31.903   0.239  19.875  1.00  0.00           O  
+HETATM    9  C7  UNL     1      25.495   0.081  22.351  1.00  0.00           C  
+HETATM   10  C8  UNL     1      25.322   1.512  22.823  1.00  0.00           C  
+HETATM   11  S2  UNL     1      24.054   1.570  24.118  1.00  0.00           S  
+CONECT    1    2    3    9
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8    8
+CONECT    9   10
+CONECT   10   11
+END

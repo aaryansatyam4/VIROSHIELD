@@ -1,0 +1,31 @@
+COMPND    1UEJ_CTN_A_301
+HETATM    1  C1  UNL     1      32.321  17.673  63.078  1.00  0.00           C  
+HETATM    2  O1  UNL     1      32.887  16.974  62.000  1.00  0.00           O  
+HETATM    3  C2  UNL     1      31.804  16.577  61.195  1.00  0.00           C  
+HETATM    4  C3  UNL     1      30.549  16.479  62.042  1.00  0.00           C  
+HETATM    5  O2  UNL     1      29.527  17.214  61.435  1.00  0.00           O  
+HETATM    6  C4  UNL     1      30.965  17.076  63.365  1.00  0.00           C  
+HETATM    7  O3  UNL     1      30.084  18.070  63.800  1.00  0.00           O  
+HETATM    8  N1  UNL     1      32.097  15.304  60.536  1.00  0.00           N  
+HETATM    9  C5  UNL     1      32.754  14.323  61.219  1.00  0.00           C  
+HETATM   10  C6  UNL     1      33.047  13.107  60.606  1.00  0.00           C  
+HETATM   11  C7  UNL     1      32.654  12.924  59.283  1.00  0.00           C  
+HETATM   12  N2  UNL     1      32.004  13.918  58.625  1.00  0.00           N  
+HETATM   13  C8  UNL     1      31.724  15.100  59.236  1.00  0.00           C  
+HETATM   14  O4  UNL     1      31.120  15.999  58.591  1.00  0.00           O  
+HETATM   15  N3  UNL     1      32.934  11.697  58.622  1.00  0.00           N  
+HETATM   16  O5  UNL     1      34.549  17.576  63.921  1.00  0.00           O  
+HETATM   17  C9  UNL     1      33.208  17.549  64.303  1.00  0.00           C  
+CONECT    1    2    6   17
+CONECT    2    3
+CONECT    3    4    8
+CONECT    4    5    6
+CONECT    6    7
+CONECT    8    9   13
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   12   15
+CONECT   12   13
+CONECT   13   14   14
+CONECT   16   17
+END

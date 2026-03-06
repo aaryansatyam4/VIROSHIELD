@@ -1,0 +1,26 @@
+COMPND    PocketomeGenCross_Output/F16P1_PIG_2_337_catalytic_0/1rdz_f6p_lig.pdb
+HETATM    1  C1  UNL     1      40.810 -27.515  26.833  1.00  0.00           C  
+HETATM    2  O1  UNL     1      41.422 -28.092  27.952  1.00  0.00           O  
+HETATM    3  C2  UNL     1      39.675 -26.598  27.247  1.00  0.00           C  
+HETATM    4  O2  UNL     1      39.114 -26.976  28.469  1.00  0.00           O  
+HETATM    5  C3  UNL     1      40.336 -25.266  27.367  1.00  0.00           C  
+HETATM    6  O3  UNL     1      39.493 -24.275  26.866  1.00  0.00           O  
+HETATM    7  C4  UNL     1      41.558 -25.394  26.486  1.00  0.00           C  
+HETATM    8  O4  UNL     1      41.760 -26.746  26.133  1.00  0.00           O  
+HETATM    9  O5  UNL     1      38.869 -28.646  25.994  1.00  0.00           O  
+HETATM   10  C5  UNL     1      40.263 -28.609  25.928  1.00  0.00           C  
+HETATM   11  C6  UNL     1      42.775 -24.858  27.221  1.00  0.00           C  
+HETATM   12  O6  UNL     1      42.543 -23.543  27.631  1.00  0.00           O  
+HETATM   13  P1  UNL     1      43.963 -22.695  27.258  1.00  0.00           P  
+HETATM   14  O7  UNL     1      45.259 -23.303  28.160  1.00  0.00           O  
+HETATM   15  O8  UNL     1      44.269 -22.825  25.782  1.00  0.00           O  
+HETATM   16  O9  UNL     1      43.745 -21.061  27.636  1.00  0.00           O  
+CONECT    1    2    3    8   10
+CONECT    3    4    5
+CONECT    5    6    7
+CONECT    7    8   11
+CONECT    9   10
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   15   15   16
+END

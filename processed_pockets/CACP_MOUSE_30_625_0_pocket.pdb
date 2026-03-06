@@ -1,0 +1,31 @@
+HETATM    1  CAC HC5 A1602      57.098   5.082  -0.513  1.00 29.59           C  
+HETATM    2  CAD HC5 A1602      57.741   6.471  -0.482  1.00 31.09           C  
+HETATM    3  CAE HC5 A1602      58.213   6.879  -1.878  1.00 31.97           C  
+HETATM    4  CAF HC5 A1602      58.952   8.220  -1.867  1.00 32.86           C  
+HETATM    5  CAG HC5 A1602      58.036   9.392  -1.511  1.00 34.25           C  
+HETATM    6  CAH HC5 A1602      58.800  10.716  -1.605  1.00 33.58           C  
+HETATM    7  OAI HC5 A1602      59.727  10.837  -2.404  1.00 37.20           O  
+HETATM    8  OAK HC5 A1602      58.430  11.764  -0.821  1.00 28.98           O  
+HETATM    9  CAP HC5 A1602      59.286  12.902  -1.022  1.00 23.73           C  
+HETATM   10  CAQ HC5 A1602      60.010  13.207   0.294  1.00 20.58           C  
+HETATM   11  CAR HC5 A1602      61.065  14.306   0.141  1.00 19.03           C  
+HETATM   12  OAL HC5 A1602      61.223  15.145   1.011  1.00 18.28           O  
+HETATM   13  OAS HC5 A1602      61.784  14.338  -0.870  1.00 16.91           O  
+HETATM   14  CAO HC5 A1602      58.462  14.117  -1.476  1.00 22.37           C  
+HETATM   15  NAN HC5 A1602      57.919  13.993  -2.839  1.00 22.62           N1+
+HETATM   16  CAT HC5 A1602      57.243  15.256  -3.173  1.00 21.28           C  
+HETATM   17  CAJ HC5 A1602      56.926  12.907  -2.930  1.00 21.39           C  
+HETATM   18  CAM HC5 A1602      58.988  13.773  -3.825  1.00 21.14           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7    8
+CONECT    8    9
+CONECT    9   10   14
+CONECT   10   11
+CONECT   11   12   13
+CONECT   14   15
+CONECT   15   16   17   18
+END

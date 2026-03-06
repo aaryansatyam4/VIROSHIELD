@@ -1,0 +1,38 @@
+HETATM    1  NAA YIT A 600      83.903 -47.181  23.002  1.00 44.36           N  
+HETATM    2  CAI YIT A 600      84.597 -47.589  24.059  1.00 44.47           C  
+HETATM    3  CAH YIT A 600      85.354 -48.728  24.273  1.00 45.03           C  
+HETATM    4  CAG YIT A 600      86.002 -48.915  25.490  1.00 46.37           C  
+HETATM    5  CAL YIT A 600      85.915 -47.969  26.503  1.00 46.89           C  
+HETATM    6  OBB YIT A 600      86.612 -48.252  27.659  1.00 48.75           O  
+HETATM    7  CAO YIT A 600      86.363 -47.433  28.831  1.00 47.62           C  
+HETATM    8  CAK YIT A 600      85.152 -46.800  26.293  1.00 46.10           C  
+HETATM    9  CAJ YIT A 600      84.493 -46.611  25.051  1.00 44.85           C  
+HETATM   10  CAN YIT A 600      83.719 -45.641  24.540  1.00 42.01           C  
+HETATM   11  CAM YIT A 600      83.360 -46.000  23.297  1.00 41.41           C  
+HETATM   12  CAP YIT A 600      82.498 -45.152  22.331  1.00 38.88           C  
+HETATM   13  OBC YIT A 600      82.191 -44.005  22.639  1.00 38.42           O  
+HETATM   14  NAB YIT A 600      82.232 -45.697  21.127  1.00 39.94           N  
+HETATM   15  CAQ YIT A 600      81.579 -45.118  20.105  1.00 36.31           C  
+HETATM   16  CAV YIT A 600      81.277 -45.938  19.017  1.00 36.75           C  
+HETATM   17  CAU YIT A 600      80.660 -45.456  17.876  1.00 34.58           C  
+HETATM   18  CAR YIT A 600      81.242 -43.774  20.035  1.00 36.82           C  
+HETATM   19  CAS YIT A 600      80.597 -43.270  18.890  1.00 37.38           C  
+HETATM   20  CAT YIT A 600      80.290 -44.109  17.801  1.00 37.84           C  
+CONECT    1    2   11
+CONECT    2    3    9
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    8
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   14
+CONECT   14   15
+CONECT   15   16   18
+CONECT   16   17
+CONECT   17   20
+CONECT   18   19
+CONECT   19   20
+END

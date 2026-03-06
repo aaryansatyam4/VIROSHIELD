@@ -1,0 +1,27 @@
+COMPND    BP3
+HETATM    1  C   UNL     1      22.483  21.774  16.509  1.00  0.00           C  
+HETATM    2  C   UNL     1      21.117  22.007  16.257  1.00  0.00           C  
+HETATM    3  O   UNL     1      20.600  23.281  16.212  1.00  0.00           O  
+HETATM    4  C   UNL     1      20.211  20.937  16.041  1.00  0.00           C  
+HETATM    5  O   UNL     1      18.878  21.222  15.800  1.00  0.00           O  
+HETATM    6  C   UNL     1      20.670  19.603  16.071  1.00  0.00           C  
+HETATM    7  C   UNL     1      22.043  19.353  16.319  1.00  0.00           C  
+HETATM    8  C   UNL     1      22.941  20.436  16.538  1.00  0.00           C  
+HETATM    9  C   UNL     1      23.421  22.926  16.741  1.00  0.00           C  
+HETATM   10  C   UNL     1      23.371  23.710  17.934  1.00  0.00           C  
+HETATM   11  C   UNL     1      24.263  24.800  18.132  1.00  0.00           C  
+HETATM   12  C   UNL     1      25.223  25.120  17.139  1.00  0.00           C  
+HETATM   13  C   UNL     1      25.283  24.347  15.954  1.00  0.00           C  
+HETATM   14  C   UNL     1      24.385  23.263  15.764  1.00  0.00           C  
+HETATM   15 CL   UNL     1      22.245  23.428  19.246  1.00  0.00          CL  
+CONECT    1    2    2    8    9
+CONECT    2    3    4
+CONECT    4    5    6    6
+CONECT    6    7
+CONECT    7    8    8
+CONECT    9   10   10   14
+CONECT   10   11   15
+CONECT   11   12   12
+CONECT   12   13
+CONECT   13   14   14
+END

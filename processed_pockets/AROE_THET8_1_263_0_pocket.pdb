@@ -1,0 +1,21 @@
+HETATM    1  O12 SKM A 301      24.200  13.467  18.313  1.00 33.18           O  
+HETATM    2  C8  SKM A 301      25.340  14.178  18.818  1.00 35.91           C  
+HETATM    3  C6  SKM A 301      25.396  14.036  20.364  1.00 34.81           C  
+HETATM    4  O7  SKM A 301      24.195  14.564  20.923  1.00 29.00           O  
+HETATM    5  C5  SKM A 301      26.612  14.796  20.954  1.00 34.69           C  
+HETATM    6  C4  SKM A 301      27.869  14.682  20.090  1.00 42.15           C  
+HETATM    7  C1  SKM A 301      29.147  15.178  20.663  1.00 44.77           C  
+HETATM    8  O2  SKM A 301      29.163  15.697  21.906  1.00 36.55           O  
+HETATM    9  O3  SKM A 301      30.186  15.118  20.020  1.00 46.76           O  
+HETATM   10  C10 SKM A 301      27.875  14.164  18.858  1.00 38.77           C  
+HETATM   11  C9  SKM A 301      26.642  13.617  18.170  1.00 39.36           C  
+HETATM   12  O11 SKM A 301      26.654  12.185  18.284  1.00 40.58           O  
+CONECT    1    2
+CONECT    2    3   11
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7   10
+CONECT    7    8    9
+CONECT   10   11
+CONECT   11   12
+END

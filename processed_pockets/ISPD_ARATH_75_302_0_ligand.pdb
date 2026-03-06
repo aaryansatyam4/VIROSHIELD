@@ -1,0 +1,31 @@
+COMPND    __2ycm_A_rec_5mro_q9p_lig_docked.pdb
+HETATM    1  N1  UNL     1      16.032  59.218 -18.818  1.00  0.00           N  
+HETATM    2  C1  UNL     1      17.233  58.966 -19.337  1.00  0.00           C  
+HETATM    3  C2  UNL     1      15.553  56.865 -18.677  1.00  0.00           C  
+HETATM    4  C3  UNL     1      16.846  56.631 -19.211  1.00  0.00           C  
+HETATM    5  C4  UNL     1      19.192  59.040 -20.181  1.00  0.00           C  
+HETATM    6  O1  UNL     1      17.265  55.488 -19.420  1.00  0.00           O  
+HETATM    7  N2  UNL     1      17.608  57.699 -19.522  1.00  0.00           N  
+HETATM    8  N3  UNL     1      18.840  57.769 -20.054  1.00  0.00           N  
+HETATM    9  N4  UNL     1      18.195  59.780 -19.741  1.00  0.00           N  
+HETATM   10  C5  UNL     1      15.203  58.219 -18.479  1.00  0.00           C  
+HETATM   11 CL1  UNL     1      13.717  58.723 -17.837  1.00  0.00          CL  
+HETATM   12  C6  UNL     1      14.704  55.822 -18.279  1.00  0.00           C  
+HETATM   13  C7  UNL     1      13.742  55.375 -19.233  1.00  0.00           C  
+HETATM   14  C8  UNL     1      11.515  54.491 -19.684  1.00  0.00           C  
+HETATM   15  C9  UNL     1      13.043  54.811 -21.501  1.00  0.00           C  
+HETATM   16  C10 UNL     1      14.010  55.272 -20.605  1.00  0.00           C  
+HETATM   17  C11 UNL     1      11.789  54.418 -21.048  1.00  0.00           C  
+HETATM   18  C12 UNL     1      12.478  54.959 -18.793  1.00  0.00           C  
+CONECT    1    2    2   10
+CONECT    2    7    9
+CONECT    3    4   10   10   12
+CONECT    4    6    6    7
+CONECT    5    8    9    9
+CONECT    7    8
+CONECT   10   11
+CONECT   12   13
+CONECT   13   16   18   18
+CONECT   14   17   17   18
+CONECT   15   16   16   17
+END

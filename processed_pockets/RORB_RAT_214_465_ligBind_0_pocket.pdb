@@ -1,0 +1,38 @@
+HETATM    1  C1  STE A1001      27.770  26.493   8.359  1.00 50.33           C  
+HETATM    2  O1  STE A1001      27.872  25.305   8.572  1.00 50.77           O  
+HETATM    3  O2  STE A1001      28.579  27.116   7.504  1.00 49.40           O  
+HETATM    4  C2  STE A1001      26.711  27.372   9.038  1.00 49.77           C  
+HETATM    5  C3  STE A1001      25.801  28.470   8.444  1.00 50.59           C  
+HETATM    6  C4  STE A1001      25.671  28.342   6.914  1.00 50.29           C  
+HETATM    7  C5  STE A1001      24.791  29.397   6.273  1.00 50.21           C  
+HETATM    8  C6  STE A1001      25.552  30.504   5.498  1.00 50.35           C  
+HETATM    9  C7  STE A1001      25.966  31.665   6.447  1.00 50.27           C  
+HETATM   10  C8  STE A1001      24.818  32.493   7.078  1.00 49.62           C  
+HETATM   11  C9  STE A1001      24.147  33.437   6.089  1.00 49.21           C  
+HETATM   12  C10 STE A1001      23.014  34.325   6.668  1.00 48.06           C  
+HETATM   13  C11 STE A1001      21.684  33.597   6.931  1.00 48.02           C  
+HETATM   14  C12 STE A1001      21.023  32.982   5.674  1.00 46.43           C  
+HETATM   15  C13 STE A1001      19.883  32.021   5.984  1.00 45.75           C  
+HETATM   16  C14 STE A1001      20.245  30.886   6.933  1.00 45.75           C  
+HETATM   17  C15 STE A1001      19.820  29.529   6.431  1.00 44.03           C  
+HETATM   18  C16 STE A1001      19.886  28.503   7.550  1.00 43.90           C  
+HETATM   19  C17 STE A1001      21.252  27.797   7.633  1.00 42.74           C  
+HETATM   20  C18 STE A1001      22.058  28.179   8.881  1.00 43.23           C  
+CONECT    1    2    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+END

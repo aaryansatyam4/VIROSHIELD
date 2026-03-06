@@ -1,0 +1,21 @@
+HETATM    1  C1' ADN A 300      13.900  -5.680  40.460  1.00  0.00           C  
+HETATM    2  N9  ADN A 300      14.629  -5.086  40.125  1.00 13.58           N  
+HETATM    3  C8  ADN A 300      15.839  -4.968  40.649  1.00 15.45           C  
+HETATM    4  N7  ADN A 300      16.285  -3.726  40.772  1.00 20.38           N  
+HETATM    5  C5  ADN A 300      15.365  -2.987  39.995  1.00 16.51           C  
+HETATM    6  C6  ADN A 300      15.131  -1.593  39.776  1.00 13.52           C  
+HETATM    7  N6  ADN A 300      15.999  -0.605  39.984  1.00 11.82           N  
+HETATM    8  N1  ADN A 300      13.946  -1.231  39.283  1.00  9.42           N  
+HETATM    9  C2  ADN A 300      13.060  -2.132  38.991  1.00  8.81           C  
+HETATM   10  N3  ADN A 300      13.163  -3.484  39.049  1.00 11.97           N  
+HETATM   11  C4  ADN A 300      14.357  -3.839  39.586  1.00 33.49           C  
+CONECT    1    2
+CONECT    2    3   11
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6   11
+CONECT    6    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+END

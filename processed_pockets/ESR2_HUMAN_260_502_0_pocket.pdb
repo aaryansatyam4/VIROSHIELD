@@ -1,0 +1,31 @@
+HETATM    1  OAA W14 A   1      -5.869  19.866  -5.250  1.00 27.43           O  
+HETATM    2  OAB W14 A   1      -6.113  12.812  -3.745  1.00 16.75           O  
+HETATM    3  FAC W14 A   1      -2.635  20.474  -5.421  1.00 25.45           F  
+HETATM    4  FAD W14 A   1      -3.494  20.772  -7.259  1.00 19.70           F  
+HETATM    5  FAE W14 A   1      -4.413  21.956  -5.571  1.00 23.19           F  
+HETATM    6  CAF W14 A   1      -3.854  13.408  -4.287  1.00  7.53           C  
+HETATM    7  CAG W14 A   1      -2.973  14.419  -4.757  1.00  7.22           C  
+HETATM    8  CAH W14 A   1      -5.694  14.994  -4.545  1.00  6.89           C  
+HETATM    9  CAI W14 A   1      -2.501  16.614  -5.570  1.00 12.24           C  
+HETATM   10  CAJ W14 A   1      -3.009  17.891  -6.317  1.00 15.06           C  
+HETATM   11  CAK W14 A   1      -5.335  17.207  -5.410  1.00 13.87           C  
+HETATM   12  CAL W14 A   1      -4.774  19.554  -5.722  1.00 21.43           C  
+HETATM   13  CAM W14 A   1      -5.215  13.748  -4.185  1.00  8.15           C  
+HETATM   14  CAN W14 A   1      -3.446  15.673  -5.110  1.00  8.49           C  
+HETATM   15  CAO W14 A   1      -4.801  15.949  -5.027  1.00  9.77           C  
+HETATM   16  NAP W14 A   1      -4.374  18.256  -5.846  1.00 17.16           N  
+HETATM   17  CAQ W14 A   1      -3.786  20.694  -6.054  1.00 21.95           C  
+CONECT    1   12
+CONECT    2   13
+CONECT    3   17
+CONECT    4   17
+CONECT    5   17
+CONECT    6    7   13
+CONECT    7   14
+CONECT    8   13   15
+CONECT    9   10   14
+CONECT   10   16
+CONECT   11   15   16
+CONECT   12   16   17
+CONECT   14   15
+END

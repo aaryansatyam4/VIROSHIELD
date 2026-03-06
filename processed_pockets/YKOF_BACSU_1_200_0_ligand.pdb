@@ -1,0 +1,35 @@
+COMPND    VIB
+HETATM    1  C1  UNL     1      14.525  45.832   6.067  1.00  0.00           C  
+HETATM    2  C2  UNL     1      11.425  41.517   3.811  1.00  0.00           C  
+HETATM    3  N1  UNL     1      13.866  45.661   3.111  1.00  0.00           N  
+HETATM    4  C3  UNL     1      13.421  44.666   4.040  1.00  0.00           C  
+HETATM    5  N2  UNL     1      12.679  43.630   3.564  1.00  0.00           N  
+HETATM    6  C4  UNL     1      12.203  42.656   4.381  1.00  0.00           C  
+HETATM    7  N3  UNL     1      12.483  42.691   5.707  1.00  0.00           N  
+HETATM    8  C5  UNL     1      13.219  43.698   6.239  1.00  0.00           C  
+HETATM    9  C6  UNL     1      13.724  44.721   5.423  1.00  0.00           C  
+HETATM   10  C7  UNL     1      14.791  45.429   9.077  1.00  0.00           C  
+HETATM   11  C8  UNL     1      16.819  44.915   6.026  1.00  0.00           C  
+HETATM   12  S1  UNL     1      18.023  44.346   7.044  1.00  0.00           S  
+HETATM   13  C9  UNL     1      17.117  44.562   8.442  1.00  0.00           C  
+HETATM   14  C10 UNL     1      15.875  45.107   8.081  1.00  0.00           C  
+HETATM   15  N4  UNL     1      15.722  45.292   6.728  1.00  0.00           N1+
+HETATM   16  C11 UNL     1      17.634  44.275   9.823  1.00  0.00           C  
+HETATM   17  O1  UNL     1      16.393  43.099  11.516  1.00  0.00           O  
+HETATM   18  C12 UNL     1      17.115  42.926  10.327  1.00  0.00           C  
+CONECT    1    9   15
+CONECT    2    6
+CONECT    3    4
+CONECT    4    5    5    9
+CONECT    5    6
+CONECT    6    7    7
+CONECT    7    8
+CONECT    8    9    9
+CONECT   10   14
+CONECT   11   12   15   15
+CONECT   12   13
+CONECT   13   14   14   16
+CONECT   14   15
+CONECT   16   18
+CONECT   17   18
+END

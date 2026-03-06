@@ -1,0 +1,24 @@
+HETATM    1  O1  AIN A 141      13.760  16.032   0.308  0.50 28.52           O  
+HETATM    2  C7  AIN A 141      13.122  15.674   1.414  0.50 32.12           C  
+HETATM    3  O2  AIN A 141      13.792  15.656   2.431  0.50 32.90           O  
+HETATM    4  C3  AIN A 141      11.700  15.204   1.372  0.50 32.34           C  
+HETATM    5  C4  AIN A 141      10.969  15.268   0.174  0.50 32.08           C  
+HETATM    6  C5  AIN A 141       9.631  14.881   0.163  0.50 31.39           C  
+HETATM    7  C6  AIN A 141       8.994  14.474   1.321  0.50 31.52           C  
+HETATM    8  C1  AIN A 141       9.641  14.441   2.535  0.50 32.96           C  
+HETATM    9  C2  AIN A 141      10.977  14.802   2.640  0.50 33.22           C  
+HETATM   10  O3  AIN A 141      11.726  14.788   3.797  0.50 35.01           O  
+HETATM   11  C8  AIN A 141      12.396  13.654   4.465  0.50 35.75           C  
+HETATM   12  O4  AIN A 141      12.619  13.752   5.664  0.50 37.46           O  
+HETATM   13  C9  AIN A 141      12.807  12.397   3.742  0.50 36.44           C  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+END

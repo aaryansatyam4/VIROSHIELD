@@ -1,0 +1,43 @@
+HETATM    1  CAA R5T A1112      15.900   7.926   8.514  1.00 48.39           C  
+HETATM    2  CAX R5T A1112      16.632   8.991   9.347  1.00 48.50           C  
+HETATM    3  CAB R5T A1112      16.918  10.203   8.451  1.00 45.63           C  
+HETATM    4  CAC R5T A1112      17.952   8.383   9.859  1.00 47.12           C  
+HETATM    5  OAQ R5T A1112      15.776   9.381  10.459  1.00 49.46           O  
+HETATM    6  CAR R5T A1112      16.223  10.376  11.303  1.00 50.38           C  
+HETATM    7  OAD R5T A1112      17.388  10.771  11.282  1.00 48.84           O  
+HETATM    8  N   R5T A1112      15.367  10.937  12.169  1.00 52.06           N  
+HETATM    9  CA  R5T A1112      13.962  10.499  12.241  1.00 51.85           C  
+HETATM   10  C   R5T A1112      13.081  11.291  11.253  1.00 46.99           C  
+HETATM   11  O   R5T A1112      12.059  10.795  10.791  1.00 44.93           O  
+HETATM   12  NAO R5T A1112      13.519  12.497  10.891  1.00 44.39           N  
+HETATM   13  OAF R5T A1112      12.591  13.286   9.879  1.00 46.26           O  
+HETATM   14  CAT R5T A1112      13.487  10.597  13.550  1.00 54.80           C  
+HETATM   15  CAJ R5T A1112      13.730   9.542  14.424  1.00 57.37           C  
+HETATM   16  CAL R5T A1112      13.275   9.604  15.737  1.00 59.49           C  
+HETATM   17  CAI R5T A1112      12.782  11.718  13.989  1.00 58.44           C  
+HETATM   18  CAK R5T A1112      12.322  11.783  15.306  1.00 59.21           C  
+HETATM   19  CAU R5T A1112      12.574  10.726  16.179  1.00 61.25           C  
+HETATM   20  NAW R5T A1112      12.134  10.764  17.431  1.00 66.03           N  
+HETATM   21  NAN R5T A1112      11.527  11.674  17.944  1.00 69.37           N  
+HETATM   22  CAH R5T A1112      11.236  11.370  19.210  1.00 69.46           C  
+HETATM   23  CAG R5T A1112      11.717  10.156  19.447  1.00 68.64           C  
+HETATM   24  CAM R5T A1112      12.288   9.772  18.313  1.00 67.37           C  
+CONECT    1    2
+CONECT    2    3    4    5
+CONECT    5    6
+CONECT    6    7    8
+CONECT    8    9
+CONECT    9   10   14
+CONECT   10   11   12
+CONECT   12   13
+CONECT   14   15   17
+CONECT   15   16
+CONECT   16   19
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21   24
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+END

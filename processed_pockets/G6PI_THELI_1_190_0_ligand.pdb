@@ -1,0 +1,27 @@
+COMPND    __1j3r_A_rec_1j3r_6pg_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1      37.155  16.037  15.538  1.00  0.00           C  
+HETATM    2  O1  UNL     1      35.915  16.695  15.306  1.00  0.00           O  
+HETATM    3  C2  UNL     1      37.751  15.524  14.159  1.00  0.00           C  
+HETATM    4  O2  UNL     1      38.835  14.597  14.373  1.00  0.00           O  
+HETATM    5  C3  UNL     1      38.302  16.657  13.206  1.00  0.00           C  
+HETATM    6  O3  UNL     1      38.890  17.663  14.027  1.00  0.00           O  
+HETATM    7  C4  UNL     1      39.339  16.127  12.163  1.00  0.00           C  
+HETATM    8  O4  UNL     1      40.030  15.167  12.432  1.00  0.00           O  
+HETATM    9  O5  UNL     1      39.448  16.676  11.074  1.00  0.00           O  
+HETATM   10  C5  UNL     1      38.065  17.044  16.310  1.00  0.00           C  
+HETATM   11  O6  UNL     1      39.112  16.325  16.928  1.00  0.00           O  
+HETATM   12  C6  UNL     1      37.369  17.853  17.409  1.00  0.00           C  
+HETATM   13  O7  UNL     1      38.125  19.029  17.678  1.00  0.00           O  
+HETATM   14  P1  UNL     1      39.127  19.513  16.595  1.00  0.00           P  
+HETATM   15  O8  UNL     1      38.539  19.230  15.208  1.00  0.00           O  
+HETATM   16  O9  UNL     1      39.420  21.036  16.772  1.00  0.00           O  
+HETATM   17  O10 UNL     1      40.476  18.754  16.764  1.00  0.00           O  
+CONECT    1    2    3   10
+CONECT    3    4    5
+CONECT    5    6    7
+CONECT    7    8    9    9
+CONECT   10   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   16   16   17
+END

@@ -1,0 +1,19 @@
+COMPND    __2vnt_A_rec_4x1r_pl0_lig_docked.pdb
+HETATM    1  C1  UNL     1      32.581   4.596 -13.015  1.00  0.00           C  
+HETATM    2  N1  UNL     1      31.779   5.521 -13.472  1.00  0.00           N  
+HETATM    3  N2  UNL     1      32.372   4.044 -11.854  1.00  0.00           N  
+HETATM    4  N3  UNL     1      33.543   4.218 -13.691  1.00  0.00           N  
+HETATM    5  C2  UNL     1      28.559   7.021 -11.308  1.00  0.00           C  
+HETATM    6  C3  UNL     1      29.626   7.810 -11.637  1.00  0.00           C  
+HETATM    7  C4  UNL     1      30.678   7.295 -12.357  1.00  0.00           C  
+HETATM    8  C5  UNL     1      30.679   5.984 -12.761  1.00  0.00           C  
+HETATM    9  C6  UNL     1      29.605   5.184 -12.431  1.00  0.00           C  
+HETATM   10  C7  UNL     1      28.554   5.709 -11.703  1.00  0.00           C  
+CONECT    1    2    2    3    4
+CONECT    2    8
+CONECT    5    6   10   10
+CONECT    6    7    7
+CONECT    7    8
+CONECT    8    9    9
+CONECT    9   10
+END

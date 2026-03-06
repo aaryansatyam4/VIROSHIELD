@@ -1,0 +1,18 @@
+COMPND    152
+HETATM    1  C   UNL     1      43.892  25.792  26.626  1.00  0.00           C  
+HETATM    2  O   UNL     1      43.743  25.482  27.831  1.00  0.00           O  
+HETATM    3  O   UNL     1      44.799  26.564  26.291  1.00  0.00           O  
+HETATM    4  C   UNL     1      42.981  25.218  25.529  1.00  0.00           C  
+HETATM    5  C   UNL     1      42.521  26.341  24.590  1.00  0.00           C  
+HETATM    6  O   UNL     1      43.573  27.255  24.473  1.00  0.00           O  
+HETATM    7  C   UNL     1      42.145  25.883  23.176  1.00  0.00           C  
+HETATM    8  N   UNL     1      42.285  24.448  22.931  1.00  0.00           N1+
+HETATM    9  C   UNL     1      41.036  23.752  23.203  1.00  0.00           C  
+HETATM   10  C   UNL     1      42.622  24.277  21.530  1.00  0.00           C  
+HETATM   11  C   UNL     1      43.318  23.823  23.735  1.00  0.00           C  
+CONECT    1    2    2    3    4
+CONECT    4    5
+CONECT    5    6    7
+CONECT    7    8
+CONECT    8    9   10   11
+END

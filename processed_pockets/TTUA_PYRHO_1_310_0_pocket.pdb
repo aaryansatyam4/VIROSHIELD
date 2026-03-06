@@ -1,0 +1,19 @@
+HETATM    1  N1  BCN A 403       1.940  26.035  -5.666  1.00 36.46           N  
+HETATM    2  C1  BCN A 403       1.431  25.002  -4.673  1.00 32.83           C  
+HETATM    3  C2  BCN A 403       1.944  25.159  -3.292  1.00 32.96           C  
+HETATM    4  O21 BCN A 403       2.276  26.312  -2.918  1.00 40.94           O  
+HETATM    5  O22 BCN A 403       2.066  24.167  -2.540  1.00 39.83           O  
+HETATM    6  C3  BCN A 403       3.200  25.581  -6.314  1.00 37.46           C  
+HETATM    7  C4  BCN A 403       3.555  24.079  -6.276  1.00 37.24           C  
+HETATM    8  O4  BCN A 403       4.153  23.547  -7.176  1.00 24.87           O  
+HETATM    9  C5  BCN A 403       0.927  26.273  -6.693  1.00 23.14           C  
+HETATM   10  C6  BCN A 403       1.196  27.441  -7.540  1.00 34.77           C  
+HETATM   11  O6  BCN A 403       0.341  27.921  -8.208  1.00 33.52           O  
+CONECT    1    2    6    9
+CONECT    2    3
+CONECT    3    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11
+END

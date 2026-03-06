@@ -1,0 +1,20 @@
+COMPND    1KI0_BCN_A_335
+HETATM    1  N1  UNL     1     -17.991   3.930  24.916  1.00  0.00           N  
+HETATM    2  C1  UNL     1     -17.733   2.692  24.191  1.00  0.00           C  
+HETATM    3  C2  UNL     1     -18.213   2.789  22.778  1.00  0.00           C  
+HETATM    4  O1  UNL     1     -19.108   2.002  22.375  1.00  0.00           O  
+HETATM    5  O2  UNL     1     -17.686   3.734  21.906  1.00  0.00           O  
+HETATM    6  C3  UNL     1     -17.206   3.875  26.137  1.00  0.00           C  
+HETATM    7  C4  UNL     1     -17.856   2.923  27.123  1.00  0.00           C  
+HETATM    8  O3  UNL     1     -17.103   2.882  28.295  1.00  0.00           O  
+HETATM    9  C5  UNL     1     -19.388   3.903  25.320  1.00  0.00           C  
+HETATM   10  C6  UNL     1     -20.076   5.199  24.927  1.00  0.00           C  
+HETATM   11  O4  UNL     1     -20.736   5.036  23.709  1.00  0.00           O  
+CONECT    1    2    6    9
+CONECT    2    3
+CONECT    3    4    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11
+END

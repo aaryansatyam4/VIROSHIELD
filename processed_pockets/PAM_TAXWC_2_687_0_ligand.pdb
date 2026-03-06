@@ -1,0 +1,21 @@
+COMPND    TCA
+HETATM    1  C1  UNL     1     -13.347   1.688  37.222  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -13.702   2.837  37.816  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -13.618   3.069  39.279  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -14.107   2.077  40.147  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -14.057   2.257  41.533  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -13.527   3.433  42.068  1.00  0.00           C  
+HETATM    7  C7  UNL     1     -13.053   4.434  41.217  1.00  0.00           C  
+HETATM    8  C8  UNL     1     -13.100   4.260  39.830  1.00  0.00           C  
+HETATM    9  C9  UNL     1     -13.456   1.490  35.764  1.00  0.00           C  
+HETATM   10  O1  UNL     1     -14.571   1.256  35.225  1.00  0.00           O  
+HETATM   11  O2  UNL     1     -12.319   1.562  34.964  1.00  0.00           O  
+CONECT    1    2    2    9
+CONECT    2    3
+CONECT    3    4    4    8
+CONECT    4    5
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8    8
+CONECT    9   10   10   11
+END

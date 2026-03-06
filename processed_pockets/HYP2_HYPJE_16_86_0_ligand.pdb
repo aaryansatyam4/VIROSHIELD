@@ -1,0 +1,33 @@
+COMPND    __3qqt_B_rec_3qqt_sds_lig_min.pdb
+HETATM    1  C1  UNL     1     -21.722  37.895   7.925  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -21.090  39.005   8.701  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -21.160  38.739  10.165  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -20.852  39.984  10.940  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -19.592  40.636  10.480  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -18.413  40.085  11.209  1.00  0.00           C  
+HETATM    7  C7  UNL     1     -17.496  39.404  10.245  1.00  0.00           C  
+HETATM    8  C8  UNL     1     -17.239  39.160   7.834  1.00  0.00           C  
+HETATM    9  C9  UNL     1     -17.542  40.114   8.936  1.00  0.00           C  
+HETATM   10  C10 UNL     1     -20.951  37.689   6.662  1.00  0.00           C  
+HETATM   11  C11 UNL     1     -21.861  37.486   5.501  1.00  0.00           C  
+HETATM   12  C12 UNL     1     -21.475  36.248   4.768  1.00  0.00           C  
+HETATM   13  O1  UNL     1     -21.352  35.199   5.660  1.00  0.00           O  
+HETATM   14  S1  UNL     1     -22.156  33.993   5.438  1.00  0.00           S  
+HETATM   15  O2  UNL     1     -22.797  34.137   4.147  1.00  0.00           O  
+HETATM   16  O3  UNL     1     -23.168  33.848   6.500  1.00  0.00           O  
+HETATM   17  O4  UNL     1     -21.323  32.817   5.432  1.00  0.00           O  
+CONECT    1    2   10
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    9
+CONECT    8    9
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   15   16   16
+CONECT   14   17
+END

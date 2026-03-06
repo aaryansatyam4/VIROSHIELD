@@ -1,0 +1,27 @@
+COMPND    __4z6i_B_rec_5f2p_5ty_lig_docked.pdb
+HETATM    1  C1  UNL     1       1.006  28.083  46.735  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.930  27.291  45.518  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.390  28.299  49.057  1.00  0.00           C  
+HETATM    4  C4  UNL     1       1.568  23.872  46.771  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.304  27.453  47.952  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.501  25.993  47.983  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.899  30.123  47.792  1.00  0.00           C  
+HETATM    8  N1  UNL     1       0.806  29.415  46.640  1.00  0.00           N  
+HETATM    9  N2  UNL     1       1.384  25.323  46.763  1.00  0.00           N  
+HETATM   10  N3  UNL     1       1.179  29.620  49.012  1.00  0.00           N  
+HETATM   11  C8  UNL     1       1.097  25.969  45.586  1.00  0.00           C  
+HETATM   12  O1  UNL     1       1.754  25.374  49.004  1.00  0.00           O  
+HETATM   13  C9  UNL     1       0.197  32.226  48.841  1.00  0.00           C  
+HETATM   14  N4  UNL     1       0.706  31.460  47.712  1.00  0.00           N  
+HETATM   15  C10 UNL     1       1.023  32.202  46.502  1.00  0.00           C  
+CONECT    1    2    5    8    8
+CONECT    2   11   11
+CONECT    3    5    5   10
+CONECT    4    9
+CONECT    5    6
+CONECT    6    9   12   12
+CONECT    7    8   10   10   14
+CONECT    9   11
+CONECT   13   14
+CONECT   14   15
+END

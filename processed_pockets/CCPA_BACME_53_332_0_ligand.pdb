@@ -1,0 +1,25 @@
+COMPND    1SXG_171_A_3256
+HETATM    1  N1  UNL     1     138.020 -10.547  35.613  1.00  0.00           N  
+HETATM    2  C1  UNL     1     137.118  -6.921  35.366  1.00  0.00           C  
+HETATM    3  C2  UNL     1     137.716  -8.105  35.809  1.00  0.00           C  
+HETATM    4  C3  UNL     1     137.421  -9.323  35.178  1.00  0.00           C  
+HETATM    5  C4  UNL     1     136.525  -9.345  34.104  1.00  0.00           C  
+HETATM    6  C5  UNL     1     135.928  -8.161  33.661  1.00  0.00           C  
+HETATM    7  C6  UNL     1     136.224  -6.949  34.292  1.00  0.00           C  
+HETATM    8  C7  UNL     1     137.521 -11.854  35.216  1.00  0.00           C  
+HETATM    9  C8  UNL     1     138.621 -12.622  34.514  1.00  0.00           C  
+HETATM   10  S1  UNL     1     139.988 -12.873  35.624  1.00  0.00           S  
+HETATM   11  O1  UNL     1     140.923 -11.700  35.532  1.00  0.00           O  
+HETATM   12  O2  UNL     1     139.481 -12.997  37.033  1.00  0.00           O  
+HETATM   13  O3  UNL     1     140.811 -14.275  35.200  1.00  0.00           O  
+CONECT    1    4    8
+CONECT    2    3    3    7
+CONECT    3    4
+CONECT    4    5    5
+CONECT    5    6
+CONECT    6    7    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   11   12   12
+CONECT   10   13
+END

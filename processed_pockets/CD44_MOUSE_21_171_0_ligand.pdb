@@ -1,0 +1,33 @@
+COMPND    5BZL_4WO_A_203
+HETATM    1  C1  UNL     1      12.887  -3.225  -3.005  1.00  0.00           C  
+HETATM    2  C2  UNL     1      11.732  -2.229  -2.866  1.00  0.00           C  
+HETATM    3  C3  UNL     1      10.748  -2.344  -3.998  1.00  0.00           C  
+HETATM    4  C4  UNL     1       9.726  -1.398  -4.107  1.00  0.00           C  
+HETATM    5  C5  UNL     1       8.781  -1.498  -5.132  1.00  0.00           C  
+HETATM    6  C6  UNL     1       8.852  -2.549  -6.050  1.00  0.00           C  
+HETATM    7  C7  UNL     1       9.865  -3.507  -5.946  1.00  0.00           C  
+HETATM    8  N1  UNL     1       9.919  -4.570  -6.894  1.00  0.00           N  
+HETATM    9  C8  UNL     1      10.811  -3.417  -4.912  1.00  0.00           C  
+HETATM   10  C9  UNL     1      11.929  -4.417  -4.801  1.00  0.00           C  
+HETATM   11  N2  UNL     1      12.380  -4.532  -3.414  1.00  0.00           N  
+HETATM   12  C10 UNL     1      13.513  -5.443  -3.411  1.00  0.00           C  
+HETATM   13  C11 UNL     1      13.078  -6.822  -2.933  1.00  0.00           C  
+HETATM   14  C12 UNL     1      13.107  -7.810  -4.049  1.00  0.00           C  
+HETATM   15  O1  UNL     1      12.419  -8.865  -3.972  1.00  0.00           O  
+HETATM   16  O2  UNL     1      13.893  -7.550  -5.171  1.00  0.00           O  
+HETATM   17  C13 UNL     1      14.310  -8.585  -6.049  1.00  0.00           C  
+CONECT    1    2   11
+CONECT    2    3
+CONECT    3    4    4    9
+CONECT    4    5
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8    9    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   15   16
+CONECT   16   17
+END

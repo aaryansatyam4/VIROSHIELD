@@ -1,0 +1,23 @@
+HETATM    1  CAH 4WT A 201      10.604  -6.533   1.214  1.00 11.18           C  
+HETATM    2  NAI 4WT A 201      11.570  -5.648   1.885  1.00 10.02           N  
+HETATM    3  CAG 4WT A 201      12.471  -5.014   0.885  1.00 11.58           C  
+HETATM    4  CAJ 4WT A 201      11.780  -4.478  -0.253  1.00 12.26           C  
+HETATM    5  CAE 4WT A 201      12.440  -3.535  -1.065  1.00 10.24           C  
+HETATM    6  CAC 4WT A 201      11.819  -2.989  -2.192  1.00 11.29           C  
+HETATM    7  CAD 4WT A 201      10.502  -3.365  -2.517  1.00  8.78           C  
+HETATM    8  CAF 4WT A 201       9.841  -4.291  -1.712  1.00 10.29           C  
+HETATM    9  CAK 4WT A 201      10.460  -4.869  -0.585  1.00 11.95           C  
+HETATM   10  CAL 4WT A 201       9.726  -5.803   0.192  1.00 11.79           C  
+HETATM   11  CAB 4WT A 201       9.054  -6.847  -0.753  1.00 13.07           C  
+HETATM   12  CAA 4WT A 201       8.633  -5.050   0.972  1.00 11.67           C  
+CONECT    1    2   10
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12
+END

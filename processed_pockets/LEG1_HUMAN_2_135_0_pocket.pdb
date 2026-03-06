@@ -1,0 +1,75 @@
+HETATM    1  C8  2XW B 202      14.966 -22.636  21.194  1.00 54.76           C  
+HETATM    2  C7  2XW B 202      13.899 -21.960  22.074  1.00 41.16           C  
+HETATM    3  O7  2XW B 202      12.742 -22.434  22.113  1.00 69.00           O  
+HETATM    4  N2  2XW B 202      14.170 -20.691  22.390  1.00 40.93           N  
+HETATM    5  C2  2XW B 202      13.284 -19.852  23.222  1.00 37.96           C  
+HETATM    6  C3  2XW B 202      13.607 -18.425  23.052  1.00 30.09           C  
+HETATM    7  O3  2XW B 202      13.253 -18.166  21.655  1.00 33.93           O  
+HETATM    8  C1  2XW B 202      13.456 -20.215  24.701  1.00 39.41           C  
+HETATM    9  O1  2XW B 202      13.275 -21.620  24.961  1.00 78.78           O  
+HETATM   10  CAP 2XW B 202      13.793 -21.906  26.276  1.00 64.94           C  
+HETATM   11  CAQ 2XW B 202      15.214 -22.462  26.085  1.00 49.91           C  
+HETATM   12  CAR 2XW B 202      16.053 -22.882  27.295  1.00 65.31           C  
+HETATM   13  O5  2XW B 202      12.550 -19.396  25.515  1.00 44.88           O  
+HETATM   14  C5  2XW B 202      12.831 -17.991  25.336  1.00 49.25           C  
+HETATM   15  C6  2XW B 202      11.859 -17.194  26.192  1.00 45.24           C  
+HETATM   16  O6  2XW B 202      10.500 -17.427  25.786  1.00 50.05           O  
+HETATM   17  C4  2XW B 202      12.674 -17.588  23.881  1.00 40.57           C  
+HETATM   18  O4  2XW B 202      12.968 -16.220  23.753  1.00 30.86           O  
+HETATM   19  CAT 2XW B 202      12.057 -15.225  23.408  1.00 41.76           C  
+HETATM   20  CBA 2XW B 202      12.747 -13.892  23.644  1.00 41.15           C  
+HETATM   21  OAY 2XW B 202      12.971 -13.776  25.041  1.00 40.96           O  
+HETATM   22  OAS 2XW B 202      11.566 -15.401  22.130  1.00 26.45           O  
+HETATM   23  CAV 2XW B 202      10.621 -14.372  21.813  1.00 24.19           C  
+HETATM   24  CAZ 2XW B 202      10.056 -14.588  20.415  1.00 25.06           C  
+HETATM   25  OBC 2XW B 202       9.259 -15.756  20.425  1.00 24.82           O  
+HETATM   26  CAU 2XW B 202      11.289 -12.968  21.885  1.00 29.83           C  
+HETATM   27  OAW 2XW B 202      12.411 -12.918  20.990  1.00 29.85           O  
+HETATM   28  CBB 2XW B 202      11.811 -12.783  23.331  1.00 38.87           C  
+HETATM   29  OAX 2XW B 202      12.467 -11.531  23.560  1.00 41.14           O  
+HETATM   30  CBD 2XW B 202      11.699 -10.332  23.550  1.00 43.33           C  
+HETATM   31  CBE 2XW B 202      12.569  -9.147  23.124  1.00 64.27           C  
+HETATM   32  CBI 2XW B 202      13.816  -9.192  22.718  1.00 71.60           C  
+HETATM   33  NBF 2XW B 202      12.210  -7.882  23.105  1.00 72.78           N  
+HETATM   34  NBG 2XW B 202      13.200  -7.206  22.695  1.00 36.76           N  
+HETATM   35  NBH 2XW B 202      14.167  -7.950  22.459  1.00 85.82           N  
+HETATM   36  CBP 2XW B 202      15.376  -7.647  21.999  1.00 69.55           C  
+HETATM   37  NBO 2XW B 202      16.319  -8.510  21.656  1.00 94.62           N  
+HETATM   38  NBN 2XW B 202      15.810  -6.439  21.730  1.00 72.23           N  
+HETATM   39  NAC 2XW B 202      16.829  -6.500  21.334  1.00 67.51           N  
+HETATM   40  CAB 2XW B 202      17.273  -7.722  21.228  1.00 45.06           C  
+HETATM   41  NAD 2XW B 202      18.457  -8.096  20.796  1.00 59.48           N  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6    8
+CONECT    6    7   17
+CONECT    8    9   13
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   13   14
+CONECT   14   15   17
+CONECT   15   16
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20   22
+CONECT   20   21   28
+CONECT   22   23
+CONECT   23   24   26
+CONECT   24   25
+CONECT   26   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31
+CONECT   31   32   33
+CONECT   32   35
+CONECT   33   34
+CONECT   34   35
+CONECT   35   36
+CONECT   36   37   38
+CONECT   37   40
+CONECT   38   39
+CONECT   39   40
+CONECT   40   41
+END

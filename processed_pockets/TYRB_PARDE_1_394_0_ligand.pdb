@@ -1,0 +1,21 @@
+COMPND    1AHX_HCI_A_411
+HETATM    1  C1  UNL     1     102.775  47.072  12.801  1.00  0.00           C  
+HETATM    2  O1  UNL     1     102.698  48.320  12.944  1.00  0.00           O  
+HETATM    3  O2  UNL     1     102.779  46.246  13.916  1.00  0.00           O  
+HETATM    4  C2  UNL     1     102.823  46.480  11.433  1.00  0.00           C  
+HETATM    5  C3  UNL     1     101.418  46.262  10.885  1.00  0.00           C  
+HETATM    6  C4  UNL     1     100.753  45.090  11.529  1.00  0.00           C  
+HETATM    7  C5  UNL     1     101.249  43.794  11.335  1.00  0.00           C  
+HETATM    8  C6  UNL     1     100.612  42.703  11.934  1.00  0.00           C  
+HETATM    9  C7  UNL     1      99.477  42.904  12.725  1.00  0.00           C  
+HETATM   10  C8  UNL     1      98.977  44.195  12.915  1.00  0.00           C  
+HETATM   11  C9  UNL     1      99.613  45.287  12.316  1.00  0.00           C  
+CONECT    1    2    2    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7    7   11
+CONECT    7    8
+CONECT    8    9    9
+CONECT    9   10
+CONECT   10   11   11
+END

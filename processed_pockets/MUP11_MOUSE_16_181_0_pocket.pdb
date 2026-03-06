@@ -1,0 +1,22 @@
+HETATM    1  CAA DE1 A 400      44.848  28.543  41.048  1.00 33.84           C  
+HETATM    2  CAC DE1 A 400      46.270  28.494  41.609  1.00 37.31           C  
+HETATM    3  CAE DE1 A 400      46.564  27.123  42.223  1.00 38.65           C  
+HETATM    4  CAG DE1 A 400      47.853  26.527  41.655  1.00 38.24           C  
+HETATM    5  CAI DE1 A 400      47.586  25.736  40.373  1.00 38.98           C  
+HETATM    6  CAK DE1 A 400      48.132  24.310  40.471  1.00 39.93           C  
+HETATM    7  CAJ DE1 A 400      49.644  24.256  40.233  1.00 39.27           C  
+HETATM    8  CAH DE1 A 400      50.218  22.931  40.736  1.00 37.39           C  
+HETATM    9  CAF DE1 A 400      51.672  23.081  41.186  1.00 34.46           C  
+HETATM   10  CAD DE1 A 400      52.363  21.721  41.326  1.00 34.35           C  
+HETATM   11  OAB DE1 A 400      51.931  21.074  42.527  1.00 28.50           O  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+END

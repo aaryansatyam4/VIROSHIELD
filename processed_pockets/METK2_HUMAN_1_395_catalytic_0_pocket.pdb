@@ -1,0 +1,21 @@
+COMPND    PPK
+HETATM    1  O   UNL     1      14.033  -1.671 -93.357  1.00  0.00           O  
+HETATM    2  P   UNL     1      15.105  -2.866 -93.435  1.00  0.00           P  
+HETATM    3  O   UNL     1      16.518  -2.278 -92.930  1.00  0.00           O  
+HETATM    4  O   UNL     1      14.656  -3.979 -92.561  1.00  0.00           O  
+HETATM    5  N   UNL     1      15.201  -3.416 -95.103  1.00  0.00           N  
+HETATM    6  P   UNL     1      16.724  -3.663 -95.954  1.00  0.00           P  
+HETATM    7  O   UNL     1      16.389  -3.936 -97.514  1.00  0.00           O  
+HETATM    8  O   UNL     1      17.604  -2.469 -95.871  1.00  0.00           O  
+HETATM    9  O   UNL     1      17.477  -4.963 -95.338  1.00  0.00           O  
+HETATM   10  P   UNL     1      18.145  -5.095 -93.866  1.00  0.00           P  
+HETATM   11  O   UNL     1      17.052  -5.630 -92.978  1.00  0.00           O  
+HETATM   12  O   UNL     1      19.242  -6.082 -94.136  1.00  0.00           O  
+HETATM   13  O   UNL     1      18.631  -3.722 -93.448  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3    4    4    5
+CONECT    5    6
+CONECT    6    7    8    8    9
+CONECT    9   10
+CONECT   10   11   12   13   13
+END

@@ -1,0 +1,53 @@
+HETATM    1  OAC 7UL A1101     -32.722 -20.019 -42.950  1.00  7.41           O  
+HETATM    2  CBA 7UL A1101     -32.713 -19.801 -44.151  1.00  7.29           C  
+HETATM    3  NAU 7UL A1101     -31.725 -18.933 -44.630  1.00  7.25           N  
+HETATM    4  CAZ 7UL A1101     -31.705 -18.578 -45.951  1.00  6.82           C  
+HETATM    5  OAB 7UL A1101     -30.818 -17.780 -46.303  1.00  7.22           O  
+HETATM    6  CBB 7UL A1101     -32.630 -19.147 -46.793  1.00  6.46           C  
+HETATM    7  CAL 7UL A1101     -32.596 -18.842 -48.164  1.00  6.51           C  
+HETATM    8  CAH 7UL A1101     -33.515 -19.405 -49.045  1.00  6.26           C  
+HETATM    9  CAI 7UL A1101     -34.499 -20.252 -48.531  1.00  6.44           C  
+HETATM   10  CAM 7UL A1101     -34.564 -20.581 -47.189  1.00  6.45           C  
+HETATM   11  CBC 7UL A1101     -33.611 -20.030 -46.297  1.00  6.76           C  
+HETATM   12  NBF 7UL A1101     -33.640 -20.337 -44.977  1.00  7.33           N  
+HETATM   13  CAS 7UL A1101     -34.651 -21.230 -44.392  1.00  7.77           C  
+HETATM   14  CAW 7UL A1101     -34.303 -22.609 -44.490  1.00  8.29           C  
+HETATM   15  CAN 7UL A1101     -32.978 -23.070 -44.285  1.00  8.33           C  
+HETATM   16  CAJ 7UL A1101     -35.336 -23.542 -44.785  1.00  8.07           C  
+HETATM   17  CAK 7UL A1101     -35.000 -24.884 -44.851  1.00  8.25           C  
+HETATM   18  CAX 7UL A1101     -33.693 -25.335 -44.618  1.00  8.45           C  
+HETATM   19  FAD 7UL A1101     -33.433 -26.690 -44.681  1.00  7.89           F  
+HETATM   20  CAY 7UL A1101     -32.673 -24.425 -44.324  1.00  8.60           C  
+HETATM   21  CAV 7UL A1101     -31.355 -24.843 -44.197  1.00  9.43           C  
+HETATM   22  OAA 7UL A1101     -30.550 -24.368 -45.028  1.00  7.92           O  
+HETATM   23  NBE 7UL A1101     -30.976 -25.804 -43.310  1.00 11.12           N  
+HETATM   24  CAR 7UL A1101     -31.831 -26.355 -42.214  1.00 12.65           C  
+HETATM   25  CAP 7UL A1101     -31.219 -25.952 -40.861  1.00 14.82           C  
+HETATM   26  CAQ 7UL A1101     -29.547 -26.149 -43.291  1.00 12.47           C  
+HETATM   27  CAO 7UL A1101     -29.039 -25.787 -41.817  1.00 13.52           C  
+HETATM   28  NBD 7UL A1101     -29.855 -26.579 -40.882  1.00 15.93           N  
+CONECT    1    2
+CONECT    2    3   12
+CONECT    3    4
+CONECT    4    5    6
+CONECT    6    7   11
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   16
+CONECT   15   20
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19   20
+CONECT   20   21
+CONECT   21   22   23
+CONECT   23   24   26
+CONECT   24   25
+CONECT   25   28
+CONECT   26   27
+CONECT   27   28
+END

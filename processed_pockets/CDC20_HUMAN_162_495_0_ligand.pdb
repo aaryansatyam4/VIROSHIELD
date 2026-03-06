@@ -1,0 +1,14 @@
+COMPND    MRD
+HETATM    1  C1  UNL     1     -27.429  -9.580  71.241  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -27.778  -9.201  72.690  1.00  0.00           C  
+HETATM    3  O1  UNL     1     -28.100  -7.830  72.699  1.00  0.00           O  
+HETATM    4  C3  UNL     1     -28.992 -10.054  73.130  1.00  0.00           C  
+HETATM    5  C4  UNL     1     -26.532  -9.477  73.583  1.00  0.00           C  
+HETATM    6  C5  UNL     1     -26.530  -8.763  74.953  1.00  0.00           C  
+HETATM    7  O2  UNL     1     -26.139  -7.425  74.788  1.00  0.00           O  
+HETATM    8  C6  UNL     1     -25.555  -9.456  75.910  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    4    5
+CONECT    5    6
+CONECT    6    7    8
+END

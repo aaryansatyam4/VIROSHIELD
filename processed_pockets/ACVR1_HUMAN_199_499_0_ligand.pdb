@@ -1,0 +1,47 @@
+COMPND    __5oxg_A_rec_3oom_507_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1     -15.770 -10.822  36.656  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -14.747 -11.304  37.452  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -15.159 -12.528  40.760  1.00  0.00           C  
+HETATM    4  N1  UNL     1     -14.347 -12.246  39.726  1.00  0.00           N  
+HETATM    5  N2  UNL     1     -17.306 -11.252  38.411  1.00  0.00           N  
+HETATM    6  C4  UNL     1     -17.067 -10.821  37.165  1.00  0.00           C  
+HETATM    7  C5  UNL     1     -16.422 -12.208  40.453  1.00  0.00           C  
+HETATM    8  C6  UNL     1     -15.076 -11.735  38.731  1.00  0.00           C  
+HETATM    9  N3  UNL     1     -16.417 -11.691  39.146  1.00  0.00           N  
+HETATM   10  C7  UNL     1     -19.720 -13.338  41.645  1.00  0.00           C  
+HETATM   11  C8  UNL     1     -19.863 -12.627  42.828  1.00  0.00           C  
+HETATM   12  C9  UNL     1     -18.566 -13.176  40.880  1.00  0.00           C  
+HETATM   13  C10 UNL     1     -17.705 -11.617  42.489  1.00  0.00           C  
+HETATM   14  C11 UNL     1     -18.860 -11.768  43.258  1.00  0.00           C  
+HETATM   15  C12 UNL     1     -17.547 -12.324  41.296  1.00  0.00           C  
+HETATM   16  C13 UNL     1     -20.052 -11.553  45.629  1.00  0.00           C  
+HETATM   17  O1  UNL     1     -18.469  -9.958  44.794  1.00  0.00           O  
+HETATM   18  C14 UNL     1     -19.086 -11.009  44.583  1.00  0.00           C  
+HETATM   19  N4  UNL     1     -18.037 -10.310  36.395  1.00  0.00           N  
+HETATM   20  C15 UNL     1     -20.310 -10.604  33.367  1.00  0.00           C  
+HETATM   21  C16 UNL     1     -20.970 -12.287  34.970  1.00  0.00           C  
+HETATM   22  C17 UNL     1     -19.546  -9.924  34.500  1.00  0.00           C  
+HETATM   23  C18 UNL     1     -19.938 -11.904  36.037  1.00  0.00           C  
+HETATM   24  O2  UNL     1     -20.480 -12.014  33.646  1.00  0.00           O  
+HETATM   25  C19 UNL     1     -18.893 -10.982  35.408  1.00  0.00           C  
+CONECT    1    2    2    6
+CONECT    2    8
+CONECT    3    4    7    7
+CONECT    4    8    8
+CONECT    5    6    6    9
+CONECT    6   19
+CONECT    7    9   15
+CONECT    8    9
+CONECT   10   11   12   12
+CONECT   11   14   14
+CONECT   12   15
+CONECT   13   14   15   15
+CONECT   14   18
+CONECT   16   18
+CONECT   17   18   18
+CONECT   19   25
+CONECT   20   22   24
+CONECT   21   23   24
+CONECT   22   25
+CONECT   23   25
+END

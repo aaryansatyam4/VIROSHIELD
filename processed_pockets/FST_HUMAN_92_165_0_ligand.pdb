@@ -1,0 +1,32 @@
+COMPND    IHS
+HETATM    1  C1  UNL     1      62.191  13.756  21.222  1.00  0.00           C  
+HETATM    2  C2  UNL     1      62.482  12.374  20.625  1.00  0.00           C  
+HETATM    3  O1  UNL     1      63.829  12.043  20.866  1.00  0.00           O  
+HETATM    4  S1  UNL     1      63.898  10.437  21.401  1.00  0.00           S  
+HETATM    5  O2  UNL     1      63.384  10.325  22.999  1.00  0.00           O  
+HETATM    6  O3  UNL     1      65.305   9.919  21.288  1.00  0.00           O  
+HETATM    7  O4  UNL     1      63.000   9.595  20.539  1.00  0.00           O  
+HETATM    8  C3  UNL     1      63.294  14.755  20.846  1.00  0.00           C  
+HETATM    9  O5  UNL     1      63.508  15.651  21.910  1.00  0.00           O  
+HETATM   10  S2  UNL     1      65.048  16.333  21.735  1.00  0.00           S  
+HETATM   11  O6  UNL     1      65.504  16.919  23.041  1.00  0.00           O  
+HETATM   12  O7  UNL     1      65.029  17.533  20.556  1.00  0.00           O  
+HETATM   13  O8  UNL     1      66.014  15.258  21.322  1.00  0.00           O  
+HETATM   14  O9  UNL     1      60.958  14.217  20.704  1.00  0.00           O  
+HETATM   15  S3  UNL     1      59.926  14.674  21.970  1.00  0.00           S  
+HETATM   16  O10 UNL     1      58.868  15.590  21.424  1.00  0.00           O  
+HETATM   17  O11 UNL     1      60.792  15.483  23.164  1.00  0.00           O  
+HETATM   18  O12 UNL     1      59.271  13.453  22.554  1.00  0.00           O  
+CONECT    1    2    8   14
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    6    6    7
+CONECT    4    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   11   12   13
+CONECT   10   13
+CONECT   14   15
+CONECT   15   16   16   17   18
+CONECT   15   18
+END

@@ -1,0 +1,29 @@
+HETATM    1  N   TYS I1565     130.209   0.175 136.915  1.00 45.78           N  
+HETATM    2  CA  TYS I1565     130.730  -0.034 138.257  1.00 43.92           C  
+HETATM    3  CB  TYS I1565     129.573  -0.205 139.243  1.00 41.75           C  
+HETATM    4  CG  TYS I1565     128.608   0.901 139.278  1.00 40.66           C  
+HETATM    5  CD1 TYS I1565     129.002   2.132 139.708  1.00 39.14           C  
+HETATM    6  CD2 TYS I1565     127.263   0.681 138.848  1.00 40.73           C  
+HETATM    7  CE1 TYS I1565     128.064   3.207 139.733  1.00 38.54           C  
+HETATM    8  CE2 TYS I1565     126.344   1.730 138.872  1.00 39.91           C  
+HETATM    9  CZ  TYS I1565     126.736   2.985 139.312  1.00 38.70           C  
+HETATM   10  OH  TYS I1565     125.800   4.050 139.327  1.00 38.11           O  
+HETATM   11  S   TYS I1565     125.070   4.411 140.561  1.00 37.58           S  
+HETATM   12  O1  TYS I1565     124.149   5.413 140.177  1.00 38.11           O  
+HETATM   13  O2  TYS I1565     124.360   3.256 141.107  1.00 37.47           O  
+HETATM   14  O3  TYS I1565     126.073   4.945 141.582  1.00 36.21           O  
+HETATM   15  C   TYS I1565     131.638  -1.221 138.353  1.00 45.27           C  
+HETATM   16  O   TYS I1565     132.204  -1.494 139.431  1.00 44.81           O  
+CONECT    1    2
+CONECT    2    3   15
+CONECT    3    4
+CONECT    4    5    6
+CONECT    5    7
+CONECT    6    8
+CONECT    7    9
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13   14
+CONECT   15   16
+END

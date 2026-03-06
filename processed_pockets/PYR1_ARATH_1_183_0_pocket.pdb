@@ -1,0 +1,54 @@
+HETATM    1  CAC 3UZ A 201       1.602  23.809 206.611  1.00 49.84           C  
+HETATM    2  CAB 3UZ A 201       0.382  23.406 206.078  1.00 41.52           C  
+HETATM    3  CAA 3UZ A 201      -0.506  22.672 206.855  1.00 49.06           C  
+HETATM    4  CL1 3UZ A 201      -2.019  22.171 206.194  1.00 50.88          CL  
+HETATM    5  CAF 3UZ A 201      -0.177  22.342 208.164  1.00 53.01           C  
+HETATM    6  CAE 3UZ A 201       1.042  22.745 208.697  1.00 46.06           C  
+HETATM    7  CAD 3UZ A 201       1.932  23.479 207.920  1.00 56.39           C  
+HETATM    8  CAH 3UZ A 201       3.150  23.882 208.453  1.00 59.73           C  
+HETATM    9  OAI 3UZ A 201       3.165  25.306 208.586  1.00 67.95           O  
+HETATM   10  CAJ 3UZ A 201       4.000  25.673 209.686  1.00 55.00           C  
+HETATM   11  CAK 3UZ A 201       3.723  27.062 210.071  1.00 49.47           C  
+HETATM   12  CAL 3UZ A 201       3.500  28.169 210.378  1.00 55.58           C  
+HETATM   13  CAM 3UZ A 201       4.284  23.445 207.523  1.00 48.27           C  
+HETATM   14  OAN 3UZ A 201       4.940  22.431 207.758  1.00 60.63           O  
+HETATM   15  NAO 3UZ A 201       4.488  24.241 206.466  1.00 33.51           N  
+HETATM   16  CAP 3UZ A 201       5.538  23.965 205.473  1.00 38.74           C  
+HETATM   17  CAQ 3UZ A 201       5.148  24.587 204.130  1.00 42.64           C  
+HETATM   18  CAR 3UZ A 201       4.014  23.953 203.638  1.00 43.80           C  
+HETATM   19  CAW 3UZ A 201       2.835  24.674 203.471  1.00 44.13           C  
+HETATM   20  CAV 3UZ A 201       1.711  24.024 202.978  1.00 44.10           C  
+HETATM   21  OAX 3UZ A 201       0.523  24.658 202.786  1.00 44.25           O  
+HETATM   22  CAY 3UZ A 201       0.697  25.726 201.851  1.00 45.50           C  
+HETATM   23  CAS 3UZ A 201       4.060  22.599 203.314  1.00 40.71           C  
+HETATM   24  CAT 3UZ A 201       2.933  21.952 202.820  1.00 43.08           C  
+HETATM   25  CAU 3UZ A 201       1.759  22.676 202.655  1.00 41.26           C  
+HETATM   26  OAZ 3UZ A 201       0.615  22.117 202.178  1.00 43.13           O  
+HETATM   27  CBA 3UZ A 201       0.238  21.017 203.010  1.00 43.72           C  
+HETATM   28  CBB 3UZ A 201      -0.977  20.391 202.474  1.00 48.98           C  
+HETATM   29  CBC 3UZ A 201      -1.946  19.892 202.047  1.00 38.76           C  
+CONECT    1    2    7
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   13
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   13   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19   23
+CONECT   19   20
+CONECT   20   21   25
+CONECT   21   22
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28
+CONECT   28   29
+END

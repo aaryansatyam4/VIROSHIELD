@@ -1,0 +1,19 @@
+COMPND    __3e9h_A_rec_3a74_lyn_lig_it2_docked.pdb
+HETATM    1  N1  UNL     1      62.838 -70.481  22.313  1.00  0.00           N  
+HETATM    2  C1  UNL     1      61.905 -71.046  21.327  1.00  0.00           C  
+HETATM    3  C2  UNL     1      60.575 -71.350  22.018  1.00  0.00           C  
+HETATM    4  O1  UNL     1      60.541 -71.794  23.165  1.00  0.00           O  
+HETATM    5  N2  UNL     1      59.491 -71.080  21.295  1.00  0.00           N  
+HETATM    6  C3  UNL     1      62.502 -72.332  20.749  1.00  0.00           C  
+HETATM    7  C4  UNL     1      63.552 -72.041  19.673  1.00  0.00           C  
+HETATM    8  C5  UNL     1      62.976 -71.192  18.537  1.00  0.00           C  
+HETATM    9  C6  UNL     1      64.073 -70.661  17.612  1.00  0.00           C  
+HETATM   10  N3  UNL     1      65.193 -70.143  18.413  1.00  0.00           N  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+END

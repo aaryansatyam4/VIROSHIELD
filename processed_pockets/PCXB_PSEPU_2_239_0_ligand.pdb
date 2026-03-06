@@ -1,0 +1,21 @@
+COMPND    PocketomeGenCross_Output/PCXB_PSEPU_2_239_0/3pcn_dhy_lig.pdb
+HETATM    1  C1  UNL     1      14.944  12.628  40.051  1.00  0.00           C  
+HETATM    2  C2  UNL     1      15.722  11.597  39.512  1.00  0.00           C  
+HETATM    3  C3  UNL     1      15.465  10.268  39.862  1.00  0.00           C  
+HETATM    4  C4  UNL     1      14.428   9.968  40.757  1.00  0.00           C  
+HETATM    5  C5  UNL     1      13.655  11.000  41.298  1.00  0.00           C  
+HETATM    6  C6  UNL     1      13.913  12.328  40.947  1.00  0.00           C  
+HETATM    7  O1  UNL     1      16.241   9.251  39.320  1.00  0.00           O  
+HETATM    8  O2  UNL     1      14.164   8.651  41.111  1.00  0.00           O  
+HETATM    9  C7  UNL     1      15.231  14.046  39.690  1.00  0.00           C  
+HETATM   10  C8  UNL     1      16.197  14.645  40.655  1.00  0.00           C  
+HETATM   11  O3  UNL     1      17.413  15.142  40.203  1.00  0.00           O  
+HETATM   12  O4  UNL     1      15.925  14.673  41.883  1.00  0.00           O  
+CONECT    1    2    2    6    9
+CONECT    2    3
+CONECT    3    4    4    7
+CONECT    4    5    8
+CONECT    5    6    6
+CONECT    9   10
+CONECT   10   11   12   12
+END

@@ -1,0 +1,60 @@
+HETATM    1  C10 THW A 601      77.069   5.972   6.468  1.00 29.39           C  
+HETATM    2  C12 THW A 601      77.218   7.268   6.009  1.00 26.18           C  
+HETATM    3  C14 THW A 601      77.931   7.483   4.851  1.00 29.51           C  
+HETATM    4  C13 THW A 601      78.525   6.407   4.186  1.00 30.73           C  
+HETATM    5  C11 THW A 601      78.397   5.107   4.637  1.00 30.52           C  
+HETATM    6  C9  THW A 601      77.649   4.913   5.789  1.00 28.72           C  
+HETATM    7  C8  THW A 601      77.487   3.502   6.355  1.00 26.23           C  
+HETATM    8  O9  THW A 601      78.537   2.866   6.011  1.00 25.96           O  
+HETATM    9  C2  THW A 601      76.106   3.055   6.624  1.00 18.64           C  
+HETATM   10  S1  THW A 601      74.498   3.546   6.254  1.00 19.74           S  
+HETATM   11  C5  THW A 601      73.634   2.097   6.698  1.00 16.44           C  
+HETATM   12  C5A THW A 601      72.095   1.882   6.506  1.00 17.06           C  
+HETATM   13  C5B THW A 601      71.326   2.816   7.466  1.00 17.37           C  
+HETATM   14  O5G THW A 601      69.956   2.495   7.175  1.00 15.64           O  
+HETATM   15  PA  THW A 601      68.855   3.531   7.702  1.00 16.02           P  
+HETATM   16  O1A THW A 601      69.146   3.976   9.048  1.00 16.26           O  
+HETATM   17  O2A THW A 601      67.528   2.895   7.409  1.00 16.57           O  
+HETATM   18  O3A THW A 601      68.944   4.850   6.766  1.00 16.27           O  
+HETATM   19  PB  THW A 601      68.770   5.032   5.134  1.00 16.14           P  
+HETATM   20  O1B THW A 601      67.581   4.012   4.767  1.00 18.00           O  
+HETATM   21  O2B THW A 601      68.276   6.454   5.016  1.00 16.17           O  
+HETATM   22  O3B THW A 601      70.109   4.893   4.472  1.00 19.79           O  
+HETATM   23  C4  THW A 601      74.649   1.288   7.185  1.00 16.55           C  
+HETATM   24  C4A THW A 601      74.414  -0.149   7.699  1.00 15.55           C  
+HETATM   25  N3  THW A 601      75.900   1.794   7.140  1.00 16.72           N  
+HETATM   26  C35 THW A 601      77.001   1.090   7.747  1.00 16.27           C  
+HETATM   27  C5' THW A 601      77.037   1.416   9.309  1.00 15.85           C  
+HETATM   28  C6' THW A 601      76.911   0.341  10.223  1.00 15.23           C  
+HETATM   29  N1' THW A 601      76.956   0.520  11.567  1.00 19.17           N  
+HETATM   30  C2' THW A 601      77.172   1.724  12.128  1.00 16.93           C  
+HETATM   31  C2A THW A 601      77.200   1.940  13.651  1.00 17.43           C  
+HETATM   32  N3' THW A 601      77.241   2.805  11.327  1.00 15.51           N  
+HETATM   33  C4' THW A 601      77.174   2.678   9.933  1.00 13.68           C  
+HETATM   34  N4' THW A 601      77.370   3.819   9.254  1.00 13.70           N  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8    9
+CONECT    9   10   25
+CONECT   10   11
+CONECT   11   12   23
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16   17   18
+CONECT   18   19
+CONECT   19   20   21   22
+CONECT   23   24   25
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28   33
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31   32
+CONECT   32   33
+CONECT   33   34
+END

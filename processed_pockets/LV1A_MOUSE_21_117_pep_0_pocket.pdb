@@ -1,0 +1,28 @@
+HETATM    1  C1  ANF H 500      37.363  53.265  76.014  1.00 35.17           C  
+HETATM    2  C2  ANF H 500      37.137  52.361  74.983  1.00 35.70           C  
+HETATM    3  C3  ANF H 500      37.782  51.130  75.011  1.00 36.10           C  
+HETATM    4  C4  ANF H 500      38.650  50.774  76.033  1.00 35.23           C  
+HETATM    5  C5  ANF H 500      40.841  51.880  80.160  1.00 32.08           C  
+HETATM    6  C6  ANF H 500      41.080  52.769  81.205  1.00 31.81           C  
+HETATM    7  C7  ANF H 500      40.449  54.011  81.216  1.00 31.85           C  
+HETATM    8  C8  ANF H 500      39.582  54.360  80.181  1.00 32.13           C  
+HETATM    9  C9  ANF H 500      38.474  53.808  78.092  1.00 33.45           C  
+HETATM   10  O9  ANF H 500      37.912  54.891  78.084  1.00 33.32           O  
+HETATM   11  C10 ANF H 500      39.739  51.338  78.090  1.00 33.45           C  
+HETATM   12  C11 ANF H 500      39.974  52.231  79.128  1.00 32.66           C  
+HETATM   13  C12 ANF H 500      39.341  53.473  79.132  1.00 32.62           C  
+HETATM   14  C13 ANF H 500      38.233  52.919  77.051  1.00 34.32           C  
+HETATM   15  C14 ANF H 500      38.874  51.679  77.059  1.00 34.36           C  
+CONECT    1    2   14
+CONECT    2    3
+CONECT    3    4
+CONECT    4   15
+CONECT    5    6   12
+CONECT    6    7
+CONECT    7    8
+CONECT    8   13
+CONECT    9   10   13   14
+CONECT   11   12   15
+CONECT   12   13
+CONECT   14   15
+END

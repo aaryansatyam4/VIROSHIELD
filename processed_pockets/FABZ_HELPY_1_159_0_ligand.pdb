@@ -1,0 +1,19 @@
+COMPND    BEN
+HETATM    1  C1  UNL     1     -89.003  32.871 198.156  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -88.660  32.517 196.837  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -88.545  31.171 196.472  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -88.773  30.167 197.414  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -89.123  30.504 198.723  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -89.241  31.847 199.093  1.00  0.00           C  
+HETATM    7  C7  UNL     1     -89.133  34.296 198.553  1.00  0.00           C  
+HETATM    8  N1  UNL     1     -90.309  34.839 198.614  1.00  0.00           N  
+HETATM    9  N2  UNL     1     -87.978  35.077 198.886  1.00  0.00           N  
+HETATM   10  H1  UNL     1     -91.108  34.310 198.387  1.00  0.00           H  
+CONECT    1    2    2    6    7
+CONECT    2    3
+CONECT    3    4    4
+CONECT    4    5
+CONECT    5    6    6
+CONECT    7    8    8    9
+CONECT    8   10
+END

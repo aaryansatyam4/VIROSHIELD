@@ -1,0 +1,19 @@
+COMPND    __1pbf_A_rec_1pbc_bha_lig_it1_it2_docked.pdb
+HETATM    1  C1  UNL     1      52.020  65.502 -58.251  1.00  0.00           C  
+HETATM    2  C2  UNL     1      50.747  64.884 -58.135  1.00  0.00           C  
+HETATM    3  C3  UNL     1      50.201  64.647 -56.869  1.00  0.00           C  
+HETATM    4  C4  UNL     1      50.892  64.990 -55.713  1.00  0.00           C  
+HETATM    5  C5  UNL     1      52.149  65.589 -55.808  1.00  0.00           C  
+HETATM    6  C6  UNL     1      52.699  65.840 -57.060  1.00  0.00           C  
+HETATM    7  O1  UNL     1      50.010  64.433 -59.112  1.00  0.00           O  
+HETATM    8  N1  UNL     1      50.307  64.754 -54.535  1.00  0.00           N  
+HETATM    9  C7  UNL     1      52.576  65.709 -59.552  1.00  0.00           C  
+HETATM   10  O2  UNL     1      51.806  65.779 -60.533  1.00  0.00           O  
+HETATM   11  O3  UNL     1      53.823  65.803 -59.694  1.00  0.00           O  
+CONECT    1    2    2    6    9
+CONECT    2    3    7
+CONECT    3    4    4
+CONECT    4    5    8
+CONECT    5    6    6
+CONECT    9   10   10   11
+END

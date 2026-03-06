@@ -1,0 +1,30 @@
+HETATM    1  O1 A4MP A 801       2.953   0.791  34.360  0.50 19.65           O  
+HETATM    2  O2 A4MP A 801       2.576   4.713  32.910  0.50 16.65           O  
+HETATM    3  O3 A4MP A 801      -3.089   2.104  34.360  0.50 14.84           O  
+HETATM    4  N1 A4MP A 801       3.462   3.064  34.210  0.50 15.20           N  
+HETATM    5  C1 A4MP A 801       3.685   1.713  34.561  0.50 17.04           C  
+HETATM    6  C2 A4MP A 801       5.012   1.650  35.233  0.50 18.04           C  
+HETATM    7  C3 A4MP A 801       5.548   2.981  35.277  0.50 18.26           C  
+HETATM    8  C4 A4MP A 801       4.650   3.887  34.539  0.50 16.33           C  
+HETATM    9  C5 A4MP A 801       2.359   3.698  33.565  0.50 15.07           C  
+HETATM   10  C6 A4MP A 801       0.933   3.254  33.761  0.50 12.95           C  
+HETATM   11  C7 A4MP A 801       0.328   3.217  35.059  0.50 14.12           C  
+HETATM   12  C8 A4MP A 801      -1.026   2.821  35.208  0.50 12.95           C  
+HETATM   13  C9 A4MP A 801      -1.795   2.459  34.071  0.50 13.95           C  
+HETATM   14  C10A4MP A 801      -1.187   2.494  32.773  0.50 12.28           C  
+HETATM   15  C11A4MP A 801       0.170   2.891  32.624  0.50 11.87           C  
+HETATM   16  C12A4MP A 801      -3.993   1.711  33.292  0.50 15.31           C  
+CONECT    1    5
+CONECT    2    9
+CONECT    3   13   16
+CONECT    4    5    8    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11   15
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+END

@@ -1,0 +1,25 @@
+COMPND    1RQI_DST_A_401
+HETATM    1  P1  UNL     1       7.466  54.993  84.832  1.00  0.00           P  
+HETATM    2  O1  UNL     1       6.082  54.129  84.383  1.00  0.00           O  
+HETATM    3  O2  UNL     1       7.092  56.065  85.831  1.00  0.00           O  
+HETATM    4  O3  UNL     1       8.647  53.957  85.488  1.00  0.00           O  
+HETATM    5  O4  UNL     1       8.966  52.496  87.801  1.00  0.00           O  
+HETATM    6  P2  UNL     1       7.870  52.909  86.581  1.00  0.00           P  
+HETATM    7  O5  UNL     1       6.528  53.655  87.292  1.00  0.00           O  
+HETATM    8  O6  UNL     1       7.433  51.646  85.874  1.00  0.00           O  
+HETATM    9  S1  UNL     1       8.263  55.918  83.102  1.00  0.00           S  
+HETATM   10  C1  UNL     1       9.275  57.076  84.068  1.00  0.00           C  
+HETATM   11  C2  UNL     1      10.431  57.579  83.222  1.00  0.00           C  
+HETATM   12  C3  UNL     1      10.505  59.094  83.274  1.00  0.00           C  
+HETATM   13  C4  UNL     1      11.940  59.516  83.501  1.00  0.00           C  
+HETATM   14  C5  UNL     1      10.014  59.686  81.966  1.00  0.00           C  
+CONECT    1    2    3    3    4
+CONECT    1    9
+CONECT    4    6
+CONECT    5    6
+CONECT    6    7    8    8
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   14
+END

@@ -1,0 +1,20 @@
+COMPND    __2x7w_A_rec_2x7w_bcn_lig_it2_docked.pdb
+HETATM    1  N1  UNL     1      27.597  76.759  -5.542  1.00  0.00           N  
+HETATM    2  C1  UNL     1      26.290  76.369  -6.118  1.00  0.00           C  
+HETATM    3  C2  UNL     1      25.154  76.149  -5.100  1.00  0.00           C  
+HETATM    4  O1  UNL     1      24.287  77.039  -4.989  1.00  0.00           O  
+HETATM    5  O2  UNL     1      25.209  75.111  -4.409  1.00  0.00           O  
+HETATM    6  C3  UNL     1      28.298  75.482  -5.299  1.00  0.00           C  
+HETATM    7  C4  UNL     1      28.781  74.895  -6.630  1.00  0.00           C  
+HETATM    8  O3  UNL     1      29.610  73.743  -6.410  1.00  0.00           O  
+HETATM    9  C5  UNL     1      28.458  77.548  -6.455  1.00  0.00           C  
+HETATM   10  C6  UNL     1      29.964  77.425  -6.171  1.00  0.00           C  
+HETATM   11  O4  UNL     1      30.709  78.315  -7.008  1.00  0.00           O  
+CONECT    1    2    6    9
+CONECT    2    3
+CONECT    3    4    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11
+END

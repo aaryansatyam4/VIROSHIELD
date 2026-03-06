@@ -1,0 +1,19 @@
+HETATM    1  O1  G3P B 505      19.994 133.993  -0.443  0.50  2.32           O  
+HETATM    2  C1  G3P B 505      18.827 133.466  -0.401  0.50  2.32           C  
+HETATM    3  C2  G3P B 505      18.549 132.370   0.613  0.50  2.32           C  
+HETATM    4  O2  G3P B 505      17.286 131.755   0.339  0.50  2.32           O  
+HETATM    5  C3  G3P B 505      18.554 132.972   2.022  0.50  2.32           C  
+HETATM    6  O1P G3P B 505      17.731 134.157   2.084  0.50  2.32           O  
+HETATM    7  O4P G3P B 505      16.580 135.993   3.354  0.50  2.32           O  
+HETATM    8  O2P G3P B 505      17.344 134.059   4.574  0.50  2.32           O  
+HETATM    9  O3P G3P B 505      18.934 135.643   3.702  0.50  2.32           O  
+HETATM   10  P   G3P B 505      17.642 134.975   3.450  0.50  2.32           P  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6   10
+CONECT    7   10
+CONECT    8   10
+CONECT    9   10
+END

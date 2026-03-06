@@ -1,0 +1,46 @@
+HETATM    1  C1  QNB A1162       6.159  -0.164  -3.375  1.00 46.84           C  
+HETATM    2  C2  QNB A1162       6.982  -1.060  -2.494  1.00 45.55           C  
+HETATM    3  C3  QNB A1162       8.054  -1.773  -3.017  1.00 45.78           C  
+HETATM    4  C4  QNB A1162       8.803  -2.606  -2.190  1.00 51.41           C  
+HETATM    5  C5  QNB A1162       8.475  -2.735  -0.844  1.00 40.65           C  
+HETATM    6  C6  QNB A1162       7.398  -2.028  -0.324  1.00 40.35           C  
+HETATM    7  C7  QNB A1162       6.650  -1.195  -1.150  1.00 41.80           C  
+HETATM    8  C8  QNB A1162       5.926  -0.813  -4.710  1.00 47.65           C  
+HETATM    9  C9  QNB A1162       5.485  -2.132  -4.769  1.00 51.51           C  
+HETATM   10  C10 QNB A1162       5.259  -2.739  -5.999  1.00 51.65           C  
+HETATM   11  C11 QNB A1162       5.463  -2.026  -7.176  1.00 46.41           C  
+HETATM   12  C12 QNB A1162       5.894  -0.706  -7.122  1.00 38.49           C  
+HETATM   13  C13 QNB A1162       6.120  -0.102  -5.891  1.00 45.16           C  
+HETATM   14  C14 QNB A1162       6.828   1.186  -3.514  1.00 47.20           C  
+HETATM   15  O15 QNB A1162       4.887   0.028  -2.746  1.00 47.98           O  
+HETATM   16  O16 QNB A1162       6.466   2.128  -2.827  1.00 48.46           O  
+HETATM   17  O17 QNB A1162       7.905   1.402  -4.468  1.00 47.27           O  
+HETATM   18  C18 QNB A1162       8.723   2.519  -4.128  1.00 45.49           C  
+HETATM   19  C19 QNB A1162       9.793   2.093  -3.129  1.00 44.99           C  
+HETATM   20  N20 QNB A1162      11.120   2.428  -3.684  1.00 49.90           N  
+HETATM   21  C21 QNB A1162      11.412   1.702  -4.938  1.00 39.27           C  
+HETATM   22  C22 QNB A1162      10.291   1.938  -5.939  1.00 43.85           C  
+HETATM   23  C23 QNB A1162       9.401   3.034  -5.387  1.00 45.38           C  
+HETATM   24  C24 QNB A1162      10.291   4.229  -5.073  1.00 45.07           C  
+HETATM   25  C25 QNB A1162      11.192   3.886  -3.891  1.00 52.69           C  
+CONECT    1    2    8   14   15
+CONECT    2    3    7
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    8    9   13
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   14   16   17
+CONECT   17   18
+CONECT   18   19   23
+CONECT   19   20
+CONECT   20   21   25
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25
+END

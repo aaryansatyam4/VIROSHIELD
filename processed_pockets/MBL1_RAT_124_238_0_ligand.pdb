@@ -1,0 +1,20 @@
+COMPND    __1fif_A_rec_1kww_mfu_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1      49.123  -4.786  25.041  1.00  0.00           C  
+HETATM    2  C2  UNL     1      49.233  -5.217  23.567  1.00  0.00           C  
+HETATM    3  C3  UNL     1      48.159  -6.261  23.246  1.00  0.00           C  
+HETATM    4  C4  UNL     1      46.775  -5.712  23.604  1.00  0.00           C  
+HETATM    5  C5  UNL     1      46.758  -5.269  25.073  1.00  0.00           C  
+HETATM    6  C6  UNL     1      45.456  -4.606  25.477  1.00  0.00           C  
+HETATM    7  O1  UNL     1      50.522  -5.763  23.318  1.00  0.00           O  
+HETATM    8  O2  UNL     1      48.205  -6.594  21.862  1.00  0.00           O  
+HETATM    9  O3  UNL     1      46.469  -4.603  22.767  1.00  0.00           O  
+HETATM   10  O4  UNL     1      47.806  -4.311  25.317  1.00  0.00           O  
+HETATM   11  O5  UNL     1      49.485  -5.854  25.875  1.00  0.00           O  
+HETATM   12  C7  UNL     1      50.880  -6.206  25.819  1.00  0.00           C  
+CONECT    1    2   10   11
+CONECT    2    3    7
+CONECT    3    4    8
+CONECT    4    5    9
+CONECT    5    6   10
+CONECT   11   12
+END

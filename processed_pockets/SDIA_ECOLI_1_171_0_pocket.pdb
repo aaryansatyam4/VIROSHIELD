@@ -1,0 +1,30 @@
+HETATM    1  C1  LAE B 301      10.188  59.379  42.305  1.00 57.37           C  
+HETATM    2  C2  LAE B 301       9.307  60.527  42.175  1.00 58.19           C  
+HETATM    3  O3  LAE B 301       9.271  61.171  43.502  1.00 66.75           O  
+HETATM    4  C4  LAE B 301       9.378  60.173  44.422  1.00 59.40           C  
+HETATM    5  C5  LAE B 301       9.868  58.952  43.711  1.00 53.42           C  
+HETATM    6  O10 LAE B 301       8.714  60.883  41.178  1.00 71.10           O  
+HETATM    7  N11 LAE B 301      11.521  59.787  42.274  1.00 54.44           N  
+HETATM    8  C13 LAE B 301      12.535  58.803  42.415  1.00 60.40           C  
+HETATM    9  C14 LAE B 301      13.996  59.181  42.400  1.00 63.64           C  
+HETATM   10  C15 LAE B 301      14.809  57.920  42.611  1.00 63.96           C  
+HETATM   11  C18 LAE B 301      15.112  57.401  44.000  1.00 65.54           C  
+HETATM   12  C19 LAE B 301      14.315  56.147  44.284  1.00 61.66           C  
+HETATM   13  C22 LAE B 301      13.428  56.380  45.488  1.00 66.54           C  
+HETATM   14  C25 LAE B 301      14.262  56.399  46.750  1.00 64.26           C  
+HETATM   15  C28 LAE B 301      13.347  56.557  47.945  1.00 63.50           C  
+HETATM   16  O35 LAE B 301      12.233  57.635  42.550  1.00 70.42           O  
+HETATM   17  O36 LAE B 301      15.226  57.317  41.649  1.00 76.77           O  
+CONECT    1    2    5    7
+CONECT    2    3    6
+CONECT    3    4
+CONECT    4    5
+CONECT    7    8
+CONECT    8    9   16
+CONECT    9   10
+CONECT   10   11   17
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+END

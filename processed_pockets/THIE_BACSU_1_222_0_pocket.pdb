@@ -1,0 +1,22 @@
+HETATM    1  N3  TZP A2005       8.899  41.081   5.179  1.00 14.31           N  
+HETATM    2  C2  TZP A2005       8.275  39.967   5.577  1.00 14.98           C  
+HETATM    3  S1  TZP A2005       7.536  40.134   7.064  1.00 14.28           S  
+HETATM    4  C5  TZP A2005       8.098  41.776   7.141  1.00 12.61           C  
+HETATM    5  C4  TZP A2005       8.813  42.101   6.034  1.00 12.94           C  
+HETATM    6  CM4 TZP A2005       9.462  43.431   5.736  1.00 12.90           C  
+HETATM    7  C6  TZP A2005       7.807  42.678   8.302  1.00 11.22           C  
+HETATM    8  C7  TZP A2005       8.673  42.595   9.494  1.00  8.12           C  
+HETATM    9  O7  TZP A2005       8.131  43.553  10.416  1.00  7.09           O  
+HETATM   10  P1  TZP A2005       7.952  43.177  11.946  1.00  7.09           P  
+HETATM   11  O1  TZP A2005       7.008  42.027  11.928  1.00  7.64           O  
+HETATM   12  O3  TZP A2005       9.400  42.791  12.499  1.00  7.84           O  
+CONECT    1    2    5
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    7
+CONECT    5    6
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12
+END

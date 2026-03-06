@@ -1,0 +1,35 @@
+HETATM    1  N1  CFE A 513      12.233  10.583  13.546  1.00 30.30           N  
+HETATM    2  C2  CFE A 513      13.410  11.144  13.939  1.00 30.94           C  
+HETATM    3  N3  CFE A 513      14.470  10.380  13.595  1.00 31.73           N  
+HETATM    4  N4  CFE A 513      14.685   8.275  12.453  1.00 30.88           N  
+HETATM    5  C5  CFE A 513      14.311   7.409  11.597  1.00 30.84           C  
+HETATM    6  N6  CFE A 513      13.208   7.277  10.955  1.00 31.30           N  
+HETATM    7  C7  CFE A 513      11.973   8.082  10.933  1.00 31.35           C  
+HETATM    8  C8  CFE A 513      11.504   8.481  12.322  1.00 31.56           C  
+HETATM    9  O8  CFE A 513      11.369   7.311  13.135  1.00 33.59           O  
+HETATM   10  C9  CFE A 513      12.477   9.417  12.920  1.00 31.06           C  
+HETATM   11  C10 CFE A 513      13.950   9.331  12.952  1.00 31.52           C  
+HETATM   12  C1S CFE A 513      15.905  10.688  13.847  1.00 32.09           C  
+HETATM   13  C2S CFE A 513      16.357  11.728  12.832  1.00 31.67           C  
+HETATM   14  O2S CFE A 513      17.446  11.195  12.077  1.00 30.97           O  
+HETATM   15  C3S CFE A 513      16.756  12.956  13.640  1.00 32.63           C  
+HETATM   16  O3S CFE A 513      17.984  13.558  13.211  1.00 32.21           O  
+HETATM   17  C4S CFE A 513      16.896  12.445  15.062  1.00 33.51           C  
+HETATM   18  O4S CFE A 513      16.100  11.262  15.146  1.00 33.13           O  
+HETATM   19  C5S CFE A 513      16.433  13.472  16.082  1.00 34.47           C  
+HETATM   20  O5S CFE A 513      16.823  13.003  17.378  1.00 37.12           O  
+CONECT    1    2   10
+CONECT    2    3
+CONECT    3   11   12
+CONECT    4    5   11
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10
+CONECT   10   11
+CONECT   12   13   18
+CONECT   13   14   15
+CONECT   15   16   17
+CONECT   17   18   19
+CONECT   19   20
+END

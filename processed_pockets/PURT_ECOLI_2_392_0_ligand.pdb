@@ -1,0 +1,31 @@
+COMPND    1C2T_GAR_A_223
+HETATM    1  C1  UNL     1      23.961  39.659  25.897  1.00  0.00           C  
+HETATM    2  O1  UNL     1      23.847  38.316  25.527  1.00  0.00           O  
+HETATM    3  C2  UNL     1      25.401  40.084  26.065  1.00  0.00           C  
+HETATM    4  O2  UNL     1      26.290  39.015  25.928  1.00  0.00           O  
+HETATM    5  C3  UNL     1      25.612  41.074  24.947  1.00  0.00           C  
+HETATM    6  O3  UNL     1      24.362  41.587  24.571  1.00  0.00           O  
+HETATM    7  C4  UNL     1      23.452  40.538  24.772  1.00  0.00           C  
+HETATM    8  N1  UNL     1      26.469  42.156  25.403  1.00  0.00           N  
+HETATM    9  C5  UNL     1      27.756  42.391  24.832  1.00  0.00           C  
+HETATM   10  O4  UNL     1      28.185  41.666  23.895  1.00  0.00           O  
+HETATM   11  C6  UNL     1      28.584  43.524  25.325  1.00  0.00           C  
+HETATM   12  N2  UNL     1      27.938  44.781  24.992  1.00  0.00           N  
+HETATM   13  C7  UNL     1      22.087  41.106  25.120  1.00  0.00           C  
+HETATM   14  O5  UNL     1      21.116  40.105  25.035  1.00  0.00           O  
+HETATM   15  P1  UNL     1      19.915  40.543  26.149  1.00  0.00           P  
+HETATM   16  O6  UNL     1      20.518  40.687  27.529  1.00  0.00           O  
+HETATM   17  O7  UNL     1      18.730  39.338  26.186  1.00  0.00           O1-
+HETATM   18  O8  UNL     1      19.200  42.007  25.689  1.00  0.00           O1-
+CONECT    1    2    3    7
+CONECT    3    4    5
+CONECT    5    6    8
+CONECT    6    7
+CONECT    7   13
+CONECT    8    9
+CONECT    9   10   10   11
+CONECT   11   12
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16   16   17   18
+END

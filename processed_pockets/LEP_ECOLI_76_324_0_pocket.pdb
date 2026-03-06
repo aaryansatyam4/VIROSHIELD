@@ -1,0 +1,17 @@
+HETATM    1  C1  RAM I   8      -9.427   7.334  -6.193  1.00 38.96           C  
+HETATM    2  C2  RAM I   8     -10.295   6.222  -5.602  1.00 40.48           C  
+HETATM    3  C3  RAM I   8     -11.737   6.719  -5.440  1.00 40.82           C  
+HETATM    4  C4  RAM I   8     -12.254   7.380  -6.722  1.00 41.35           C  
+HETATM    5  C5  RAM I   8     -11.264   8.424  -7.241  1.00 41.03           C  
+HETATM    6  C6  RAM I   8     -11.762   9.004  -8.567  1.00 41.04           C  
+HETATM    7  O1  RAM I   8      -9.248   8.500  -5.381  1.00 36.84           O  
+HETATM    8  O2  RAM I   8     -10.278   5.090  -6.478  1.00 40.65           O  
+HETATM    9  O3  RAM I   8     -12.588   5.615  -5.124  1.00 40.08           O  
+HETATM   10  O4  RAM I   8     -13.508   8.009  -6.443  1.00 42.96           O  
+HETATM   11  O5  RAM I   8      -9.977   7.816  -7.427  1.00 40.79           O  
+CONECT    1    2    7   11
+CONECT    2    3    8
+CONECT    3    4    9
+CONECT    4    5   10
+CONECT    5    6   11
+END

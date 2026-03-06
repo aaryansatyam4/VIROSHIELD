@@ -1,0 +1,23 @@
+COMPND    __1tku_A_rec_1tku_5rp_lig_docked.pdb
+HETATM    1  C1  UNL     1      -9.734  -3.058  -5.685  1.00  0.00           C  
+HETATM    2  O1  UNL     1      -9.972  -3.904  -4.541  1.00  0.00           O  
+HETATM    3  C2  UNL     1      -8.320  -3.372  -6.316  1.00  0.00           C  
+HETATM    4  O2  UNL     1      -8.330  -3.084  -7.732  1.00  0.00           O  
+HETATM    5  C3  UNL     1      -7.200  -2.696  -5.529  1.00  0.00           C  
+HETATM    6  O3  UNL     1      -6.941  -3.082  -4.399  1.00  0.00           O  
+HETATM    7  C4  UNL     1      -6.438  -1.562  -6.172  1.00  0.00           C  
+HETATM    8  O4  UNL     1      -7.327  -0.571  -6.727  1.00  0.00           O  
+HETATM    9  C5  UNL     1     -10.932  -3.245  -6.670  1.00  0.00           C  
+HETATM   10  O5  UNL     1     -11.051  -4.635  -7.001  1.00  0.00           O  
+HETATM   11  P1  UNL     1     -11.125  -5.185  -8.510  1.00  0.00           P  
+HETATM   12  O6  UNL     1     -12.620  -5.124  -9.093  1.00  0.00           O  
+HETATM   13  O7  UNL     1     -10.589  -6.698  -8.597  1.00  0.00           O  
+HETATM   14  O8  UNL     1     -10.132  -4.258  -9.359  1.00  0.00           O  
+CONECT    1    2    3    9
+CONECT    3    4    5
+CONECT    5    6    6    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13   13   14
+END

@@ -1,0 +1,22 @@
+HETATM    1  C1  IPE A 201       8.456  13.289  64.407  0.75 47.64           C  
+HETATM    2  O1  IPE A 201       8.546  14.700  64.258  0.75 48.25           O  
+HETATM    3  C2  IPE A 201       9.290  12.892  65.597  0.75 47.14           C  
+HETATM    4  C3  IPE A 201       8.791  11.674  66.297  0.75 46.98           C  
+HETATM    5  C4  IPE A 201       8.812  10.438  65.503  0.75 47.14           C  
+HETATM    6  C5  IPE A 201       8.397  11.613  67.570  0.75 46.97           C  
+HETATM    7  PA  IPE A 201       7.425  15.668  63.655  0.75 48.56           P  
+HETATM    8  O1A IPE A 201       6.997  15.256  62.363  0.75 48.88           O  
+HETATM    9  O2A IPE A 201       8.158  17.051  63.607  0.75 48.65           O  
+HETATM   10  O3A IPE A 201       6.019  15.790  64.351  0.75 48.83           O  
+HETATM   11  PB  IPE A 201       4.723  15.061  63.808  0.75 49.06           P  
+HETATM   12  O1B IPE A 201       3.624  14.630  64.920  0.75 48.98           O  
+HETATM   13  O2B IPE A 201       5.357  13.823  63.069  0.75 49.55           O  
+HETATM   14  O3B IPE A 201       4.073  15.782  62.828  0.75 49.61           O  
+CONECT    1    2    3
+CONECT    2    7
+CONECT    3    4
+CONECT    4    5    6
+CONECT    7    8    9   10
+CONECT   10   11
+CONECT   11   12   13   14
+END

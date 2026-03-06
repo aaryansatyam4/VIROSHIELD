@@ -1,0 +1,17 @@
+COMPND    __4x22_A_rec_4ymz_13p_lig_min.pdb
+HETATM    1  O1  UNL     1      28.511 -25.468  25.557  1.00  0.00           O  
+HETATM    2  P1  UNL     1      27.835 -25.840  26.968  1.00  0.00           P  
+HETATM    3  O2  UNL     1      27.380 -24.464  27.480  1.00  0.00           O  
+HETATM    4  O3  UNL     1      28.920 -26.390  27.879  1.00  0.00           O  
+HETATM    5  O4  UNL     1      26.844 -26.923  26.617  1.00  0.00           O  
+HETATM    6  C1  UNL     1      27.859 -24.667  24.588  1.00  0.00           C  
+HETATM    7  C2  UNL     1      28.368 -24.974  23.224  1.00  0.00           C  
+HETATM    8  O5  UNL     1      28.720 -26.130  22.934  1.00  0.00           O  
+HETATM    9  C3  UNL     1      28.413 -23.738  22.346  1.00  0.00           C  
+HETATM   10  O6  UNL     1      28.149 -23.960  20.990  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3    3    4    5
+CONECT    6    7
+CONECT    7    8    8    9
+CONECT    9   10
+END

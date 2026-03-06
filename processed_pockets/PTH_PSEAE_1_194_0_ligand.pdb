@@ -1,0 +1,20 @@
+COMPND    1KGT_PML_A_301
+HETATM    1  C1  UNL     1      -4.156  16.507   4.663  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -5.326  16.594   5.625  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -5.371  15.367   6.521  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -5.092  15.735   7.938  1.00  0.00           C  
+HETATM    5  O1  UNL     1      -3.920  16.022   8.295  1.00  0.00           O  
+HETATM    6  O2  UNL     1      -6.130  15.790   8.859  1.00  0.00           O  
+HETATM    7  C5  UNL     1      -4.134  17.738   3.784  1.00  0.00           C  
+HETATM    8  C6  UNL     1      -5.000  18.817   4.404  1.00  0.00           C  
+HETATM    9  C7  UNL     1      -4.861  20.087   3.640  1.00  0.00           C  
+HETATM   10  O3  UNL     1      -3.940  20.894   3.929  1.00  0.00           O  
+HETATM   11  O4  UNL     1      -5.752  20.390   2.619  1.00  0.00           O  
+CONECT    1    2    7
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    5    6
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   10   11
+END

@@ -1,0 +1,57 @@
+HETATM    1  N'  ATA A1001      -4.036   1.032  15.899  0.50 79.91           N  
+HETATM    2  CA' ATA A1001      -4.740   1.628  14.724  0.50 78.61           C  
+HETATM    3  CB' ATA A1001      -3.759   2.009  13.612  0.50 82.13           C  
+HETATM    4  CG' ATA A1001      -4.000   1.237  12.311  0.50 80.17           C  
+HETATM    5  CC' ATA A1001      -5.747   0.624  14.143  0.50 68.31           C  
+HETATM    6  O1' ATA A1001      -6.470   1.013  13.206  0.50 56.83           O  
+HETATM    7  O2' ATA A1001      -5.845  -0.483  14.705  0.50 64.64           O  
+HETATM    8  C'  ATA A1001      -2.731   0.522  11.857  0.50 81.30           C  
+HETATM    9  O'  ATA A1001      -2.006   0.059  12.755  0.50 78.68           O  
+HETATM   10  N5  ATA A1001       0.265  -5.218   6.128  0.50 34.70           N  
+HETATM   11  C6  ATA A1001      -0.707  -5.857   6.781  0.50 29.76           C  
+HETATM   12  N1  ATA A1001      -1.246  -5.467   7.931  0.50 37.62           N  
+HETATM   13  C2  ATA A1001      -1.120  -4.140   8.153  0.50 51.13           C  
+HETATM   14  N3  ATA A1001      -0.452  -3.305   7.322  0.50 48.90           N  
+HETATM   15  C4  ATA A1001       0.455  -3.959   6.567  0.50 40.87           C  
+HETATM   16  N   ATA A1001      -2.815  -0.180  10.709  0.50 81.45           N  
+HETATM   17  CA  ATA A1001      -1.603  -0.869  10.245  0.50 73.01           C  
+HETATM   18  C   ATA A1001      -1.453  -0.749   8.721  0.50 59.94           C  
+HETATM   19  O   ATA A1001      -1.316  -1.798   8.077  0.50 16.70           O  
+HETATM   20  CB  ATA A1001      -1.622  -2.371  10.624  0.50 66.45           C  
+HETATM   21  SG  ATA A1001      -2.239  -3.447   9.307  0.50 44.00           S  
+HETATM   22  N7  ATA A1001       1.752  -3.355   6.113  0.50 27.22           N  
+HETATM   23  N11 ATA A1001      -1.287  -7.037   6.087  0.50 55.04           N  
+HETATM   24  C12 ATA A1001      -0.379  -7.409   4.949  0.50 62.44           C  
+HETATM   25  C13 ATA A1001      -1.025  -8.508   4.083  0.50 49.46           C  
+HETATM   26  C8  ATA A1001       2.267  -3.836   4.789  0.50 35.42           C  
+HETATM   27  C9  ATA A1001       1.488  -5.066   4.280  0.50 43.33           C  
+HETATM   28  C10 ATA A1001       2.360  -2.818   3.631  0.50 31.13           C  
+HETATM   29  ND  ATA A1001      -2.005   0.351   8.220  0.50 74.42           N  
+HETATM   30  CAD ATA A1001      -1.267   1.190   7.293  0.50 84.01           C  
+HETATM   31  CD  ATA A1001      -1.482   2.676   7.521  0.50 87.16           C  
+HETATM   32  OD  ATA A1001      -2.200   3.313   6.716  0.50 77.14           O  
+HETATM   33  OT' ATA A1001      -0.797   3.240   8.410  0.50 96.01           O  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4
+CONECT    4    8
+CONECT    5    6    7
+CONECT    8    9   16
+CONECT   10   11   15
+CONECT   11   12   23
+CONECT   12   13
+CONECT   13   14   21
+CONECT   14   15
+CONECT   15   22
+CONECT   16   17
+CONECT   17   18   20
+CONECT   18   19   29
+CONECT   20   21
+CONECT   22   26
+CONECT   23   24
+CONECT   24   25
+CONECT   26   27   28
+CONECT   29   30
+CONECT   30   31
+CONECT   31   32   33
+END

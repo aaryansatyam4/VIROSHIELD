@@ -1,0 +1,19 @@
+HETATM    1  C4  IPB B 600      11.759   4.639  22.960  1.00 65.33           C  
+HETATM    2  C5  IPB B 600      12.947   4.241  22.605  1.00 65.42           C  
+HETATM    3  C6  IPB B 600      14.063   4.113  23.566  1.00 64.97           C  
+HETATM    4  C1  IPB B 600      13.880   4.418  24.861  1.00 65.06           C  
+HETATM    5  C2  IPB B 600      12.596   4.859  25.262  1.00 65.91           C  
+HETATM    6  C3  IPB B 600      11.555   4.992  24.415  1.00 66.94           C  
+HETATM    7  C8  IPB B 600      10.666   4.756  21.895  1.00 63.88           C  
+HETATM    8  C7  IPB B 600      14.977   4.303  25.832  1.00 63.65           C  
+HETATM    9  O   IPB B 600      10.388   5.413  24.952  1.00 68.02           O  
+HETATM   10  C9  IPB B 600       9.323   5.241  22.453  1.00 61.61           C  
+HETATM   11  C10 IPB B 600      11.089   5.659  20.769  1.00 62.06           C  
+CONECT    1    2    6    7
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    8
+CONECT    5    6
+CONECT    6    9
+CONECT    7   10   11
+END

@@ -1,0 +1,26 @@
+COMPND    __3nvs_A_rec_3nvs_s3p_lig_docked.pdb
+HETATM    1  C1  UNL     1       8.818  10.391   8.477  1.00  0.00           C  
+HETATM    2  C2  UNL     1       9.783   9.863   7.677  1.00  0.00           C  
+HETATM    3  C3  UNL     1      11.044   9.160   8.173  1.00  0.00           C  
+HETATM    4  C4  UNL     1      11.056   9.094   9.714  1.00  0.00           C  
+HETATM    5  C5  UNL     1      10.427  10.331  10.336  1.00  0.00           C  
+HETATM    6  C6  UNL     1       9.000  10.435   9.860  1.00  0.00           C  
+HETATM    7  O1  UNL     1      12.403   8.994  10.192  1.00  0.00           O  
+HETATM    8  O2  UNL     1      10.534  10.335  11.768  1.00  0.00           O  
+HETATM    9  C7  UNL     1       7.606  10.927   7.792  1.00  0.00           C  
+HETATM   10  O3  UNL     1       7.580  11.185   6.548  1.00  0.00           O  
+HETATM   11  O4  UNL     1       6.613  11.136   8.524  1.00  0.00           O  
+HETATM   12  O5  UNL     1      12.146   9.882   7.569  1.00  0.00           O  
+HETATM   13  P1  UNL     1      12.992   9.465   6.259  1.00  0.00           P  
+HETATM   14  O6  UNL     1      14.216  10.375   6.239  1.00  0.00           O  
+HETATM   15  O7  UNL     1      12.059   9.706   5.115  1.00  0.00           O  
+HETATM   16  O8  UNL     1      13.354   8.035   6.530  1.00  0.00           O  
+CONECT    1    2    2    6    9
+CONECT    2    3
+CONECT    3    4   12
+CONECT    4    5    7
+CONECT    5    6    8
+CONECT    9   10   10   11
+CONECT   12   13
+CONECT   13   14   14   15   16
+END

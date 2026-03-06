@@ -1,0 +1,51 @@
+HETATM    1  O4  LSE A 201      42.058   3.685 163.849  1.00 18.13           O  
+HETATM    2  C9  LSE A 201      43.271   4.172 163.337  1.00 16.05           C  
+HETATM    3  C10 LSE A 201      43.114   4.529 161.837  1.00 13.40           C  
+HETATM    4  O3  LSE A 201      42.180   5.599 161.664  1.00 13.84           O  
+HETATM    5  C8  LSE A 201      44.340   3.080 163.517  1.00 16.61           C  
+HETATM    6  O5  LSE A 201      44.684   2.876 164.849  1.00 17.98           O  
+HETATM    7  C13 LSE A 201      45.211   1.509 164.999  1.00 20.11           C  
+HETATM    8  C14 LSE A 201      45.639   1.292 166.381  1.00 21.22           C  
+HETATM    9  SI  LSE A 201      46.155  -0.495 166.747  1.00 23.79          SI  
+HETATM   10  C17 LSE A 201      44.799  -1.663 166.477  1.00 25.32           C  
+HETATM   11  C16 LSE A 201      47.558  -1.004 165.626  1.00 26.69           C  
+HETATM   12  O2  LSE A 201      45.534   3.544 162.955  1.00 15.28           O  
+HETATM   13  C7  LSE A 201      45.454   3.680 161.523  1.00 15.70           C  
+HETATM   14  C11 LSE A 201      46.870   3.944 160.952  1.00 17.56           C  
+HETATM   15  SE6 LSE A 201      48.022   2.319 161.138  1.00 35.04          SE  
+HETATM   16  C12 LSE A 201      47.794   1.103 159.518  1.00 30.59           C  
+HETATM   17  C6  LSE A 201      44.447   4.904 161.225  1.00 13.10           C  
+HETATM   18  O1  LSE A 201      44.323   5.061 159.860  1.00 13.26           O  
+HETATM   19  C5  LSE A 201      44.955   6.159 159.267  1.00 14.24           C  
+HETATM   20  O   LSE A 201      44.270   7.283 159.749  1.00 13.64           O  
+HETATM   21  C4  LSE A 201      44.743   6.108 157.728  1.00 14.49           C  
+HETATM   22  O7  LSE A 201      45.497   4.991 157.255  1.00 16.46           O  
+HETATM   23  C3  LSE A 201      45.265   7.363 157.084  1.00 15.03           C  
+HETATM   24  O8  LSE A 201      44.885   7.371 155.733  1.00 14.98           O  
+HETATM   25  C2  LSE A 201      44.639   8.558 157.755  1.00 14.07           C  
+HETATM   26  O9  LSE A 201      43.195   8.644 157.478  1.00 13.70           O  
+HETATM   27  C1  LSE A 201      44.856   8.476 159.257  1.00 13.04           C  
+HETATM   28  C   LSE A 201      44.152   9.630 159.991  1.00 12.49           C  
+HETATM   29  O10 LSE A 201      44.446   9.575 161.329  1.00 13.53           O  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4   17
+CONECT    5    6   12
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   12   13
+CONECT   13   14   17
+CONECT   14   15
+CONECT   15   16
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20   21
+CONECT   20   27
+CONECT   21   22   23
+CONECT   23   24   25
+CONECT   25   26   27
+CONECT   27   28
+CONECT   28   29
+END

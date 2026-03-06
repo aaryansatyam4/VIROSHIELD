@@ -1,0 +1,31 @@
+COMPND    __3gug_A_rec_3nty_5p3_lig_docked.pdb
+HETATM    1  C1  UNL     1     -50.538  -7.844  43.267  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -51.088  -6.593  43.569  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -50.289  -5.497  43.865  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -48.896  -5.694  43.827  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -48.346  -6.925  43.491  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -49.150  -8.014  43.214  1.00  0.00           C  
+HETATM    7  O1  UNL     1     -48.603  -9.227  42.870  1.00  0.00           O  
+HETATM    8 CL1  UNL     1     -46.627  -7.104  43.454  1.00  0.00          CL  
+HETATM    9  C7  UNL     1     -50.770  -4.232  44.309  1.00  0.00           C  
+HETATM   10  C8  UNL     1     -50.615  -3.738  45.642  1.00  0.00           C  
+HETATM   11  C9  UNL     1     -51.215  -2.537  45.983  1.00  0.00           C  
+HETATM   12  C10 UNL     1     -51.982  -1.832  45.077  1.00  0.00           C  
+HETATM   13  C11 UNL     1     -52.215  -2.345  43.806  1.00  0.00           C  
+HETATM   14  C12 UNL     1     -51.562  -3.514  43.435  1.00  0.00           C  
+HETATM   15  C13 UNL     1     -51.431  -9.042  42.899  1.00  0.00           C  
+HETATM   16  O2  UNL     1     -52.358  -9.405  43.694  1.00  0.00           O  
+HETATM   17  O3  UNL     1     -51.218  -9.532  41.765  1.00  0.00           O  
+CONECT    1    2    2    6   15
+CONECT    2    3
+CONECT    3    4    4    9
+CONECT    4    5
+CONECT    5    6    6    8
+CONECT    6    7
+CONECT    9   10   10   14
+CONECT   10   11
+CONECT   11   12   12
+CONECT   12   13
+CONECT   13   14   14
+CONECT   15   16   16   17
+END

@@ -1,0 +1,19 @@
+HETATM    1  N9  ADE A 701      31.590  25.265  17.065  1.00 15.23           N  
+HETATM    2  C8  ADE A 701      32.646  25.958  17.536  1.00 14.93           C  
+HETATM    3  N7  ADE A 701      32.604  27.213  17.213  1.00 14.88           N  
+HETATM    4  C5  ADE A 701      31.503  27.318  16.361  1.00 14.41           C  
+HETATM    5  C6  ADE A 701      30.978  28.387  15.590  1.00 12.66           C  
+HETATM    6  N6  ADE A 701      31.511  29.633  15.609  1.00 12.35           N  
+HETATM    7  N1  ADE A 701      29.969  28.077  14.755  1.00 12.76           N  
+HETATM    8  C2  ADE A 701      29.539  26.830  14.695  1.00 12.77           C  
+HETATM    9  N3  ADE A 701      29.922  25.769  15.390  1.00 12.30           N  
+HETATM   10  C4  ADE A 701      30.936  26.095  16.203  1.00 12.72           C  
+CONECT    1    2   10
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+END

@@ -1,0 +1,16 @@
+COMPND    __4epy_A_rec_4q03_2xe_lig_it2_docked.pdb
+HETATM    1  S1  UNL     1     -25.030  -1.807  -9.320  1.00  0.00           S  
+HETATM    2  C1  UNL     1     -22.280   1.667  -8.850  1.00  0.00           C  
+HETATM    3 BR1  UNL     1     -21.017   3.054  -8.581  1.00  0.00          BR  
+HETATM    4  C2  UNL     1     -22.170   0.560  -8.027  1.00  0.00           C  
+HETATM    5  C3  UNL     1     -23.048  -0.468  -8.188  1.00  0.00           C  
+HETATM    6  C4  UNL     1     -23.998  -0.402  -9.177  1.00  0.00           C  
+HETATM    7  C5  UNL     1     -24.122   0.704 -10.010  1.00  0.00           C  
+HETATM    8  C6  UNL     1     -23.251   1.773  -9.847  1.00  0.00           C  
+CONECT    1    6
+CONECT    2    3    4    4    8
+CONECT    4    5
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8    8
+END

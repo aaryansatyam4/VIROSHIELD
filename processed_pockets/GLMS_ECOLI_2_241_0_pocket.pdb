@@ -1,0 +1,19 @@
+HETATM    1  N   HGA A5300       6.433  30.781  29.738  1.00 18.00           N  
+HETATM    2  CA  HGA A5300       5.596  30.572  28.527  1.00 24.36           C  
+HETATM    3  CB  HGA A5300       6.382  30.833  27.249  1.00 16.24           C  
+HETATM    4  CG  HGA A5300       7.646  29.975  27.262  1.00 19.08           C  
+HETATM    5  CD  HGA A5300       8.574  30.184  26.089  1.00 38.39           C  
+HETATM    6  OE1 HGA A5300       9.139  31.248  25.847  1.00 24.91           O  
+HETATM    7  NE2 HGA A5300       8.792  29.129  25.331  1.00 34.37           N  
+HETATM    8  OZ2 HGA A5300       9.688  29.278  24.272  1.00 50.30           O  
+HETATM    9  C   HGA A5300       5.035  29.182  28.496  1.00 23.65           C  
+HETATM   10  O   HGA A5300       4.111  28.926  27.708  1.00 17.91           O  
+HETATM   11  OXT HGA A5300       5.472  28.299  29.262  1.00 18.61           O  
+CONECT    1    2
+CONECT    2    3    9
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    7
+CONECT    7    8
+CONECT    9   10   11
+END

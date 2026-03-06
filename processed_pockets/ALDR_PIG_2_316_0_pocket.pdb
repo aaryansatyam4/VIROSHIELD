@@ -1,0 +1,30 @@
+HETATM    1  C1  SBI A 320      65.199  36.511  86.530  1.00 62.30           C  
+HETATM    2  F1  SBI A 320      64.486  36.398  85.408  1.00 64.36           F  
+HETATM    3  C2  SBI A 320      66.601  36.463  86.483  1.00 63.83           C  
+HETATM    4  C3  SBI A 320      67.347  36.584  87.667  1.00 58.19           C  
+HETATM    5  C4  SBI A 320      66.683  36.752  88.895  1.00 59.92           C  
+HETATM    6  O1  SBI A 320      67.489  36.933  90.013  1.00 64.90           O  
+HETATM    7  C5  SBI A 320      66.932  37.618  91.159  1.00 67.69           C  
+HETATM    8  C6  SBI A 320      65.531  37.106  91.554  1.00 62.44           C  
+HETATM    9  C7  SBI A 320      64.586  36.988  90.316  1.00 56.88           C  
+HETATM   10  C9  SBI A 320      63.597  38.120  90.151  1.00 44.43           C  
+HETATM   11  O3  SBI A 320      63.905  39.281  89.969  1.00 46.73           O  
+HETATM   12  N2  SBI A 320      62.353  37.642  90.220  1.00 37.93           N  
+HETATM   13  C8  SBI A 320      62.375  36.329  90.419  1.00 45.08           C  
+HETATM   14  O2  SBI A 320      61.405  35.610  90.530  1.00 43.82           O  
+HETATM   15  N1  SBI A 320      63.646  35.915  90.485  1.00 55.22           N  
+HETATM   16  C10 SBI A 320      65.296  36.801  88.973  1.00 59.50           C  
+HETATM   17  C11 SBI A 320      64.546  36.679  87.760  1.00 54.44           C  
+CONECT    1    2    3   17
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6   16
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   15   16
+CONECT   10   11   12
+CONECT   12   13
+CONECT   13   14   15
+CONECT   16   17
+END

@@ -1,0 +1,47 @@
+HETATM    1  C1  MMV A 205      15.583  31.931  13.272  1.00 32.31           C  
+HETATM    2  N2  MMV A 205      14.264  32.195  13.164  1.00 36.12           N  
+HETATM    3  C3  MMV A 205      13.827  33.456  13.391  1.00 34.88           C  
+HETATM    4  N4  MMV A 205      14.692  34.445  13.732  1.00 38.18           N  
+HETATM    5  C5  MMV A 205      16.018  34.223  13.851  1.00 38.76           C  
+HETATM    6  C6  MMV A 205      16.478  32.940  13.616  1.00 41.14           C  
+HETATM    7  N7  MMV A 205      16.101  30.573  13.020  1.00 33.69           N  
+HETATM    8  N8  MMV A 205      12.380  33.752  13.276  1.00 34.64           N  
+HETATM    9  C9  MMV A 205      16.995  35.330  14.238  1.00 36.29           C  
+HETATM   10  C10 MMV A 205      16.473  36.106  15.425  1.00 31.09           C  
+HETATM   11  O11 MMV A 205      17.809  32.658  13.736  1.00 32.66           O  
+HETATM   12  C12 MMV A 205      18.245  32.041  14.956  1.00 36.52           C  
+HETATM   13  C13 MMV A 205      19.765  31.915  14.950  1.00 45.73           C  
+HETATM   14  C14 MMV A 205      20.454  33.278  14.847  1.00 45.47           C  
+HETATM   15  O15 MMV A 205      20.181  34.036  16.025  1.00 42.01           O  
+HETATM   16  C16 MMV A 205      20.733  35.278  16.215  1.00 42.92           C  
+HETATM   17  C17 MMV A 205      20.435  35.982  17.365  1.00 38.65           C  
+HETATM   18  C18 MMV A 205      20.996  37.235  17.591  1.00 40.78           C  
+HETATM   19  C19 MMV A 205      21.853  37.792  16.648  1.00 45.16           C  
+HETATM   20  C20 MMV A 205      22.150  37.085  15.486  1.00 48.95           C  
+HETATM   21  C21 MMV A 205      21.590  35.825  15.266  1.00 42.72           C  
+HETATM   22  C22 MMV A 205      19.507  35.371  18.385  1.00 41.36           C  
+HETATM   23  C23 MMV A 205      20.022  35.677  19.785  1.00 50.71           C  
+HETATM   24  C24 MMV A 205      19.054  35.127  20.801  1.00 60.65           C  
+HETATM   25  O25 MMV A 205      18.090  34.450  20.394  1.00 61.41           O  
+HETATM   26  O26 MMV A 205      19.254  35.366  22.011  1.00 68.09           O  
+CONECT    1    2    6    7
+CONECT    2    3
+CONECT    3    4    8
+CONECT    4    5
+CONECT    5    6    9
+CONECT    6   11
+CONECT    9   10
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   21
+CONECT   17   18   22
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   26
+END

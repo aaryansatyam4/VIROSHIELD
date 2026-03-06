@@ -1,0 +1,29 @@
+COMPND    PHN
+HETATM    1  N   UNL     1      18.089 -12.858  67.652  1.00  0.00           N  
+HETATM    2  C   UNL     1      18.820 -11.824  68.152  1.00  0.00           C  
+HETATM    3  C   UNL     1      20.198 -11.941  68.378  1.00  0.00           C  
+HETATM    4  C   UNL     1      20.839 -13.155  68.113  1.00  0.00           C  
+HETATM    5  C   UNL     1      20.107 -14.251  67.616  1.00  0.00           C  
+HETATM    6  C   UNL     1      20.711 -15.484  67.331  1.00  0.00           C  
+HETATM    7  C   UNL     1      19.989 -16.572  66.827  1.00  0.00           C  
+HETATM    8  C   UNL     1      18.605 -16.485  66.583  1.00  0.00           C  
+HETATM    9  C   UNL     1      17.874 -17.576  66.080  1.00  0.00           C  
+HETATM   10  C   UNL     1      16.491 -17.447  65.873  1.00  0.00           C  
+HETATM   11  C   UNL     1      15.856 -16.207  66.149  1.00  0.00           C  
+HETATM   12  N   UNL     1      16.535 -15.125  66.634  1.00  0.00           N  
+HETATM   13  C   UNL     1      17.870 -15.209  66.862  1.00  0.00           C  
+HETATM   14  C   UNL     1      18.651 -14.056  67.380  1.00  0.00           C  
+CONECT    1    2    2   14
+CONECT    2    3
+CONECT    3    4    4
+CONECT    4    5
+CONECT    5    6   14   14
+CONECT    6    7    7
+CONECT    7    8
+CONECT    8    9   13   13
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   12
+CONECT   12   13
+CONECT   13   14
+END

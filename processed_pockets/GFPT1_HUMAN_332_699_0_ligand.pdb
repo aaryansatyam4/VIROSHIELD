@@ -1,0 +1,26 @@
+COMPND    1FQO_F6R_A_1267
+HETATM    1  C1  UNL     1      71.032  26.565   7.735  1.00  0.00           C  
+HETATM    2  C2  UNL     1      71.861  27.561   6.988  1.00  0.00           C  
+HETATM    3  C3  UNL     1      71.811  27.631   5.491  1.00  0.00           C  
+HETATM    4  C4  UNL     1      70.417  28.018   4.990  1.00  0.00           C  
+HETATM    5  C5  UNL     1      69.982  29.405   5.477  1.00  0.00           C  
+HETATM    6  C6  UNL     1      70.739  30.541   4.794  1.00  0.00           C  
+HETATM    7  O1  UNL     1      70.121  27.230   8.557  1.00  0.00           O  
+HETATM    8  O2  UNL     1      72.593  28.321   7.601  1.00  0.00           O  
+HETATM    9  O3  UNL     1      72.193  26.400   4.952  1.00  0.00           O  
+HETATM   10  O4  UNL     1      70.363  27.949   3.595  1.00  0.00           O  
+HETATM   11  O5  UNL     1      68.614  29.567   5.261  1.00  0.00           O  
+HETATM   12  O6  UNL     1      72.057  30.596   5.255  1.00  0.00           O  
+HETATM   13  P1  UNL     1      72.191  32.069   6.087  1.00  0.00           P  
+HETATM   14  O7  UNL     1      71.731  33.350   5.082  1.00  0.00           O  
+HETATM   15  O8  UNL     1      73.799  32.288   6.563  1.00  0.00           O  
+HETATM   16  O9  UNL     1      71.310  32.048   7.316  1.00  0.00           O  
+CONECT    1    2    7
+CONECT    2    3    8    8
+CONECT    3    4    9
+CONECT    4    5   10
+CONECT    5    6   11
+CONECT    6   12
+CONECT   12   13
+CONECT   13   14   15   16   16
+END

@@ -1,0 +1,24 @@
+COMPND    2AQB_TL6_A_600
+HETATM    1  O1  UNL     1      41.840  74.791  62.164  1.00  0.00           O  
+HETATM    2  C1  UNL     1      41.125  74.071  61.419  1.00  0.00           C  
+HETATM    3  S1  UNL     1      41.237  74.115  59.644  1.00  0.00           S  
+HETATM    4  C2  UNL     1      39.907  72.845  59.551  1.00  0.00           C  
+HETATM    5  C3  UNL     1      40.445  71.603  58.857  1.00  0.00           C  
+HETATM    6  C4  UNL     1      39.506  72.495  60.956  1.00  0.00           C  
+HETATM    7  O2  UNL     1      38.520  71.550  61.226  1.00  0.00           O  
+HETATM    8  C5  UNL     1      40.142  73.138  61.921  1.00  0.00           C  
+HETATM    9  C6  UNL     1      39.876  72.924  63.373  1.00  0.00           C  
+HETATM   10  C7  UNL     1      38.718  73.387  58.815  1.00  0.00           C  
+HETATM   11  C8  UNL     1      38.488  74.690  58.695  1.00  0.00           C  
+HETATM   12  C9  UNL     1      37.315  75.159  57.969  1.00  0.00           C  
+HETATM   13  C10 UNL     1      37.400  76.229  57.194  1.00  0.00           C  
+CONECT    1    2    2
+CONECT    2    3    8
+CONECT    3    4
+CONECT    4    5    6   10
+CONECT    6    7    8    8
+CONECT    8    9
+CONECT   10   11   11
+CONECT   11   12
+CONECT   12   13   13
+END

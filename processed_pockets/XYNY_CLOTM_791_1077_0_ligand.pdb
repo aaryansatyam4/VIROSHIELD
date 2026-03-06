@@ -1,0 +1,29 @@
+COMPND    __1gkl_A_rec_1wb4_sxx_lig_docked.pdb
+HETATM    1  C1  UNL     1      11.691 113.889  16.326  1.00  0.00           C  
+HETATM    2  C2  UNL     1      11.486 112.788  15.420  1.00  0.00           C  
+HETATM    3  C3  UNL     1      10.944 113.003  14.147  1.00  0.00           C  
+HETATM    4  C4  UNL     1      10.564 114.314  13.773  1.00  0.00           C  
+HETATM    5  C5  UNL     1      10.800 115.418  14.630  1.00  0.00           C  
+HETATM    6  C6  UNL     1      11.325 115.203  15.920  1.00  0.00           C  
+HETATM    7  O1  UNL     1      12.198 113.712  17.584  1.00  0.00           O  
+HETATM    8  O2  UNL     1      11.503 116.171  16.878  1.00  0.00           O  
+HETATM    9  C7  UNL     1      10.370 116.789  17.553  1.00  0.00           C  
+HETATM   10  O3  UNL     1      11.809 111.596  15.945  1.00  0.00           O  
+HETATM   11  C8  UNL     1      11.451 110.401  15.243  1.00  0.00           C  
+HETATM   12  C9  UNL     1       9.943 114.447  12.429  1.00  0.00           C  
+HETATM   13  C10 UNL     1       9.169 113.506  11.870  1.00  0.00           C  
+HETATM   14  C11 UNL     1       8.572 113.724  10.515  1.00  0.00           C  
+HETATM   15  O4  UNL     1       9.479 113.775   9.527  1.00  0.00           O  
+HETATM   16  O5  UNL     1       7.353 113.864  10.282  1.00  0.00           O  
+CONECT    1    2    2    6    7
+CONECT    2    3   10
+CONECT    3    4    4
+CONECT    4    5   12
+CONECT    5    6    6
+CONECT    6    8
+CONECT    8    9
+CONECT   10   11
+CONECT   12   13   13
+CONECT   13   14
+CONECT   14   15   16   16
+END

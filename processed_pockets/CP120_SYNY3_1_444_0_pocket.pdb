@@ -1,0 +1,38 @@
+HETATM    1  C1  REA A1445      43.045  -0.624  10.491  1.00  9.60           C  
+HETATM    2  C2  REA A1445      42.478  -1.839  11.219  1.00  9.23           C  
+HETATM    3  C3  REA A1445      43.550  -2.464  12.113  1.00 11.87           C  
+HETATM    4  C4  REA A1445      43.906  -1.507  13.248  1.00 12.61           C  
+HETATM    5  C5  REA A1445      44.080  -0.076  12.783  1.00 12.64           C  
+HETATM    6  C6  REA A1445      43.673   0.344  11.511  1.00 11.85           C  
+HETATM    7  C7  REA A1445      43.852   1.759  11.161  1.00 12.87           C  
+HETATM    8  C8  REA A1445      45.178   2.252  10.788  1.00 13.46           C  
+HETATM    9  C9  REA A1445      45.356   3.706  10.593  1.00 15.97           C  
+HETATM   10  C10 REA A1445      46.718   4.188  10.682  1.00 17.23           C  
+HETATM   11  C11 REA A1445      47.317   5.128   9.751  1.00 19.25           C  
+HETATM   12  C12 REA A1445      48.778   5.099   9.809  1.00 21.37           C  
+HETATM   13  C13 REA A1445      49.598   6.307   9.886  1.00 23.82           C  
+HETATM   14  C14 REA A1445      50.983   6.060   9.805  1.00 26.04           C  
+HETATM   15  C15 REA A1445      51.965   7.002   9.301  1.00 27.61           C  
+HETATM   16  C16 REA A1445      44.143  -1.066   9.505  1.00 10.58           C  
+HETATM   17  C17 REA A1445      41.884   0.019   9.732  1.00  9.65           C  
+HETATM   18  C18 REA A1445      44.690   0.901  13.758  1.00 14.68           C  
+HETATM   19  C19 REA A1445      44.206   4.657  10.361  1.00 15.51           C  
+HETATM   20  C20 REA A1445      48.984   7.672  10.058  1.00 24.88           C  
+HETATM   21  O1  REA A1445      51.616   8.098   8.832  1.00 32.86           O  
+HETATM   22  O2  REA A1445      53.171   6.714   9.339  1.00 28.91           O  
+CONECT    1    2    6   16   17
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6   18
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   19
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   20
+CONECT   14   15
+CONECT   15   21   22
+END

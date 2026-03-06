@@ -1,0 +1,32 @@
+HETATM    1  OAD 5E4 A 501      -7.411  12.978  93.859  1.00 47.49           O  
+HETATM    2  CAP 5E4 A 501      -7.828  11.962  93.254  1.00 46.13           C  
+HETATM    3  OAQ 5E4 A 501      -7.165  10.898  93.313  1.00 48.39           O  
+HETATM    4  CAI 5E4 A 501      -9.135  12.046  92.467  1.00 58.21           C  
+HETATM    5  CAH 5E4 A 501      -9.777  10.963  92.062  1.00 34.25           C  
+HETATM    6  CAA 5E4 A 501     -11.091  11.099  91.287  1.00 41.31           C  
+HETATM    7  CAB 5E4 A 501     -11.561  12.300  91.011  1.00 66.84           C  
+HETATM    8  CAC 5E4 A 501     -10.804  13.551  91.472  1.00 71.13           C  
+HETATM    9  CAJ 5E4 A 501      -9.678  13.433  92.146  1.00 49.59           C  
+HETATM   10  NAK 5E4 A 501      -8.902  14.567  92.611  1.00 49.63           N  
+HETATM   11  CAL 5E4 A 501      -8.956  15.906  92.037  1.00 40.06           C  
+HETATM   12  CAM 5E4 A 501     -10.136  16.558  92.093  1.00 38.57           C  
+HETATM   13  CAN 5E4 A 501     -10.243  17.827  91.585  1.00 83.12           C  
+HETATM   14  BR  5E4 A 501     -12.012  18.595  91.685  1.00117.55          BR  
+HETATM   15  CAG 5E4 A 501      -9.154  18.501  91.056  1.00 36.03           C  
+HETATM   16  CAF 5E4 A 501      -7.937  17.855  91.005  1.00 41.60           C  
+HETATM   17  CAE 5E4 A 501      -7.838  16.562  91.513  1.00 72.75           C  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   17
+CONECT   12   13
+CONECT   13   14   15
+CONECT   15   16
+CONECT   16   17
+END

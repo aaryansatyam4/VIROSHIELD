@@ -1,0 +1,22 @@
+COMPND    PPY
+HETATM    1  C   UNL     1      13.707  54.416  28.914  1.00  0.00           C  
+HETATM    2  O   UNL     1      14.611  55.275  29.425  1.00  0.00           O  
+HETATM    3  O   UNL     1      12.880  54.816  28.118  1.00  0.00           O  
+HETATM    4  C   UNL     1      13.719  52.971  29.335  1.00  0.00           C  
+HETATM    5  O   UNL     1      14.705  52.497  29.877  1.00  0.00           O  
+HETATM    6  C   UNL     1      12.499  52.102  29.097  1.00  0.00           C  
+HETATM    7  C   UNL     1      11.482  52.096  30.216  1.00  0.00           C  
+HETATM    8  C   UNL     1      10.647  53.225  30.439  1.00  0.00           C  
+HETATM    9  C   UNL     1       9.706  53.206  31.484  1.00  0.00           C  
+HETATM   10  C   UNL     1       9.593  52.066  32.308  1.00  0.00           C  
+HETATM   11  C   UNL     1      10.419  50.945  32.086  1.00  0.00           C  
+HETATM   12  C   UNL     1      11.362  50.957  31.045  1.00  0.00           C  
+CONECT    1    2    2    3    4
+CONECT    4    5    5    6
+CONECT    6    7
+CONECT    7    8    8   12
+CONECT    8    9
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   12
+END

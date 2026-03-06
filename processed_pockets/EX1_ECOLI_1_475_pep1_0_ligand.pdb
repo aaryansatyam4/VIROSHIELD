@@ -1,0 +1,37 @@
+COMPND    PocketomeGenCross_Output/EX1_ECOLI_1_475_pep1_0/3hl8_bbp_lig.pdb
+HETATM    1 CL1  UNL     1      27.732   1.687  56.705  1.00  0.00          CL  
+HETATM    2  C1  UNL     1      29.388   2.004  57.171  1.00  0.00           C  
+HETATM    3  C2  UNL     1      29.678   2.423  58.485  1.00  0.00           C  
+HETATM    4  C3  UNL     1      31.002   2.682  58.877  1.00  0.00           C  
+HETATM    5  C4  UNL     1      30.420   1.840  56.233  1.00  0.00           C  
+HETATM    6  C5  UNL     1      31.723   2.103  56.647  1.00  0.00           C  
+HETATM    7  S1  UNL     1      33.142   1.996  55.758  1.00  0.00           S  
+HETATM    8  C6  UNL     1      32.019   2.516  57.937  1.00  0.00           C  
+HETATM    9  N1  UNL     1      33.334   2.733  58.189  1.00  0.00           N  
+HETATM   10  C7  UNL     1      34.080   2.488  57.083  1.00  0.00           C  
+HETATM   11  N2  UNL     1      35.501   2.639  57.059  1.00  0.00           N  
+HETATM   12  C8  UNL     1      36.354   2.414  55.904  1.00  0.00           C  
+HETATM   13  O1  UNL     1      36.375   1.054  55.593  1.00  0.00           O  
+HETATM   14  N3  UNL     1      36.230   3.118  58.144  1.00  0.00           N  
+HETATM   15  C9  UNL     1      37.472   3.237  57.822  1.00  0.00           C  
+HETATM   16  C10 UNL     1      37.737   2.838  56.399  1.00  0.00           C  
+HETATM   17  C11 UNL     1      38.510   3.735  58.794  1.00  0.00           C  
+HETATM   18  C12 UNL     1      38.148   5.133  59.259  1.00  0.00           C  
+HETATM   19  C13 UNL     1      38.568   2.814  59.998  1.00  0.00           C  
+HETATM   20  C14 UNL     1      39.890   3.783  58.160  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    3    5
+CONECT    3    4
+CONECT    4    8    8
+CONECT    5    6    6
+CONECT    6    7    8
+CONECT    7   10
+CONECT    8    9
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   14
+CONECT   12   13   16
+CONECT   14   15   15
+CONECT   15   16   17
+CONECT   17   18   19   20
+END

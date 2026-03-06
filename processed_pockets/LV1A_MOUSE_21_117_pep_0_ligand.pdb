@@ -1,0 +1,30 @@
+COMPND    __2bjm_L_rec_1oay_fur_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1      39.598  51.714  78.942  1.00  0.00           C  
+HETATM    2  C2  UNL     1      42.018  52.403  81.512  1.00  0.00           C  
+HETATM    3  O1  UNL     1      41.441  51.347  80.607  1.00  0.00           O  
+HETATM    4  C3  UNL     1      41.330  53.347  81.140  1.00  0.00           C  
+HETATM    5  C4  UNL     1      40.554  53.200  80.349  1.00  0.00           C  
+HETATM    6  C5  UNL     1      40.397  52.103  79.831  1.00  0.00           C  
+HETATM    7  O2  UNL     1      43.249  51.263  82.961  1.00  0.00           O1-
+HETATM    8  N1  UNL     1      42.986  52.329  82.424  1.00  0.00           N1+
+HETATM    9  O3  UNL     1      43.616  53.330  82.725  1.00  0.00           O  
+HETATM   10  N2  UNL     1      38.718  51.453  78.129  1.00  0.00           N  
+HETATM   11  N3  UNL     1      37.580  52.281  77.978  1.00  0.00           N  
+HETATM   12  C6  UNL     1      36.377  51.776  77.796  1.00  0.00           C  
+HETATM   13  O4  UNL     1      36.057  50.599  77.726  1.00  0.00           O  
+HETATM   14  C7  UNL     1      37.639  53.736  78.021  1.00  0.00           C  
+HETATM   15  C8  UNL     1      36.160  54.105  77.812  1.00  0.00           C  
+HETATM   16  O5  UNL     1      35.443  52.872  77.684  1.00  0.00           O  
+CONECT    1    6   10
+CONECT    2    3    4    4    8
+CONECT    3    6
+CONECT    4    5
+CONECT    5    6    6
+CONECT    7    8
+CONECT    8    9    9
+CONECT   10   11
+CONECT   11   12   14
+CONECT   12   13   13   16
+CONECT   14   15   15
+CONECT   15   16
+END

@@ -1,0 +1,16 @@
+HETATM    1  N   OCS A1500      19.726   5.683 -30.607  1.00 56.66           N  
+HETATM    2  CA  OCS A1500      20.746   6.556 -31.205  1.00 60.84           C  
+HETATM    3  CB  OCS A1500      20.618   7.982 -30.586  1.00 63.27           C  
+HETATM    4  SG  OCS A1500      19.552   9.239 -31.457  1.00 68.82           S  
+HETATM    5  C   OCS A1500      22.181   5.894 -31.047  1.00 59.15           C  
+HETATM    6  O   OCS A1500      22.803   5.567 -32.084  1.00 54.51           O  
+HETATM    7  OXT OCS A1500      22.628   5.699 -29.898  1.00 57.97           O  
+HETATM    8  OD1 OCS A1500      20.393  10.079 -32.284  1.00 64.12           O  
+HETATM    9  OD2 OCS A1500      18.513   8.571 -32.313  1.00 67.25           O  
+HETATM   10  OD3 OCS A1500      18.850  10.135 -30.484  1.00 65.49           O  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4
+CONECT    4    8    9   10
+CONECT    5    6    7
+END

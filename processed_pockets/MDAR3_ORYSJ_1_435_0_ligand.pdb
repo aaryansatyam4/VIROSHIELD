@@ -1,0 +1,22 @@
+COMPND    2POQ_ISD_X_500
+HETATM    1  O1  UNL     1     -48.040  -5.339 -28.035  1.00  0.00           O  
+HETATM    2  C1  UNL     1     -47.508  -6.434 -27.715  1.00  0.00           C  
+HETATM    3  C2  UNL     1     -48.203  -7.648 -27.383  1.00  0.00           C  
+HETATM    4  O2  UNL     1     -49.580  -7.832 -27.348  1.00  0.00           O  
+HETATM    5  C3  UNL     1     -47.293  -8.563 -27.108  1.00  0.00           C  
+HETATM    6  O3  UNL     1     -47.592  -9.865 -26.722  1.00  0.00           O  
+HETATM    7  O4  UNL     1     -46.143  -6.646 -27.631  1.00  0.00           O  
+HETATM    8  C4  UNL     1     -45.898  -8.002 -27.246  1.00  0.00           C  
+HETATM    9  C5  UNL     1     -45.117  -8.734 -28.340  1.00  0.00           C  
+HETATM   10  O5  UNL     1     -45.995  -9.474 -29.133  1.00  0.00           O  
+HETATM   11  C6  UNL     1     -44.093  -9.681 -27.736  1.00  0.00           C  
+HETATM   12  O6  UNL     1     -44.738 -10.740 -27.095  1.00  0.00           O  
+CONECT    1    2    2
+CONECT    2    3    7
+CONECT    3    4    5    5
+CONECT    5    6    8
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   11   12
+END

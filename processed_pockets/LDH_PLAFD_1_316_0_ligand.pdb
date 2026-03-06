@@ -1,0 +1,17 @@
+COMPND    __2x8l_A_rec_1t25_gag_lig_min.pdb
+HETATM    1  O1  UNL     1      23.867  19.196   5.408  1.00  0.00           O  
+HETATM    2  C1  UNL     1      25.074  19.044   4.988  1.00  0.00           C  
+HETATM    3  C2  UNL     1      25.677  19.709   3.807  1.00  0.00           C  
+HETATM    4  C3  UNL     1      26.981  19.238   3.751  1.00  0.00           C  
+HETATM    5  O2  UNL     1      27.181  18.377   4.815  1.00  0.00           O  
+HETATM    6  N1  UNL     1      26.001  18.256   5.546  1.00  0.00           N  
+HETATM    7  C4  UNL     1      25.033  20.670   2.886  1.00  0.00           C  
+HETATM    8  O3  UNL     1      23.853  20.966   2.978  1.00  0.00           O  
+HETATM    9  O4  UNL     1      25.744  21.145   2.019  1.00  0.00           O  
+CONECT    1    2    2
+CONECT    2    3    6
+CONECT    3    4    4    7
+CONECT    4    5
+CONECT    5    6
+CONECT    7    8    9    9
+END

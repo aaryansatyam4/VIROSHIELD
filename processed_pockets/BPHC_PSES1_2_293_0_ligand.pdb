@@ -1,0 +1,26 @@
+COMPND    __1kwb_B_rec_1kwc_bpy_lig_min.pdb
+HETATM    1  C1  UNL     1      81.284  38.165  16.660  1.00  0.00           C  
+HETATM    2  C2  UNL     1      82.550  38.840  16.634  1.00  0.00           C  
+HETATM    3  C3  UNL     1      82.691  40.233  16.268  1.00  0.00           C  
+HETATM    4  C4  UNL     1      81.466  40.849  15.957  1.00  0.00           C  
+HETATM    5  C5  UNL     1      80.198  40.197  15.980  1.00  0.00           C  
+HETATM    6  C6  UNL     1      80.098  38.836  16.335  1.00  0.00           C  
+HETATM    7  O1  UNL     1      81.541  42.147  15.578  1.00  0.00           O  
+HETATM    8  O2  UNL     1      83.806  41.159  16.178  1.00  0.00           O  
+HETATM    9  C7  UNL     1      83.619  37.988  17.037  1.00  0.00           C  
+HETATM   10  C8  UNL     1      84.211  38.250  18.285  1.00  0.00           C  
+HETATM   11  C9  UNL     1      85.419  37.594  18.647  1.00  0.00           C  
+HETATM   12  C10 UNL     1      86.058  36.648  17.794  1.00  0.00           C  
+HETATM   13  C11 UNL     1      85.470  36.368  16.547  1.00  0.00           C  
+HETATM   14  C12 UNL     1      84.241  37.021  16.178  1.00  0.00           C  
+CONECT    1    2    6    6
+CONECT    2    3    3    9
+CONECT    3    4    8
+CONECT    4    5    5    7
+CONECT    5    6
+CONECT    9   10   10   14
+CONECT   10   11
+CONECT   11   12   12
+CONECT   12   13
+CONECT   13   14   14
+END

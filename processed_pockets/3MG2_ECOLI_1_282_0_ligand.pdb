@@ -1,0 +1,20 @@
+COMPND    __3cwa_A_rec_1pvs_7hp_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1      26.560  28.362  22.943  1.00  0.00           C  
+HETATM    2  C2  UNL     1      27.016  29.612  22.536  1.00  0.00           C  
+HETATM    3  N1  UNL     1      28.304  29.945  22.202  1.00  0.00           N  
+HETATM    4  C3  UNL     1      28.414  31.279  21.844  1.00  0.00           C  
+HETATM    5  N2  UNL     1      27.319  32.147  21.839  1.00  0.00           N  
+HETATM    6  C4  UNL     1      26.015  31.797  22.181  1.00  0.00           C  
+HETATM    7  O1  UNL     1      25.137  32.625  22.141  1.00  0.00           O  
+HETATM    8  C5  UNL     1      25.905  30.453  22.543  1.00  0.00           C  
+HETATM    9  N3  UNL     1      24.821  29.709  22.942  1.00  0.00           N  
+HETATM   10  N4  UNL     1      25.270  28.510  23.157  1.00  0.00           N  
+CONECT    1    2    2   10
+CONECT    2    3    8
+CONECT    3    4    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7    7    8
+CONECT    8    9    9
+CONECT    9   10
+END

@@ -1,0 +1,31 @@
+HETATM    1  CAF 0SY A 601      20.360  17.808  59.799  1.00 36.45           C  
+HETATM    2  CAO 0SY A 601      19.216  18.326  59.336  1.00 36.59           C  
+HETATM    3  CAL 0SY A 601      17.982  17.824  59.275  1.00 36.98           C  
+HETATM    4  OAA 0SY A 601      17.765  16.700  59.698  1.00 42.51           O  
+HETATM    5  NAJ 0SY A 601      16.899  18.541  58.720  1.00 37.74           N  
+HETATM    6  CAG 0SY A 601      17.120  19.910  58.160  1.00 34.51           C  
+HETATM    7  CAH 0SY A 601      18.590  20.374  58.188  1.00 35.15           C  
+HETATM    8  CAP 0SY A 601      19.528  19.531  58.840  1.00 37.28           C  
+HETATM    9  NAK 0SY A 601      20.835  19.774  58.989  1.00 36.76           N  
+HETATM   10  CAN 0SY A 601      21.340  18.713  59.626  1.00 37.00           C  
+HETATM   11  CAM 0SY A 601      22.641  18.511  59.949  1.00 36.58           C  
+HETATM   12  CAD 0SY A 601      23.097  17.277  60.411  1.00 35.14           C  
+HETATM   13  CAB 0SY A 601      24.447  17.060  60.716  1.00 37.37           C  
+HETATM   14  NAI 0SY A 601      25.393  18.085  60.535  1.00 40.34           N  
+HETATM   15  CAC 0SY A 601      24.929  19.343  60.074  1.00 39.57           C  
+HETATM   16  CAE 0SY A 601      23.573  19.540  59.793  1.00 36.63           C  
+CONECT    1    2   10
+CONECT    2    3    8
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   16
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+END

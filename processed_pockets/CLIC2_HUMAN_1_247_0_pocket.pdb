@@ -1,0 +1,22 @@
+HETATM    1  C6  MNB A 401       1.354  20.869  24.176  1.00 39.75           C  
+HETATM    2  C1  MNB A 401       2.066  21.396  23.111  1.00 39.54           C  
+HETATM    3  C2  MNB A 401       1.894  22.834  22.790  1.00 40.07           C  
+HETATM    4  C3  MNB A 401       1.015  23.629  23.540  1.00 40.27           C  
+HETATM    5  C4  MNB A 401       0.341  23.048  24.611  1.00 41.33           C  
+HETATM    6  C5  MNB A 401       0.528  21.696  24.914  1.00 41.94           C  
+HETATM    7  S5  MNB A 401      -0.297  20.946  26.220  1.00 45.20           S  
+HETATM    8  C10 MNB A 401       2.989  20.459  22.348  1.00 39.40           C  
+HETATM    9  O12 MNB A 401       2.562  19.649  21.519  1.00 37.76           O  
+HETATM   10  O11 MNB A 401       4.297  20.527  22.629  1.00 39.17           O  
+HETATM   11  N7  MNB A 401       2.576  23.427  21.722  1.00 41.12           N  
+HETATM   12  O9  MNB A 401       2.483  24.624  21.632  1.00 41.70           O  
+HETATM   13  O8  MNB A 401       3.241  22.791  20.896  1.00 42.93           O  
+CONECT    1    2    6
+CONECT    2    3    8
+CONECT    3    4   11
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    8    9   10
+CONECT   11   12   13
+END

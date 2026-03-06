@@ -1,0 +1,35 @@
+COMPND    __4ory_D_rec_3o2y_plm_lig_docked.pdb
+HETATM    1  C1  UNL     1      -6.275   7.260   0.338  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -5.427   6.633  -0.757  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -6.063   5.369  -1.309  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -7.461   5.244  -0.802  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -8.017   3.838  -0.566  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -7.573   3.434   0.855  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -7.965   2.047   1.296  1.00  0.00           C  
+HETATM    8  O1  UNL     1      -8.665   1.899   2.356  1.00  0.00           O  
+HETATM    9  O2  UNL     1      -7.616   1.040   0.644  1.00  0.00           O  
+HETATM   10  C8  UNL     1      -6.484   8.758   0.088  1.00  0.00           C  
+HETATM   11  C9  UNL     1      -6.154   9.512   1.372  1.00  0.00           C  
+HETATM   12  C10 UNL     1      -6.640  10.951   1.574  1.00  0.00           C  
+HETATM   13  C11 UNL     1      -8.082  10.896   2.098  1.00  0.00           C  
+HETATM   14  C12 UNL     1      -8.175  11.114   3.598  1.00  0.00           C  
+HETATM   15  C13 UNL     1      -8.553   9.823   4.322  1.00  0.00           C  
+HETATM   16  C14 UNL     1      -7.387   9.009   4.876  1.00  0.00           C  
+HETATM   17  C15 UNL     1      -6.569   9.819   5.856  1.00  0.00           C  
+HETATM   18  C16 UNL     1      -7.404  10.214   7.069  1.00  0.00           C  
+CONECT    1    2   10
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8    9    9
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+END

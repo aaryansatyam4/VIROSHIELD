@@ -1,0 +1,10 @@
+COMPND    __3log_B_rec_2g5f_pyr_lig_docked.pdb
+HETATM    1  C1  UNL     1      14.976  84.212  28.926  1.00  0.00           C  
+HETATM    2  O1  UNL     1      14.450  83.889  27.435  1.00  0.00           O  
+HETATM    3  O2  UNL     1      14.890  85.317  29.497  1.00  0.00           O  
+HETATM    4  C2  UNL     1      15.611  83.038  29.604  1.00  0.00           C  
+HETATM    5  O3  UNL     1      16.414  82.286  29.028  1.00  0.00           O  
+HETATM    6  C3  UNL     1      15.180  82.829  31.047  1.00  0.00           C  
+CONECT    1    2    3    3    4
+CONECT    4    5    5    6
+END

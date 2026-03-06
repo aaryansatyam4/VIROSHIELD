@@ -1,0 +1,46 @@
+HETATM    1  CM  POI A1513      39.108   6.603  55.279  1.00 26.80           C  
+HETATM    2  CT  POI A1513      37.667   6.423  55.758  1.00 26.92           C  
+HETATM    3  OT  POI A1513      36.728   7.016  55.229  1.00 27.49           O  
+HETATM    4  N   POI A1513      37.457   5.587  56.821  1.00 26.89           N  
+HETATM    5  CA  POI A1513      36.281   5.814  57.801  1.00 25.94           C  
+HETATM    6  C   POI A1513      36.417   7.166  58.551  1.00 25.79           C  
+HETATM    7  OA  POI A1513      37.550   7.668  58.739  1.00 24.01           O  
+HETATM    8  OB  POI A1513      35.369   7.763  58.940  1.00 24.57           O  
+HETATM    9  CB  POI A1513      36.224   4.643  58.760  1.00 25.94           C  
+HETATM   10  CG  POI A1513      35.760   3.321  58.255  1.00 27.08           C  
+HETATM   11  CD  POI A1513      35.651   2.077  59.108  1.00 27.31           C  
+HETATM   12  N4  POI A1513      34.912   2.094  60.248  1.00 26.15           N  
+HETATM   13  C4A POI A1513      33.583   1.859  60.279  1.00 22.73           C  
+HETATM   14  C4  POI A1513      32.831   1.554  61.397  1.00 21.59           C  
+HETATM   15  C3  POI A1513      33.244   0.517  62.321  1.00 21.15           C  
+HETATM   16  O3  POI A1513      34.391  -0.220  62.150  1.00 24.98           O  
+HETATM   17  C2  POI A1513      32.440   0.214  63.490  1.00 20.55           C  
+HETATM   18  C2A POI A1513      32.842  -0.886  64.495  1.00 19.20           C  
+HETATM   19  N1  POI A1513      31.257   0.947  63.708  1.00 17.64           N  
+HETATM   20  C6  POI A1513      30.825   1.970  62.823  1.00 19.00           C  
+HETATM   21  C5  POI A1513      31.571   2.291  61.685  1.00 18.23           C  
+HETATM   22  C5A POI A1513      30.983   3.443  60.789  1.00 16.94           C  
+HETATM   23  P   POI A1513      30.288   3.508  58.177  1.00 15.17           P  
+HETATM   24  OP1 POI A1513      29.444   4.718  58.291  1.00 14.27           O  
+HETATM   25  OP2 POI A1513      31.714   3.785  57.707  1.00 15.91           O  
+HETATM   26  OP3 POI A1513      29.634   2.459  57.282  1.00 15.91           O  
+HETATM   27  OP4 POI A1513      30.391   2.758  59.653  1.00 18.68           O  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6    9
+CONECT    6    7    8
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   21
+CONECT   15   16   17
+CONECT   17   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   27
+CONECT   23   24   25   26   27
+END

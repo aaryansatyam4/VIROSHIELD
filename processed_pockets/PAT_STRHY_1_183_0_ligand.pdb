@@ -1,0 +1,19 @@
+COMPND    __5t7d_A_rec_5t7e_ppq_lig_it1_it2_docked.pdb
+HETATM    1  N1  UNL     1     -42.634  -2.220 -24.862  1.00  0.00           N  
+HETATM    2  C1  UNL     1     -43.504  -3.323 -25.102  1.00  0.00           C  
+HETATM    3  C2  UNL     1     -44.727  -3.191 -24.219  1.00  0.00           C  
+HETATM    4  O1  UNL     1     -45.062  -2.062 -23.772  1.00  0.00           O  
+HETATM    5  O2  UNL     1     -45.408  -4.211 -23.928  1.00  0.00           O  
+HETATM    6  C3  UNL     1     -42.789  -4.631 -24.816  1.00  0.00           C  
+HETATM    7  C4  UNL     1     -43.043  -5.638 -25.918  1.00  0.00           C  
+HETATM    8  P1  UNL     1     -43.643  -7.204 -25.211  1.00  0.00           P  
+HETATM    9  C5  UNL     1     -43.695  -8.484 -26.496  1.00  0.00           C  
+HETATM   10  O3  UNL     1     -45.000  -7.012 -24.652  1.00  0.00           O  
+HETATM   11  O4  UNL     1     -42.658  -7.658 -24.064  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10   11   11
+END

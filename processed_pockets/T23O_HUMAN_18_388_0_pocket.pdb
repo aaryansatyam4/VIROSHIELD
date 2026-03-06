@@ -1,0 +1,31 @@
+HETATM    1  O   NFK C 402      33.330 -22.471 -29.480  1.00 80.85           O  
+HETATM    2  C   NFK C 402      33.425 -22.367 -28.231  1.00 84.86           C  
+HETATM    3  OXT NFK C 402      34.404 -21.769 -27.724  1.00 85.88           O  
+HETATM    4  CA  NFK C 402      32.360 -22.957 -27.345  1.00 88.75           C  
+HETATM    5  N   NFK C 402      32.860 -23.258 -26.049  1.00 94.84           N  
+HETATM    6  CB  NFK C 402      31.223 -21.987 -27.207  1.00 88.77           C  
+HETATM    7  CG  NFK C 402      29.946 -22.755 -27.290  1.00 92.26           C  
+HETATM    8  OD1 NFK C 402      29.905 -23.744 -27.999  1.00101.04           O  
+HETATM    9  CD2 NFK C 402      28.703 -22.372 -26.524  1.00 84.14           C  
+HETATM   10  CAJ NFK C 402      28.357 -21.039 -26.316  1.00 79.01           C  
+HETATM   11  CAH NFK C 402      27.198 -20.739 -25.616  1.00 76.08           C  
+HETATM   12  CAG NFK C 402      26.389 -21.761 -25.139  1.00 71.78           C  
+HETATM   13  CAI NFK C 402      26.740 -23.086 -25.360  1.00 73.56           C  
+HETATM   14  CAO NFK C 402      27.902 -23.398 -26.057  1.00 76.05           C  
+HETATM   15  NAL NFK C 402      28.297 -24.746 -26.276  1.00 76.51           N  
+HETATM   16  CAF NFK C 402      29.048 -25.344 -25.219  1.00 71.83           C  
+HETATM   17  OAB NFK C 402      29.493 -26.479 -25.163  1.00 60.84           O  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7
+CONECT    7    8    9
+CONECT    9   10   14
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+END

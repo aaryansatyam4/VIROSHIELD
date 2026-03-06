@@ -1,0 +1,20 @@
+COMPND    TSU
+HETATM    1  S   UNL     1      -0.976  40.042  73.611  1.00  0.00           S  
+HETATM    2  O   UNL     1      -1.492  40.130  72.228  1.00  0.00           O  
+HETATM    3  O   UNL     1       0.158  39.098  73.670  1.00  0.00           O  
+HETATM    4  O   UNL     1      -0.546  41.393  74.053  1.00  0.00           O  
+HETATM    5  C   UNL     1      -2.125  39.553  74.594  1.00  0.00           C  
+HETATM    6  C   UNL     1      -2.122  38.246  75.060  1.00  0.00           C  
+HETATM    7  C   UNL     1      -3.125  37.824  75.922  1.00  0.00           C  
+HETATM    8  C   UNL     1      -4.116  38.720  76.314  1.00  0.00           C  
+HETATM    9  C   UNL     1      -4.114  40.028  75.851  1.00  0.00           C  
+HETATM   10  C   UNL     1      -3.112  40.444  74.983  1.00  0.00           C  
+HETATM   11  C   UNL     1      -5.197  38.265  77.250  1.00  0.00           C  
+CONECT    1    2    2    3    3
+CONECT    1    4    5
+CONECT    5    6    6   10
+CONECT    6    7
+CONECT    7    8    8
+CONECT    8    9   11
+CONECT    9   10   10
+END

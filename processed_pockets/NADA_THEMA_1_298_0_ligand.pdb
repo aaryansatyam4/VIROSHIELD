@@ -1,0 +1,26 @@
+COMPND    5F3D_5UK_A_302
+HETATM    1  C1  UNL     1      11.715   0.501  12.076  1.00  0.00           C  
+HETATM    2  C2  UNL     1      12.079   0.297  13.518  1.00  0.00           C  
+HETATM    3  O1  UNL     1      13.079   0.872  14.025  1.00  0.00           O  
+HETATM    4  O2  UNL     1      11.306  -0.547  14.304  1.00  0.00           O  
+HETATM    5  C3  UNL     1      12.490  -0.433  11.188  1.00  0.00           C  
+HETATM    6  N1  UNL     1      12.414  -0.274   9.908  1.00  0.00           N  
+HETATM    7  H1  UNL     1      11.884   0.467   9.535  1.00  0.00           H  
+HETATM    8  O3  UNL     1      14.674  -1.528  11.626  1.00  0.00           O  
+HETATM    9  C4  UNL     1      13.289  -1.548  11.732  1.00  0.00           C  
+HETATM   10  O4  UNL     1      12.728  -2.526  12.293  1.00  0.00           O  
+HETATM   11  C5  UNL     1      11.865   1.960  11.630  1.00  0.00           C  
+HETATM   12  C6  UNL     1      10.559   2.690  11.474  1.00  0.00           C  
+HETATM   13  O5  UNL     1       9.590   2.076  11.059  1.00  0.00           O  
+HETATM   14  C7  UNL     1      10.410   4.143  11.809  1.00  0.00           C  
+HETATM   15  O6  UNL     1      11.585   4.618  12.390  1.00  0.00           O  
+CONECT    1    2    5   11
+CONECT    2    3    3    4
+CONECT    5    6    6    9
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10   10
+CONECT   11   12
+CONECT   12   13   13   14
+CONECT   14   15
+END

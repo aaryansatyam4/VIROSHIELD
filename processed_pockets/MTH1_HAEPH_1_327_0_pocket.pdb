@@ -1,0 +1,47 @@
+HETATM    1  N   SAH A 328     -18.424  32.598  82.186  1.00 14.00           N  
+HETATM    2  CA  SAH A 328     -18.817  31.671  83.222  1.00 16.73           C  
+HETATM    3  CB  SAH A 328     -18.809  32.300  84.609  1.00 13.96           C  
+HETATM    4  CG  SAH A 328     -17.449  32.868  84.969  1.00 17.91           C  
+HETATM    5  SD  SAH A 328     -17.275  33.538  86.641  1.00 22.79           S  
+HETATM    6  C   SAH A 328     -20.216  31.310  82.804  1.00 17.33           C  
+HETATM    7  O   SAH A 328     -21.163  31.369  83.674  1.00 19.14           O  
+HETATM    8  OXT SAH A 328     -20.436  31.390  81.522  1.00 28.06           O  
+HETATM    9  C5' SAH A 328     -15.787  33.035  87.511  1.00 14.01           C  
+HETATM   10  C4' SAH A 328     -16.054  31.572  87.643  1.00  9.92           C  
+HETATM   11  O4' SAH A 328     -14.799  30.880  87.842  1.00 12.80           O  
+HETATM   12  C3' SAH A 328     -16.951  31.175  88.812  1.00 14.46           C  
+HETATM   13  O3' SAH A 328     -17.735  30.040  88.454  1.00 18.58           O  
+HETATM   14  C2' SAH A 328     -15.950  30.708  89.851  1.00 16.00           C  
+HETATM   15  O2' SAH A 328     -16.513  29.756  90.723  1.00 18.74           O  
+HETATM   16  C1' SAH A 328     -14.921  30.034  88.959  1.00 13.84           C  
+HETATM   17  N9  SAH A 328     -13.616  29.879  89.582  1.00 17.32           N  
+HETATM   18  C8  SAH A 328     -12.903  30.803  90.296  1.00 17.36           C  
+HETATM   19  N7  SAH A 328     -11.748  30.358  90.732  1.00 19.93           N  
+HETATM   20  C5  SAH A 328     -11.694  29.049  90.264  1.00 18.02           C  
+HETATM   21  C6  SAH A 328     -10.727  28.034  90.384  1.00 15.50           C  
+HETATM   22  N6  SAH A 328      -9.588  28.171  91.051  1.00 14.83           N  
+HETATM   23  N1  SAH A 328     -10.982  26.849  89.793  1.00 21.08           N  
+HETATM   24  C2  SAH A 328     -12.143  26.694  89.133  1.00 16.70           C  
+HETATM   25  N3  SAH A 328     -13.129  27.565  88.959  1.00 18.81           N  
+HETATM   26  C4  SAH A 328     -12.840  28.743  89.555  1.00 17.55           C  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4
+CONECT    4    5
+CONECT    5    9
+CONECT    6    7    8
+CONECT    9   10
+CONECT   10   11   12
+CONECT   11   16
+CONECT   12   13   14
+CONECT   14   15   16
+CONECT   16   17
+CONECT   17   18   26
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21   26
+CONECT   21   22   23
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26
+END

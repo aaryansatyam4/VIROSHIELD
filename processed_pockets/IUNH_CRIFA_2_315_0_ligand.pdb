@@ -1,0 +1,28 @@
+COMPND    __2mas_A_rec_2mas_pir_lig_docked.pdb
+HETATM    1  C1  UNL     1     105.483  35.093  82.632  1.00  0.00           C  
+HETATM    2  C2  UNL     1     105.221  35.989  83.830  1.00  0.00           C  
+HETATM    3  O1  UNL     1     105.483  35.300  85.042  1.00  0.00           O  
+HETATM    4  C3  UNL     1     103.728  36.354  83.749  1.00  0.00           C  
+HETATM    5  O2  UNL     1     102.947  35.533  84.600  1.00  0.00           O  
+HETATM    6  C4  UNL     1     103.352  36.141  82.304  1.00  0.00           C  
+HETATM    7  N1  UNL     1     104.196  35.012  81.954  1.00  0.00           N  
+HETATM    8  C5  UNL     1     107.326  36.760  82.059  1.00  0.00           C  
+HETATM    9  C6  UNL     1     106.653  35.544  81.775  1.00  0.00           C  
+HETATM   10  C7  UNL     1     107.067  34.764  80.671  1.00  0.00           C  
+HETATM   11  C8  UNL     1     107.908  35.322  79.698  1.00  0.00           C  
+HETATM   12  C9  UNL     1     108.533  36.569  79.958  1.00  0.00           C  
+HETATM   13  N2  UNL     1     109.352  37.109  79.049  1.00  0.00           N  
+HETATM   14  C10 UNL     1     108.315  37.237  81.184  1.00  0.00           C  
+HETATM   15  C11 UNL     1     103.614  37.318  81.352  1.00  0.00           C  
+HETATM   16  O3  UNL     1     103.703  36.858  80.004  1.00  0.00           O  
+CONECT    1    2    7    9
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7   15
+CONECT    8    9   14   14
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   12
+CONECT   12   13   14
+CONECT   15   16
+END

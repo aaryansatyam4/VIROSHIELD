@@ -1,0 +1,26 @@
+COMPND    1AWB_IPD_A_281
+HETATM    1  C1  UNL     1      -2.233  13.371  -1.056  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.922  14.466  -0.031  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -3.015  15.536  -0.058  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -4.394  14.925   0.207  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -4.697  13.819  -0.806  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -3.606  12.745  -0.790  1.00  0.00           C  
+HETATM    7  P1  UNL     1      -0.402  12.534  -2.494  1.00  0.00           P  
+HETATM    8  O1  UNL     1      -1.238  12.387  -1.024  1.00  0.00           O  
+HETATM    9  O2  UNL     1      -1.798  13.919   1.251  1.00  0.00           O  
+HETATM   10  O3  UNL     1      -2.736  16.526   0.887  1.00  0.00           O  
+HETATM   11  O4  UNL     1      -5.370  15.920   0.117  1.00  0.00           O  
+HETATM   12  O5  UNL     1      -5.930  13.236  -0.506  1.00  0.00           O  
+HETATM   13  O6  UNL     1      -3.882  11.785  -1.766  1.00  0.00           O  
+HETATM   14  O7  UNL     1       0.686  11.488  -2.551  1.00  0.00           O  
+HETATM   15  O8  UNL     1      -1.465  12.302  -3.790  1.00  0.00           O1-
+HETATM   16  O9  UNL     1       0.298  14.071  -2.607  1.00  0.00           O1-
+CONECT    1    2    6    8
+CONECT    2    3    9
+CONECT    3    4   10
+CONECT    4    5   11
+CONECT    5    6   12
+CONECT    6   13
+CONECT    7    8   14   14   15
+CONECT    7   16
+END

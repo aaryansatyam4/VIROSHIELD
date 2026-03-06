@@ -1,0 +1,30 @@
+COMPND    2NWW_TB1_A_423
+HETATM    1  C1  UNL     1      44.438  27.087  -3.302  1.00  0.00           C  
+HETATM    2  C2  UNL     1      45.314  26.435  -2.279  1.00  0.00           C  
+HETATM    3  O1  UNL     1      44.796  25.433  -1.470  1.00  0.00           O  
+HETATM    4  O2  UNL     1      46.513  26.795  -2.138  1.00  0.00           O  
+HETATM    5  C3  UNL     1      44.858  26.696  -4.722  1.00  0.00           C  
+HETATM    6  N1  UNL     1      44.723  27.816  -5.641  1.00  0.00           N  
+HETATM    7  C4  UNL     1      44.069  25.530  -5.218  1.00  0.00           C  
+HETATM    8  O3  UNL     1      42.993  25.725  -5.839  1.00  0.00           O  
+HETATM    9  O4  UNL     1      44.508  24.231  -4.990  1.00  0.00           O  
+HETATM   10  O5  UNL     1      44.443  28.476  -3.133  1.00  0.00           O  
+HETATM   11  C5  UNL     1      43.465  28.726  -2.166  1.00  0.00           C  
+HETATM   12  C6  UNL     1      41.293  29.948  -1.967  1.00  0.00           C  
+HETATM   13  C7  UNL     1      40.284  30.746  -2.514  1.00  0.00           C  
+HETATM   14  C8  UNL     1      40.382  31.188  -3.837  1.00  0.00           C  
+HETATM   15  C9  UNL     1      41.489  30.830  -4.614  1.00  0.00           C  
+HETATM   16  C10 UNL     1      42.498  30.032  -4.067  1.00  0.00           C  
+HETATM   17  C11 UNL     1      42.405  29.597  -2.741  1.00  0.00           C  
+CONECT    1    2    5   10
+CONECT    2    3    4    4
+CONECT    5    6    7
+CONECT    7    8    8    9
+CONECT   10   11
+CONECT   11   17
+CONECT   12   13   13   17
+CONECT   13   14
+CONECT   14   15   15
+CONECT   15   16
+CONECT   16   17   17
+END

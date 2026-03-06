@@ -1,0 +1,20 @@
+COMPND    __2yaj_A_rec_2yaj_4hp_lig_min.pdb
+HETATM    1  C1  UNL     1      24.745  71.862  47.434  1.00  0.00           C  
+HETATM    2  C2  UNL     1      25.834  72.611  47.881  1.00  0.00           C  
+HETATM    3  C3  UNL     1      25.583  73.771  48.656  1.00  0.00           C  
+HETATM    4  C4  UNL     1      24.251  74.142  48.976  1.00  0.00           C  
+HETATM    5  C5  UNL     1      23.198  73.364  48.522  1.00  0.00           C  
+HETATM    6  C6  UNL     1      23.445  72.223  47.751  1.00  0.00           C  
+HETATM    7  O1  UNL     1      23.986  75.332  49.666  1.00  0.00           O  
+HETATM    8  C7  UNL     1      24.914  70.717  46.510  1.00  0.00           C  
+HETATM    9  C8  UNL     1      24.751  71.148  45.095  1.00  0.00           C  
+HETATM   10  O2  UNL     1      23.630  71.004  44.585  1.00  0.00           O  
+HETATM   11  O3  UNL     1      25.702  71.765  44.514  1.00  0.00           O  
+CONECT    1    2    6    6    8
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5    5    7
+CONECT    5    6
+CONECT    8    9
+CONECT    9   10   11   11
+END

@@ -1,0 +1,19 @@
+COMPND    __5ehi_A_rec_5ekx_2cq_lig_docked.pdb
+HETATM    1  N1  UNL     1      24.131  49.188 -10.877  1.00  0.00           N  
+HETATM    2  C1  UNL     1      22.763  49.575 -10.816  1.00  0.00           C  
+HETATM    3  C2  UNL     1      22.338  50.399  -9.736  1.00  0.00           C  
+HETATM    4  C3  UNL     1      20.970  50.747  -9.624  1.00  0.00           C  
+HETATM    5  C4  UNL     1      20.488  51.540  -8.464  1.00  0.00           C  
+HETATM    6  C5  UNL     1      20.075  50.292 -10.587  1.00  0.00           C  
+HETATM    7 CL1  UNL     1      18.383  50.670 -10.420  1.00  0.00          CL  
+HETATM    8  C6  UNL     1      20.440  49.509 -11.674  1.00  0.00           C  
+HETATM    9  C7  UNL     1      21.792  49.133 -11.797  1.00  0.00           C  
+HETATM   10  N2  UNL     1      22.176  48.330 -12.896  1.00  0.00           N  
+CONECT    1    2
+CONECT    2    3    9    9
+CONECT    3    4    4
+CONECT    4    5    6
+CONECT    6    7    8    8
+CONECT    8    9
+CONECT    9   10
+END

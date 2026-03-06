@@ -1,0 +1,20 @@
+COMPND    ADE
+HETATM    1  N   UNL     1      23.040  42.721  26.783  1.00  0.00           N  
+HETATM    2  C   UNL     1      22.585  42.139  27.926  1.00  0.00           C  
+HETATM    3  N   UNL     1      23.129  42.656  29.064  1.00  0.00           N  
+HETATM    4  C   UNL     1      23.996  43.644  28.590  1.00  0.00           C  
+HETATM    5  C   UNL     1      24.889  44.587  29.228  1.00  0.00           C  
+HETATM    6  N   UNL     1      25.022  44.643  30.560  1.00  0.00           N  
+HETATM    7  N   UNL     1      25.620  45.448  28.398  1.00  0.00           N  
+HETATM    8  C   UNL     1      25.473  45.382  27.050  1.00  0.00           C  
+HETATM    9  N   UNL     1      24.658  44.535  26.346  1.00  0.00           N  
+HETATM   10  C   UNL     1      23.948  43.693  27.182  1.00  0.00           C  
+CONECT    1    2   10
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5   10   10
+CONECT    5    6    7    7
+CONECT    7    8
+CONECT    8    9    9
+CONECT    9   10
+END

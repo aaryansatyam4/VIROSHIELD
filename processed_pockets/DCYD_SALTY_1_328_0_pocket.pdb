@@ -1,0 +1,37 @@
+HETATM    1  N1  DCS A 402      -1.165  85.936  19.140  1.00 25.18           N  
+HETATM    2  C2  DCS A 402      -0.618  84.703  19.257  1.00 25.35           C  
+HETATM    3  C2A DCS A 402       0.589  84.334  18.435  1.00 24.78           C  
+HETATM    4  C3  DCS A 402      -1.208  83.712  20.193  1.00 25.43           C  
+HETATM    5  O3  DCS A 402      -0.655  82.474  20.308  1.00 25.62           O  
+HETATM    6  C4  DCS A 402      -2.402  84.111  20.984  1.00 25.60           C  
+HETATM    7  C4A DCS A 402      -3.009  83.090  21.943  1.00 26.19           C  
+HETATM    8  C5  DCS A 402      -2.896  85.508  20.754  1.00 25.15           C  
+HETATM    9  C6  DCS A 402      -2.239  86.330  19.842  1.00 24.98           C  
+HETATM   10  C5A DCS A 402      -4.094  86.096  21.458  1.00 25.07           C  
+HETATM   11  O4P DCS A 402      -3.670  87.193  22.261  1.00 24.64           O  
+HETATM   12  P   DCS A 402      -4.369  87.457  23.683  1.00 24.26           P  
+HETATM   13  O1P DCS A 402      -5.481  88.418  23.358  1.00 23.66           O  
+HETATM   14  O2P DCS A 402      -3.244  88.025  24.511  1.00 24.12           O  
+HETATM   15  O3P DCS A 402      -4.835  86.090  24.129  1.00 23.95           O  
+HETATM   16  N   DCS A 402      -4.344  83.394  22.434  1.00 27.34           N  
+HETATM   17  CA  DCS A 402      -5.467  82.573  22.017  0.80 27.80           C  
+HETATM   18  C   DCS A 402      -5.849  81.488  22.975  0.80 28.31           C  
+HETATM   19  O   DCS A 402      -5.059  80.698  23.467  0.80 28.59           O  
+HETATM   20  ND  DCS A 402      -7.160  81.523  23.188  0.80 28.62           N  
+HETATM   21  OG  DCS A 402      -7.709  82.598  22.613  0.80 28.71           O  
+HETATM   22  CB  DCS A 402      -6.758  83.378  21.882  0.80 28.11           C  
+CONECT    1    2    9
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7    8
+CONECT    7   16
+CONECT    8    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   14   15
+CONECT   16   17
+CONECT   17   18   22
+CONECT   18   19   20
+CONECT   20   21
+CONECT   21   22
+END

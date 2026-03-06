@@ -1,0 +1,42 @@
+HETATM    1  N   PFM A 440      56.478  51.047  10.107  1.00 35.95           N  
+HETATM    2  CA  PFM A 440      55.491  50.849  11.248  1.00 36.90           C  
+HETATM    3  C   PFM A 440      54.038  50.947  10.749  1.00 37.36           C  
+HETATM    4  OA  PFM A 440      53.518  49.997  10.112  1.00 38.13           O  
+HETATM    5  OB  PFM A 440      53.377  52.000  10.982  1.00 39.03           O  
+HETATM    6  CB  PFM A 440      55.776  51.858  12.330  1.00 35.12           C  
+HETATM    7  CG  PFM A 440      56.106  51.411  13.716  1.00 32.71           C  
+HETATM    8  CD  PFM A 440      56.458  49.980  14.054  1.00 30.98           C  
+HETATM    9  OE  PFM A 440      56.819  49.138  13.034  1.00 32.51           O  
+HETATM   10  C4B PFM A 440      56.311  49.515  15.328  1.00 28.37           C  
+HETATM   11  C4A PFM A 440      56.159  48.207  15.586  1.00 24.76           C  
+HETATM   12  C4  PFM A 440      55.894  47.587  16.752  1.00 21.78           C  
+HETATM   13  C3  PFM A 440      55.915  48.205  17.987  1.00 21.11           C  
+HETATM   14  O3  PFM A 440      56.241  49.510  18.169  1.00 21.44           O  
+HETATM   15  C2  PFM A 440      55.554  47.513  19.140  1.00 20.58           C  
+HETATM   16  C2A PFM A 440      55.428  48.253  20.469  1.00 19.49           C  
+HETATM   17  N1  PFM A 440      55.235  46.186  19.068  1.00 19.49           N  
+HETATM   18  C6  PFM A 440      55.228  45.552  17.848  1.00 19.77           C  
+HETATM   19  C5  PFM A 440      55.497  46.249  16.706  1.00 20.76           C  
+HETATM   20  C5A PFM A 440      55.394  45.487  15.355  1.00 19.46           C  
+HETATM   21  P   PFM A 440      56.958  44.790  13.336  1.00 17.79           P  
+HETATM   22  OP1 PFM A 440      55.900  43.809  13.015  1.00 16.64           O  
+HETATM   23  OP2 PFM A 440      56.886  46.113  12.533  1.00 17.25           O  
+HETATM   24  OP3 PFM A 440      58.340  44.180  13.332  1.00 17.82           O  
+HETATM   25  OP4 PFM A 440      56.755  45.278  14.888  1.00 18.91           O  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   19
+CONECT   13   14   15
+CONECT   15   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   25
+CONECT   21   22   23   24   25
+END

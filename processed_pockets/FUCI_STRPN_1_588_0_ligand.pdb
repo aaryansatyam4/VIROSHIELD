@@ -1,0 +1,19 @@
+COMPND    __4c21_A_rec_4c22_cvu_lig_it1_it2_docked.pdb
+HETATM    1  C1  UNL     1     -39.841  39.728  10.639  1.00  0.00           C  
+HETATM    2  O1  UNL     1     -40.068  40.511   9.473  1.00  0.00           O  
+HETATM    3  C2  UNL     1     -38.596  38.829  10.505  1.00  0.00           C  
+HETATM    4  O2  UNL     1     -38.580  37.833  11.534  1.00  0.00           O  
+HETATM    5  C3  UNL     1     -37.337  39.659  10.701  1.00  0.00           C  
+HETATM    6  O3  UNL     1     -37.533  40.547  11.820  1.00  0.00           O  
+HETATM    7  C4  UNL     1     -36.180  38.719  10.974  1.00  0.00           C  
+HETATM    8  O4  UNL     1     -41.278  37.962   9.935  1.00  0.00           O  
+HETATM    9  C5  UNL     1     -41.095  38.928  10.661  1.00  0.00           C  
+HETATM   10  C6  UNL     1     -42.150  39.503  11.593  1.00  0.00           C  
+HETATM   11  O5  UNL     1     -43.237  38.586  11.670  1.00  0.00           O  
+CONECT    1    2    3    9
+CONECT    3    4    5
+CONECT    5    6    7
+CONECT    8    9    9
+CONECT    9   10
+CONECT   10   11
+END

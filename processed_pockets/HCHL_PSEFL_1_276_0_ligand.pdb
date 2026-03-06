@@ -1,0 +1,20 @@
+COMPND    2VSS_V55_D_1250
+HETATM    1  C1  UNL     1      15.534 -36.082 -15.824  1.00  0.00           C  
+HETATM    2  C2  UNL     1      14.261 -35.507 -15.786  1.00  0.00           C  
+HETATM    3  C3  UNL     1      13.200 -36.072 -16.514  1.00  0.00           C  
+HETATM    4  C4  UNL     1      13.430 -37.223 -17.282  1.00  0.00           C  
+HETATM    5  C5  UNL     1      14.703 -37.799 -17.320  1.00  0.00           C  
+HETATM    6  O1  UNL     1      17.782 -35.956 -15.062  1.00  0.00           O  
+HETATM    7  C6  UNL     1      15.753 -37.231 -16.594  1.00  0.00           C  
+HETATM    8  C7  UNL     1      16.620 -35.469 -15.055  1.00  0.00           C  
+HETATM    9  C8  UNL     1      11.605 -34.346 -15.735  1.00  0.00           C  
+HETATM   10  O2  UNL     1      11.919 -35.510 -16.488  1.00  0.00           O  
+HETATM   11  O3  UNL     1      12.396 -37.799 -18.009  1.00  0.00           O  
+CONECT    1    2    2    7    8
+CONECT    2    3
+CONECT    3    4    4   10
+CONECT    4    5   11
+CONECT    5    7    7
+CONECT    6    8    8
+CONECT    9   10
+END

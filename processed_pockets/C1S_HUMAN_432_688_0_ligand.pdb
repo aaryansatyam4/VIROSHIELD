@@ -1,0 +1,26 @@
+COMPND    1ELV_NES_A_2003
+HETATM    1  N1  UNL     1       8.019  15.927  13.382  1.00  0.00           N  
+HETATM    2  C1  UNL     1       7.892  16.463  14.737  1.00  0.00           C  
+HETATM    3  C2  UNL     1       7.617  15.338  15.718  1.00  0.00           C  
+HETATM    4  S1  UNL     1       5.933  14.769  15.572  1.00  0.00           S  
+HETATM    5  O1  UNL     1       5.690  14.082  14.059  1.00  0.00           O  
+HETATM    6  O2  UNL     1       4.990  15.925  15.753  1.00  0.00           O  
+HETATM    7  O3  UNL     1       5.666  13.740  16.633  1.00  0.00           O  
+HETATM    8  O4  UNL     1      10.422  17.248  12.601  1.00  0.00           O  
+HETATM    9  C3  UNL     1       9.213  17.948  12.603  1.00  0.00           C  
+HETATM   10  C4  UNL     1       8.030  16.998  12.376  1.00  0.00           C  
+HETATM   11  C5  UNL     1       6.728  17.809  12.432  1.00  0.00           C  
+HETATM   12  O5  UNL     1       5.615  16.979  12.277  1.00  0.00           O  
+HETATM   13  C6  UNL     1       8.161  16.348  10.995  1.00  0.00           C  
+HETATM   14  O6  UNL     1       8.177  17.309   9.980  1.00  0.00           O  
+CONECT    1    2   10
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    6    6    7
+CONECT    4    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   13
+CONECT   11   12
+CONECT   13   14
+END

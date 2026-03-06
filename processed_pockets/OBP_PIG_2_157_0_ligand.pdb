@@ -1,0 +1,31 @@
+COMPND    1DZM_BZM_A_600
+HETATM    1  O1  UNL     1       9.918   4.654  24.813  1.00  0.00           O  
+HETATM    2  C1  UNL     1      11.242   5.016  25.099  1.00  0.00           C  
+HETATM    3  O2  UNL     1      11.438   6.047  25.795  1.00  0.00           O  
+HETATM    4  C2  UNL     1      12.412   4.234  24.635  1.00  0.00           C  
+HETATM    5  C3  UNL     1      13.193   4.716  23.573  1.00  0.00           C  
+HETATM    6  C4  UNL     1      12.786   3.037  25.264  1.00  0.00           C  
+HETATM    7  C5  UNL     1      14.314   4.004  23.136  1.00  0.00           C  
+HETATM    8  C6  UNL     1      13.905   2.324  24.827  1.00  0.00           C  
+HETATM    9  C7  UNL     1      14.669   2.807  23.762  1.00  0.00           C  
+HETATM   10  C8  UNL     1       9.398   4.489  23.498  1.00  0.00           C  
+HETATM   11  C9  UNL     1      10.152   5.337  22.531  1.00  0.00           C  
+HETATM   12  C10 UNL     1      10.312   4.916  21.206  1.00  0.00           C  
+HETATM   13  C11 UNL     1      10.723   6.543  22.952  1.00  0.00           C  
+HETATM   14  C12 UNL     1      11.035   5.701  20.304  1.00  0.00           C  
+HETATM   15  C13 UNL     1      11.445   7.329  22.049  1.00  0.00           C  
+HETATM   16  C14 UNL     1      11.601   6.908  20.725  1.00  0.00           C  
+CONECT    1    2   10
+CONECT    2    3    3    4
+CONECT    4    5    5    6
+CONECT    5    7
+CONECT    6    8    8
+CONECT    7    9    9
+CONECT    8    9
+CONECT   10   11
+CONECT   11   12   12   13
+CONECT   12   14
+CONECT   13   15   15
+CONECT   14   16   16
+CONECT   15   16
+END

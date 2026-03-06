@@ -1,0 +1,22 @@
+HETATM    1  OAC LNR A 600       0.808  -1.681  27.353  1.00 32.75           O  
+HETATM    2  CAJ LNR A 600       0.734  -0.395  27.788  1.00 33.15           C  
+HETATM    3  CAG LNR A 600      -0.374   0.052  28.506  1.00 33.19           C  
+HETATM    4  CAI LNR A 600       1.754   0.503  27.538  1.00 33.02           C  
+HETATM    5  OAB LNR A 600       2.872   0.139  26.852  1.00 33.49           O  
+HETATM    6  CAE LNR A 600       1.629   1.804  28.008  1.00 33.19           C  
+HETATM    7  CAF LNR A 600       0.584   2.178  28.669  1.00 32.69           C  
+HETATM    8  CAK LNR A 600      -0.402   1.382  28.928  1.00 33.04           C  
+HETATM    9  CAL LNR A 600      -1.548   1.935  29.690  1.00 32.18           C  
+HETATM   10  OAD LNR A 600      -1.151   2.077  31.052  1.00 32.45           O  
+HETATM   11  CAH LNR A 600      -2.798   1.063  29.600  1.00 31.13           C  
+HETATM   12  NAA LNR A 600      -3.963   1.829  30.006  1.00 25.41           N  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    3    8
+CONECT    4    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   11   12
+END

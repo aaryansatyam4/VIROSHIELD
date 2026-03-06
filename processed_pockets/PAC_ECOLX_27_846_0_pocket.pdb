@@ -1,0 +1,18 @@
+HETATM    1  C1  PAC B 559      15.158   1.424   4.016  1.00 69.10           C  
+HETATM    2  C2  PAC B 559      15.720   2.776   3.668  1.00 68.64           C  
+HETATM    3  C1' PAC B 559      16.898   3.119   4.549  1.00 68.22           C  
+HETATM    4  C2' PAC B 559      16.718   4.048   5.562  1.00 68.13           C  
+HETATM    5  C3' PAC B 559      17.782   4.398   6.383  1.00 67.94           C  
+HETATM    6  C4' PAC B 559      19.026   3.812   6.186  1.00 67.63           C  
+HETATM    7  C5' PAC B 559      19.205   2.882   5.171  1.00 67.26           C  
+HETATM    8  C6' PAC B 559      18.142   2.535   4.348  1.00 67.54           C  
+HETATM    9  O1  PAC B 559      15.523   0.346   3.323  1.00 69.02           O  
+HETATM   10  O2  PAC B 559      14.399   1.324   4.966  1.00 69.84           O  
+CONECT    1    2    9   10
+CONECT    2    3
+CONECT    3    4    8
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+END

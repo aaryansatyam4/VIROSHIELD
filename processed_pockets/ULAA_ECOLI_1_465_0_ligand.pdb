@@ -1,0 +1,20 @@
+COMPND    __4rp8_C_rec_4rp8_asc_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1     -15.097   3.963 -38.699  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -14.533   3.081 -37.703  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -14.783   3.620 -36.516  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -15.539   4.918 -36.648  1.00  0.00           C  
+HETATM    5  O1  UNL     1     -15.049   3.800 -39.902  1.00  0.00           O  
+HETATM    6  O2  UNL     1     -13.885   1.942 -37.950  1.00  0.00           O  
+HETATM    7  O3  UNL     1     -14.429   3.083 -35.349  1.00  0.00           O  
+HETATM    8  O4  UNL     1     -15.737   5.101 -38.061  1.00  0.00           O  
+HETATM    9  C5  UNL     1     -14.779   6.112 -36.072  1.00  0.00           C  
+HETATM   10  O5  UNL     1     -13.554   6.331 -36.787  1.00  0.00           O  
+HETATM   11  C6  UNL     1     -15.653   7.354 -36.185  1.00  0.00           C  
+HETATM   12  O6  UNL     1     -15.337   8.103 -37.362  1.00  0.00           O  
+CONECT    1    2    5    5    8
+CONECT    2    3    3    6
+CONECT    3    4    7
+CONECT    4    8    9
+CONECT    9   10   11
+CONECT   11   12
+END

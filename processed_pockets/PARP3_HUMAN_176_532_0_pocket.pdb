@@ -1,0 +1,23 @@
+HETATM    1  C1A DRL A 601      18.881  -4.469  13.002  1.00 14.07           C  
+HETATM    2  C1I DRL A 601      17.936  -5.486  12.348  1.00 15.67           C  
+HETATM    3  N1G DRL A 601      18.352  -6.717  12.039  1.00 16.41           N  
+HETATM    4  C1J DRL A 601      17.563  -7.642  11.462  1.00 15.62           C  
+HETATM    5  C1D DRL A 601      18.273  -8.987  11.240  1.00 14.78           C  
+HETATM    6  C1C DRL A 601      17.302 -10.150  11.006  1.00 14.00           C  
+HETATM    7  S1H DRL A 601      16.168  -9.706   9.657  1.00 14.81           S  
+HETATM    8  C1E DRL A 601      15.270  -8.349  10.507  1.00 14.14           C  
+HETATM    9  C1K DRL A 601      16.226  -7.340  11.158  1.00 14.99           C  
+HETATM   10  C1L DRL A 601      15.783  -6.052  11.472  1.00 15.02           C  
+HETATM   11  O1B DRL A 601      14.631  -5.694  11.239  1.00 13.00           O  
+HETATM   12  N1F DRL A 601      16.627  -5.138  12.077  1.00 13.55           N  
+CONECT    1    2
+CONECT    2    3   12
+CONECT    3    4
+CONECT    4    5    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12
+END

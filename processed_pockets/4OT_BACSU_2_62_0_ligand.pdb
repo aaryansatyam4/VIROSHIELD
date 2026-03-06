@@ -1,0 +1,23 @@
+COMPND    __2opa_A_rec_2opa_fhc_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1      15.097  35.429  35.860  1.00  0.00           C  
+HETATM    2  C2  UNL     1      15.115  35.544  37.288  1.00  0.00           C  
+HETATM    3  C3  UNL     1      15.929  34.686  38.044  1.00  0.00           C  
+HETATM    4  C4  UNL     1      16.742  33.706  37.443  1.00  0.00           C  
+HETATM    5  O1  UNL     1      17.524  32.883  38.208  1.00  0.00           O  
+HETATM    6  C5  UNL     1      16.739  33.576  36.028  1.00  0.00           C  
+HETATM    7  C6  UNL     1      15.930  34.427  35.260  1.00  0.00           C  
+HETATM    8  C7  UNL     1      14.227  36.354  35.104  1.00  0.00           C  
+HETATM    9  C8  UNL     1      13.165  36.274  34.250  1.00  0.00           C  
+HETATM   10  F1  UNL     1      12.687  37.457  33.789  1.00  0.00           F  
+HETATM   11  C9  UNL     1      12.417  35.106  33.718  1.00  0.00           C  
+HETATM   12  O2  UNL     1      11.985  34.180  34.579  1.00  0.00           O  
+HETATM   13  O3  UNL     1      12.190  34.975  32.538  1.00  0.00           O  
+CONECT    1    2    2    7    8
+CONECT    2    3
+CONECT    3    4    4
+CONECT    4    5    6
+CONECT    6    7    7
+CONECT    8    9    9
+CONECT    9   10   11
+CONECT   11   12   13   13
+END

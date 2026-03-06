@@ -1,0 +1,19 @@
+HETATM    1  N1  HPA A 328      23.373  70.374  59.715  1.00 16.70           N  
+HETATM    2  C2  HPA A 328      24.199  70.835  60.758  1.00 16.09           C  
+HETATM    3  N3  HPA A 328      24.018  70.404  62.023  1.00 15.85           N  
+HETATM    4  C4  HPA A 328      22.988  69.486  62.301  1.00 15.67           C  
+HETATM    5  C5  HPA A 328      22.185  69.043  61.275  1.00 15.91           C  
+HETATM    6  C6  HPA A 328      22.354  69.466  59.983  1.00 16.57           C  
+HETATM    7  O6  HPA A 328      21.628  69.083  59.103  1.00 15.99           O  
+HETATM    8  N7  HPA A 328      21.226  68.138  61.761  1.00 15.72           N  
+HETATM    9  C8  HPA A 328      21.419  68.003  63.106  1.00 15.51           C  
+HETATM   10  N9  HPA A 328      22.528  68.841  63.489  1.00 15.10           N  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6    8
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10
+END

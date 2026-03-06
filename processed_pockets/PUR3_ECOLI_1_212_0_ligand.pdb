@@ -1,0 +1,31 @@
+COMPND    __1cde_A_rec_1c3e_gar_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1       6.923   4.908  21.446  1.00  0.00           C  
+HETATM    2  O1  UNL     1       6.161   5.967  22.032  1.00  0.00           O  
+HETATM    3  C2  UNL     1       8.222   5.388  20.787  1.00  0.00           C  
+HETATM    4  O2  UNL     1       8.216   6.743  20.331  1.00  0.00           O  
+HETATM    5  C3  UNL     1       9.307   5.269  21.848  1.00  0.00           C  
+HETATM    6  O3  UNL     1       8.805   4.379  22.822  1.00  0.00           O  
+HETATM    7  C4  UNL     1       7.441   4.056  22.602  1.00  0.00           C  
+HETATM    8  N1  UNL     1      10.564   4.728  21.322  1.00  0.00           N  
+HETATM    9  C5  UNL     1      11.663   5.417  21.080  1.00  0.00           C  
+HETATM   10  O4  UNL     1      11.753   6.632  21.288  1.00  0.00           O  
+HETATM   11  C6  UNL     1      12.808   4.676  20.454  1.00  0.00           C  
+HETATM   12  N2  UNL     1      13.034   3.245  20.731  1.00  0.00           N  
+HETATM   13  C7  UNL     1       7.356   2.545  22.307  1.00  0.00           C  
+HETATM   14  O5  UNL     1       6.073   2.040  22.680  1.00  0.00           O  
+HETATM   15  P1  UNL     1       5.787   1.472  24.085  1.00  0.00           P  
+HETATM   16  O6  UNL     1       6.995   0.461  24.198  1.00  0.00           O  
+HETATM   17  O7  UNL     1       4.372   0.712  24.073  1.00  0.00           O  
+HETATM   18  O8  UNL     1       5.793   2.463  25.099  1.00  0.00           O  
+CONECT    1    2    3    7
+CONECT    3    4    5
+CONECT    5    6    8
+CONECT    6    7
+CONECT    7   13
+CONECT    8    9
+CONECT    9   10   10   11
+CONECT   11   12
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16   16   17   18
+END

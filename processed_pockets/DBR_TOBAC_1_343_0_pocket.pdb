@@ -1,0 +1,23 @@
+HETATM    1  C1  CIY A 401     -22.635  11.564   5.647  1.00 37.08           C  
+HETATM    2  C2  CIY A 401     -23.353  12.717   5.240  1.00 35.11           C  
+HETATM    3  C3  CIY A 401     -23.456  13.823   6.086  1.00 34.50           C  
+HETATM    4  O3  CIY A 401     -24.125  15.019   5.785  1.00 33.12           O  
+HETATM    5  C4  CIY A 401     -22.807  13.749   7.338  1.00 31.55           C  
+HETATM    6  O4  CIY A 401     -22.851  14.842   8.110  1.00 25.30           O  
+HETATM    7  C5  CIY A 401     -22.090  12.633   7.744  1.00 32.62           C  
+HETATM    8  C6  CIY A 401     -22.004  11.528   6.904  1.00 36.04           C  
+HETATM    9  C7  CIY A 401     -22.518  10.412   4.864  1.00 37.22           C  
+HETATM   10  C8  CIY A 401     -22.379  10.537   3.334  1.00 40.00           C  
+HETATM   11  C9  CIY A 401     -22.191   9.179   2.604  1.00 40.70           C  
+HETATM   12  O9  CIY A 401     -22.620   9.224   1.230  1.00 41.39           O  
+HETATM   13  C3M CIY A 401     -24.640  15.245   4.431  1.00 33.53           C  
+CONECT    1    2    8    9
+CONECT    2    3
+CONECT    3    4    5
+CONECT    4   13
+CONECT    5    6    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+END

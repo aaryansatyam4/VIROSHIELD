@@ -1,0 +1,28 @@
+COMPND    100D_SPM_A_21
+HETATM    1  C1  UNL     1       8.421  60.111  47.618  1.00  0.00           C  
+HETATM    2  C2  UNL     1       9.917  60.071  47.846  1.00  0.00           C  
+HETATM    3  N1  UNL     1      10.188  60.006  49.270  1.00  0.00           N  
+HETATM    4  C3  UNL     1      10.205  58.600  49.627  1.00  0.00           C  
+HETATM    5  C4  UNL     1       9.334  58.378  50.845  1.00  0.00           C  
+HETATM    6  N2  UNL     1       9.439  56.217  49.760  1.00  0.00           N  
+HETATM    7  C5  UNL     1       8.816  56.955  50.842  1.00  0.00           C  
+HETATM    8  C6  UNL     1       8.027  61.478  47.099  1.00  0.00           C  
+HETATM    9  C7  UNL     1       7.378  62.274  48.215  1.00  0.00           C  
+HETATM   10  N3  UNL     1       8.403  62.839  49.076  1.00  0.00           N  
+HETATM   11  C8  UNL     1       9.378  63.482  48.212  1.00  0.00           C  
+HETATM   12  C9  UNL     1       9.911  64.726  48.892  1.00  0.00           C  
+HETATM   13  C10 UNL     1       8.848  65.804  48.874  1.00  0.00           C  
+HETATM   14  N4  UNL     1       7.856  65.521  49.895  1.00  0.00           N  
+CONECT    1    2    8
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    7
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+END

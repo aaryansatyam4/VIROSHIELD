@@ -1,0 +1,16 @@
+COMPND    __1n8f_A_rec_1kfl_pep_lig_it1_docked.pdb
+HETATM    1  O1  UNL     1      27.692   8.449  27.642  1.00  0.00           O  
+HETATM    2  P1  UNL     1      26.956   7.846  26.365  1.00  0.00           P  
+HETATM    3  O2  UNL     1      25.678   8.712  26.155  1.00  0.00           O  
+HETATM    4  O3  UNL     1      26.648   6.419  26.723  1.00  0.00           O  
+HETATM    5  O4  UNL     1      27.888   8.072  25.212  1.00  0.00           O  
+HETATM    6  C1  UNL     1      28.784   7.918  28.337  1.00  0.00           C  
+HETATM    7  C2  UNL     1      30.008   7.976  27.738  1.00  0.00           C  
+HETATM    8  C3  UNL     1      28.400   7.337  29.691  1.00  0.00           C  
+HETATM    9  O5  UNL     1      27.832   8.165  30.504  1.00  0.00           O  
+HETATM   10  O6  UNL     1      28.611   6.195  29.977  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3    3    4    5
+CONECT    6    7    7    8
+CONECT    8    9   10   10
+END

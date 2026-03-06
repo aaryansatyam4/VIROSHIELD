@@ -1,0 +1,28 @@
+HETATM    1  N1  PHN A 390       0.600  49.704  47.304  1.00 16.64           N  
+HETATM    2  C2  PHN A 390       1.811  49.741  47.958  1.00 19.04           C  
+HETATM    3  C3  PHN A 390       2.082  50.769  48.929  1.00 18.38           C  
+HETATM    4  C4  PHN A 390       1.114  51.643  49.261  1.00 15.37           C  
+HETATM    5  C4A PHN A 390      -0.098  51.604  48.608  1.00 13.92           C  
+HETATM    6  C5  PHN A 390      -1.099  52.398  49.027  1.00 14.66           C  
+HETATM    7  C6  PHN A 390      -2.370  52.163  48.477  1.00 10.09           C  
+HETATM    8  C6A PHN A 390      -2.618  51.291  47.561  1.00 12.44           C  
+HETATM    9  C7  PHN A 390      -3.794  51.179  46.949  1.00 14.82           C  
+HETATM   10  C8  PHN A 390      -3.944  50.393  45.902  1.00 11.14           C  
+HETATM   11  C9  PHN A 390      -2.939  49.561  45.411  1.00 10.88           C  
+HETATM   12  N10 PHN A 390      -1.727  49.598  46.064  1.00 14.86           N  
+HETATM   13  C10 PHN A 390      -1.583  50.425  47.183  1.00 12.82           C  
+HETATM   14  C1A PHN A 390      -0.307  50.620  47.663  1.00 12.74           C  
+CONECT    1    2   14
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6   14
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   13
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+END

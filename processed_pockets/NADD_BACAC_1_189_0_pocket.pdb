@@ -1,0 +1,51 @@
+HETATM    1  OAA LJZ A 192     -12.742  11.673  15.963  1.00 20.46           O  
+HETATM    2  OAC LJZ A 192     -14.006   7.320  17.444  1.00 21.57           O  
+HETATM    3 CLAE LJZ A 192     -11.620   5.006  17.674  1.00 40.31          CL  
+HETATM    4  CAG LJZ A 192     -12.137  12.692  20.451  1.00 22.33           C  
+HETATM    5  CAH LJZ A 192     -12.982  12.091  26.187  1.00 22.88           C  
+HETATM    6  CAI LJZ A 192     -13.876   2.615  15.328  1.00 28.33           C  
+HETATM    7  CAK LJZ A 192     -14.382   3.537  14.325  1.00 20.55           C  
+HETATM    8  CAM LJZ A 192     -13.011   3.091  16.358  1.00 27.69           C  
+HETATM    9  CAO LJZ A 192     -14.017   4.937  14.353  1.00 23.64           C  
+HETATM   10  CAQ LJZ A 192     -12.535  13.644  22.710  1.00 10.63           C  
+HETATM   11  CAR LJZ A 192     -12.739  13.479  24.096  1.00 14.21           C  
+HETATM   12  CAS LJZ A 192     -12.366  11.221  22.526  1.00 17.36           C  
+HETATM   13  CAT LJZ A 192     -12.563  11.052  23.926  1.00 19.59           C  
+HETATM   14  CAU LJZ A 192     -12.900   9.837  17.450  1.00 17.99           C  
+HETATM   15  CAV LJZ A 192     -11.843   9.134  28.719  1.00 21.83           C  
+HETATM   16  CAW LJZ A 192     -13.052   9.071  16.144  1.00 17.12           C  
+HETATM   17  NAY LJZ A 192     -12.679  11.895  19.572  1.00 21.00           N  
+HETATM   18  NAZ LJZ A 192     -12.492  11.152  26.964  1.00 20.65           N  
+HETATM   19  NBA LJZ A 192     -12.106  11.888  18.346  1.00 23.63           N  
+HETATM   20  NBB LJZ A 192     -12.684  11.375  28.306  1.00 19.78           N  
+HETATM   21  NBC LJZ A 192     -12.829   6.835  15.335  1.00 22.79           N  
+HETATM   22  CBE LJZ A 192     -12.649  11.327  17.250  1.00 18.69           C  
+HETATM   23  CBF LJZ A 192     -12.254  10.522  29.269  1.00 21.90           C  
+HETATM   24  CBG LJZ A 192     -13.233   7.567  16.383  1.00 19.11           C  
+HETATM   25  CBI LJZ A 192     -12.360  12.520  21.929  1.00 18.68           C  
+HETATM   26  CBJ LJZ A 192     -12.745  12.186  24.699  1.00 14.65           C  
+HETATM   27  CBK LJZ A 192     -12.654   4.469  16.394  1.00 28.13           C  
+HETATM   28  CBM LJZ A 192     -13.175   5.415  15.348  1.00 23.34           C  
+CONECT    1   22
+CONECT    2   24
+CONECT    3   27
+CONECT    4   17   25
+CONECT    5   18   26
+CONECT    6    7    8
+CONECT    7    9
+CONECT    8   27
+CONECT    9   28
+CONECT   10   11   25
+CONECT   11   26
+CONECT   12   13   25
+CONECT   13   26
+CONECT   14   16   22
+CONECT   15   23
+CONECT   16   24
+CONECT   17   19
+CONECT   18   20
+CONECT   19   22
+CONECT   20   23
+CONECT   21   24   28
+CONECT   27   28
+END

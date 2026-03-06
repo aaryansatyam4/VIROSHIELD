@@ -1,0 +1,22 @@
+COMPND    __1szo_A_rec_1szo_cax_lig_docked.pdb
+HETATM    1  C1  UNL     1      20.250 -20.000  42.177  1.00  0.00           C  
+HETATM    2  C2  UNL     1      20.527 -19.970  40.652  1.00  0.00           C  
+HETATM    3  C3  UNL     1      19.386 -20.510  39.778  1.00  0.00           C  
+HETATM    4  C4  UNL     1      21.742 -20.880  40.397  1.00  0.00           C  
+HETATM    5  C5  UNL     1      20.884 -18.497  40.365  1.00  0.00           C  
+HETATM    6  C6  UNL     1      21.731 -18.144  39.155  1.00  0.00           C  
+HETATM    7  C7  UNL     1      21.333 -17.918  41.716  1.00  0.00           C  
+HETATM    8  O1  UNL     1      22.457 -17.081  41.817  1.00  0.00           O  
+HETATM    9  C8  UNL     1      21.281 -19.034  42.754  1.00  0.00           C  
+HETATM   10  C9  UNL     1      18.855 -19.588  42.696  1.00  0.00           C  
+HETATM   11  O2  UNL     1      18.442 -21.660  43.863  1.00  0.00           O  
+HETATM   12  C10 UNL     1      18.352 -20.411  43.871  1.00  0.00           C  
+HETATM   13  O3  UNL     1      17.883 -19.766  44.818  1.00  0.00           O  
+CONECT    1    2    9   10
+CONECT    2    3    4    5
+CONECT    5    6    7
+CONECT    7    8    9
+CONECT   10   12
+CONECT   11   12   12
+CONECT   12   13
+END

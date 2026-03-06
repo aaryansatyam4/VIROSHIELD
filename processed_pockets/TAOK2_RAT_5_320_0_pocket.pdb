@@ -1,0 +1,64 @@
+HETATM    1  O4  STU A 400      45.859  57.051  -0.539  1.00 31.02           O  
+HETATM    2  C25 STU A 400      44.741  56.184  -0.299  1.00 29.61           C  
+HETATM    3  C24 STU A 400      43.529  56.767   0.444  1.00 28.50           C  
+HETATM    4  C23 STU A 400      43.872  58.227   0.805  1.00 34.55           C  
+HETATM    5  C22 STU A 400      45.244  58.174   1.571  1.00 33.62           C  
+HETATM    6  C21 STU A 400      46.369  57.804   0.566  1.00 29.88           C  
+HETATM    7  C26 STU A 400      46.852  59.181   0.054  1.00 27.79           C  
+HETATM    8  N2  STU A 400      47.408  57.088   1.376  1.00 30.38           N  
+HETATM    9  C18 STU A 400      47.312  55.708   1.569  1.00 29.10           C  
+HETATM   10  C19 STU A 400      46.338  54.806   1.117  1.00 27.71           C  
+HETATM   11  C6  STU A 400      46.437  53.473   1.505  1.00 28.78           C  
+HETATM   12  C7  STU A 400      47.503  52.996   2.308  1.00 28.68           C  
+HETATM   13  C10 STU A 400      48.484  53.909   2.728  1.00 29.39           C  
+HETATM   14  C11 STU A 400      48.368  55.273   2.403  1.00 28.71           C  
+HETATM   15  C12 STU A 400      49.168  56.421   2.727  1.00 28.02           C  
+HETATM   16  C17 STU A 400      48.573  57.521   2.074  1.00 29.62           C  
+HETATM   17  C16 STU A 400      49.188  58.790   2.217  1.00 28.92           C  
+HETATM   18  C15 STU A 400      50.362  58.887   3.001  1.00 29.02           C  
+HETATM   19  C14 STU A 400      50.897  57.760   3.630  1.00 29.06           C  
+HETATM   20  C13 STU A 400      50.304  56.534   3.508  1.00 28.36           C  
+HETATM   21  C9  STU A 400      49.491  53.148   3.598  1.00 29.01           C  
+HETATM   22  N1  STU A 400      48.984  51.748   3.602  1.00 29.73           N  
+HETATM   23  C8  STU A 400      47.846  51.647   2.832  1.00 29.14           C  
+HETATM   24  O5  STU A 400      47.223  50.604   2.669  1.00 28.44           O  
+HETATM   25  C5  STU A 400      45.339  52.768   0.863  1.00 29.60           C  
+HETATM   26  C20 STU A 400      44.595  53.772   0.188  1.00 29.06           C  
+HETATM   27  C1  STU A 400      43.473  53.433  -0.536  1.00 29.14           C  
+HETATM   28  C2  STU A 400      43.117  52.049  -0.496  1.00 29.73           C  
+HETATM   29  C3  STU A 400      43.822  51.070   0.227  1.00 29.55           C  
+HETATM   30  C4  STU A 400      44.975  51.390   0.914  1.00 28.66           C  
+HETATM   31  N3  STU A 400      45.249  54.970   0.348  1.00 29.51           N  
+HETATM   32  O6  STU A 400      45.089  57.148   2.598  1.00 30.59           O  
+HETATM   33  C27 STU A 400      45.638  57.652   3.834  1.00 28.51           C  
+HETATM   34  N4  STU A 400      42.772  59.001   1.485  1.00 37.39           N  
+HETATM   35  C28 STU A 400      41.436  58.583   0.872  1.00 40.25           C  
+CONECT    1    2    6
+CONECT    2    3   31
+CONECT    3    4
+CONECT    4    5   34
+CONECT    5    6   32
+CONECT    6    7    8
+CONECT    8    9   16
+CONECT    9   10   14
+CONECT   10   11   31
+CONECT   11   12   25
+CONECT   12   13   23
+CONECT   13   14   21
+CONECT   14   15
+CONECT   15   16   20
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   25   26   30
+CONECT   26   27   31
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   32   33
+CONECT   34   35
+END

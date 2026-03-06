@@ -1,0 +1,21 @@
+COMPND    __1fgh_A_rec_1nis_ntc_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1      36.261  35.492  71.758  1.00  0.00           C  
+HETATM    2  O1  UNL     1      35.840  36.857  72.029  1.00  0.00           O  
+HETATM    3  C2  UNL     1      37.778  35.320  72.123  1.00  0.00           C  
+HETATM    4  O2  UNL     1      38.554  36.318  71.986  1.00  0.00           O  
+HETATM    5  O3  UNL     1      38.177  34.188  72.567  1.00  0.00           O  
+HETATM    6  C3  UNL     1      35.306  34.616  72.580  1.00  0.00           C  
+HETATM    7  N1  UNL     1      34.264  35.077  73.565  1.00  0.00           N1+
+HETATM    8  O4  UNL     1      33.239  34.559  73.208  1.00  0.00           O  
+HETATM    9  O5  UNL     1      34.437  35.714  74.572  1.00  0.00           O1-
+HETATM   10  C4  UNL     1      35.919  34.722  70.419  1.00  0.00           C  
+HETATM   11  C5  UNL     1      35.255  35.322  69.202  1.00  0.00           C  
+HETATM   12  O6  UNL     1      35.084  36.519  69.189  1.00  0.00           O  
+HETATM   13  O7  UNL     1      34.921  34.595  68.299  1.00  0.00           O  
+CONECT    1    2    3    6   10
+CONECT    3    4    4    5
+CONECT    6    7
+CONECT    7    8    8    9
+CONECT   10   11
+CONECT   11   12   12   13
+END

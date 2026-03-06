@@ -1,0 +1,17 @@
+COMPND    1D0V_NIO_A_991
+HETATM    1  N1  UNL     1      -8.401 -18.144  53.938  1.00  0.00           N  
+HETATM    2  C1  UNL     1      -7.843 -17.588  52.830  1.00  0.00           C  
+HETATM    3  C2  UNL     1      -6.453 -17.443  52.736  1.00  0.00           C  
+HETATM    4  C3  UNL     1      -5.658 -17.880  53.802  1.00  0.00           C  
+HETATM    5  C4  UNL     1      -6.250 -18.448  54.931  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -7.640 -18.573  54.981  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -5.845 -16.842  51.538  1.00  0.00           C  
+HETATM    8  O1  UNL     1      -4.721 -17.235  51.127  1.00  0.00           O  
+HETATM    9  O2  UNL     1      -6.508 -15.833  50.848  1.00  0.00           O  
+CONECT    1    2    2    6
+CONECT    2    3
+CONECT    3    4    4    7
+CONECT    4    5
+CONECT    5    6    6
+CONECT    7    8    8    9
+END

@@ -1,0 +1,37 @@
+HETATM    1  C1  TOP A1160       6.418  -1.142  42.275  1.00 23.45           C  
+HETATM    2  N2  TOP A1160       6.070  -2.010  43.265  1.00 23.64           N  
+HETATM    3  C3  TOP A1160       6.562  -1.833  44.511  1.00 21.37           C  
+HETATM    4  N4  TOP A1160       6.181  -2.647  45.529  1.00 23.10           N  
+HETATM    5  N5  TOP A1160       7.420  -0.817  44.764  1.00 19.84           N  
+HETATM    6  C6  TOP A1160       7.854   0.051  43.831  1.00 22.01           C  
+HETATM    7  N7  TOP A1160       8.737   1.032  44.124  1.00 24.65           N  
+HETATM    8  C8  TOP A1160       7.332  -0.097  42.453  1.00 22.99           C  
+HETATM    9  C9  TOP A1160       7.766   0.914  41.371  1.00 22.20           C  
+HETATM   10  C10 TOP A1160       6.968   0.816  40.063  1.00 23.20           C  
+HETATM   11  C11 TOP A1160       7.695   0.454  38.935  1.00 24.43           C  
+HETATM   12  C12 TOP A1160       7.050   0.365  37.702  1.00 23.03           C  
+HETATM   13  O13 TOP A1160       7.753   0.013  36.606  1.00 25.22           O  
+HETATM   14  C14 TOP A1160       9.181  -0.057  36.731  1.00 21.57           C  
+HETATM   15  C15 TOP A1160       5.708   0.618  37.584  1.00 25.77           C  
+HETATM   16  O16 TOP A1160       5.115   0.489  36.354  1.00 29.54           O  
+HETATM   17  C17 TOP A1160       4.506  -0.757  36.039  1.00 32.71           C  
+HETATM   18  C18 TOP A1160       4.970   0.974  38.669  1.00 22.97           C  
+HETATM   19  O19 TOP A1160       3.641   1.245  38.431  1.00 28.40           O  
+HETATM   20  C20 TOP A1160       2.788   1.748  39.448  1.00 30.77           C  
+HETATM   21  C21 TOP A1160       5.595   1.089  39.930  1.00 22.38           C  
+CONECT    1    2    8
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   21
+CONECT   11   12
+CONECT   12   13   15
+CONECT   13   14
+CONECT   15   16   18
+CONECT   16   17
+CONECT   18   19   21
+CONECT   19   20
+END

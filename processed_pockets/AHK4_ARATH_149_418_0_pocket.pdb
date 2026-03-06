@@ -1,0 +1,28 @@
+HETATM    1  OAA WA1 B 400     -25.508   1.330  16.066  1.00 26.80           O  
+HETATM    2  CAB WA1 B 400     -26.128   6.508  15.375  1.00 25.36           C  
+HETATM    3  CAC WA1 B 400     -25.447   5.418  14.869  1.00 26.21           C  
+HETATM    4  CAD WA1 B 400     -27.121   6.358  16.323  1.00 24.23           C  
+HETATM    5  CAE WA1 B 400     -25.795   4.155  15.314  1.00 25.82           C  
+HETATM    6  CAF WA1 B 400     -27.469   5.087  16.756  1.00 23.81           C  
+HETATM    7  CAG WA1 B 400     -27.858  -1.979  17.128  1.00 27.47           C  
+HETATM    8  NAH WA1 B 400     -27.164  -3.080  16.948  1.00 29.21           N  
+HETATM    9  NAI WA1 B 400     -25.850  -2.943  16.555  1.00 32.03           N  
+HETATM   10  NAJ WA1 B 400     -27.234   2.734  16.711  1.00 24.46           N  
+HETATM   11  NAK WA1 B 400     -27.554   0.485  16.918  1.00 25.45           N  
+HETATM   12  SAL WA1 B 400     -25.523  -1.312  16.470  1.00 28.98           S  
+HETATM   13  CAM WA1 B 400     -26.658   1.490  16.499  1.00 25.55           C  
+HETATM   14  CAN WA1 B 400     -26.757   3.975  16.286  1.00 24.59           C  
+HETATM   15  CAO WA1 B 400     -27.149  -0.847  16.834  1.00 26.82           C  
+CONECT    1   13
+CONECT    2    3    4
+CONECT    3    5
+CONECT    4    6
+CONECT    5   14
+CONECT    6   14
+CONECT    7    8   15
+CONECT    8    9
+CONECT    9   12
+CONECT   10   13   14
+CONECT   11   13   15
+CONECT   12   15
+END

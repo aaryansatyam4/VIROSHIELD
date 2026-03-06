@@ -1,0 +1,22 @@
+HETATM    1  O   SGI A 600      -2.710  40.664   0.521  0.90 43.22           O  
+HETATM    2  C   SGI A 600      -2.356  41.658   1.124  0.90 42.96           C  
+HETATM    3  N   SGI A 600      -1.268  41.657   1.884  0.90 43.11           N  
+HETATM    4  CA  SGI A 600      -3.352  42.757   1.402  0.90 42.80           C  
+HETATM    5  CB  SGI A 600      -3.915  43.311   0.101  0.90 42.81           C  
+HETATM    6  CG  SGI A 600      -4.737  44.549   0.383  0.90 42.93           C  
+HETATM    7  CD1 SGI A 600      -4.176  45.809   0.145  0.90 42.53           C  
+HETATM    8  CE1 SGI A 600      -4.837  46.955   0.580  0.90 41.84           C  
+HETATM    9  CZ  SGI A 600      -6.010  46.836   1.329  0.90 42.82           C  
+HETATM   10  OH  SGI A 600      -6.588  47.956   1.864  0.90 43.29           O  
+HETATM   11  CE2 SGI A 600      -6.510  45.570   1.660  0.90 41.79           C  
+HETATM   12  CD2 SGI A 600      -5.947  44.441   1.075  0.90 41.95           C  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7   12
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   11   12
+END

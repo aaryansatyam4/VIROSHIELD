@@ -1,0 +1,29 @@
+COMPND    5JF2_SF7_A_301
+HETATM    1  C1  UNL     1      -6.249  -0.675  10.968  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -7.271   0.414  10.995  1.00  0.00           C  
+HETATM    3  O1  UNL     1      -8.558   0.226  11.133  1.00  0.00           O  
+HETATM    4  N1  UNL     1      -9.165   1.372  11.114  1.00  0.00           N  
+HETATM    5  C3  UNL     1      -8.194   2.295  10.956  1.00  0.00           C  
+HETATM    6  N2  UNL     1      -6.974   1.721  10.877  1.00  0.00           N  
+HETATM    7  C4  UNL     1      -6.222  -1.382  12.315  1.00  0.00           C  
+HETATM    8  O2  UNL     1      -3.958  -2.050  12.643  1.00  0.00           O  
+HETATM    9  C5  UNL     1      -5.134  -2.401  12.358  1.00  0.00           C  
+HETATM   10  N3  UNL     1      -5.425  -3.761  12.047  1.00  0.00           N  
+HETATM   11  O3  UNL     1      -4.450  -4.701  12.064  1.00  0.00           O  
+HETATM   12  C6  UNL     1      -6.559  -1.668   9.855  1.00  0.00           C  
+HETATM   13  C7  UNL     1      -6.576  -0.967   8.510  1.00  0.00           C  
+HETATM   14  C8  UNL     1      -7.310  -1.827   7.504  1.00  0.00           C  
+HETATM   15  C9  UNL     1      -7.105  -1.263   6.114  1.00  0.00           C  
+CONECT    1    2    7   12
+CONECT    2    3    6    6
+CONECT    3    4
+CONECT    4    5    5
+CONECT    5    6
+CONECT    7    9
+CONECT    8    9    9
+CONECT    9   10
+CONECT   10   11
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+END

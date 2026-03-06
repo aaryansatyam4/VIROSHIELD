@@ -1,0 +1,59 @@
+HETATM    1  OE1 THH B4001      11.520  16.412   4.287  1.00 40.92           O  
+HETATM    2  CD  THH B4001      11.286  16.660   5.507  1.00 40.59           C  
+HETATM    3  OE2 THH B4001      12.142  17.230   6.225  1.00 42.41           O  
+HETATM    4  CG  THH B4001       9.924  16.221   5.992  1.00 38.20           C  
+HETATM    5  CB  THH B4001       9.933  14.719   6.196  1.00 35.24           C  
+HETATM    6  CA  THH B4001       8.643  14.266   6.837  1.00 33.62           C  
+HETATM    7  CT  THH B4001       8.236  12.869   6.506  1.00 33.90           C  
+HETATM    8  O1  THH B4001       8.964  11.904   6.804  1.00 36.10           O  
+HETATM    9  O2  THH B4001       7.135  12.756   5.926  1.00 32.40           O  
+HETATM   10  N   THH B4001       8.759  14.418   8.266  1.00 31.85           N  
+HETATM   11  C   THH B4001       7.971  15.252   8.958  1.00 30.22           C  
+HETATM   12  O   THH B4001       7.082  15.979   8.532  1.00 31.58           O  
+HETATM   13  C12 THH B4001       8.212  15.283  10.451  1.00 28.40           C  
+HETATM   14  C13 THH B4001       8.650  14.195  11.263  1.00 27.14           C  
+HETATM   15  C14 THH B4001       8.859  14.259  12.690  1.00 24.02           C  
+HETATM   16  C15 THH B4001       8.630  15.459  13.387  1.00 25.08           C  
+HETATM   17  C16 THH B4001       8.202  16.521  12.572  1.00 27.16           C  
+HETATM   18  C17 THH B4001       8.002  16.453  11.185  1.00 26.83           C  
+HETATM   19  N10 THH B4001       8.741  15.753  14.683  1.00 24.40           N  
+HETATM   20  C9  THH B4001       9.909  16.449  15.256  1.00 21.83           C  
+HETATM   21  C6  THH B4001       9.382  17.333  16.395  1.00 21.02           C  
+HETATM   22  C7  THH B4001      10.202  18.478  16.922  1.00 20.86           C  
+HETATM   23  N8  THH B4001       9.948  19.676  16.129  1.00 23.95           N  
+HETATM   24  C8A THH B4001       8.771  19.953  15.523  1.00 22.87           C  
+HETATM   25  N1  THH B4001       8.735  21.183  14.916  1.00 26.89           N  
+HETATM   26  C4A THH B4001       7.669  18.923  15.563  1.00 21.61           C  
+HETATM   27  N5  THH B4001       7.961  17.719  16.238  1.00 20.67           N  
+HETATM   28  C11 THH B4001       6.834  16.994  16.772  1.00 19.99           C  
+HETATM   29  C4  THH B4001       6.446  19.405  14.867  1.00 23.03           C  
+HETATM   30  O4  THH B4001       5.256  18.841  14.678  1.00 23.67           O  
+HETATM   31  N3  THH B4001       6.564  20.662  14.303  1.00 24.59           N  
+HETATM   32  C2  THH B4001       7.614  21.550  14.288  1.00 26.66           C  
+HETATM   33  NA2 THH B4001       7.476  22.741  13.649  1.00 27.43           N  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7   10
+CONECT    7    8    9
+CONECT   10   11
+CONECT   11   12   13
+CONECT   13   14   18
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   19
+CONECT   17   18
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22   27
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   26
+CONECT   25   32
+CONECT   26   27   29
+CONECT   27   28
+CONECT   29   30   31
+CONECT   31   32
+CONECT   32   33
+END

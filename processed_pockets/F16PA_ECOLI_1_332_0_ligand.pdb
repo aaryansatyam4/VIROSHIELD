@@ -1,0 +1,26 @@
+COMPND    __2owz_A_rec_2owz_f6p_lig_min.pdb
+HETATM    1  C1  UNL     1      99.077  50.388  -5.863  1.00  0.00           C  
+HETATM    2  O1  UNL     1      97.891  49.640  -5.671  1.00  0.00           O  
+HETATM    3  C2  UNL     1     100.287  49.577  -5.404  1.00  0.00           C  
+HETATM    4  O2  UNL     1      99.937  48.842  -4.255  1.00  0.00           O  
+HETATM    5  C3  UNL     1     100.557  48.684  -6.611  1.00  0.00           C  
+HETATM    6  O3  UNL     1     101.943  48.372  -6.698  1.00  0.00           O  
+HETATM    7  C4  UNL     1     100.129  49.554  -7.788  1.00  0.00           C  
+HETATM    8  O4  UNL     1      99.247  50.582  -7.253  1.00  0.00           O  
+HETATM    9  O5  UNL     1      99.501  51.734  -3.893  1.00  0.00           O  
+HETATM   10  C5  UNL     1      98.948  51.748  -5.201  1.00  0.00           C  
+HETATM   11  C6  UNL     1      99.403  48.777  -8.862  1.00  0.00           C  
+HETATM   12  O6  UNL     1      98.945  49.708  -9.855  1.00  0.00           O  
+HETATM   13  P1  UNL     1      98.320  49.161 -11.256  1.00  0.00           P  
+HETATM   14  O7  UNL     1      96.828  48.995 -10.994  1.00  0.00           O  
+HETATM   15  O8  UNL     1      98.612  50.231 -12.302  1.00  0.00           O  
+HETATM   16  O9  UNL     1      99.034  47.847 -11.538  1.00  0.00           O  
+CONECT    1    2    3    8   10
+CONECT    3    4    5
+CONECT    5    6    7
+CONECT    7    8   11
+CONECT    9   10
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   14   15   16
+END

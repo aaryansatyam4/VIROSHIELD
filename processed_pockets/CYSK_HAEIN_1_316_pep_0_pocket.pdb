@@ -1,0 +1,18 @@
+HETATM    1  N   OAS X 401      16.382   2.095  10.712  1.00 44.24           N  
+HETATM    2  CA  OAS X 401      17.213   1.005  10.318  1.00 43.71           C  
+HETATM    3  CB  OAS X 401      18.604   1.320  10.788  1.00 34.66           C  
+HETATM    4  OG  OAS X 401      18.422   1.817  12.095  1.00 46.90           O  
+HETATM    5  C   OAS X 401      16.603  -0.216  10.972  1.00 41.05           C  
+HETATM    6  O   OAS X 401      15.384  -0.464  10.771  1.00 39.88           O  
+HETATM    7  C2A OAS X 401      19.833   3.937  11.664  1.00 36.07           C  
+HETATM    8  C1A OAS X 401      18.756   3.160  12.383  1.00 39.79           C  
+HETATM    9  OAC OAS X 401      18.183   3.716  13.292  1.00 52.03           O  
+HETATM   10  OXT OAS X 401      17.295  -0.951  11.719  1.00 37.43           O  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4
+CONECT    4    8
+CONECT    5    6   10
+CONECT    7    8
+CONECT    8    9
+END

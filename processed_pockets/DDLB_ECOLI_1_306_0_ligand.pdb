@@ -1,0 +1,26 @@
+COMPND    __2dln_A_rec_2dln_phy_lig_it1_docked.pdb
+HETATM    1  P1  UNL     1      16.634   5.899  44.992  1.00  0.00           P  
+HETATM    2  O1  UNL     1      16.394   6.399  43.626  1.00  0.00           O  
+HETATM    3  C1  UNL     1      15.454   4.993  45.388  1.00  0.00           C  
+HETATM    4  C2  UNL     1      14.532   5.633  46.418  1.00  0.00           C  
+HETATM    5  N1  UNL     1      14.626   4.354  44.366  1.00  0.00           N  
+HETATM    6  C3  UNL     1      16.969   6.991  45.994  1.00  0.00           C  
+HETATM    7  C4  UNL     1      18.124   7.865  46.043  1.00  0.00           C  
+HETATM    8  C5  UNL     1      19.097   7.490  47.155  1.00  0.00           C  
+HETATM    9  C6  UNL     1      17.712   9.331  46.251  1.00  0.00           C  
+HETATM   10  O2  UNL     1      18.389   9.946  47.104  1.00  0.00           O  
+HETATM   11  O3  UNL     1      16.611   9.717  45.781  1.00  0.00           O  
+HETATM   12  O4  UNL     1      17.909   5.015  44.667  1.00  0.00           O  
+HETATM   13  P2  UNL     1      18.890   4.976  43.438  1.00  0.00           P  
+HETATM   14  O5  UNL     1      19.674   3.662  43.750  1.00  0.00           O  
+HETATM   15  O6  UNL     1      19.894   6.040  43.287  1.00  0.00           O  
+HETATM   16  O7  UNL     1      17.942   4.730  42.245  1.00  0.00           O  
+CONECT    1    2    2    3    6
+CONECT    1   12
+CONECT    3    4    5
+CONECT    6    7
+CONECT    7    8    9
+CONECT    9   10   11   11
+CONECT   12   13
+CONECT   13   14   14   15   16
+END

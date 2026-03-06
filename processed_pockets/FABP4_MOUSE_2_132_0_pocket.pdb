@@ -1,0 +1,38 @@
+HETATM    1  C1  OLA A 132      10.280  19.443  -2.926  1.00 29.75           C  
+HETATM    2  O1  OLA A 132      10.528  20.404  -2.223  1.00 21.52           O  
+HETATM    3  O2  OLA A 132       9.178  18.916  -2.881  1.00 32.15           O  
+HETATM    4  C2  OLA A 132      11.338  18.904  -3.882  1.00 30.83           C  
+HETATM    5  C3  OLA A 132      11.497  17.400  -3.774  1.00 32.87           C  
+HETATM    6  C4  OLA A 132      12.487  16.855  -4.775  1.00 34.28           C  
+HETATM    7  C5  OLA A 132      11.857  16.758  -6.141  1.00 34.81           C  
+HETATM    8  C6  OLA A 132      12.758  15.863  -6.962  1.00 32.37           C  
+HETATM    9  C7  OLA A 132      13.965  16.567  -7.526  1.00 31.42           C  
+HETATM   10  C8  OLA A 132      13.564  17.265  -8.794  1.00 31.18           C  
+HETATM   11  C9  OLA A 132      14.708  17.905  -9.374  1.00 31.11           C  
+HETATM   12  C10 OLA A 132      14.694  19.231  -9.745  1.00 32.37           C  
+HETATM   13  C11 OLA A 132      13.545  20.095  -9.592  1.00 32.73           C  
+HETATM   14  C12 OLA A 132      13.502  21.055 -10.770  1.00 37.06           C  
+HETATM   15  C13 OLA A 132      12.274  21.955 -10.772  1.00 39.60           C  
+HETATM   16  C14 OLA A 132      12.336  22.817 -12.024  1.00 40.54           C  
+HETATM   17  C15 OLA A 132      10.979  23.456 -12.303  1.00 41.18           C  
+HETATM   18  C16 OLA A 132      11.024  24.341 -13.546  1.00 41.34           C  
+HETATM   19  C17 OLA A 132      11.490  23.623 -14.805  1.00 40.02           C  
+HETATM   20  C18 OLA A 132      11.503  24.648 -15.943  1.00 39.62           C  
+CONECT    1    2    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+END

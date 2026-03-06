@@ -1,0 +1,53 @@
+HETATM    1  CBA J60 A1305      15.677  10.189  18.417  1.00 67.40           C  
+HETATM    2  CAZ J60 A1305      15.639   9.585  17.003  1.00 66.69           C  
+HETATM    3  NAX J60 A1305      14.850   8.327  17.020  1.00 62.12           N  
+HETATM    4  CAY J60 A1305      13.402   8.590  16.830  1.00 66.15           C  
+HETATM    5  CBB J60 A1305      13.089   9.190  15.448  1.00 70.61           C  
+HETATM    6  CAW J60 A1305      15.357   7.279  16.088  1.00 53.89           C  
+HETATM    7  CAV J60 A1305      15.908   7.793  14.733  1.00 39.40           C  
+HETATM    8  NAU J60 A1305      15.611   6.743  13.723  1.00 38.94           N  
+HETATM    9  CAS J60 A1305      16.529   5.902  13.240  1.00 28.18           C  
+HETATM   10  OAT J60 A1305      17.695   5.915  13.620  1.00 35.30           O  
+HETATM   11  CAN J60 A1305      16.064   4.813  12.205  1.00 23.91           C  
+HETATM   12  CAM J60 A1305      14.776   4.415  11.875  1.00 21.27           C  
+HETATM   13  CAQ J60 A1305      13.474   5.009  12.430  1.00 23.04           C  
+HETATM   14  CAO J60 A1305      16.908   3.993  11.462  1.00 19.39           C  
+HETATM   15  CAR J60 A1305      18.436   3.975  11.452  1.00 23.97           C  
+HETATM   16  NAP J60 A1305      16.186   3.160  10.717  1.00 22.18           N  
+HETATM   17  CAL J60 A1305      14.878   3.373  10.935  1.00 16.53           C  
+HETATM   18  CAK J60 A1305      13.763   2.729  10.382  1.00 19.03           C  
+HETATM   19  CAG J60 A1305      13.775   1.618   9.495  1.00 17.03           C  
+HETATM   20  CAE J60 A1305      12.619   0.898   9.143  1.00 17.59           C  
+HETATM   21  CAD J60 A1305      11.290   1.009   9.523  1.00 17.64           C  
+HETATM   22  CAA J60 A1305      10.347   0.125   8.996  1.00 17.41           C  
+HETATM   23  CL  J60 A1305       8.705   0.271   9.506  1.00 38.33          CL  
+HETATM   24  CAB J60 A1305      10.722  -0.879   8.085  1.00 19.26           C  
+HETATM   25  CAC J60 A1305      12.061  -0.994   7.709  1.00 16.22           C  
+HETATM   26  CAF J60 A1305      13.006  -0.102   8.232  1.00 17.26           C  
+HETATM   27  NAH J60 A1305      14.331   0.013   8.038  1.00 18.14           N  
+HETATM   28  CAI J60 A1305      14.811   1.015   8.762  1.00 15.95           C  
+HETATM   29  OAJ J60 A1305      16.014   1.306   8.753  1.00 18.65           O  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    6
+CONECT    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   11   12   14
+CONECT   12   13   17
+CONECT   14   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20   28
+CONECT   20   21   26
+CONECT   21   22
+CONECT   22   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28
+CONECT   28   29
+END

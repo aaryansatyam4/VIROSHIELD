@@ -1,0 +1,45 @@
+HETATM    1  CAH OAN A 646      59.291  58.336  87.246  1.00 11.58           C  
+HETATM    2  CAG OAN A 646      60.519  57.612  87.788  1.00 15.49           C  
+HETATM    3  OAN OAN A 646      61.580  58.194  87.870  1.00 12.15           O  
+HETATM    4  NAI OAN A 646      60.301  56.391  88.551  1.00  7.74           N  
+HETATM    5  CAB OAN A 646      61.435  55.696  89.135  1.00  9.37           C  
+HETATM    6  CAC OAN A 646      61.883  54.485  88.282  1.00 12.12           C  
+HETATM    7  OAJ OAN A 646      62.577  54.986  87.194  1.00 18.64           O  
+HETATM    8  CAD OAN A 646      62.780  53.590  89.137  1.00  8.69           C  
+HETATM    9  OAK OAN A 646      63.251  52.460  88.444  1.00  6.03           O  
+HETATM   10  CAE OAN A 646      61.902  53.077  90.309  1.00 14.36           C  
+HETATM   11  CAF OAN A 646      62.749  52.186  91.203  1.00 14.50           C  
+HETATM   12  OAM OAN A 646      63.390  52.742  92.006  1.00 13.84           O  
+HETATM   13  OAL OAN A 646      61.485  54.111  91.223  1.00 20.22           O  
+HETATM   14  CAA OAN A 646      61.255  55.415  90.662  1.00 10.62           C  
+HETATM   15  NAY OAN A 646      60.414  56.266  91.449  1.00  9.45           N  
+HETATM   16  OAQ OAN A 646      60.164  55.950  92.829  1.00 53.62           O  
+HETATM   17  CAP OAN A 646      61.058  55.975  93.933  1.00 59.91           C  
+HETATM   18  OAR OAN A 646      62.169  55.548  93.848  1.00 68.94           O  
+HETATM   19  NAO OAN A 646      60.478  56.179  95.268  1.00 58.90           N  
+HETATM   20  CAS OAN A 646      60.055  57.529  95.637  1.00 62.01           C  
+HETATM   21  CAT OAN A 646      61.118  58.621  95.818  1.00 64.72           C  
+HETATM   22  CAU OAN A 646      60.689  60.060  96.135  1.00 64.65           C  
+HETATM   23  CAV OAN A 646      59.186  60.408  96.275  1.00 65.70           C  
+HETATM   24  CAW OAN A 646      58.115  59.315  96.089  1.00 61.56           C  
+HETATM   25  CAX OAN A 646      58.554  57.877  95.768  1.00 62.57           C  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6   14
+CONECT    6    7    8
+CONECT    8    9   10
+CONECT   10   11   13
+CONECT   11   12
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   19
+CONECT   19   20
+CONECT   20   21   25
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25
+END

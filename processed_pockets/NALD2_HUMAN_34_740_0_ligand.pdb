@@ -1,0 +1,21 @@
+COMPND    1MM6_QUS_A_500
+HETATM    1  C1  UNL     1      16.830  42.375  18.379  1.00  0.00           C  
+HETATM    2  C2  UNL     1      15.351  41.485  16.538  1.00  0.00           C  
+HETATM    3  C3  UNL     1      16.259  42.392  14.905  1.00  0.00           C  
+HETATM    4  N1  UNL     1      16.374  42.224  17.004  1.00  0.00           N  
+HETATM    5  N2  UNL     1      15.232  41.561  15.196  1.00  0.00           N  
+HETATM    6  O1  UNL     1      14.590  40.794  17.265  1.00  0.00           O  
+HETATM    7  O2  UNL     1      16.545  42.759  13.735  1.00  0.00           O  
+HETATM    8  O3  UNL     1      16.925  42.773  15.970  1.00  0.00           O  
+HETATM    9  C4  UNL     1      17.670  41.177  18.799  1.00  0.00           C  
+HETATM   10  N3  UNL     1      17.224  40.681  20.091  1.00  0.00           N  
+HETATM   11  C5  UNL     1      19.111  41.557  18.869  1.00  0.00           C  
+HETATM   12  O4  UNL     1      20.008  40.741  18.526  1.00  0.00           O  
+HETATM   13  O5  UNL     1      19.467  42.818  19.330  1.00  0.00           O  
+CONECT    1    4    9
+CONECT    2    4    5    6    6
+CONECT    3    5    7    7    8
+CONECT    4    8
+CONECT    9   10   11
+CONECT   11   12   12   13
+END

@@ -1,0 +1,21 @@
+COMPND    __4kwv_D_rec_5ayy_ntm_lig_docked.pdb
+HETATM    1  N1  UNL     1     -82.927 -25.032   2.152  1.00  0.00           N  
+HETATM    2  C1  UNL     1     -83.986 -25.414   1.430  1.00  0.00           C  
+HETATM    3  C2  UNL     1     -84.098 -24.876   0.060  1.00  0.00           C  
+HETATM    4  C3  UNL     1     -83.120 -24.008  -0.424  1.00  0.00           C  
+HETATM    5  C4  UNL     1     -82.061 -23.648   0.379  1.00  0.00           C  
+HETATM    6  C5  UNL     1     -81.994 -24.178   1.661  1.00  0.00           C  
+HETATM    7  C6  UNL     1     -84.985 -26.341   2.019  1.00  0.00           C  
+HETATM    8  O1  UNL     1     -85.024 -27.521   1.621  1.00  0.00           O  
+HETATM    9  O2  UNL     1     -85.747 -25.886   2.883  1.00  0.00           O  
+HETATM   10  C7  UNL     1     -85.225 -25.250  -0.846  1.00  0.00           C  
+HETATM   11  O3  UNL     1     -85.394 -26.440  -1.162  1.00  0.00           O  
+HETATM   12  O4  UNL     1     -85.948 -24.354  -1.319  1.00  0.00           O  
+CONECT    1    2    2    6
+CONECT    2    3    7
+CONECT    3    4    4   10
+CONECT    4    5
+CONECT    5    6    6
+CONECT    7    8    9    9
+CONECT   10   11   11   12
+END

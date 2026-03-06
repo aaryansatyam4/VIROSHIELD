@@ -1,0 +1,26 @@
+COMPND    __3pki_B_rec_5mfp_pg4_lig_min.pdb
+HETATM    1  O1  UNL     1     118.558  23.878 -11.184  1.00  0.00           O  
+HETATM    2  C1  UNL     1     118.263  22.483 -11.256  1.00  0.00           C  
+HETATM    3  C2  UNL     1     119.276  21.753 -10.394  1.00  0.00           C  
+HETATM    4  O2  UNL     1     120.583  22.345 -10.502  1.00  0.00           O  
+HETATM    5  C3  UNL     1     121.482  22.291  -9.376  1.00  0.00           C  
+HETATM    6  O3  UNL     1     121.821  24.609 -10.161  1.00  0.00           O  
+HETATM    7  C4  UNL     1     122.178  23.640  -9.165  1.00  0.00           C  
+HETATM    8  C5  UNL     1     118.267  24.703 -12.287  1.00  0.00           C  
+HETATM    9  C6  UNL     1     119.570  25.126 -12.955  1.00  0.00           C  
+HETATM   10  O4  UNL     1     119.423  24.838 -14.353  1.00  0.00           O  
+HETATM   11  C7  UNL     1     119.693  25.955 -15.220  1.00  0.00           C  
+HETATM   12  C8  UNL     1     119.017  27.248 -14.754  1.00  0.00           C  
+HETATM   13  O5  UNL     1     117.605  27.195 -15.043  1.00  0.00           O  
+CONECT    1    2    8
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    7
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+END

@@ -1,0 +1,60 @@
+HETATM    1  C1  TAK A   1     135.974 -12.950   9.254  1.00 56.36           C  
+HETATM    2  C2  TAK A   1     136.346 -11.807  10.205  1.00 54.84           C  
+HETATM    3  C3  TAK A   1     137.678 -12.112  10.920  1.00 57.52           C  
+HETATM    4  C4  TAK A   1     138.277 -13.438  10.382  1.00 56.97           C  
+HETATM    5  C5  TAK A   1     138.322 -13.444   8.839  1.00 56.47           C  
+HETATM    6  N1  TAK A   1     137.003 -13.133   8.203  1.00 54.49           N  
+HETATM    7  C6  TAK A   1     136.701 -14.145   7.145  1.00 53.11           C  
+HETATM    8  C7  TAK A   1     135.174 -14.426   6.891  1.00 49.49           C  
+HETATM    9  O1  TAK A   1     134.719 -15.590   7.714  1.00 49.16           O  
+HETATM   10  C8  TAK A   1     133.367 -15.883   7.674  1.00 43.54           C  
+HETATM   11  C9  TAK A   1     132.549 -15.487   6.598  1.00 40.54           C  
+HETATM   12  C10 TAK A   1     131.181 -15.818   6.636  1.00 39.23           C  
+HETATM   13  C11 TAK A   1     132.831 -16.614   8.731  1.00 42.22           C  
+HETATM   14  C12 TAK A   1     131.479 -16.930   8.764  1.00 40.41           C  
+HETATM   15  C13 TAK A   1     130.648 -16.571   7.684  1.00 37.14           C  
+HETATM   16  C14 TAK A   1     129.275 -16.871   7.748  1.00 34.37           C  
+HETATM   17  C15 TAK A   1     128.318 -16.335   6.862  1.00 32.42           C  
+HETATM   18  C16 TAK A   1     128.805 -17.645   8.765  1.00 33.17           C  
+HETATM   19  N2  TAK A   1     127.521 -17.942   8.878  1.00 31.62           N  
+HETATM   20  C17 TAK A   1     126.591 -17.467   8.034  1.00 24.83           C  
+HETATM   21  N3  TAK A   1     126.983 -16.674   6.981  1.00 29.73           N  
+HETATM   22  N4  TAK A   1     125.958 -16.332   6.325  1.00 28.57           N  
+HETATM   23  C18 TAK A   1     124.833 -16.851   6.871  1.00 26.62           C  
+HETATM   24  C19 TAK A   1     125.201 -17.605   7.932  1.00 25.39           C  
+HETATM   25  C20 TAK A   1     124.308 -18.305   8.806  1.00 25.63           C  
+HETATM   26  C21 TAK A   1     122.944 -18.328   8.517  1.00 22.30           C  
+HETATM   27  C22 TAK A   1     121.982 -18.931   9.338  1.00 27.07           C  
+HETATM   28  N5  TAK A   1     122.397 -19.537  10.433  1.00 24.60           N  
+HETATM   29  C23 TAK A   1     123.679 -19.552  10.774  1.00 24.22           C  
+HETATM   30  C24 TAK A   1     124.679 -18.937  10.000  1.00 26.50           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   13
+CONECT   11   12
+CONECT   12   15
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   18
+CONECT   17   21
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21   24
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26   30
+CONECT   26   27
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+END

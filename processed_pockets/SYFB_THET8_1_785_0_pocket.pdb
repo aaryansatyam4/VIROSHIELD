@@ -1,0 +1,25 @@
+HETATM    1  N   DAH B 786       0.629  86.626  40.688  1.00 20.00           N  
+HETATM    2  CA  DAH B 786       0.497  85.693  39.592  1.00 20.00           C  
+HETATM    3  C   DAH B 786      -0.952  85.381  39.339  1.00 20.00           C  
+HETATM    4  O   DAH B 786      -1.325  84.663  38.297  1.00 20.00           O  
+HETATM    5  CB  DAH B 786       1.220  84.399  39.898  1.00 20.00           C  
+HETATM    6  CG  DAH B 786       2.674  84.537  40.269  1.00 20.00           C  
+HETATM    7  CD1 DAH B 786       3.642  84.468  39.292  1.00 20.00           C  
+HETATM    8  CD2 DAH B 786       3.055  84.673  41.589  1.00 20.00           C  
+HETATM    9  CE1 DAH B 786       4.971  84.572  39.630  1.00 20.00           C  
+HETATM   10  CE2 DAH B 786       4.385  84.774  41.917  1.00 20.00           C  
+HETATM   11  CZ  DAH B 786       5.336  84.725  40.940  1.00 20.00           C  
+HETATM   12  OE2 DAH B 786       4.762  84.919  43.197  1.00 20.00           O  
+HETATM   13  OZ  DAH B 786       6.637  84.816  41.260  1.00 20.00           O  
+HETATM   14  OXT DAH B 786      -1.817  85.774  40.078  1.00 20.00           O  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4   14
+CONECT    5    6
+CONECT    6    7    8
+CONECT    7    9
+CONECT    8   10
+CONECT    9   11
+CONECT   10   11   12
+CONECT   11   13
+END

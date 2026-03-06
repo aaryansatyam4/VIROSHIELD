@@ -1,0 +1,12 @@
+COMPND    __5e5u_A_rec_5e5r_mli_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1      73.848  69.952  58.093  1.00  0.00           C  
+HETATM    2  C2  UNL     1      74.582  70.507  59.264  1.00  0.00           C  
+HETATM    3  O1  UNL     1      74.026  71.335  60.030  1.00  0.00           O  
+HETATM    4  O2  UNL     1      75.763  70.145  59.483  1.00  0.00           O  
+HETATM    5  C3  UNL     1      74.475  70.004  56.739  1.00  0.00           C  
+HETATM    6  O3  UNL     1      75.723  69.893  56.607  1.00  0.00           O  
+HETATM    7  O4  UNL     1      73.760  70.152  55.717  1.00  0.00           O  
+CONECT    1    2    5
+CONECT    2    3    3    4
+CONECT    5    6    7    7
+END

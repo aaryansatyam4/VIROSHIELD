@@ -1,0 +1,20 @@
+HETATM    1  C1 ADHY N 550      14.064  11.515  40.350  0.50 16.21           C  
+HETATM    2  C2 ADHY N 550      14.384  10.158  40.051  0.50 16.36           C  
+HETATM    3  C3 ADHY N 550      14.110   9.223  41.020  0.50 16.35           C  
+HETATM    4  C4 ADHY N 550      13.530   9.568  42.237  0.50 16.40           C  
+HETATM    5  C5 ADHY N 550      13.252  10.880  42.553  0.50 16.42           C  
+HETATM    6  C6 ADHY N 550      13.526  11.876  41.594  0.50 16.10           C  
+HETATM    7  C7 ADHY N 550      14.472  12.665  39.371  0.50 16.44           C  
+HETATM    8  C8 ADHY N 550      15.614  13.598  39.933  0.50 16.85           C  
+HETATM    9  O1 ADHY N 550      16.776  13.314  39.535  0.50 16.39           O  
+HETATM   10  O2 ADHY N 550      15.335  14.505  40.730  0.50 17.72           O  
+HETATM   11  O3 ADHY N 550      14.379   7.878  40.890  0.50 16.75           O  
+HETATM   12  O4 ADHY N 550      13.324   8.492  43.079  0.50 17.55           O  
+CONECT    1    2    6    7
+CONECT    2    3
+CONECT    3    4   11
+CONECT    4    5   12
+CONECT    5    6
+CONECT    7    8
+CONECT    8    9   10
+END

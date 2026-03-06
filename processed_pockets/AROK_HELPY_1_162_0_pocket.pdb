@@ -1,0 +1,57 @@
+HETATM    1  CAA OSA B1001      70.700   7.031  13.997  1.00 35.14           C  
+HETATM    2  CAB OSA B1001      69.737   7.761  13.286  1.00 33.62           C  
+HETATM    3  CAC OSA B1001      70.184   8.850  12.513  1.00 33.55           C  
+HETATM    4  CAD OSA B1001      71.539   9.223  12.437  1.00 33.62           C  
+HETATM    5  CAE OSA B1001      72.485   8.498  13.151  1.00 30.76           C  
+HETATM    6  CAF OSA B1001      72.063   7.419  13.924  1.00 33.96           C  
+HETATM    7  NAG OSA B1001      72.986   6.744  14.603  1.00 36.33           N  
+HETATM    8  CAH OSA B1001      71.942  10.327  11.660  1.00 32.84           C  
+HETATM    9  CAI OSA B1001      70.999  11.046  10.960  1.00 32.89           C  
+HETATM   10  CAJ OSA B1001      69.652  10.668  11.003  1.00 35.74           C  
+HETATM   11  CAK OSA B1001      69.270   9.570  11.800  1.00 32.22           C  
+HETATM   12  OAL OSA B1001      68.020   9.144  11.890  1.00 29.70           O  
+HETATM   13  NAM OSA B1001      68.751  11.407  10.323  1.00 37.16           N  
+HETATM   14  NAN OSA B1001      67.543  11.359  10.583  1.00 37.25           N  
+HETATM   15  CAO OSA B1001      66.640  12.163   9.997  1.00 40.58           C  
+HETATM   16  CAP OSA B1001      65.370  12.147  10.562  1.00 41.53           C  
+HETATM   17  CAQ OSA B1001      64.345  12.954  10.062  1.00 43.00           C  
+HETATM   18  CAR OSA B1001      64.612  13.808   9.005  1.00 43.59           C  
+HETATM   19  CAS OSA B1001      65.899  13.863   8.433  1.00 42.09           C  
+HETATM   20  CAT OSA B1001      66.930  13.062   8.936  1.00 41.13           C  
+HETATM   21  CAU OSA B1001      66.115  14.720   7.364  1.00 42.78           C  
+HETATM   22  CAV OSA B1001      65.067  15.527   6.908  1.00 49.13           C  
+HETATM   23  CAW OSA B1001      63.786  15.465   7.468  1.00 44.68           C  
+HETATM   24  CAX OSA B1001      63.560  14.588   8.532  1.00 44.69           C  
+HETATM   25  OAY OSA B1001      62.347  14.469   9.157  1.00 48.06           O  
+HETATM   26  SAZ OSA B1001      65.387  16.630   5.573  1.00 58.74           S  
+HETATM   27  OBA OSA B1001      64.061  17.281   5.186  1.00 59.92           O  
+HETATM   28  OBB OSA B1001      66.476  17.619   5.957  1.00 57.03           O  
+HETATM   29  OBC OSA B1001      65.944  15.905   4.368  1.00 59.32           O  
+HETATM   30  SBD OSA B1001      71.487  12.358   9.989  1.00 33.13           S  
+HETATM   31  OBE OSA B1001      73.006  12.439   9.931  1.00 35.61           O  
+HETATM   32  OBF OSA B1001      70.819  12.183   8.655  1.00 33.66           O  
+HETATM   33  OBG OSA B1001      71.021  13.671  10.461  1.00 36.89           O  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   11
+CONECT    4    5    8
+CONECT    5    6
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10   30
+CONECT   10   11   13
+CONECT   11   12
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16   20
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19   24
+CONECT   19   20   21
+CONECT   21   22
+CONECT   22   23   26
+CONECT   23   24
+CONECT   24   25
+CONECT   26   27   28   29
+CONECT   30   31   32   33
+END

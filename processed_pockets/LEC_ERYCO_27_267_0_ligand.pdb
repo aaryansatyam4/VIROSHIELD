@@ -1,0 +1,20 @@
+COMPND    __1v00_A_rec_3n36_gla_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1      15.895  -1.581  37.841  1.00  0.00           C  
+HETATM    2  C2  UNL     1      15.502  -1.492  36.371  1.00  0.00           C  
+HETATM    3  C3  UNL     1      14.520  -2.598  36.002  1.00  0.00           C  
+HETATM    4  C4  UNL     1      15.021  -3.955  36.481  1.00  0.00           C  
+HETATM    5  C5  UNL     1      15.441  -3.897  37.943  1.00  0.00           C  
+HETATM    6  O1  UNL     1      14.742  -1.355  38.659  1.00  0.00           O  
+HETATM    7  O2  UNL     1      14.903  -0.216  36.115  1.00  0.00           O  
+HETATM    8  O3  UNL     1      14.348  -2.627  34.579  1.00  0.00           O  
+HETATM    9  O4  UNL     1      16.135  -4.363  35.678  1.00  0.00           O  
+HETATM   10  O5  UNL     1      16.425  -2.877  38.114  1.00  0.00           O  
+HETATM   11  C6  UNL     1      16.013  -5.233  38.401  1.00  0.00           C  
+HETATM   12  O6  UNL     1      17.394  -5.072  38.738  1.00  0.00           O  
+CONECT    1    2    6   10
+CONECT    2    3    7
+CONECT    3    4    8
+CONECT    4    5    9
+CONECT    5   10   11
+CONECT   11   12
+END

@@ -1,0 +1,56 @@
+HETATM    1  N3  THG A2887       5.013  27.872  11.856  1.00 24.57           N  
+HETATM    2  C2  THG A2887       4.419  27.476  10.659  1.00 22.88           C  
+HETATM    3  N1  THG A2887       3.720  26.308  10.563  1.00 24.13           N  
+HETATM    4  C8A THG A2887       3.580  25.453  11.632  1.00 27.02           C  
+HETATM    5  C4A THG A2887       4.167  25.778  12.967  1.00 25.53           C  
+HETATM    6  C4  THG A2887       4.940  27.095  13.010  1.00 25.62           C  
+HETATM    7  N8  THG A2887       2.870  24.250  11.552  1.00 26.12           N  
+HETATM    8  C7  THG A2887       2.629  23.228  12.604  1.00 27.26           C  
+HETATM    9  C6  THG A2887       2.766  23.828  14.040  1.00 27.26           C  
+HETATM   10  N5  THG A2887       3.940  24.781  14.041  1.00 25.49           N  
+HETATM   11  C9  THG A2887       1.445  24.546  14.376  1.00 24.36           C  
+HETATM   12  N10 THG A2887       1.430  25.202  15.680  1.00 28.73           N  
+HETATM   13  C4' THG A2887       0.952  26.474  15.781  1.00 23.86           C  
+HETATM   14  C3' THG A2887       0.014  26.817  16.842  1.00 25.62           C  
+HETATM   15  C2' THG A2887      -0.514  28.173  16.946  1.00 23.45           C  
+HETATM   16  C1' THG A2887      -0.094  29.163  15.986  1.00 26.60           C  
+HETATM   17  C6' THG A2887       0.842  28.805  14.946  1.00 26.91           C  
+HETATM   18  C5' THG A2887       1.358  27.496  14.838  1.00 23.33           C  
+HETATM   19  C11 THG A2887      -0.585  30.597  15.980  1.00 28.61           C  
+HETATM   20  N   THG A2887      -1.780  30.865  16.599  1.00 30.85           N  
+HETATM   21  CA  THG A2887      -2.402  32.188  16.663  1.00 34.92           C  
+HETATM   22  C   THG A2887      -3.343  32.195  17.862  1.00 36.00           C  
+HETATM   23  OX2 THG A2887      -3.595  33.216  18.499  1.00 35.01           O  
+HETATM   24  OX1 THG A2887      -3.916  31.051  18.231  1.00 37.13           O  
+HETATM   25  CB  THG A2887      -3.126  32.295  15.307  1.00 35.42           C  
+HETATM   26  CG  THG A2887      -3.866  33.605  15.080  1.00 39.23           C  
+HETATM   27  CD  THG A2887      -4.572  33.698  13.733  1.00 35.22           C  
+HETATM   28  OE1 THG A2887      -5.185  34.732  13.491  1.00 39.58           O  
+HETATM   29  OE2 THG A2887      -4.546  32.715  12.818  1.00 30.22           O  
+HETATM   30  O11 THG A2887       0.050  31.499  15.423  1.00 31.00           O  
+HETATM   31  O4  THG A2887       5.483  27.458  14.091  1.00 27.52           O  
+HETATM   32  N2  THG A2887       4.488  28.235   9.514  1.00 21.34           N  
+CONECT    1    2    6
+CONECT    2    3   32
+CONECT    3    4
+CONECT    4    5    7
+CONECT    5    6   10
+CONECT    6   31
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   18
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   19
+CONECT   17   18
+CONECT   19   20   30
+CONECT   20   21
+CONECT   21   22   25
+CONECT   22   23   24
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28   29
+END

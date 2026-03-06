@@ -1,0 +1,21 @@
+HETATM    1  C4' TPP B 672      14.074  62.579  56.081  1.00 10.25           C  
+HETATM    2  N4' TPP B 672      14.440  63.587  55.294  1.00  9.52           N  
+HETATM    3  C5' TPP B 672      12.868  62.613  56.807  1.00 10.66           C  
+HETATM    4  C6' TPP B 672      12.565  61.498  57.594  1.00  9.89           C  
+HETATM    5  C7' TPP B 672      11.865  63.806  56.822  1.00 12.96           C  
+HETATM    6  N3  TPP B 672      12.475  64.902  57.620  1.00 15.21           N  
+HETATM    7  C2  TPP B 672      13.249  65.880  57.084  1.00 17.02           C  
+HETATM    8  S1  TPP B 672      13.810  66.925  58.349  1.00 17.25           S  
+HETATM    9  C5  TPP B 672      12.971  66.022  59.588  1.00 16.10           C  
+HETATM   10  C4  TPP B 672      12.322  64.963  58.964  1.00 15.36           C  
+HETATM   11  CM4 TPP B 672      11.492  63.951  59.776  1.00 14.86           C  
+HETATM   12  O3B TPP B 672      14.485  72.196  60.583  1.00 15.63           O  
+CONECT    1    2    3
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7   10
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+END

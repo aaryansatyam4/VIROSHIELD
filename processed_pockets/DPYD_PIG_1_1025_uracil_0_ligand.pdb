@@ -1,0 +1,22 @@
+COMPND    1GT8_UAA_A_1035
+HETATM    1  O1  UNL     1      30.096 104.706 -34.770  1.00  0.00           O  
+HETATM    2  N1  UNL     1      29.739 102.539 -35.331  1.00  0.00           N  
+HETATM    3  C1  UNL     1      30.081 101.228 -35.220  1.00  0.00           C  
+HETATM    4  C2  UNL     1      31.147 100.853 -34.403  1.00  0.00           C  
+HETATM    5  C3  UNL     1      31.835 101.850 -33.712  1.00  0.00           C  
+HETATM    6  O2  UNL     1      29.438 100.354 -35.855  1.00  0.00           O  
+HETATM    7  C4  UNL     1      30.425 103.497 -34.654  1.00  0.00           C  
+HETATM    8  N2  UNL     1      31.467 103.151 -33.852  1.00  0.00           N  
+HETATM    9  C5  UNL     1      32.993 101.493 -32.844  1.00  0.00           C  
+HETATM   10  C6  UNL     1      33.872 102.679 -32.637  1.00  0.00           C  
+HETATM   11  O3  UNL     1      34.605 103.090 -33.574  1.00  0.00           O  
+HETATM   12  O4  UNL     1      33.856 103.352 -31.423  1.00  0.00           O  
+CONECT    1    7    7
+CONECT    2    3    7
+CONECT    3    4    6    6
+CONECT    4    5    5
+CONECT    5    8    9
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11   11   12
+END

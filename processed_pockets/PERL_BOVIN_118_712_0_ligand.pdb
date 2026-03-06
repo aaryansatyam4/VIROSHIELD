@@ -1,0 +1,26 @@
+COMPND    __3r55_A_rec_3rke_mzz_lig_min.pdb
+HETATM    1  C1  UNL     1     -20.442   2.471  27.691  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -20.814   1.950  28.841  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -21.646   2.399  29.742  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -22.221   3.546  29.547  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -21.862   4.102  28.393  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -20.994   3.571  27.549  1.00  0.00           C  
+HETATM    7  N1  UNL     1     -19.390   1.818  26.687  1.00  0.00           N  
+HETATM    8  C7  UNL     1     -23.148   4.026  30.628  1.00  0.00           C  
+HETATM    9  N2  UNL     1     -24.399   4.618  30.604  1.00  0.00           N  
+HETATM   10  O1  UNL     1     -22.630   3.696  31.896  1.00  0.00           O  
+HETATM   11  C8  UNL     1     -25.030   4.897  31.673  1.00  0.00           C  
+HETATM   12  C9  UNL     1     -26.220   5.510  31.238  1.00  0.00           C  
+HETATM   13  N3  UNL     1     -26.195   5.558  29.930  1.00  0.00           N  
+HETATM   14  C10 UNL     1     -24.985   4.982  29.563  1.00  0.00           C  
+CONECT    1    2    2    6    7
+CONECT    2    3
+CONECT    3    4    4
+CONECT    4    5    8
+CONECT    5    6    6
+CONECT    8    9   10   10
+CONECT    9   11   14
+CONECT   11   12   12
+CONECT   12   13
+CONECT   13   14   14
+END

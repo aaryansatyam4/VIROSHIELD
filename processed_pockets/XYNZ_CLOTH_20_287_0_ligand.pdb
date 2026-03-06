@@ -1,0 +1,26 @@
+COMPND    1GKL_FER_A_3086
+HETATM    1  C1  UNL     1     -78.035 -23.300  -3.047  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -77.797 -24.249  -4.045  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -76.524 -24.804  -4.196  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -76.999 -22.901  -2.191  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -75.721 -23.465  -2.349  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -75.478 -24.414  -3.346  1.00  0.00           C  
+HETATM    7  C7  UNL     1     -76.261 -21.495  -0.293  1.00  0.00           C  
+HETATM    8  C8  UNL     1     -74.127 -24.976  -3.474  1.00  0.00           C  
+HETATM    9  C9  UNL     1     -73.808 -25.883  -4.395  1.00  0.00           C  
+HETATM   10  C10 UNL     1     -72.453 -26.431  -4.505  1.00  0.00           C  
+HETATM   11  O1  UNL     1     -71.537 -26.057  -3.725  1.00  0.00           O  
+HETATM   12  O2  UNL     1     -72.178 -27.375  -5.485  1.00  0.00           O  
+HETATM   13  O3  UNL     1     -79.306 -22.756  -2.909  1.00  0.00           O  
+HETATM   14  O4  UNL     1     -77.257 -21.951  -1.198  1.00  0.00           O  
+CONECT    1    2    2    4   13
+CONECT    2    3
+CONECT    3    6    6
+CONECT    4    5    5   14
+CONECT    5    6
+CONECT    6    8
+CONECT    7   14
+CONECT    8    9    9
+CONECT    9   10
+CONECT   10   11   11   12
+END

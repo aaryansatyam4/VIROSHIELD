@@ -1,0 +1,29 @@
+COMPND    4QQ6_36X_A_204
+HETATM    1  N1  UNL     1       9.990   0.058   2.018  1.00  0.00           N  
+HETATM    2  C1  UNL     1       9.403   0.790   2.908  1.00  0.00           C  
+HETATM    3  C2  UNL     1      10.011   1.944   3.419  1.00  0.00           C  
+HETATM    4  C3  UNL     1      11.337   2.498   3.064  1.00  0.00           C  
+HETATM    5  C4  UNL     1      11.459   3.757   3.936  1.00  0.00           C  
+HETATM    6  C5  UNL     1      10.179   3.883   4.774  1.00  0.00           C  
+HETATM    7  C6  UNL     1       9.370   2.711   4.367  1.00  0.00           C  
+HETATM    8  C7  UNL     1       8.133   0.462   3.400  1.00  0.00           C  
+HETATM    9  C8  UNL     1       7.525   1.254   4.348  1.00  0.00           C  
+HETATM   10  N2  UNL     1       8.130   2.379   4.839  1.00  0.00           N  
+HETATM   11  C9  UNL     1       7.468   3.203   5.841  1.00  0.00           C  
+HETATM   12  C10 UNL     1       6.192   0.735   4.734  1.00  0.00           C  
+HETATM   13  C11 UNL     1       6.028  -0.531   3.881  1.00  0.00           C  
+HETATM   14  C12 UNL     1       7.291  -0.696   3.023  1.00  0.00           C  
+HETATM   15  H1  UNL     1      10.883   0.307   1.687  1.00  0.00           H  
+CONECT    1    2    2   15
+CONECT    2    3    8
+CONECT    3    4    7    7
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7   10
+CONECT    8    9    9   14
+CONECT    9   10   12
+CONECT   10   11
+CONECT   12   13
+CONECT   13   14
+END

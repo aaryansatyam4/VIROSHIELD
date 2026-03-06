@@ -1,0 +1,21 @@
+COMPND    __2wue_B_rec_5jzs_fgz_lig_docked.pdb
+HETATM    1  C1  UNL     1      10.483 -41.307   9.324  1.00  0.00           C  
+HETATM    2  C2  UNL     1      11.111 -42.533   9.491  1.00  0.00           C  
+HETATM    3  C3  UNL     1      11.861 -43.050   8.440  1.00  0.00           C  
+HETATM    4 CL1  UNL     1      12.672 -44.597   8.626  1.00  0.00          CL  
+HETATM    5  C4  UNL     1      11.972 -42.335   7.241  1.00  0.00           C  
+HETATM    6  O1  UNL     1      12.735 -42.869   6.173  1.00  0.00           O  
+HETATM    7  C5  UNL     1      11.316 -41.108   7.105  1.00  0.00           C  
+HETATM    8 CL2  UNL     1      11.374 -40.114   5.661  1.00  0.00          CL  
+HETATM    9  C6  UNL     1      10.578 -40.604   8.153  1.00  0.00           C  
+HETATM   10  O2  UNL     1      10.199 -40.495  11.510  1.00  0.00           O  
+HETATM   11  C7  UNL     1       9.657 -40.682  10.402  1.00  0.00           C  
+HETATM   12  O3  UNL     1       8.455 -40.362  10.179  1.00  0.00           O  
+CONECT    1    2    2    9   11
+CONECT    2    3
+CONECT    3    4    5    5
+CONECT    5    6    7
+CONECT    7    8    9    9
+CONECT   10   11   11
+CONECT   11   12
+END

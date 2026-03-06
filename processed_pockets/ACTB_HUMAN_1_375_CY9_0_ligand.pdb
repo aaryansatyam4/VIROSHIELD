@@ -1,0 +1,109 @@
+COMPND    1QZ6_JAS_A_500
+HETATM    1  C1  UNL     1      34.020  46.745  22.645  1.00  0.00           C  
+HETATM    2  O1  UNL     1      34.849  47.304  23.658  1.00  0.00           O  
+HETATM    3  C2  UNL     1      34.431  47.407  24.985  1.00  0.00           C  
+HETATM    4  O2  UNL     1      33.311  46.953  25.345  1.00  0.00           O  
+HETATM    5  C3  UNL     1      35.302  48.113  25.970  1.00  0.00           C  
+HETATM    6  C4  UNL     1      35.590  47.242  27.181  1.00  0.00           C  
+HETATM    7  O3  UNL     1      36.465  46.212  26.828  1.00  0.00           O  
+HETATM    8  C5  UNL     1      36.218  48.096  28.269  1.00  0.00           C  
+HETATM    9  C6  UNL     1      36.155  47.395  29.618  1.00  0.00           C  
+HETATM   10  O4  UNL     1      34.834  47.360  30.066  1.00  0.00           O  
+HETATM   11  C7  UNL     1      37.006  48.153  30.631  1.00  0.00           C  
+HETATM   12  C8  UNL     1      34.718  45.545  22.006  1.00  0.00           C  
+HETATM   13  C9  UNL     1      33.830  44.897  20.955  1.00  0.00           C  
+HETATM   14  C10 UNL     1      35.067  44.503  23.059  1.00  0.00           C  
+HETATM   15  C11 UNL     1      36.350  43.781  22.684  1.00  0.00           C  
+HETATM   16  C12 UNL     1      37.521  44.635  23.023  1.00  0.00           C  
+HETATM   17  C13 UNL     1      38.352  45.051  22.076  1.00  0.00           C  
+HETATM   18  C14 UNL     1      39.493  45.910  22.402  1.00  0.00           C  
+HETATM   19  O5  UNL     1      40.331  46.373  21.504  1.00  0.00           O  
+HETATM   20  C15 UNL     1      41.220  47.118  22.121  1.00  0.00           C  
+HETATM   21  N1  UNL     1      39.788  46.322  23.650  1.00  0.00           N  
+HETATM   22  C16 UNL     1      40.880  47.084  23.458  1.00  0.00           C  
+HETATM   23  C17 UNL     1      41.573  47.785  24.541  1.00  0.00           C  
+HETATM   24  N2  UNL     1      41.215  47.672  25.832  1.00  0.00           N  
+HETATM   25  O6  UNL     1      42.592  48.595  24.364  1.00  0.00           O  
+HETATM   26  C18 UNL     1      42.950  49.059  25.540  1.00  0.00           C  
+HETATM   27  C19 UNL     1      42.091  48.481  26.453  1.00  0.00           C  
+HETATM   28  C20 UNL     1      42.089  48.709  27.899  1.00  0.00           C  
+HETATM   29  N3  UNL     1      41.277  48.049  28.743  1.00  0.00           N  
+HETATM   30  O7  UNL     1      42.857  49.582  28.510  1.00  0.00           O  
+HETATM   31  C21 UNL     1      42.577  49.538  29.793  1.00  0.00           C  
+HETATM   32  C22 UNL     1      41.593  48.576  29.939  1.00  0.00           C  
+HETATM   33  C23 UNL     1      40.914  48.181  31.224  1.00  0.00           C  
+HETATM   34  C24 UNL     1      39.456  48.670  31.321  1.00  0.00           C  
+HETATM   35  C25 UNL     1      39.324  50.161  31.030  1.00  0.00           C  
+HETATM   36  C26 UNL     1      38.477  47.859  30.507  1.00  0.00           C  
+HETATM   37  O8  UNL     1      38.867  46.948  29.789  1.00  0.00           O  
+HETATM   38  O9  UNL     1      41.644  48.624  32.331  1.00  0.00           O  
+HETATM   39  C27 UNL     1      42.177  47.465  32.896  1.00  0.00           C  
+HETATM   40  C28 UNL     1      33.744  47.813  21.594  1.00  0.00           C  
+HETATM   41  C29 UNL     1      32.850  48.917  22.157  1.00  0.00           C  
+HETATM   42  C30 UNL     1      33.164  50.288  21.541  1.00  0.00           C  
+HETATM   43  C31 UNL     1      34.659  50.444  21.335  1.00  0.00           C  
+HETATM   44  C32 UNL     1      32.435  50.537  20.224  1.00  0.00           C  
+HETATM   45  C33 UNL     1      33.423  50.878  19.122  1.00  0.00           C  
+HETATM   46  C34 UNL     1      32.963  50.302  17.825  1.00  0.00           C  
+HETATM   47  O10 UNL     1      32.643  49.124  17.758  1.00  0.00           O  
+HETATM   48  C35 UNL     1      32.888  51.186  16.615  1.00  0.00           C  
+HETATM   49  C36 UNL     1      34.269  51.322  15.993  1.00  0.00           C  
+HETATM   50  C37 UNL     1      32.299  52.563  16.953  1.00  0.00           C  
+HETATM   51  O11 UNL     1      30.900  52.512  17.002  1.00  0.00           O  
+HETATM   52  C38 UNL     1      30.503  52.234  15.692  1.00  0.00           C  
+HETATM   53  C39 UNL     1      32.752  53.646  15.963  1.00  0.00           C  
+HETATM   54  C40 UNL     1      31.914  55.933  16.331  1.00  0.00           C  
+HETATM   55  C41 UNL     1      32.835  55.007  16.582  1.00  0.00           C  
+HETATM   56  N4  UNL     1      31.965  57.240  16.912  1.00  0.00           N  
+HETATM   57  C42 UNL     1      33.214  57.788  17.435  1.00  0.00           C  
+HETATM   58  O12 UNL     1      29.631  57.173  17.249  1.00  0.00           O  
+HETATM   59  C43 UNL     1      30.720  58.001  16.967  1.00  0.00           C  
+HETATM   60  O13 UNL     1      31.504  48.591  21.965  1.00  0.00           O  
+HETATM   61  C44 UNL     1      30.924  48.692  23.231  1.00  0.00           C  
+CONECT    1    2   12   40
+CONECT    2    3
+CONECT    3    4    4    5
+CONECT    5    6
+CONECT    6    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   11   36
+CONECT   12   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   17
+CONECT   17   18
+CONECT   18   19   21   21
+CONECT   19   20
+CONECT   20   22   22
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24   24   25
+CONECT   24   27
+CONECT   25   26
+CONECT   26   27   27
+CONECT   27   28
+CONECT   28   29   29   30
+CONECT   29   32
+CONECT   30   31
+CONECT   31   32   32
+CONECT   32   33
+CONECT   33   34   38
+CONECT   34   35   36
+CONECT   36   37   37
+CONECT   38   39
+CONECT   40   41
+CONECT   41   42   60
+CONECT   42   43   44
+CONECT   44   45
+CONECT   45   46
+CONECT   46   47   47   48
+CONECT   48   49   50
+CONECT   50   51   53
+CONECT   51   52
+CONECT   53   55
+CONECT   54   55   55   56
+CONECT   56   57   59
+CONECT   58   59
+CONECT   60   61
+END

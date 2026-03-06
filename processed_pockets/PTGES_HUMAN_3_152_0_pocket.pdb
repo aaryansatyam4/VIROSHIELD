@@ -1,0 +1,34 @@
+HETATM    1  N1 AGSH A 202      -5.863   7.033  48.703  0.70 21.09           N  
+HETATM    2  CA1AGSH A 202      -6.211   8.478  48.783  0.70 18.98           C  
+HETATM    3  C1 AGSH A 202      -6.164   8.991  50.203  0.70 25.36           C  
+HETATM    4  O11AGSH A 202      -6.134  10.223  50.393  0.70 23.69           O  
+HETATM    5  O12AGSH A 202      -6.128   8.184  51.156  0.70 21.01           O  
+HETATM    6  CB1AGSH A 202      -7.559   8.703  48.084  0.70 17.89           C  
+HETATM    7  CG1AGSH A 202      -7.937  10.161  47.797  0.70 17.08           C  
+HETATM    8  CD1AGSH A 202      -6.767  11.016  47.345  0.70 16.11           C  
+HETATM    9  OE1AGSH A 202      -5.980  10.619  46.502  0.70 17.46           O  
+HETATM   10  N2 AGSH A 202      -6.648  12.211  47.926  0.70 20.20           N  
+HETATM   11  CA2AGSH A 202      -5.623  13.172  47.543  0.70 18.96           C  
+HETATM   12  C2 AGSH A 202      -4.299  12.962  48.230  0.70 18.68           C  
+HETATM   13  O2 AGSH A 202      -3.367  13.726  47.986  0.70 13.15           O  
+HETATM   14  CB2AGSH A 202      -6.114  14.588  47.823  0.70 17.93           C  
+HETATM   15  SG2AGSH A 202      -6.436  14.865  49.583  0.70 23.33           S  
+HETATM   16  N3 AGSH A 202      -4.207  11.938  49.086  0.70 15.67           N  
+HETATM   17  CA3AGSH A 202      -3.036  11.720  49.917  0.70 17.82           C  
+HETATM   18  C3 AGSH A 202      -2.622  10.269  49.930  0.70 17.20           C  
+HETATM   19  O31AGSH A 202      -3.094   9.499  49.060  0.70 22.37           O  
+HETATM   20  O32AGSH A 202      -1.830   9.888  50.812  0.70 16.31           O  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10
+CONECT   10   11
+CONECT   11   12   14
+CONECT   12   13   16
+CONECT   14   15
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19   20
+END

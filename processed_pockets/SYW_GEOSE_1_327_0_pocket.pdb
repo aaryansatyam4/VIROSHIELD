@@ -1,0 +1,65 @@
+HETATM    1  P   TYM A 350      52.482  21.978  37.479  1.00 21.64           P  
+HETATM    2  O1P TYM A 350      52.854  20.519  37.415  1.00 20.33           O  
+HETATM    3  O2P TYM A 350      51.109  22.532  37.260  1.00 20.43           O  
+HETATM    4  O5' TYM A 350      53.550  22.884  36.516  1.00 17.50           O  
+HETATM    5  C5' TYM A 350      54.895  22.511  36.593  1.00 19.11           C  
+HETATM    6  C4' TYM A 350      55.800  23.712  36.503  1.00 32.28           C  
+HETATM    7  O4' TYM A 350      55.458  24.414  35.288  1.00 24.12           O  
+HETATM    8  C1' TYM A 350      55.172  25.774  35.505  1.00 21.17           C  
+HETATM    9  N9  TYM A 350      54.116  26.260  34.565  1.00 18.93           N  
+HETATM   10  C4  TYM A 350      54.199  27.375  33.746  1.00 22.26           C  
+HETATM   11  N3  TYM A 350      55.241  28.212  33.631  1.00 21.72           N  
+HETATM   12  C2  TYM A 350      54.950  29.205  32.789  1.00 21.13           C  
+HETATM   13  N1  TYM A 350      53.828  29.383  32.061  1.00 21.67           N  
+HETATM   14  C6  TYM A 350      52.827  28.506  32.160  1.00 21.55           C  
+HETATM   15  N6  TYM A 350      51.717  28.664  31.437  1.00 23.53           N  
+HETATM   16  C5  TYM A 350      52.998  27.442  33.070  1.00 19.72           C  
+HETATM   17  N7  TYM A 350      52.169  26.412  33.441  1.00 22.95           N  
+HETATM   18  C8  TYM A 350      52.869  25.742  34.315  1.00 19.14           C  
+HETATM   19  C2' TYM A 350      54.656  25.722  36.996  1.00 16.96           C  
+HETATM   20  O2' TYM A 350      54.727  27.014  37.601  1.00 23.14           O  
+HETATM   21  C3' TYM A 350      55.594  24.727  37.668  1.00 16.81           C  
+HETATM   22  O3' TYM A 350      56.851  25.318  37.962  1.00 20.56           O  
+HETATM   23  NH3 TYM A 350      52.331  22.354  42.521  1.00 20.46           N  
+HETATM   24  CA  TYM A 350      53.259  22.253  41.383  1.00 21.03           C  
+HETATM   25  CB  TYM A 350      54.030  20.961  41.482  1.00 22.11           C  
+HETATM   26  CG  TYM A 350      54.912  20.884  42.728  1.00 18.51           C  
+HETATM   27  CD2 TYM A 350      56.050  21.646  43.010  1.00 18.98           C  
+HETATM   28  CE2 TYM A 350      56.467  21.131  44.254  1.00 20.66           C  
+HETATM   29  CE3 TYM A 350      56.774  22.671  42.385  1.00 22.31           C  
+HETATM   30  CD1 TYM A 350      54.653  19.955  43.735  1.00 21.44           C  
+HETATM   31  NE1 TYM A 350      55.625  20.135  44.650  1.00 23.09           N  
+HETATM   32  CZ2 TYM A 350      57.641  21.680  44.878  1.00 17.17           C  
+HETATM   33  CZ3 TYM A 350      57.899  23.190  42.994  1.00 26.23           C  
+HETATM   34  CH2 TYM A 350      58.345  22.703  44.235  1.00 24.18           C  
+HETATM   35  C   TYM A 350      52.452  22.182  40.100  1.00 22.05           C  
+HETATM   36  O   TYM A 350      51.307  21.770  40.049  1.00 24.71           O  
+HETATM   37  OPP TYM A 350      53.051  22.652  38.946  1.00 26.81           O  
+CONECT    1    2    3    4   37
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7   21
+CONECT    7    8
+CONECT    8    9   19
+CONECT    9   10   18
+CONECT   10   11   16
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   19   20   21
+CONECT   21   22
+CONECT   23   24
+CONECT   24   25   35
+CONECT   25   26
+CONECT   26   27   30
+CONECT   27   28   29
+CONECT   28   31   32
+CONECT   29   33
+CONECT   30   31
+CONECT   32   34
+CONECT   33   34
+CONECT   35   36   37
+END

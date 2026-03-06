@@ -1,0 +1,24 @@
+COMPND    1RQI_IPR_A_501
+HETATM    1  P1  UNL     1      59.967  67.120   8.378  1.00  0.00           P  
+HETATM    2  O1  UNL     1      60.005  65.441   8.175  1.00  0.00           O  
+HETATM    3  O2  UNL     1      59.499  67.769   7.093  1.00  0.00           O  
+HETATM    4  O3  UNL     1      58.942  67.530   9.677  1.00  0.00           O  
+HETATM    5  P2  UNL     1      57.344  67.572   9.091  1.00  0.00           P  
+HETATM    6  O4  UNL     1      56.299  67.133  10.345  1.00  0.00           O  
+HETATM    7  O5  UNL     1      57.137  66.484   7.811  1.00  0.00           O  
+HETATM    8  O6  UNL     1      56.990  68.969   8.632  1.00  0.00           O  
+HETATM    9  O7  UNL     1      61.542  67.645   8.724  1.00  0.00           O  
+HETATM   10  C1  UNL     1      61.453  69.034   8.852  1.00  0.00           C  
+HETATM   11  C2  UNL     1      61.978  69.466  10.212  1.00  0.00           C  
+HETATM   12  C3  UNL     1      63.134  70.444  10.068  1.00  0.00           C  
+HETATM   13  C4  UNL     1      62.795  71.729  10.792  1.00  0.00           C  
+HETATM   14  C5  UNL     1      63.385  70.749   8.604  1.00  0.00           C  
+CONECT    1    2    3    3    4
+CONECT    1    9
+CONECT    4    5
+CONECT    5    6    7    8    8
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   14
+END

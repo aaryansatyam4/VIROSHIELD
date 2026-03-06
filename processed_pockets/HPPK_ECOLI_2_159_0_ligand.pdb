@@ -1,0 +1,20 @@
+COMPND    3BMG_DX4_A_270
+HETATM    1  C1  UNL     1      74.456   5.056  71.559  1.00  0.00           C  
+HETATM    2  C2  UNL     1      73.638   6.127  71.517  1.00  0.00           C  
+HETATM    3  C3  UNL     1      72.299   5.969  71.177  1.00  0.00           C  
+HETATM    4  C4  UNL     1      75.573   6.766  72.066  1.00  0.00           C  
+HETATM    5  N1  UNL     1      71.862   4.706  70.894  1.00  0.00           N  
+HETATM    6  N2  UNL     1      72.224   2.329  70.642  1.00  0.00           N  
+HETATM    7  N3  UNL     1      74.027   3.802  71.279  1.00  0.00           N  
+HETATM    8  C5  UNL     1      72.712   3.631  70.943  1.00  0.00           C  
+HETATM    9  N4  UNL     1      75.697   5.420  71.905  1.00  0.00           N  
+HETATM   10  N5  UNL     1      74.316   7.238  71.835  1.00  0.00           N  
+HETATM   11  S1  UNL     1      71.268   7.237  71.112  1.00  0.00           S  
+CONECT    1    2    2    7    9
+CONECT    2    3   10
+CONECT    3    5   11   11
+CONECT    4    9   10   10
+CONECT    5    8
+CONECT    6    8
+CONECT    7    8    8
+END

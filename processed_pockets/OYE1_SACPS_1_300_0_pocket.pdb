@@ -1,0 +1,19 @@
+HETATM    1  CAGA07V A 409      -1.425  35.372 -13.853  0.89 16.30           C  
+HETATM    2  CAJA07V A 409      -0.772  34.867 -12.634  0.89 16.09           C  
+HETATM    3  OADA07V A 409      -1.318  34.028 -11.944  0.89 14.02           O  
+HETATM    4  CAIA07V A 409       0.565  35.371 -12.285  0.89 16.72           C  
+HETATM    5  CACA07V A 409       1.279  34.738 -11.144  0.89 18.31           C  
+HETATM    6  CAEA07V A 409       1.147  36.367 -13.006  0.89 18.17           C  
+HETATM    7  CAFA07V A 409       0.409  37.018 -14.122  0.89 18.70           C  
+HETATM    8  CAKA07V A 409      -1.078  36.796 -14.139  0.89 19.44           C  
+HETATM    9  CAHA07V A 409      -1.692  37.222 -15.442  0.89 22.96           C  
+HETATM   10  CABA07V A 409      -1.877  36.252 -16.558  0.89 24.95           C  
+HETATM   11  CAAA07V A 409      -1.845  38.545 -15.736  0.89 24.78           C  
+CONECT    1    2    8
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+END

@@ -1,0 +1,49 @@
+HETATM    1  O1A TDM A 700      70.671  51.833  42.524  0.90 56.83           O  
+HETATM    2  PA  TDM A 700      69.741  52.940  42.862  0.90 56.72           P  
+HETATM    3  O2A TDM A 700      70.316  54.324  42.339  0.90 56.56           O  
+HETATM    4  O3A TDM A 700      69.554  53.151  44.456  0.90 55.57           O  
+HETATM    5  PB  TDM A 700      69.308  51.955  45.505  0.90 54.03           P  
+HETATM    6  O2B TDM A 700      70.128  52.112  46.731  0.90 54.17           O  
+HETATM    7  O3B TDM A 700      67.731  51.932  45.845  0.90 53.74           O  
+HETATM    8  O1B TDM A 700      69.592  50.549  44.766  0.90 54.10           O  
+HETATM    9  O7  TDM A 700      68.284  52.808  42.195  0.90 59.12           O  
+HETATM   10  C7  TDM A 700      67.184  53.640  42.594  0.90 61.84           C  
+HETATM   11  C6  TDM A 700      65.914  52.800  42.545  0.90 65.31           C  
+HETATM   12  C5  TDM A 700      64.630  53.632  42.480  0.90 66.08           C  
+HETATM   13  S1  TDM A 700      63.937  54.276  43.918  0.90 66.93           S  
+HETATM   14  C2  TDM A 700      62.591  55.018  43.160  0.90 66.37           C  
+HETATM   15  C27 TDM A 700      61.627  55.714  43.788  0.90 66.32           C  
+HETATM   16  C29 TDM A 700      61.660  55.893  45.310  0.90 66.14           C  
+HETATM   17  O28 TDM A 700      60.478  56.343  42.998  0.90 66.35           O  
+HETATM   18  N3  TDM A 700      62.737  54.724  41.654  0.90 66.39           N  
+HETATM   19  C4  TDM A 700      63.836  53.984  41.372  0.90 66.28           C  
+HETATM   20  CM4 TDM A 700      64.206  53.549  39.947  0.90 66.33           C  
+HETATM   21  C7' TDM A 700      61.792  55.220  40.626  0.90 66.06           C  
+HETATM   22  C5' TDM A 700      62.451  56.424  39.907  0.90 65.67           C  
+HETATM   23  C4' TDM A 700      62.914  57.596  40.521  0.90 65.54           C  
+HETATM   24  N4' TDM A 700      62.802  57.789  41.831  0.90 65.15           N  
+HETATM   25  N3' TDM A 700      63.483  58.567  39.782  0.90 65.65           N  
+HETATM   26  C2' TDM A 700      63.622  58.430  38.454  0.90 65.62           C  
+HETATM   27  CM2 TDM A 700      64.273  59.552  37.638  0.90 65.39           C  
+HETATM   28  N1' TDM A 700      63.188  57.309  37.843  0.90 65.27           N  
+HETATM   29  C6' TDM A 700      62.618  56.327  38.524  0.90 65.43           C  
+CONECT    1    2
+CONECT    2    3    4    9
+CONECT    4    5
+CONECT    5    6    7    8
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   19
+CONECT   13   14
+CONECT   14   15   18
+CONECT   15   16   17
+CONECT   18   19   21
+CONECT   19   20
+CONECT   21   22
+CONECT   22   23   29
+CONECT   23   24   25
+CONECT   25   26
+CONECT   26   27   28
+CONECT   28   29
+END

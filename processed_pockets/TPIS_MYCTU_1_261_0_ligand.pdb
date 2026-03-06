@@ -1,0 +1,19 @@
+COMPND    PGH
+HETATM    1  C1  UNL     1     -24.039   7.573  11.938  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -22.633   7.070  11.868  1.00  0.00           C  
+HETATM    3  N1  UNL     1     -21.920   6.760  13.068  1.00  0.00           N  
+HETATM    4  O1  UNL     1     -20.644   6.307  13.015  1.00  0.00           O  
+HETATM    5  O2  UNL     1     -22.062   6.957  10.750  1.00  0.00           O  
+HETATM    6  O3  UNL     1     -24.114   8.568  12.929  1.00  0.00           O  
+HETATM    7  O4  UNL     1     -25.803  10.373  13.798  1.00  0.00           O  
+HETATM    8  O5  UNL     1     -26.593   7.890  14.003  1.00  0.00           O  
+HETATM    9  O6  UNL     1     -26.459   9.188  11.564  1.00  0.00           O  
+HETATM   10  P1  UNL     1     -25.745   9.037  13.091  1.00  0.00           P  
+CONECT    1    2    6
+CONECT    2    3    5    5
+CONECT    3    4
+CONECT    6   10
+CONECT    7   10   10
+CONECT    8   10
+CONECT    9   10
+END

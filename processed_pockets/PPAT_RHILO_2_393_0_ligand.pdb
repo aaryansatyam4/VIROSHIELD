@@ -1,0 +1,21 @@
+COMPND    __2z9u_A_rec_2z9v_pxm_lig_docked.pdb
+HETATM    1  N1  UNL     1      30.346  50.840  24.327  1.00  0.00           N  
+HETATM    2  C1  UNL     1      31.240  50.992  25.312  1.00  0.00           C  
+HETATM    3  C2  UNL     1      31.415  52.403  25.885  1.00  0.00           C  
+HETATM    4  C3  UNL     1      31.962  49.904  25.808  1.00  0.00           C  
+HETATM    5  O1  UNL     1      32.872  50.042  26.815  1.00  0.00           O  
+HETATM    6  C4  UNL     1      31.755  48.635  25.242  1.00  0.00           C  
+HETATM    7  C5  UNL     1      30.817  48.547  24.210  1.00  0.00           C  
+HETATM    8  C6  UNL     1      30.131  49.665  23.766  1.00  0.00           C  
+HETATM    9  C7  UNL     1      32.536  47.404  25.749  1.00  0.00           C  
+HETATM   10  N2  UNL     1      33.837  47.350  25.043  1.00  0.00           N  
+HETATM   11  C8  UNL     1      30.472  47.243  23.511  1.00  0.00           C  
+HETATM   12  O2  UNL     1      31.568  46.912  22.659  1.00  0.00           O  
+CONECT    1    2    2    8
+CONECT    2    3    4
+CONECT    4    5    6    6
+CONECT    6    7    9
+CONECT    7    8    8   11
+CONECT    9   10
+CONECT   11   12
+END

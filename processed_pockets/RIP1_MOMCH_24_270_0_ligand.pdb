@@ -1,0 +1,15 @@
+COMPND    2P2R_CYT_A_501
+HETATM    1  N1  UNL     1      22.597   6.500  -4.294  1.00  0.00           N  
+HETATM    2  C1  UNL     1      22.307   5.541  -3.377  1.00  0.00           C  
+HETATM    3  N2  UNL     1      22.262   8.187  -2.686  1.00  0.00           N  
+HETATM    4  C2  UNL     1      22.576   7.816  -3.956  1.00  0.00           C  
+HETATM    5  O1  UNL     1      22.847   8.692  -4.818  1.00  0.00           O  
+HETATM    6  N3  UNL     1      22.334   4.169  -3.750  1.00  0.00           N  
+HETATM    7  C3  UNL     1      21.983   5.901  -2.070  1.00  0.00           C  
+HETATM    8  C4  UNL     1      21.966   7.256  -1.742  1.00  0.00           C  
+CONECT    1    2    4
+CONECT    2    6    7    7
+CONECT    3    4    8    8
+CONECT    4    5    5
+CONECT    7    8
+END

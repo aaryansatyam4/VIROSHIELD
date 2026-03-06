@@ -1,0 +1,24 @@
+HETATM    1  N   TYC A 401     -25.219 173.169 -25.119  1.00 25.85           N  
+HETATM    2  CA  TYC A 401     -25.940 171.852 -25.198  1.00 26.94           C  
+HETATM    3  C   TYC A 401     -25.616 171.018 -23.975  1.00 27.48           C  
+HETATM    4  O   TYC A 401     -25.148 171.547 -22.986  1.00 25.34           O  
+HETATM    5  CB  TYC A 401     -25.524 171.164 -26.523  1.00 28.25           C  
+HETATM    6  CG  TYC A 401     -26.020 171.943 -27.718  1.00 28.89           C  
+HETATM    7  CD1 TYC A 401     -25.183 172.905 -28.329  1.00 28.31           C  
+HETATM    8  CD2 TYC A 401     -27.321 171.718 -28.219  1.00 29.30           C  
+HETATM    9  CE1 TYC A 401     -25.646 173.644 -29.439  1.00 30.02           C  
+HETATM   10  CE2 TYC A 401     -27.788 172.455 -29.330  1.00 30.15           C  
+HETATM   11  OH  TYC A 401     -27.400 174.133 -31.007  1.00 33.00           O  
+HETATM   12  CZ  TYC A 401     -26.952 173.421 -29.941  1.00 29.83           C  
+HETATM   13  NXT TYC A 401     -25.653 169.502 -24.060  1.00 27.49           N  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4   13
+CONECT    5    6
+CONECT    6    7    8
+CONECT    7    9
+CONECT    8   10
+CONECT    9   12
+CONECT   10   12
+CONECT   11   12
+END

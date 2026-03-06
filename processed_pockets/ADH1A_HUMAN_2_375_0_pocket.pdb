@@ -1,0 +1,22 @@
+HETATM    1  N1  CCB A1378       9.149   0.819   1.104  1.00 26.52           N  
+HETATM    2  C2  CCB A1378       8.115   1.398   0.488  1.00 26.36           C  
+HETATM    3  O3  CCB A1378       7.450   2.295   0.997  1.00 28.04           O  
+HETATM    4  C5  CCB A1378       9.564   1.225   2.425  1.00 25.46           C  
+HETATM    5  C6  CCB A1378       9.828  -0.202   0.401  1.00 26.52           C  
+HETATM    6  C7  CCB A1378      10.784   2.078   2.510  1.00 24.52           C  
+HETATM    7  C8  CCB A1378      11.176   1.972   3.972  1.00 24.21           C  
+HETATM    8  C9  CCB A1378      10.550   0.695   4.504  1.00 24.88           C  
+HETATM    9  C10 CCB A1378       9.827   0.075   3.337  1.00 25.29           C  
+HETATM   10  C20 CCB A1378      10.164  -1.628   0.646  1.00 27.03           C  
+HETATM   11  C21 CCB A1378      10.999  -1.576  -0.586  1.00 28.30           C  
+HETATM   12  C22 CCB A1378      11.140  -0.118  -0.329  1.00 25.46           C  
+CONECT    1    2    4    5
+CONECT    2    3
+CONECT    4    6    9
+CONECT    5   10   12
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT   10   11
+CONECT   11   12
+END

@@ -1,0 +1,35 @@
+COMPND    1KYY_INI_A_201
+HETATM    1  N1  UNL     1      85.322  44.938  20.977  1.00  0.00           N  
+HETATM    2  N2  UNL     1      86.652  44.957  22.990  1.00  0.00           N  
+HETATM    3  C1  UNL     1      86.879  44.624  24.284  1.00  0.00           C  
+HETATM    4  O1  UNL     1      87.949  44.974  24.845  1.00  0.00           O  
+HETATM    5  N3  UNL     1      85.954  43.912  24.973  1.00  0.00           N  
+HETATM    6  C2  UNL     1      84.791  43.521  24.392  1.00  0.00           C  
+HETATM    7  O2  UNL     1      83.954  42.874  25.076  1.00  0.00           O  
+HETATM    8  C3  UNL     1      84.525  43.853  23.048  1.00  0.00           C  
+HETATM    9  C4  UNL     1      85.505  44.596  22.355  1.00  0.00           C  
+HETATM   10  N4  UNL     1      83.296  43.446  22.412  1.00  0.00           N1+
+HETATM   11  O3  UNL     1      82.120  44.112  22.668  1.00  0.00           O1-
+HETATM   12  O4  UNL     1      83.281  42.498  21.599  1.00  0.00           O  
+HETATM   13  C5  UNL     1      85.207  46.313  20.507  1.00  0.00           C  
+HETATM   14  C6  UNL     1      86.430  46.739  19.688  1.00  0.00           C  
+HETATM   15  O5  UNL     1      87.105  45.627  19.181  1.00  0.00           O  
+HETATM   16  C7  UNL     1      87.407  47.660  20.434  1.00  0.00           C  
+HETATM   17  O6  UNL     1      87.483  48.922  19.840  1.00  0.00           O  
+HETATM   18  C8  UNL     1      88.808  47.071  20.632  1.00  0.00           C  
+HETATM   19  O7  UNL     1      89.004  46.667  21.954  1.00  0.00           O  
+HETATM   20  C9  UNL     1      89.898  48.050  20.224  1.00  0.00           C  
+HETATM   21  O8  UNL     1      90.028  49.049  21.189  1.00  0.00           O  
+CONECT    1    9   13
+CONECT    2    3    9
+CONECT    3    4    4    5
+CONECT    5    6
+CONECT    6    7    7    8
+CONECT    8    9    9   10
+CONECT   10   11   12   12
+CONECT   13   14
+CONECT   14   15   16
+CONECT   16   17   18
+CONECT   18   19   20
+CONECT   20   21
+END

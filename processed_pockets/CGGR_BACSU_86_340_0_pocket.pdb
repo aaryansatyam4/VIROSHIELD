@@ -1,0 +1,19 @@
+HETATM    1  O1  G3H B 501      69.623  85.418  62.819  1.00 33.37           O  
+HETATM    2  C1  G3H B 501      70.137  84.186  63.374  1.00 35.87           C  
+HETATM    3  C2  G3H B 501      69.672  82.979  62.544  1.00 37.00           C  
+HETATM    4  O2  G3H B 501      69.323  83.375  61.218  1.00 39.58           O  
+HETATM    5  C3  G3H B 501      70.723  81.877  62.435  1.00 35.64           C  
+HETATM    6  O1P G3H B 501      70.432  80.907  61.391  1.00 29.44           O  
+HETATM    7  O2P G3H B 501      71.951  79.261  62.404  1.00 28.82           O  
+HETATM    8  O3P G3H B 501      69.464  79.013  62.662  1.00 24.38           O  
+HETATM    9  O4P G3H B 501      70.533  78.682  60.390  1.00 27.21           O  
+HETATM   10  P   G3H B 501      70.615  79.330  61.733  1.00 28.91           P  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6   10
+CONECT    7   10
+CONECT    8   10
+CONECT    9   10
+END

@@ -1,0 +1,27 @@
+HETATM    1  CX1 BPS A1366     -31.199  26.203  18.315  1.00 10.96           C  
+HETATM    2  CX2 BPS A1366     -31.557  27.009  17.237  1.00 12.86           C  
+HETATM    3  CX3 BPS A1366     -31.548  26.486  15.943  1.00 12.73           C  
+HETATM    4  CX4 BPS A1366     -31.170  25.160  15.742  1.00 10.37           C  
+HETATM    5  CX5 BPS A1366     -30.808  24.360  16.820  1.00 12.12           C  
+HETATM    6  CX6 BPS A1366     -30.823  24.877  18.113  1.00 11.05           C  
+HETATM    7  CX7 BPS A1366     -31.874  28.344  17.488  1.00 11.76           C  
+HETATM    8  CX8 BPS A1366     -33.172  28.695  17.855  1.00 12.77           C  
+HETATM    9  CX9 BPS A1366     -33.491  30.025  18.112  1.00 12.45           C  
+HETATM   10  CXA BPS A1366     -32.509  31.008  18.000  1.00 10.44           C  
+HETATM   11  CXB BPS A1366     -31.212  30.660  17.634  1.00 11.96           C  
+HETATM   12  CXC BPS A1366     -30.894  29.328  17.380  1.00 13.04           C  
+HETATM   13  SX1 BPS A1366     -32.017  27.454  14.559  1.00 13.80           S  
+HETATM   14  OX1 BPS A1366     -31.035  28.464  14.314  1.00 15.13           O  
+HETATM   15  OX2 BPS A1366     -32.126  26.598  13.330  1.00 14.74           O  
+CONECT    1    2    6
+CONECT    2    3    7
+CONECT    3    4   13
+CONECT    4    5
+CONECT    5    6
+CONECT    7    8   12
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   13   14   15
+END

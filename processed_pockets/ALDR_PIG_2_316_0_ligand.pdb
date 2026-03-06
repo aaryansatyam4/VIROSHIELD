@@ -1,0 +1,31 @@
+COMPND    1AH0_SBI_A_320
+HETATM    1  C1  UNL     1      64.994  36.705  85.853  1.00  0.00           C  
+HETATM    2  F1  UNL     1      64.010  36.837  84.932  1.00  0.00           F  
+HETATM    3  C2  UNL     1      66.284  36.350  85.450  1.00  0.00           C  
+HETATM    4  C3  UNL     1      67.302  36.221  86.398  1.00  0.00           C  
+HETATM    5  C4  UNL     1      67.036  36.446  87.752  1.00  0.00           C  
+HETATM    6  O1  UNL     1      68.068  36.323  88.686  1.00  0.00           O  
+HETATM    7  C5  UNL     1      67.919  36.779  90.028  1.00  0.00           C  
+HETATM    8  C6  UNL     1      66.527  36.432  90.549  1.00  0.00           C  
+HETATM    9  C7  UNL     1      65.437  37.017  89.639  1.00  0.00           C  
+HETATM   10  C8  UNL     1      65.231  38.479  89.919  1.00  0.00           C  
+HETATM   11  O2  UNL     1      66.105  39.368  89.737  1.00  0.00           O  
+HETATM   12  N1  UNL     1      63.932  38.777  90.410  1.00  0.00           N  
+HETATM   13  C9  UNL     1      63.319  37.501  90.443  1.00  0.00           C  
+HETATM   14  O3  UNL     1      62.134  37.326  90.828  1.00  0.00           O  
+HETATM   15  N2  UNL     1      64.151  36.433  90.006  1.00  0.00           N  
+HETATM   16  C10 UNL     1      65.730  36.780  88.169  1.00  0.00           C  
+HETATM   17  C11 UNL     1      64.718  36.921  87.206  1.00  0.00           C  
+CONECT    1    2    3    3   17
+CONECT    3    4
+CONECT    4    5    5
+CONECT    5    6   16
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   15   16
+CONECT   10   11   11   12
+CONECT   12   13
+CONECT   13   14   14   15
+CONECT   16   17   17
+END

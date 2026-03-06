@@ -1,0 +1,52 @@
+HETATM    1  N10 AHX A 422      52.255  11.523  62.964  0.64  9.59           N  
+HETATM    2  CA  AHX A 422      52.865  12.783  62.641  0.64  9.48           C  
+HETATM    3  CB  AHX A 422      54.348  12.659  62.755  0.64  6.98           C  
+HETATM    4  OG  AHX A 422      54.704  11.505  61.979  0.64  2.33           O  
+HETATM    5  C9  AHX A 422      52.444  12.862  61.205  0.64 10.69           C  
+HETATM    6  O9  AHX A 422      52.196  11.821  60.578  0.64  7.21           O  
+HETATM    7  N8  AHX A 422      52.281  14.054  60.697  0.64 12.74           N  
+HETATM    8  PA  AHX A 422      52.974  14.634  58.408  0.77 18.04           P  
+HETATM    9  O1A AHX A 422      52.221  15.236  57.292  0.77 24.99           O  
+HETATM   10  O2A AHX A 422      53.915  15.482  59.188  0.77 25.39           O  
+HETATM   11  O3A AHX A 422      51.881  14.072  59.380  0.77 20.40           O  
+HETATM   12  O5' AHX A 422      53.843  13.384  57.897  1.00 23.94           O  
+HETATM   13  C5' AHX A 422      55.060  13.006  58.563  1.00 16.45           C  
+HETATM   14  C4' AHX A 422      56.152  12.464  57.657  1.00 15.76           C  
+HETATM   15  O4' AHX A 422      55.773  11.328  56.851  1.00 14.90           O  
+HETATM   16  C3' AHX A 422      56.664  13.557  56.746  1.00 14.64           C  
+HETATM   17  O3' AHX A 422      57.630  14.388  57.418  1.00 16.34           O  
+HETATM   18  C2' AHX A 422      57.288  12.752  55.641  1.00 13.27           C  
+HETATM   19  O2' AHX A 422      58.501  12.209  56.094  1.00 10.07           O  
+HETATM   20  C1' AHX A 422      56.313  11.597  55.547  1.00 15.33           C  
+HETATM   21  N9  AHX A 422      55.241  11.891  54.598  1.00 13.53           N  
+HETATM   22  C8  AHX A 422      53.989  12.446  54.819  1.00 11.25           C  
+HETATM   23  N7  AHX A 422      53.216  12.395  53.758  1.00 12.33           N  
+HETATM   24  C5  AHX A 422      53.996  11.763  52.778  1.00 10.80           C  
+HETATM   25  C6  AHX A 422      53.721  11.351  51.465  1.00  7.69           C  
+HETATM   26  N6  AHX A 422      52.549  11.548  50.872  1.00  7.23           N  
+HETATM   27  N1  AHX A 422      54.693  10.713  50.820  1.00  5.64           N  
+HETATM   28  C2  AHX A 422      55.838  10.436  51.438  1.00  4.28           C  
+HETATM   29  N3  AHX A 422      56.181  10.634  52.697  1.00  8.78           N  
+HETATM   30  C4  AHX A 422      55.213  11.388  53.302  1.00 13.26           C  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4
+CONECT    5    6    7
+CONECT    7   11
+CONECT    8    9   10   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   16
+CONECT   15   20
+CONECT   16   17   18
+CONECT   18   19   20
+CONECT   20   21
+CONECT   21   22   30
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   30
+CONECT   25   26   27
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+END

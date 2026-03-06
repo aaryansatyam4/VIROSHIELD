@@ -1,0 +1,20 @@
+HETATM    1  C1  SHA A 900      12.073  21.890  31.114  1.00 23.70           C  
+HETATM    2  C2  SHA A 900      11.002  22.822  31.201  1.00 20.22           C  
+HETATM    3  C3  SHA A 900       9.702  22.472  30.868  1.00 22.72           C  
+HETATM    4  C4  SHA A 900       9.411  21.159  30.421  1.00 22.09           C  
+HETATM    5  C5  SHA A 900      10.431  20.210  30.321  1.00 22.66           C  
+HETATM    6  C6  SHA A 900      11.756  20.556  30.665  1.00 24.57           C  
+HETATM    7  O6  SHA A 900      12.733  19.604  30.593  1.00 26.84           O  
+HETATM    8  C7  SHA A 900      13.443  22.378  31.494  1.00 23.56           C  
+HETATM    9  O7  SHA A 900      14.396  21.566  31.690  1.00 23.18           O  
+HETATM   10  N8  SHA A 900      13.702  23.668  31.629  1.00 23.25           N  
+HETATM   11  O9  SHA A 900      14.986  24.065  31.990  1.00 24.91           O  
+CONECT    1    2    6    8
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    8    9   10
+CONECT   10   11
+END

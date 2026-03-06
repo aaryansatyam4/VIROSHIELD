@@ -1,0 +1,19 @@
+COMPND    4ZUQ_6XA_A_403
+HETATM    1  C1  UNL     1     -12.175   6.581 -27.359  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -12.210   5.822 -26.044  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -11.735   4.393 -26.245  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -11.242   3.813 -24.932  1.00  0.00           C  
+HETATM    5  N1  UNL     1      -9.790   3.851 -24.885  1.00  0.00           N  
+HETATM    6  C5  UNL     1     -12.657   8.008 -27.160  1.00  0.00           C  
+HETATM    7  C6  UNL     1     -12.554   8.769 -28.436  1.00  0.00           C  
+HETATM    8  N2  UNL     1     -13.630   9.604 -28.860  1.00  0.00           N  
+HETATM    9  O1  UNL     1     -11.506   8.682 -29.129  1.00  0.00           O  
+HETATM   10  O2  UNL     1     -13.550  10.306 -30.014  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    6    7
+CONECT    7    8    9    9
+CONECT    8   10
+END

@@ -1,0 +1,32 @@
+COMPND    GYV
+HETATM    1  N   UNL     1       9.623  20.363  -2.459  1.00  0.00           N  
+HETATM    2  C   UNL     1      10.630  20.180  -3.305  1.00  0.00           C  
+HETATM    3  O   UNL     1      10.622  20.502  -4.477  1.00  0.00           O  
+HETATM    4  O   UNL     1      11.844  19.546  -2.803  1.00  0.00           O  
+HETATM    5  C   UNL     1      12.891  19.378  -3.764  1.00  0.00           C  
+HETATM    6  O   UNL     1      13.839  20.436  -3.590  1.00  0.00           O  
+HETATM    7  C   UNL     1      14.533  20.454  -2.326  1.00  0.00           C  
+HETATM    8  C   UNL     1      15.623  21.515  -2.393  1.00  0.00           C  
+HETATM    9  O   UNL     1      15.062  22.712  -2.944  1.00  0.00           O  
+HETATM   10  C   UNL     1      15.140  19.099  -1.925  1.00  0.00           C  
+HETATM   11  O   UNL     1      15.418  19.089  -0.526  1.00  0.00           O  
+HETATM   12  C   UNL     1      14.207  17.928  -2.181  1.00  0.00           C  
+HETATM   13  O   UNL     1      14.943  16.709  -2.024  1.00  0.00           O  
+HETATM   14  C   UNL     1      13.633  18.047  -3.583  1.00  0.00           C  
+HETATM   15  N   UNL     1      12.706  16.932  -3.735  1.00  0.00           N  
+HETATM   16  C   UNL     1      12.899  16.045  -4.712  1.00  0.00           C  
+HETATM   17  O   UNL     1      13.832  16.140  -5.485  1.00  0.00           O  
+HETATM   18  C   UNL     1      11.915  14.922  -4.821  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    3    4
+CONECT    4    5
+CONECT    5    6   14
+CONECT    6    7
+CONECT    7    8   10
+CONECT    8    9
+CONECT   10   11   12
+CONECT   12   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   17   18
+END

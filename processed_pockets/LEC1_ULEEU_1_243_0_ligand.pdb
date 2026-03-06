@@ -1,0 +1,20 @@
+COMPND    __1jxn_B_rec_1jxn_mfu_lig_min.pdb
+HETATM    1  C1  UNL     1      20.635   7.616  61.149  1.00  0.00           C  
+HETATM    2  C2  UNL     1      19.555   7.769  60.056  1.00  0.00           C  
+HETATM    3  C3  UNL     1      20.238   7.958  58.685  1.00  0.00           C  
+HETATM    4  C4  UNL     1      21.144   6.766  58.387  1.00  0.00           C  
+HETATM    5  C5  UNL     1      22.189   6.647  59.524  1.00  0.00           C  
+HETATM    6  C6  UNL     1      23.131   5.448  59.267  1.00  0.00           C  
+HETATM    7  O1  UNL     1      18.708   8.875  60.382  1.00  0.00           O  
+HETATM    8  O2  UNL     1      19.268   8.082  57.658  1.00  0.00           O  
+HETATM    9  O3  UNL     1      20.349   5.592  58.264  1.00  0.00           O  
+HETATM   10  O4  UNL     1      21.541   6.506  60.822  1.00  0.00           O  
+HETATM   11  O5  UNL     1      21.381   8.874  61.273  1.00  0.00           O  
+HETATM   12  C7  UNL     1      21.792   9.659  62.416  1.00  0.00           C  
+CONECT    1    2   10   11
+CONECT    2    3    7
+CONECT    3    4    8
+CONECT    4    5    9
+CONECT    5    6   10
+CONECT   11   12
+END

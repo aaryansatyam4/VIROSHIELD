@@ -1,0 +1,40 @@
+HETATM    1  P   AMP A 406      55.708 108.390   6.210  1.00 58.09           P  
+HETATM    2  O1P AMP A 406      55.936 106.894   6.225  1.00 57.76           O  
+HETATM    3  O2P AMP A 406      56.371 109.070   7.378  1.00 59.11           O  
+HETATM    4  O3P AMP A 406      55.927 109.054   4.868  1.00 58.21           O  
+HETATM    5  O5' AMP A 406      54.152 108.678   6.498  1.00 59.63           O  
+HETATM    6  C5' AMP A 406      53.839 109.902   7.172  1.00 60.76           C  
+HETATM    7  C4' AMP A 406      52.401 110.356   6.938  1.00 60.75           C  
+HETATM    8  O4' AMP A 406      52.086 110.455   5.545  1.00 60.73           O  
+HETATM    9  C3' AMP A 406      51.406 109.408   7.580  1.00 60.34           C  
+HETATM   10  O3' AMP A 406      51.009 109.931   8.846  1.00 59.52           O  
+HETATM   11  C2' AMP A 406      50.242 109.381   6.612  1.00 61.13           C  
+HETATM   12  O2' AMP A 406      49.199 110.245   7.072  1.00 63.57           O  
+HETATM   13  C1' AMP A 406      50.806 109.873   5.291  1.00 60.32           C  
+HETATM   14  N9  AMP A 406      51.003 108.611   4.592  1.00 59.85           N  
+HETATM   15  C8  AMP A 406      52.170 108.082   4.174  1.00 60.00           C  
+HETATM   16  N7  AMP A 406      51.968 106.876   3.586  1.00 59.54           N  
+HETATM   17  C5  AMP A 406      50.647 106.639   3.649  1.00 59.19           C  
+HETATM   18  C6  AMP A 406      49.754 105.558   3.220  1.00 58.56           C  
+HETATM   19  N6  AMP A 406      50.293 104.485   2.597  1.00 59.02           N  
+HETATM   20  N1  AMP A 406      48.426 105.688   3.465  1.00 57.22           N  
+HETATM   21  C2  AMP A 406      47.920 106.767   4.088  1.00 57.63           C  
+HETATM   22  N3  AMP A 406      48.673 107.797   4.521  1.00 58.84           N  
+HETATM   23  C4  AMP A 406      50.014 107.780   4.323  1.00 59.57           C  
+CONECT    1    2    3    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8    9
+CONECT    8   13
+CONECT    9   10   11
+CONECT   11   12   13
+CONECT   13   14
+CONECT   14   15   23
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   23
+CONECT   18   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+END

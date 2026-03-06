@@ -1,0 +1,22 @@
+COMPND    __4xdl_A_rec_4xdl_40d_lig_min.pdb
+HETATM    1  C1  UNL     1      -8.445 141.251  12.528  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -8.374 142.568  12.968  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -8.868 142.938  14.211  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -9.015 140.293  13.358  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -9.502 140.650  14.599  1.00  0.00           C  
+HETATM    6 BR1  UNL     1     -10.266 139.302  15.694  1.00  0.00          BR  
+HETATM    7  C6  UNL     1      -9.438 141.979  15.045  1.00  0.00           C  
+HETATM    8  O1  UNL     1      -9.948 142.271  16.288  1.00  0.00           O  
+HETATM    9  F1  UNL     1      -8.888 140.593  10.312  1.00  0.00           F  
+HETATM   10  C7  UNL     1      -7.929 140.862  11.182  1.00  0.00           C  
+HETATM   11  F2  UNL     1      -7.153 139.777  11.217  1.00  0.00           F  
+HETATM   12  F3  UNL     1      -7.213 141.813  10.617  1.00  0.00           F  
+CONECT    1    2    2    4   10
+CONECT    2    3
+CONECT    3    7    7
+CONECT    4    5    5
+CONECT    5    6    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11   12
+END

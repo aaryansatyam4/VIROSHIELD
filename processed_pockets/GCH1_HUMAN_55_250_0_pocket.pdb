@@ -1,0 +1,31 @@
+COMPND    HBI
+HETATM    1  N   UNL     1      -4.937   6.259  32.836  1.00  0.00           N  
+HETATM    2  N   UNL     1      -2.843   5.406  32.342  1.00  0.00           N  
+HETATM    3  C   UNL     1      -3.746   5.881  33.312  1.00  0.00           C  
+HETATM    4  N   UNL     1      -3.357   5.917  34.612  1.00  0.00           N  
+HETATM    5  C   UNL     1      -4.241   6.365  35.539  1.00  0.00           C  
+HETATM    6  O   UNL     1      -3.872   6.411  36.843  1.00  0.00           O  
+HETATM    7  C   UNL     1      -5.531   6.791  35.171  1.00  0.00           C  
+HETATM    8  C   UNL     1      -5.839   6.707  33.729  1.00  0.00           C  
+HETATM    9  N   UNL     1      -7.136   7.121  33.223  1.00  0.00           N  
+HETATM   10  C   UNL     1      -8.136   7.628  34.280  1.00  0.00           C  
+HETATM   11  C   UNL     1      -7.687   7.654  35.795  1.00  0.00           C  
+HETATM   12  N   UNL     1      -6.486   7.259  36.129  1.00  0.00           N  
+HETATM   13  C   UNL     1      -8.637   8.133  36.893  1.00  0.00           C  
+HETATM   14  O   UNL     1      -8.721   9.587  36.817  1.00  0.00           O  
+HETATM   15  C   UNL     1     -10.093   7.506  36.795  1.00  0.00           C  
+HETATM   16  O   UNL     1     -10.120   6.025  36.836  1.00  0.00           O  
+HETATM   17  C   UNL     1     -10.984   8.055  37.953  1.00  0.00           C  
+CONECT    1    3    3    8
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    6    7
+CONECT    7    8    8   12
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   12   13
+CONECT   13   14   15
+CONECT   15   16   17
+END

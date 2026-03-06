@@ -1,0 +1,33 @@
+COMPND    __2xya_A_rec_2xya_7l4_lig_docked.pdb
+HETATM    1  C1  UNL     1       8.518  29.355  21.045  1.00  0.00           C  
+HETATM    2  C2  UNL     1       7.658  28.236  20.995  1.00  0.00           C  
+HETATM    3  C3  UNL     1       8.185  27.018  20.650  1.00  0.00           C  
+HETATM    4  C4  UNL     1       9.567  26.923  20.352  1.00  0.00           C  
+HETATM    5  C5  UNL     1      10.145  25.700  20.014  1.00  0.00           C  
+HETATM    6  C6  UNL     1      11.487  25.617  19.731  1.00  0.00           C  
+HETATM    7  C7  UNL     1      12.286  26.755  19.814  1.00  0.00           C  
+HETATM    8  C8  UNL     1      11.737  27.969  20.129  1.00  0.00           C  
+HETATM    9  C9  UNL     1      10.375  28.084  20.414  1.00  0.00           C  
+HETATM   10  N1  UNL     1       9.821  29.263  20.755  1.00  0.00           N  
+HETATM   11  O1  UNL     1       7.401  25.909  20.618  1.00  0.00           O  
+HETATM   12  C10 UNL     1       6.869  33.162  22.071  1.00  0.00           C  
+HETATM   13  C11 UNL     1       7.717  33.037  20.981  1.00  0.00           C  
+HETATM   14  C12 UNL     1       8.267  31.799  20.641  1.00  0.00           C  
+HETATM   15  C13 UNL     1       7.953  30.672  21.396  1.00  0.00           C  
+HETATM   16  C14 UNL     1       7.109  30.784  22.495  1.00  0.00           C  
+HETATM   17  C15 UNL     1       6.569  32.021  22.820  1.00  0.00           C  
+CONECT    1    2    2   10   15
+CONECT    2    3
+CONECT    3    4    4   11
+CONECT    4    5    9
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10   10
+CONECT   12   13   17   17
+CONECT   13   14   14
+CONECT   14   15
+CONECT   15   16   16
+CONECT   16   17
+END

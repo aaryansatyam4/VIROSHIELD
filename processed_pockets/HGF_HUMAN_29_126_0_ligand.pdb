@@ -1,0 +1,32 @@
+COMPND    __1gmo_A_rec_3mkp_sgn_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1      -0.537  12.216  32.421  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.448  10.920  33.239  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.790  10.212  33.471  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -2.940  11.200  33.627  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -2.981  12.104  32.393  1.00  0.00           C  
+HETATM    6  O1  UNL     1      -1.712   9.399  34.623  1.00  0.00           O  
+HETATM    7  O2  UNL     1      -4.152  10.494  33.811  1.00  0.00           O  
+HETATM    8  O3  UNL     1      -1.797  12.880  32.347  1.00  0.00           O  
+HETATM    9  N1  UNL     1       0.512  10.023  32.597  1.00  0.00           N  
+HETATM   10  S1  UNL     1       1.396   8.955  33.426  1.00  0.00           S  
+HETATM   11  O4  UNL     1       2.763   9.226  32.992  1.00  0.00           O  
+HETATM   12  O5  UNL     1       1.212   9.251  34.855  1.00  0.00           O  
+HETATM   13  O6  UNL     1       0.964   7.595  33.059  1.00  0.00           O  
+HETATM   14  C6  UNL     1      -4.139  13.082  32.456  1.00  0.00           C  
+HETATM   15  O7  UNL     1      -5.267  12.348  32.041  1.00  0.00           O  
+HETATM   16  S2  UNL     1      -6.398  12.995  31.166  1.00  0.00           S  
+HETATM   17  O8  UNL     1      -7.548  12.081  31.193  1.00  0.00           O  
+HETATM   18  O9  UNL     1      -6.780  14.295  31.740  1.00  0.00           O  
+HETATM   19  O10 UNL     1      -5.822  13.132  29.814  1.00  0.00           O  
+CONECT    1    2    8
+CONECT    2    3    9
+CONECT    3    4    6
+CONECT    4    5    7
+CONECT    5    8   14
+CONECT    9   10
+CONECT   10   11   12   13
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   18   18   19
+CONECT   16   19
+END

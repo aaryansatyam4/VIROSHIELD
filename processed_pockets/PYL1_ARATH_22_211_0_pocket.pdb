@@ -1,0 +1,40 @@
+HETATM    1  S  APYV A 201     -54.961  40.290 -22.255  0.94 44.76           S  
+HETATM    2  BR APYV A 201     -60.954  39.897 -24.304  0.94 84.04          BR  
+HETATM    3  C1 APYV A 201     -59.182  40.119 -23.670  0.94 33.83           C  
+HETATM    4  N1 APYV A 201     -54.959  40.839 -20.742  0.94 43.45           N  
+HETATM    5  O1 APYV A 201     -54.159  41.145 -23.072  0.94 42.02           O  
+HETATM    6  C2 APYV A 201     -58.646  41.464 -23.335  0.94 32.25           C  
+HETATM    7  N2 APYV A 201     -57.302  39.744 -18.086  0.94 34.10           N  
+HETATM    8  O2 APYV A 201     -54.458  38.946 -22.292  0.94 42.47           O  
+HETATM    9  C3 APYV A 201     -57.249  41.563 -22.876  0.94 31.23           C  
+HETATM   10  C4 APYV A 201     -56.465  40.313 -22.766  0.94 30.59           C  
+HETATM   11  C5 APYV A 201     -57.054  39.109 -23.102  0.94 33.12           C  
+HETATM   12  C6 APYV A 201     -58.367  39.007 -23.534  0.94 33.43           C  
+HETATM   13  C7 APYV A 201     -56.733  42.810 -22.575  0.94 35.42           C  
+HETATM   14  C8 APYV A 201     -57.536  43.948 -22.705  0.94 33.02           C  
+HETATM   15  C9 APYV A 201     -58.854  43.853 -23.130  0.94 35.07           C  
+HETATM   16  C10APYV A 201     -59.409  42.616 -23.457  0.94 34.60           C  
+HETATM   17  C11APYV A 201     -55.327  40.016 -19.605  0.94 35.52           C  
+HETATM   18  C12APYV A 201     -56.726  40.391 -19.123  0.94 33.54           C  
+HETATM   19  C13APYV A 201     -58.528  40.050 -17.634  0.94 36.20           C  
+HETATM   20  C14APYV A 201     -59.269  41.063 -18.224  0.94 30.22           C  
+HETATM   21  C15APYV A 201     -58.701  41.743 -19.280  0.94 35.45           C  
+HETATM   22  C16APYV A 201     -57.429  41.415 -19.728  0.94 35.47           C  
+CONECT    1    4    5    8   10
+CONECT    2    3
+CONECT    3    6   12
+CONECT    4   17
+CONECT    6    9   16
+CONECT    7   18   19
+CONECT    9   10   13
+CONECT   10   11
+CONECT   11   12
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   17   18
+CONECT   18   22
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22
+END

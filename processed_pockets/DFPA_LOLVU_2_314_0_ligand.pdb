@@ -1,0 +1,29 @@
+COMPND    __2gvu_A_rec_2gvv_di9_lig_docked.pdb
+HETATM    1  P1  UNL     1      18.175   2.734  61.121  1.00  0.00           P  
+HETATM    2  N1  UNL     1      16.676   2.233  60.752  1.00  0.00           N  
+HETATM    3  O1  UNL     1      18.180   3.990  61.903  1.00  0.00           O  
+HETATM    4  O2  UNL     1      18.882   1.512  61.898  1.00  0.00           O  
+HETATM    5  C1  UNL     1      19.162   1.553  64.281  1.00  0.00           C  
+HETATM    6  C2  UNL     1      20.030   0.386  64.759  1.00  0.00           C  
+HETATM    7  C3  UNL     1      20.090  -0.508  63.522  1.00  0.00           C  
+HETATM    8  C4  UNL     1      18.603  -0.507  63.174  1.00  0.00           C  
+HETATM    9  C5  UNL     1      18.332   0.998  63.118  1.00  0.00           C  
+HETATM   10  O3  UNL     1      18.952   2.878  59.717  1.00  0.00           O  
+HETATM   11  C6  UNL     1      20.305   3.341  59.689  1.00  0.00           C  
+HETATM   12  C7  UNL     1      21.118   2.459  58.740  1.00  0.00           C  
+HETATM   13  C8  UNL     1      20.638   2.995  57.392  1.00  0.00           C  
+HETATM   14  C9  UNL     1      20.916   4.480  57.628  1.00  0.00           C  
+HETATM   15  C10 UNL     1      20.307   4.717  59.013  1.00  0.00           C  
+CONECT    1    2    3    3    4
+CONECT    1   10
+CONECT    4    9
+CONECT    5    6    9
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT   10   11
+CONECT   11   12   15
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+END

@@ -1,0 +1,21 @@
+COMPND    1U3W_FXY_A_1378
+HETATM    1  C1  UNL     1     -48.587 -61.270  44.495  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -47.685 -61.973  45.497  1.00  0.00           C  
+HETATM    3  O1  UNL     1     -50.961 -59.667  44.556  1.00  0.00           O  
+HETATM    4  C3  UNL     1     -49.863 -59.109  44.819  1.00  0.00           C  
+HETATM    5  N1  UNL     1     -48.640 -59.847  44.796  1.00  0.00           N  
+HETATM    6  C4  UNL     1     -48.047 -61.463  43.090  1.00  0.00           C  
+HETATM    7  C5  UNL     1     -47.548 -62.887  42.904  1.00  0.00           C  
+HETATM    8  C6  UNL     1     -46.800 -63.019  41.589  1.00  0.00           C  
+HETATM    9  C7  UNL     1     -45.358 -62.577  41.755  1.00  0.00           C  
+HETATM   10  C8  UNL     1     -45.011 -61.571  40.679  1.00  0.00           C  
+HETATM   11  C9  UNL     1     -43.545 -61.695  40.325  1.00  0.00           C  
+CONECT    1    2    5    6
+CONECT    3    4    4
+CONECT    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+END

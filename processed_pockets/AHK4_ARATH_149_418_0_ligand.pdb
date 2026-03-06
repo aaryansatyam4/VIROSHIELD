@@ -1,0 +1,32 @@
+COMPND    3T4O_WA2_A_400
+HETATM    1  N1  UNL     1     -25.413   3.410  15.550  1.00  0.00           N  
+HETATM    2  C1  UNL     1     -25.059   4.503  14.799  1.00  0.00           C  
+HETATM    3  N2  UNL     1     -25.703   5.698  14.966  1.00  0.00           N  
+HETATM    4  C2  UNL     1     -26.693   5.764  15.889  1.00  0.00           C  
+HETATM    5  C3  UNL     1     -27.056   4.704  16.637  1.00  0.00           C  
+HETATM    6  C4  UNL     1     -26.412   3.484  16.480  1.00  0.00           C  
+HETATM    7  N3  UNL     1     -28.053   5.041  17.465  1.00  0.00           N  
+HETATM    8  C5  UNL     1     -28.257   6.354  17.166  1.00  0.00           C  
+HETATM    9  N4  UNL     1     -27.433   6.836  16.195  1.00  0.00           N  
+HETATM   10  N5  UNL     1     -26.784   2.349  17.264  1.00  0.00           N  
+HETATM   11  C6  UNL     1     -26.357   1.004  16.920  1.00  0.00           C  
+HETATM   12  C7  UNL     1     -27.569   0.167  16.556  1.00  0.00           C  
+HETATM   13  C8  UNL     1     -28.786  -1.962  16.974  1.00  0.00           C  
+HETATM   14  C9  UNL     1     -27.536  -1.163  17.292  1.00  0.00           C  
+HETATM   15  O1  UNL     1     -26.692  -3.268  16.549  1.00  0.00           O  
+HETATM   16  C10 UNL     1     -26.319  -1.961  16.863  1.00  0.00           C  
+CONECT    1    2    6    6
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5    5    9
+CONECT    5    6    7
+CONECT    6   10
+CONECT    7    8
+CONECT    8    9    9
+CONECT   10   11
+CONECT   11   12
+CONECT   12   14
+CONECT   13   14
+CONECT   14   16
+CONECT   15   16
+END

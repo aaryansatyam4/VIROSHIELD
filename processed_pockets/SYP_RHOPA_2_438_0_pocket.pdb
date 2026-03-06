@@ -1,0 +1,52 @@
+HETATM    1  CB  PSD B 439      76.223  -2.566  22.275  1.00 59.93           C  
+HETATM    2  CG  PSD B 439      76.850  -2.170  20.955  1.00 60.14           C  
+HETATM    3  C   PSD B 439      77.309  -4.635  22.725  1.00 60.36           C  
+HETATM    4  O   PSD B 439      78.276  -5.235  22.268  1.00 60.40           O  
+HETATM    5  N   PSD B 439      78.554  -2.550  22.546  1.00 59.93           N  
+HETATM    6  CD  PSD B 439      78.346  -2.069  21.209  1.00 60.02           C  
+HETATM    7  CA  PSD B 439      77.368  -3.182  23.050  1.00 60.17           C  
+HETATM    8  N10 PSD B 439      76.094  -5.128  22.969  1.00 60.59           N  
+HETATM    9  P   PSD B 439      75.588  -6.701  22.754  1.00 60.36           P  
+HETATM   10  O1P PSD B 439      76.773  -7.592  23.042  1.00 60.54           O  
+HETATM   11  O2P PSD B 439      74.320  -6.808  23.579  1.00 59.88           O  
+HETATM   12  O5' PSD B 439      75.191  -6.917  21.205  1.00 59.57           O  
+HETATM   13  C5' PSD B 439      74.137  -6.116  20.697  1.00 59.93           C  
+HETATM   14  C4' PSD B 439      73.454  -6.842  19.563  1.00 60.44           C  
+HETATM   15  O4' PSD B 439      74.447  -7.351  18.679  1.00 61.20           O  
+HETATM   16  C1' PSD B 439      74.074  -8.652  18.183  1.00 61.03           C  
+HETATM   17  N9  PSD B 439      75.152  -9.689  18.345  1.00 61.08           N  
+HETATM   18  C4  PSD B 439      75.413 -10.644  17.437  1.00 60.99           C  
+HETATM   19  N3  PSD B 439      74.847 -10.955  16.231  1.00 60.19           N  
+HETATM   20  C2  PSD B 439      75.301 -12.005  15.509  1.00 60.55           C  
+HETATM   21  N1  PSD B 439      76.318 -12.776  15.942  1.00 60.38           N  
+HETATM   22  C6  PSD B 439      76.912 -12.500  17.135  1.00 60.40           C  
+HETATM   23  N6  PSD B 439      77.926 -13.283  17.547  1.00 60.23           N  
+HETATM   24  C5  PSD B 439      76.475 -11.417  17.918  1.00 61.15           C  
+HETATM   25  N7  PSD B 439      76.842 -10.892  19.121  1.00 60.39           N  
+HETATM   26  C8  PSD B 439      76.022  -9.836  19.372  1.00 60.46           C  
+HETATM   27  C2' PSD B 439      72.793  -9.056  18.909  1.00 60.84           C  
+HETATM   28  O2' PSD B 439      71.660  -8.950  18.037  1.00 59.47           O  
+HETATM   29  C3' PSD B 439      72.676  -8.053  20.041  1.00 60.83           C  
+HETATM   30  O3' PSD B 439      71.314  -7.727  20.338  1.00 60.36           O  
+CONECT    1    2    7
+CONECT    2    6
+CONECT    3    4    7    8
+CONECT    5    6    7
+CONECT    8    9
+CONECT    9   10   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   29
+CONECT   15   16
+CONECT   16   17   27
+CONECT   17   18   26
+CONECT   18   19   24
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   27   28   29
+CONECT   29   30
+END

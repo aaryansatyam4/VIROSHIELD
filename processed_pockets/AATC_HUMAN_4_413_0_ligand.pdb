@@ -1,0 +1,27 @@
+COMPND    PocketomeGenCross_Output/AATC_HUMAN_4_413_0/3ii0_plp_lig.pdb
+HETATM    1  N1  UNL     1      34.361  -4.360 -31.815  1.00  0.00           N  
+HETATM    2  C1  UNL     1      35.384  -4.752 -32.618  1.00  0.00           C  
+HETATM    3  C2  UNL     1      36.760  -4.258 -32.334  1.00  0.00           C  
+HETATM    4  C3  UNL     1      35.140  -5.613 -33.698  1.00  0.00           C  
+HETATM    5  O1  UNL     1      36.197  -6.011 -34.514  1.00  0.00           O  
+HETATM    6  C4  UNL     1      33.824  -6.064 -33.941  1.00  0.00           C  
+HETATM    7  C5  UNL     1      32.789  -5.628 -33.090  1.00  0.00           C  
+HETATM    8  C6  UNL     1      33.087  -4.777 -32.025  1.00  0.00           C  
+HETATM    9  C7  UNL     1      33.504  -6.975 -35.061  1.00  0.00           C  
+HETATM   10  O2  UNL     1      34.266  -7.915 -35.407  1.00  0.00           O  
+HETATM   11  C8  UNL     1      31.376  -6.081 -33.268  1.00  0.00           C  
+HETATM   12  O3  UNL     1      30.789  -6.292 -32.018  1.00  0.00           O  
+HETATM   13  P1  UNL     1      29.435  -5.271 -31.977  1.00  0.00           P  
+HETATM   14  O4  UNL     1      28.418  -5.653 -33.273  1.00  0.00           O  
+HETATM   15  O5  UNL     1      29.872  -3.829 -32.099  1.00  0.00           O  
+HETATM   16  O6  UNL     1      28.588  -5.486 -30.528  1.00  0.00           O  
+CONECT    1    2    8    8
+CONECT    2    3    4    4
+CONECT    4    5    6
+CONECT    6    7    7    9
+CONECT    7    8   11
+CONECT    9   10   10
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   15   15   16
+END

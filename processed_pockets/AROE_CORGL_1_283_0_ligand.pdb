@@ -1,0 +1,22 @@
+COMPND    __3jyo_A_rec_3jyq_skm_lig_docked.pdb
+HETATM    1  O1  UNL     1      16.096  54.756   6.041  1.00  0.00           O  
+HETATM    2  C1  UNL     1      16.749  54.613   4.776  1.00  0.00           C  
+HETATM    3  C2  UNL     1      18.211  54.122   4.889  1.00  0.00           C  
+HETATM    4  O2  UNL     1      18.938  54.923   5.775  1.00  0.00           O  
+HETATM    5  C3  UNL     1      18.906  54.223   3.502  1.00  0.00           C  
+HETATM    6  C4  UNL     1      18.053  53.505   2.444  1.00  0.00           C  
+HETATM    7  C5  UNL     1      16.692  53.267   2.626  1.00  0.00           C  
+HETATM    8  C6  UNL     1      15.918  53.694   3.877  1.00  0.00           C  
+HETATM    9  O3  UNL     1      15.537  52.526   4.599  1.00  0.00           O  
+HETATM   10  C7  UNL     1      18.663  53.005   1.137  1.00  0.00           C  
+HETATM   11  O4  UNL     1      18.012  52.225   0.414  1.00  0.00           O  
+HETATM   12  O5  UNL     1      19.809  53.389   0.889  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3    8
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7    7   10
+CONECT    7    8
+CONECT    8    9
+CONECT   10   11   12   12
+END

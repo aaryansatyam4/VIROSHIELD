@@ -1,0 +1,28 @@
+COMPND    5IP6_6C9_A_301
+HETATM    1  O1  UNL     1      11.788  26.893   0.940  1.00  0.00           O  
+HETATM    2  C1  UNL     1      11.821  27.232   2.155  1.00  0.00           C  
+HETATM    3  N1  UNL     1      10.613  27.258   2.922  1.00  0.00           N  
+HETATM    4  C2  UNL     1      10.568  27.633   4.319  1.00  0.00           C  
+HETATM    5  C3  UNL     1       9.097  27.642   4.690  1.00  0.00           C  
+HETATM    6  C4  UNL     1       8.357  26.953   3.551  1.00  0.00           C  
+HETATM    7  C5  UNL     1       9.317  26.911   2.377  1.00  0.00           C  
+HETATM    8  N2  UNL     1      13.062  27.589   2.766  1.00  0.00           N  
+HETATM    9  C6  UNL     1      14.316  27.575   2.029  1.00  0.00           C  
+HETATM   10  C7  UNL     1      14.748  28.996   1.716  1.00  0.00           C  
+HETATM   11  C8  UNL     1      15.671  29.516   2.795  1.00  0.00           C  
+HETATM   12  O2  UNL     1      16.723  30.210   2.179  1.00  0.00           O  
+HETATM   13  C9  UNL     1      16.922  29.559   0.953  1.00  0.00           C  
+HETATM   14  C10 UNL     1      15.596  29.010   0.480  1.00  0.00           C  
+CONECT    1    2    2
+CONECT    2    3    8
+CONECT    3    4    7
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   14
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+END

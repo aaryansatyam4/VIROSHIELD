@@ -1,0 +1,33 @@
+HETATM    1  CAA PNY C 503      27.184  23.172  10.578  1.00 58.90           C  
+HETATM    2  CAB PNY C 503      28.091  23.836   8.407  1.00 58.30           C  
+HETATM    3  OAC PNY C 503      27.048  29.715   7.582  1.00 52.69           O  
+HETATM    4  OAD PNY C 503      27.708  26.888   8.667  1.00 58.79           O  
+HETATM    5  OAE PNY C 503      26.124  22.465   9.971  1.00 56.32           O  
+HETATM    6  CAF PNY C 503      27.454  24.394   9.680  1.00 60.82           C  
+HETATM    7  SAG PNY C 503      22.262  28.964   7.629  1.00 48.53           S  
+HETATM    8  CAH PNY C 503      23.940  28.647   8.258  1.00 46.01           C  
+HETATM    9  CAI PNY C 503      26.138  25.170   9.380  1.00 59.09           C  
+HETATM   10  CAJ PNY C 503      24.519  29.976   8.530  1.00 45.33           C  
+HETATM   11  CAK PNY C 503      29.264  28.979   9.496  1.00 51.55           C  
+HETATM   12  CAL PNY C 503      27.994  29.724   9.861  1.00 51.14           C  
+HETATM   13  NAM PNY C 503      25.691  29.815   9.360  1.00 49.05           N  
+HETATM   14  NAN PNY C 503      29.204  27.666  10.127  1.00 55.18           N  
+HETATM   15  CAO PNY C 503      26.879  29.725   8.813  1.00 51.20           C  
+HETATM   16  CAP PNY C 503      28.402  26.726   9.661  1.00 57.52           C  
+HETATM   17  CAQ PNY C 503      28.434  25.365  10.381  1.00 59.90           C  
+HETATM   18  OAR PNY C 503      29.758  24.812  10.294  1.00 60.63           O  
+CONECT    1    5    6
+CONECT    2    6
+CONECT    3   15
+CONECT    4   16
+CONECT    6    9   17
+CONECT    7    8
+CONECT    8   10
+CONECT   10   13
+CONECT   11   12   14
+CONECT   12   15
+CONECT   13   15
+CONECT   14   16
+CONECT   16   17
+CONECT   17   18
+END

@@ -1,0 +1,64 @@
+HETATM    1  O4  STU A  31      -1.616  70.776  -5.468  1.00 53.49           O  
+HETATM    2  C25 STU A  31      -2.234  69.564  -5.845  1.00 51.92           C  
+HETATM    3  C24 STU A  31      -3.765  69.592  -5.810  1.00 52.54           C  
+HETATM    4  C23 STU A  31      -4.230  71.049  -5.603  1.00 53.65           C  
+HETATM    5  C22 STU A  31      -3.626  71.524  -4.266  1.00 53.74           C  
+HETATM    6  C21 STU A  31      -2.100  71.411  -4.327  1.00 51.91           C  
+HETATM    7  C26 STU A  31      -1.566  72.827  -4.537  1.00 51.46           C  
+HETATM    8  N2  STU A  31      -1.521  70.841  -3.090  1.00 51.55           N  
+HETATM    9  C18 STU A  31      -1.159  69.506  -2.955  1.00 50.91           C  
+HETATM   10  C19 STU A  31      -1.235  68.444  -3.860  1.00 51.06           C  
+HETATM   11  C6  STU A  31      -0.796  67.158  -3.490  1.00 51.36           C  
+HETATM   12  C7  STU A  31      -0.276  66.947  -2.186  1.00 51.21           C  
+HETATM   13  C10 STU A  31      -0.213  68.018  -1.292  1.00 51.43           C  
+HETATM   14  C11 STU A  31      -0.642  69.285  -1.667  1.00 51.27           C  
+HETATM   15  C12 STU A  31      -0.703  70.567  -0.983  1.00 51.20           C  
+HETATM   16  C17 STU A  31      -1.254  71.491  -1.895  1.00 51.35           C  
+HETATM   17  C16 STU A  31      -1.434  72.828  -1.504  1.00 51.62           C  
+HETATM   18  C15 STU A  31      -1.059  73.191  -0.209  1.00 51.61           C  
+HETATM   19  C14 STU A  31      -0.518  72.270   0.675  1.00 51.51           C  
+HETATM   20  C13 STU A  31      -0.332  70.942   0.306  1.00 51.41           C  
+HETATM   21  C9  STU A  31       0.371  67.480  -0.006  1.00 51.50           C  
+HETATM   22  N1  STU A  31       0.614  66.045  -0.238  1.00 51.47           N  
+HETATM   23  C8  STU A  31       0.239  65.750  -1.500  1.00 51.48           C  
+HETATM   24  O5  STU A  31       0.330  64.639  -1.999  1.00 51.85           O  
+HETATM   25  C5  STU A  31      -1.024  66.302  -4.657  1.00 51.15           C  
+HETATM   26  C20 STU A  31      -1.592  67.135  -5.663  1.00 51.32           C  
+HETATM   27  C1  STU A  31      -1.919  66.608  -6.920  1.00 51.27           C  
+HETATM   28  C2  STU A  31      -1.675  65.253  -7.132  1.00 51.31           C  
+HETATM   29  C3  STU A  31      -1.125  64.442  -6.140  1.00 51.42           C  
+HETATM   30  C4  STU A  31      -0.788  64.940  -4.882  1.00 51.12           C  
+HETATM   31  N3  STU A  31      -1.698  68.418  -5.125  1.00 51.40           N  
+HETATM   32  O6  STU A  31      -4.082  70.626  -3.242  1.00 55.41           O  
+HETATM   33  C27 STU A  31      -4.512  71.445  -2.147  1.00 57.19           C  
+HETATM   34  N4  STU A  31      -5.706  71.156  -5.573  1.00 54.66           N  
+HETATM   35  C28 STU A  31      -6.185  71.474  -6.924  1.00 52.83           C  
+CONECT    1    2    6
+CONECT    2    3   31
+CONECT    3    4
+CONECT    4    5   34
+CONECT    5    6   32
+CONECT    6    7    8
+CONECT    8    9   16
+CONECT    9   10   14
+CONECT   10   11   31
+CONECT   11   12   25
+CONECT   12   13   23
+CONECT   13   14   21
+CONECT   14   15
+CONECT   15   16   20
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   25   26   30
+CONECT   26   27   31
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   32   33
+CONECT   34   35
+END

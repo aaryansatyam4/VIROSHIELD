@@ -1,0 +1,29 @@
+COMPND    1CTU_ZEB_A_295
+HETATM    1  C1  UNL     1      35.858  50.044  10.386  1.00  0.00           C  
+HETATM    2  C2  UNL     1      35.756  51.259   9.498  1.00  0.00           C  
+HETATM    3  O1  UNL     1      36.900  51.380   8.704  1.00  0.00           O  
+HETATM    4  C3  UNL     1      35.615  52.395  10.478  1.00  0.00           C  
+HETATM    5  O2  UNL     1      36.823  53.076  10.654  1.00  0.00           O  
+HETATM    6  C4  UNL     1      35.248  51.703  11.779  1.00  0.00           C  
+HETATM    7  O3  UNL     1      35.173  50.309  11.584  1.00  0.00           O  
+HETATM    8  N1  UNL     1      35.293  48.871   9.724  1.00  0.00           N  
+HETATM    9  C5  UNL     1      36.107  48.055   8.874  1.00  0.00           C  
+HETATM   10  O4  UNL     1      37.321  48.331   8.680  1.00  0.00           O  
+HETATM   11  N2  UNL     1      35.516  46.938   8.212  1.00  0.00           N  
+HETATM   12  C6  UNL     1      34.193  46.448   8.593  1.00  0.00           C  
+HETATM   13  O5  UNL     1      33.538  45.958   7.464  1.00  0.00           O  
+HETATM   14  C7  UNL     1      33.352  47.513   9.245  1.00  0.00           C  
+HETATM   15  C8  UNL     1      33.882  48.614   9.785  1.00  0.00           C  
+HETATM   16  C9  UNL     1      33.927  52.231  12.322  1.00  0.00           C  
+HETATM   17  O6  UNL     1      32.849  51.590  11.708  1.00  0.00           O  
+CONECT    1    2    7    8
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7   16
+CONECT    8    9   15
+CONECT    9   10   10   11
+CONECT   11   12
+CONECT   12   13   14
+CONECT   14   15   15
+CONECT   16   17
+END

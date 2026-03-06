@@ -1,0 +1,19 @@
+HETATM    1  C   PMS B 901      42.416  24.745  -9.611  1.00 41.27           C  
+HETATM    2  S   PMS B 901      41.725  23.339 -10.506  1.00 42.05           S  
+HETATM    3  C1  PMS B 901      42.404  26.127  -8.961  1.00 40.07           C  
+HETATM    4  C2  PMS B 901      41.692  26.338  -7.708  1.00 39.90           C  
+HETATM    5  C3  PMS B 901      41.679  27.662  -7.078  1.00 38.99           C  
+HETATM    6  C4  PMS B 901      42.383  28.784  -7.699  1.00 38.46           C  
+HETATM    7  C5  PMS B 901      43.098  28.570  -8.956  1.00 39.07           C  
+HETATM    8  C6  PMS B 901      43.108  27.250  -9.583  1.00 39.89           C  
+HETATM    9  O3S PMS B 901      41.501  23.704 -11.933  1.00 43.16           O  
+HETATM   10  O2S PMS B 901      42.859  22.391 -10.579  1.00 43.85           O  
+HETATM   11  O1S PMS B 901      40.578  22.652  -9.964  1.00 42.68           O  
+CONECT    1    2    3
+CONECT    2    9   10   11
+CONECT    3    4    8
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+END

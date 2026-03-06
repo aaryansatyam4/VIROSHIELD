@@ -1,0 +1,46 @@
+HETATM    1  N1  GTX A 212      -4.891  59.116  40.353  1.00 33.02           N  
+HETATM    2  CA1 GTX A 212      -5.735  60.243  39.989  1.00 34.00           C  
+HETATM    3  C1  GTX A 212      -7.161  59.964  40.370  1.00 34.06           C  
+HETATM    4  O11 GTX A 212      -7.618  58.751  40.229  1.00 33.85           O  
+HETATM    5  O12 GTX A 212      -7.934  60.905  40.859  1.00 30.59           O  
+HETATM    6  CB1 GTX A 212      -5.559  60.566  38.505  1.00 33.13           C  
+HETATM    7  CG1 GTX A 212      -6.257  61.869  38.151  1.00 33.28           C  
+HETATM    8  CD1 GTX A 212      -5.992  62.277  36.723  1.00 33.95           C  
+HETATM    9  OE1 GTX A 212      -5.199  61.514  35.896  1.00 34.47           O  
+HETATM   10  N2  GTX A 212      -6.606  63.394  36.301  1.00 36.47           N  
+HETATM   11  CA2 GTX A 212      -6.755  63.798  34.921  1.00 34.11           C  
+HETATM   12  C2  GTX A 212      -6.605  65.291  34.876  1.00 33.34           C  
+HETATM   13  O2  GTX A 212      -6.915  66.048  35.992  1.00 30.71           O  
+HETATM   14  CB2 GTX A 212      -8.114  63.408  34.330  1.00 35.87           C  
+HETATM   15  SG2 GTX A 212      -8.522  61.632  34.468  1.00 38.77           S  
+HETATM   16  C1S GTX A 212      -7.252  60.988  33.337  1.00 41.98           C  
+HETATM   17  C2S GTX A 212      -7.288  59.466  33.230  1.00 43.46           C  
+HETATM   18  C3S GTX A 212      -8.418  59.033  32.328  1.00 46.31           C  
+HETATM   19  C4S GTX A 212      -9.052  57.724  32.769  1.00 48.82           C  
+HETATM   20  C5S GTX A 212     -10.498  57.592  32.287  1.00 48.70           C  
+HETATM   21  C6S GTX A 212     -10.629  56.585  31.155  1.00 49.09           C  
+HETATM   22  N3  GTX A 212      -6.154  65.810  33.751  1.00 34.47           N  
+HETATM   23  CA3 GTX A 212      -5.961  67.233  33.551  1.00 37.25           C  
+HETATM   24  C3  GTX A 212      -4.520  67.638  33.468  1.00 39.49           C  
+HETATM   25  O31 GTX A 212      -4.282  68.871  33.178  1.00 42.49           O  
+HETATM   26  O32 GTX A 212      -3.489  66.821  33.648  1.00 43.40           O  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10
+CONECT   10   11
+CONECT   11   12   14
+CONECT   12   13   22
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   26
+END

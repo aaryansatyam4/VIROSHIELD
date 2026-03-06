@@ -1,0 +1,50 @@
+HETATM    1  PG  ATP E 801      34.151  78.106   7.905  1.00 32.16           P  
+HETATM    2  O1G ATP E 801      33.117  78.589   6.926  1.00 29.34           O  
+HETATM    3  O2G ATP E 801      35.154  79.217   8.300  1.00 29.77           O  
+HETATM    4  O3G ATP E 801      33.433  77.560   9.143  1.00 28.94           O  
+HETATM    5  PB  ATP E 801      36.261  76.255   7.675  1.00 25.09           P  
+HETATM    6  O1B ATP E 801      36.199  76.197   9.138  1.00 26.77           O  
+HETATM    7  O2B ATP E 801      37.445  77.000   7.080  1.00 25.45           O  
+HETATM    8  O3B ATP E 801      34.898  76.839   7.226  1.00 29.56           O  
+HETATM    9  PA  ATP E 801      36.090  74.277   5.599  1.00 27.38           P  
+HETATM   10  O1A ATP E 801      34.974  73.335   5.482  1.00 26.99           O  
+HETATM   11  O2A ATP E 801      35.957  75.463   4.660  1.00 22.70           O  
+HETATM   12  O3A ATP E 801      36.147  74.767   7.115  1.00 28.04           O  
+HETATM   13  O5' ATP E 801      37.460  73.532   5.393  1.00 24.63           O  
+HETATM   14  C5' ATP E 801      38.474  74.292   4.777  1.00 26.56           C  
+HETATM   15  C4' ATP E 801      39.774  73.965   5.430  1.00 26.36           C  
+HETATM   16  O4' ATP E 801      40.817  74.546   4.689  1.00 27.36           O  
+HETATM   17  C3' ATP E 801      39.871  74.501   6.836  1.00 25.95           C  
+HETATM   18  O3' ATP E 801      39.962  73.390   7.720  1.00 26.37           O  
+HETATM   19  C2' ATP E 801      41.134  75.384   6.814  1.00 26.44           C  
+HETATM   20  O2' ATP E 801      41.918  75.378   7.969  1.00 26.25           O  
+HETATM   21  C1' ATP E 801      41.858  74.819   5.610  1.00 26.32           C  
+HETATM   22  N9  ATP E 801      42.789  75.661   4.810  1.00 24.74           N  
+HETATM   23  C8  ATP E 801      42.419  76.757   4.066  1.00 26.13           C  
+HETATM   24  N7  ATP E 801      43.518  77.242   3.517  1.00 25.59           N  
+HETATM   25  C5  ATP E 801      44.610  76.515   3.857  1.00 23.26           C  
+HETATM   26  C6  ATP E 801      45.998  76.552   3.614  1.00 21.82           C  
+HETATM   27  N6  ATP E 801      46.620  77.443   2.871  1.00 21.36           N  
+HETATM   28  N1  ATP E 801      46.824  75.580   4.176  1.00 20.60           N  
+HETATM   29  C2  ATP E 801      46.316  74.598   4.990  1.00 23.73           C  
+HETATM   30  N3  ATP E 801      44.960  74.547   5.247  1.00 24.77           N  
+HETATM   31  C4  ATP E 801      44.134  75.505   4.705  1.00 24.25           C  
+CONECT    1    2    3    4    8
+CONECT    5    6    7    8   12
+CONECT    9   10   11   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16   17
+CONECT   16   21
+CONECT   17   18   19
+CONECT   19   20   21
+CONECT   21   22
+CONECT   22   23   31
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26   31
+CONECT   26   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31
+END

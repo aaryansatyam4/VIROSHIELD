@@ -1,0 +1,45 @@
+HETATM    1  CAA NR9 A   1      76.287   4.838  -6.298  1.00 26.53           C  
+HETATM    2  CAB NR9 A   1      77.494   4.273  -5.896  1.00 26.97           C  
+HETATM    3  CAC NR9 A   1      77.501   2.956  -5.441  1.00 25.36           C  
+HETATM    4  CAD NR9 A   1      75.098   4.137  -6.264  1.00 26.07           C  
+HETATM    5  CAE NR9 A   1      75.099   2.833  -5.820  1.00 27.58           C  
+HETATM    6  CAF NR9 A   1      76.305   2.247  -5.417  1.00 26.48           C  
+HETATM    7  NAG NR9 A   1      73.931   2.152  -5.784  1.00 27.62           N  
+HETATM    8  CAH NR9 A   1      73.930   0.888  -5.370  1.00 28.97           C  
+HETATM    9  CAI NR9 A   1      76.293   0.933  -4.974  1.00 26.76           C  
+HETATM   10  CAJ NR9 A   1      75.093   0.242  -4.957  1.00 26.41           C  
+HETATM   11  CAK NR9 A   1      78.636   5.094  -5.960  1.00 26.73           C  
+HETATM   12  CAL NR9 A   1      79.950   4.660  -6.142  1.00 26.95           C  
+HETATM   13  CAM NR9 A   1      81.019   5.518  -6.406  1.00 27.32           C  
+HETATM   14  NAN NR9 A   1      82.218   4.910  -6.541  1.00 25.10           N  
+HETATM   15  CAO NR9 A   1      82.138   3.570  -6.404  1.00 26.31           C  
+HETATM   16  SAP NR9 A   1      80.554   3.051  -6.090  1.00 27.72           S  
+HETATM   17  OAQ NR9 A   1      80.868   6.740  -6.520  1.00 32.54           O  
+HETATM   18  NAR NR9 A   1      83.149   2.726  -6.502  1.00 26.20           N  
+HETATM   19  CAS NR9 A   1      82.889   1.386  -6.960  1.00 29.26           C  
+HETATM   20  CAT NR9 A   1      83.534   0.354  -6.047  1.00 38.71           C  
+HETATM   21  SAU NR9 A   1      82.857  -0.059  -4.546  1.00 39.34           S  
+HETATM   22  CAV NR9 A   1      84.094  -1.206  -4.248  1.00 41.04           C  
+HETATM   23  CAW NR9 A   1      84.973  -1.236  -5.279  1.00 36.74           C  
+HETATM   24  CAX NR9 A   1      84.657  -0.383  -6.262  1.00 38.63           C  
+CONECT    1    2    4
+CONECT    2    3   11
+CONECT    3    6
+CONECT    4    5
+CONECT    5    6    7
+CONECT    6    9
+CONECT    7    8
+CONECT    8   10
+CONECT    9   10
+CONECT   11   12
+CONECT   12   13   16
+CONECT   13   14   17
+CONECT   14   15
+CONECT   15   16   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21   24
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+END

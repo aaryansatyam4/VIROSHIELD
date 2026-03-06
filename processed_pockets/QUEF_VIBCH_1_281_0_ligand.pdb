@@ -1,0 +1,24 @@
+COMPND    1EFZ_PRF_A_400
+HETATM    1  N1  UNL     1      31.171  -2.003   8.523  1.00  0.00           N  
+HETATM    2  C1  UNL     1      30.718  -3.283   8.330  1.00  0.00           C  
+HETATM    3  N2  UNL     1      29.789  -3.549   7.363  1.00  0.00           N  
+HETATM    4  C2  UNL     1      29.331  -2.524   6.604  1.00  0.00           C  
+HETATM    5  C3  UNL     1      29.769  -1.249   6.779  1.00  0.00           C  
+HETATM    6  C4  UNL     1      30.712  -0.968   7.762  1.00  0.00           C  
+HETATM    7  O1  UNL     1      31.137   0.202   7.952  1.00  0.00           O  
+HETATM    8  C5  UNL     1      29.102  -0.481   5.856  1.00  0.00           C  
+HETATM    9  C6  UNL     1      28.265  -1.351   5.162  1.00  0.00           C  
+HETATM   10  N3  UNL     1      28.413  -2.619   5.626  1.00  0.00           N  
+HETATM   11  N4  UNL     1      31.217  -4.339   9.141  1.00  0.00           N  
+HETATM   12  C7  UNL     1      29.186   0.995   5.672  1.00  0.00           C  
+HETATM   13  N5  UNL     1      28.487   1.664   6.755  1.00  0.00           N  
+CONECT    1    2    6
+CONECT    2    3    3   11
+CONECT    3    4
+CONECT    4    5    5   10
+CONECT    5    6    8
+CONECT    6    7    7
+CONECT    8    9    9   12
+CONECT    9   10
+CONECT   12   13
+END

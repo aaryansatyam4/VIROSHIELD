@@ -1,0 +1,27 @@
+HETATM    1  N   PAO A1340      -8.297  -3.777  -7.765  1.00 31.93           N  
+HETATM    2  CA  PAO A1340      -7.495  -2.683  -8.339  1.00 31.78           C  
+HETATM    3  CB  PAO A1340      -6.590  -2.072  -7.256  1.00 31.41           C  
+HETATM    4  CG  PAO A1340      -6.035  -0.706  -7.671  1.00 29.99           C  
+HETATM    5  CD  PAO A1340      -5.305  -0.019  -6.510  1.00 27.41           C  
+HETATM    6  NE  PAO A1340      -4.931   1.341  -6.928  1.00 26.18           N  
+HETATM    7  C   PAO A1340      -6.645  -3.227  -9.485  1.00 32.03           C  
+HETATM    8  O   PAO A1340      -6.156  -4.368  -9.344  1.00 32.40           O  
+HETATM    9  OXT PAO A1340      -6.475  -2.475 -10.467  1.00 32.39           O  
+HETATM   10  C1  PAO A1340      -3.721   1.853  -6.707  1.00 25.08           C  
+HETATM   11  O1  PAO A1340      -2.811   1.270  -6.121  1.00 23.10           O  
+HETATM   12  C1P PAO A1340      -3.517   3.268  -7.231  1.00 25.34           C  
+HETATM   13  P   PAO A1340      -2.421   3.235  -8.669  1.00 25.50           P  
+HETATM   14  O1P PAO A1340      -0.903   3.197  -8.135  1.00 26.34           O  
+HETATM   15  O2P PAO A1340      -2.606   4.636  -9.417  1.00 26.03           O  
+HETATM   16  O3P PAO A1340      -2.643   2.085  -9.588  1.00 26.29           O  
+CONECT    1    2
+CONECT    2    3    7
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6   10
+CONECT    7    8    9
+CONECT   10   11   12
+CONECT   12   13
+CONECT   13   14   15   16
+END

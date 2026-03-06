@@ -1,0 +1,22 @@
+COMPND    1DZK_PRZ_A_700
+HETATM    1  N1  UNL     1      50.467  23.632  41.335  1.00  0.00           N  
+HETATM    2  C1  UNL     1      50.710  24.255  40.151  1.00  0.00           C  
+HETATM    3  C2  UNL     1      51.881  23.950  39.442  1.00  0.00           C  
+HETATM    4  N2  UNL     1      52.744  23.029  39.954  1.00  0.00           N  
+HETATM    5  C3  UNL     1      52.495  22.405  41.135  1.00  0.00           C  
+HETATM    6  C4  UNL     1      51.332  22.714  41.841  1.00  0.00           C  
+HETATM    7  O1  UNL     1      52.154  24.586  38.227  1.00  0.00           O  
+HETATM    8  C5  UNL     1      53.051  24.036  37.275  1.00  0.00           C  
+HETATM    9  C6  UNL     1      49.741  25.273  39.641  1.00  0.00           C  
+HETATM   10  C7  UNL     1      48.387  25.123  40.317  1.00  0.00           C  
+HETATM   11  C8  UNL     1      47.750  26.488  40.468  1.00  0.00           C  
+HETATM   12  C9  UNL     1      47.477  24.240  39.484  1.00  0.00           C  
+CONECT    1    2    2    6
+CONECT    2    3    9
+CONECT    3    4    4    7
+CONECT    4    5
+CONECT    5    6    6
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11   12
+END

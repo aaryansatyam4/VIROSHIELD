@@ -1,0 +1,38 @@
+HETATM    1  C1  EIC C 601     -14.257   8.994  -5.232  1.00 63.12           C  
+HETATM    2  C2  EIC C 601     -14.742   7.595  -5.050  1.00 49.50           C  
+HETATM    3  C3  EIC C 601     -15.754   7.281  -6.098  1.00 55.18           C  
+HETATM    4  C4  EIC C 601     -15.147   6.451  -7.176  1.00 55.31           C  
+HETATM    5  C5  EIC C 601     -16.188   6.160  -8.202  1.00 57.19           C  
+HETATM    6  C6  EIC C 601     -16.129   4.722  -8.589  1.00 57.97           C  
+HETATM    7  C7  EIC C 601     -15.927   4.612 -10.062  1.00 41.50           C  
+HETATM    8  C8  EIC C 601     -14.611   3.970 -10.338  1.00 48.11           C  
+HETATM    9  C9  EIC C 601     -14.513   3.648 -11.791  1.00 47.10           C  
+HETATM   10  C10 EIC C 601     -13.572   4.260 -12.567  1.00 46.22           C  
+HETATM   11  C11 EIC C 601     -12.449   5.003 -11.928  1.00 54.41           C  
+HETATM   12  C12 EIC C 601     -11.560   5.575 -12.979  1.00 53.73           C  
+HETATM   13  C13 EIC C 601     -10.883   6.735 -12.734  1.00 53.39           C  
+HETATM   14  C14 EIC C 601     -11.640   7.981 -12.414  1.00 66.09           C  
+HETATM   15  C15 EIC C 601     -10.751   8.942 -11.701  1.00 55.91           C  
+HETATM   16  C16 EIC C 601     -10.963   8.825 -10.228  1.00 49.66           C  
+HETATM   17  C17 EIC C 601     -12.412   8.986  -9.912  1.00 59.41           C  
+HETATM   18  C18 EIC C 601     -12.588   9.175  -8.445  1.00 61.71           C  
+HETATM   19  O1  EIC C 601     -15.073   9.912  -5.505  1.00 64.40           O  
+HETATM   20  O2  EIC C 601     -13.032   9.257  -5.110  1.00 55.45           O  
+CONECT    1    2   19   20
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+END

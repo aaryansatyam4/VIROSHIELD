@@ -1,0 +1,41 @@
+HETATM    1  O1  EOD B 401      33.775  93.563  54.213  1.00 57.47           O  
+HETATM    2  C1  EOD B 401      32.947  94.460  53.943  1.00 59.86           C  
+HETATM    3  O2  EOD B 401      33.214  95.673  53.802  1.00 61.07           O  
+HETATM    4  C2  EOD B 401      31.489  94.035  53.757  1.00 59.89           C  
+HETATM    5  C3  EOD B 401      30.656  95.077  53.008  1.00 59.14           C  
+HETATM    6  C4  EOD B 401      31.173  95.387  51.602  1.00 57.47           C  
+HETATM    7  C5  EOD B 401      30.094  95.135  50.547  1.00 55.42           C  
+HETATM    8  C6  EOD B 401      30.734  95.041  49.160  1.00 53.15           C  
+HETATM    9  C7  EOD B 401      29.975  94.081  48.241  1.00 51.16           C  
+HETATM   10  C8  EOD B 401      30.627  94.031  46.858  1.00 48.63           C  
+HETATM   11  C9  EOD B 401      30.851  92.557  46.511  1.00 46.73           C  
+HETATM   12  C10 EOD B 401      30.332  92.047  45.166  1.00 44.62           C  
+HETATM   13  C11 EOD B 401      29.648  93.123  44.320  1.00 44.53           C  
+HETATM   14  C12 EOD B 401      28.193  92.785  44.047  1.00 43.61           C  
+HETATM   15  O3  EOD B 401      27.210  93.828  44.120  1.00 43.27           O  
+HETATM   16  C13 EOD B 401      27.486  93.312  42.810  1.00 43.84           C  
+HETATM   17  C14 EOD B 401      28.419  94.090  41.895  1.00 41.62           C  
+HETATM   18  C15 EOD B 401      27.883  93.909  40.474  1.00 37.15           C  
+HETATM   19  C16 EOD B 401      28.722  93.117  39.469  1.00 37.30           C  
+HETATM   20  C17 EOD B 401      30.060  92.574  39.974  1.00 36.29           C  
+HETATM   21  C18 EOD B 401      30.610  91.535  38.995  1.00 29.34           C  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   16
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+END

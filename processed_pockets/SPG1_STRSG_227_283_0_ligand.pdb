@@ -1,0 +1,21 @@
+COMPND    MTN
+HETATM    1  O1  UNL     1      19.272  27.477   7.478  1.00  0.00           O  
+HETATM    2  N1  UNL     1      19.786  26.650   8.428  1.00  0.00           N  
+HETATM    3  C1  UNL     1      19.450  27.102   9.801  1.00  0.00           C  
+HETATM    4  C2  UNL     1      20.717  26.953  10.574  1.00  0.00           C  
+HETATM    5  C3  UNL     1      21.724  26.638   9.778  1.00  0.00           C  
+HETATM    6  C4  UNL     1      21.266  26.553   8.350  1.00  0.00           C  
+HETATM    7  C5  UNL     1      21.633  25.190   7.749  1.00  0.00           C  
+HETATM    8  C6  UNL     1      21.913  27.694   7.526  1.00  0.00           C  
+HETATM    9  C7  UNL     1      18.984  28.574   9.878  1.00  0.00           C  
+HETATM   10  C8  UNL     1      18.378  26.174  10.383  1.00  0.00           C  
+HETATM   11  C9  UNL     1      23.140  26.463  10.262  1.00  0.00           C  
+HETATM   12  S1  UNL     1      23.294  24.927  11.225  1.00  0.00           S  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4    9   10
+CONECT    4    5    5
+CONECT    5    6   11
+CONECT    6    7    8
+CONECT   11   12
+END

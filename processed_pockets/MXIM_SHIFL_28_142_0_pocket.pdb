@@ -1,0 +1,22 @@
+HETATM    1  C1  UND A 150      17.329  42.181   9.965  1.00 36.09           C  
+HETATM    2  C2  UND A 150      18.785  41.878   9.677  1.00 36.31           C  
+HETATM    3  C3  UND A 150      19.010  41.610   8.161  1.00 35.83           C  
+HETATM    4  C4  UND A 150      20.409  42.044   7.728  1.00 36.40           C  
+HETATM    5  C5  UND A 150      21.187  40.868   7.146  1.00 35.83           C  
+HETATM    6  C6  UND A 150      22.319  41.377   6.262  1.00 37.74           C  
+HETATM    7  C7  UND A 150      23.665  41.244   6.960  1.00 35.65           C  
+HETATM    8  C8  UND A 150      24.453  42.544   6.870  1.00 35.33           C  
+HETATM    9  C9  UND A 150      25.526  42.423   5.798  1.00 34.27           C  
+HETATM   10  C10 UND A 150      25.074  43.050   4.484  1.00 34.16           C  
+HETATM   11  C11 UND A 150      26.112  42.897   3.393  1.00 32.97           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+END

@@ -1,0 +1,18 @@
+COMPND    1NDF_152_A_5001
+HETATM    1  C1  UNL     1      58.876  13.263  -1.082  1.00  0.00           C  
+HETATM    2  O1  UNL     1      58.881  11.876  -1.222  1.00  0.00           O  
+HETATM    3  C2  UNL     1      59.496  13.629   0.256  1.00  0.00           C  
+HETATM    4  C3  UNL     1      60.465  14.751   0.099  1.00  0.00           C  
+HETATM    5  O2  UNL     1      60.048  15.913  -0.142  1.00  0.00           O  
+HETATM    6  O3  UNL     1      61.829  14.509   0.190  1.00  0.00           O  
+HETATM    7  C4  UNL     1      57.436  13.785  -1.156  1.00  0.00           C  
+HETATM    8  N1  UNL     1      57.095  14.382  -2.451  1.00  0.00           N1+
+HETATM    9  C5  UNL     1      58.275  14.920  -3.111  1.00  0.00           C  
+HETATM   10  C6  UNL     1      56.440  13.421  -3.325  1.00  0.00           C  
+HETATM   11  C7  UNL     1      56.172  15.477  -2.213  1.00  0.00           C  
+CONECT    1    2    3    7
+CONECT    3    4
+CONECT    4    5    5    6
+CONECT    7    8
+CONECT    8    9   10   11
+END

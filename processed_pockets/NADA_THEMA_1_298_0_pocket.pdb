@@ -1,0 +1,20 @@
+HETATM    1  N1 ANTM A 302      12.908  -1.536  11.437  0.65 17.17           N  
+HETATM    2  C2 ANTM A 302      12.314  -0.580  12.199  0.65 17.49           C  
+HETATM    3  C3 ANTM A 302      11.732   0.701  11.675  0.65 17.77           C  
+HETATM    4  C4 ANTM A 302      11.853   0.927  10.337  0.65 17.28           C  
+HETATM    5  C5 ANTM A 302      12.455  -0.047   9.560  0.65 17.20           C  
+HETATM    6  C6 ANTM A 302      12.971  -1.226  10.123  0.65 16.88           C  
+HETATM    7  C7 ANTM A 302      12.273  -0.935  13.618  0.65 17.67           C  
+HETATM    8  O1 ANTM A 302      12.719  -2.069  13.821  0.65 18.15           O  
+HETATM    9  O2 ANTM A 302      11.834  -0.134  14.467  0.65 18.56           O  
+HETATM   10  C8 ANTM A 302      11.130   1.776  12.543  0.65 17.74           C  
+HETATM   11  O3 ANTM A 302       9.919   1.838  12.875  0.65 15.39           O  
+HETATM   12  O4 ANTM A 302      11.991   2.611  12.922  0.65 18.69           O  
+CONECT    1    2    6
+CONECT    2    3    7
+CONECT    3    4   10
+CONECT    4    5
+CONECT    5    6
+CONECT    7    8    9
+CONECT   10   11   12
+END

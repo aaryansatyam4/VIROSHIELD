@@ -1,0 +1,50 @@
+HETATM    1  PG  ANP A 501       2.321  11.025  65.806  1.00 16.35           P  
+HETATM    2  O1G ANP A 501       3.404  11.538  64.913  1.00 16.54           O  
+HETATM    3  O2G ANP A 501       2.696  11.338  67.305  1.00 19.31           O  
+HETATM    4  O3G ANP A 501       0.958  11.745  65.450  1.00 17.56           O  
+HETATM    5  PB  ANP A 501       0.754   8.910  64.838  1.00 21.42           P  
+HETATM    6  O1B ANP A 501       1.039   7.828  63.847  1.00 22.69           O  
+HETATM    7  O2B ANP A 501       0.129  10.130  64.099  1.00 25.28           O  
+HETATM    8  N3B ANP A 501       2.174   9.347  65.621  1.00 16.82           N  
+HETATM    9  PA  ANP A 501      -0.545   9.214  67.211  1.00 15.39           P  
+HETATM   10  O1A ANP A 501      -1.140  10.561  66.788  1.00 19.65           O  
+HETATM   11  O2A ANP A 501       0.671   9.329  68.048  1.00 18.18           O  
+HETATM   12  O3A ANP A 501      -0.264   8.381  65.890  1.00 18.62           O  
+HETATM   13  O5' ANP A 501      -1.594   8.322  67.983  1.00 18.35           O  
+HETATM   14  C5' ANP A 501      -3.003   8.392  67.679  1.00 19.68           C  
+HETATM   15  C4' ANP A 501      -3.703   8.862  68.926  1.00 16.25           C  
+HETATM   16  O4' ANP A 501      -3.495   7.894  69.970  1.00 19.02           O  
+HETATM   17  C3' ANP A 501      -3.177  10.175  69.492  1.00 16.04           C  
+HETATM   18  O3' ANP A 501      -3.859  11.281  68.911  1.00 22.34           O  
+HETATM   19  C2' ANP A 501      -3.482  10.051  70.988  1.00 20.74           C  
+HETATM   20  O2' ANP A 501      -4.760  10.583  71.316  1.00 26.93           O  
+HETATM   21  C1' ANP A 501      -3.442   8.536  71.230  1.00 19.96           C  
+HETATM   22  N9  ANP A 501      -2.249   8.071  71.928  1.00 17.11           N  
+HETATM   23  C8  ANP A 501      -0.968   8.027  71.442  1.00 15.36           C  
+HETATM   24  N7  ANP A 501      -0.090   7.558  72.293  1.00 18.03           N  
+HETATM   25  C5  ANP A 501      -0.845   7.263  73.419  1.00 20.03           C  
+HETATM   26  C6  ANP A 501      -0.507   6.729  74.676  1.00 18.50           C  
+HETATM   27  N6  ANP A 501       0.734   6.380  75.026  1.00 19.31           N  
+HETATM   28  N1  ANP A 501      -1.502   6.562  75.575  1.00 19.30           N  
+HETATM   29  C2  ANP A 501      -2.746   6.907  75.229  1.00 16.58           C  
+HETATM   30  N3  ANP A 501      -3.184   7.420  74.076  1.00 16.05           N  
+HETATM   31  C4  ANP A 501      -2.177   7.573  73.205  1.00 17.77           C  
+CONECT    1    2    3    4    8
+CONECT    5    6    7    8   12
+CONECT    9   10   11   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16   17
+CONECT   16   21
+CONECT   17   18   19
+CONECT   19   20   21
+CONECT   21   22
+CONECT   22   23   31
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26   31
+CONECT   26   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31
+END

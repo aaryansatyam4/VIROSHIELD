@@ -1,0 +1,25 @@
+COMPND    NES
+HETATM    1  C1  UNL     1      32.787  32.575   3.191  1.00  0.00           C  
+HETATM    2  O1  UNL     1      31.087  33.349   1.611  1.00  0.00           O  
+HETATM    3  C2  UNL     1      32.419  32.916   1.717  1.00  0.00           C  
+HETATM    4  C3  UNL     1      34.236  32.009   3.239  1.00  0.00           C  
+HETATM    5  O2  UNL     1      34.742  32.026   4.549  1.00  0.00           O  
+HETATM    6  C4  UNL     1      32.730  33.869   4.050  1.00  0.00           C  
+HETATM    7  O3  UNL     1      32.565  35.007   3.246  1.00  0.00           O  
+HETATM    8  N1  UNL     1      31.834  31.599   3.784  1.00  0.00           N  
+HETATM    9  C5  UNL     1      31.753  30.294   3.106  1.00  0.00           C  
+HETATM   10  C6  UNL     1      31.512  29.181   4.129  1.00  0.00           C  
+HETATM   11  S1  UNL     1      32.981  28.829   5.088  1.00  0.00           S  
+HETATM   12  O4  UNL     1      32.713  27.466   6.034  1.00  0.00           O  
+HETATM   13  O5  UNL     1      34.137  28.565   4.165  1.00  0.00           O  
+HETATM   14  O6  UNL     1      33.312  29.994   5.978  1.00  0.00           O  
+CONECT    1    3    4    6    8
+CONECT    2    3
+CONECT    4    5
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13   13   14
+CONECT   11   14
+END

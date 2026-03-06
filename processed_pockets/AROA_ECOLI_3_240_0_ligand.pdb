@@ -1,0 +1,22 @@
+COMPND    __2pq9_A_rec_2aay_skm_lig_min.pdb
+HETATM    1  O1  UNL     1      56.717   8.677  30.837  1.00  0.00           O  
+HETATM    2  C1  UNL     1      56.470   9.930  30.178  1.00  0.00           C  
+HETATM    3  C2  UNL     1      57.691  10.422  29.413  1.00  0.00           C  
+HETATM    4  O2  UNL     1      58.783  10.538  30.316  1.00  0.00           O  
+HETATM    5  C3  UNL     1      57.364  11.794  28.793  1.00  0.00           C  
+HETATM    6  C4  UNL     1      56.085  11.912  28.142  1.00  0.00           C  
+HETATM    7  C5  UNL     1      55.063  10.968  28.348  1.00  0.00           C  
+HETATM    8  C6  UNL     1      55.283   9.761  29.227  1.00  0.00           C  
+HETATM    9  O3  UNL     1      55.423   8.558  28.401  1.00  0.00           O  
+HETATM   10  C7  UNL     1      55.811  13.067  27.228  1.00  0.00           C  
+HETATM   11  O4  UNL     1      54.920  12.913  26.351  1.00  0.00           O  
+HETATM   12  O5  UNL     1      56.404  14.107  27.442  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3    8
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7    7   10
+CONECT    7    8
+CONECT    8    9
+CONECT   10   11   11   12
+END

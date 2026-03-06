@@ -1,0 +1,60 @@
+HETATM    1  CAO D15 A 500      34.453 107.764   7.463  1.00 70.13           C  
+HETATM    2  CAY D15 A 500      33.276 107.832   8.177  1.00 75.75           C  
+HETATM    3  CL1 D15 A 500      33.152 106.993   9.667  1.00 83.36          CL  
+HETATM    4  CAI D15 A 500      32.209 108.574   7.705  1.00 76.95           C  
+HETATM    5  CAH D15 A 500      32.314 109.256   6.489  1.00 75.62           C  
+HETATM    6  CAL D15 A 500      33.498 109.195   5.775  1.00 71.66           C  
+HETATM    7  CBB D15 A 500      34.564 108.435   6.251  1.00 67.93           C  
+HETATM    8  CBF D15 A 500      35.863 108.366   5.499  1.00 62.54           C  
+HETATM    9  CAR D15 A 500      35.863 107.442   4.302  1.00 61.44           C  
+HETATM   10  CAQ D15 A 500      35.967 105.972   4.566  1.00 62.36           C  
+HETATM   11  NAA D15 A 500      35.953 105.102   3.393  1.00 61.90           N  
+HETATM   12  CAX D15 A 500      36.482 109.737   5.276  1.00 61.21           C  
+HETATM   13  OAC D15 A 500      36.227 110.345   4.255  1.00 68.11           O  
+HETATM   14  NAT D15 A 500      37.331 110.287   6.355  1.00 50.34           N  
+HETATM   15  CAZ D15 A 500      38.036 111.577   6.353  1.00 47.08           C  
+HETATM   16  CAP D15 A 500      37.714 112.690   5.503  1.00 46.85           C  
+HETATM   17  CBE D15 A 500      38.450 113.929   5.615  1.00 47.93           C  
+HETATM   18  CAM D15 A 500      39.082 111.715   7.302  1.00 44.44           C  
+HETATM   19  CAN D15 A 500      39.811 112.894   7.403  1.00 42.43           C  
+HETATM   20  CBD D15 A 500      39.484 113.997   6.566  1.00 44.86           C  
+HETATM   21  NAV D15 A 500      40.086 115.209   6.466  1.00 45.86           N  
+HETATM   22  NAS D15 A 500      39.457 115.938   5.508  1.00 45.86           N  
+HETATM   23  CBC D15 A 500      38.479 115.206   4.948  1.00 48.99           C  
+HETATM   24  NAU D15 A 500      37.648 115.802   3.925  1.00 54.68           N  
+HETATM   25  CAW D15 A 500      36.778 115.150   2.986  1.00 59.88           C  
+HETATM   26  OAB D15 A 500      36.668 113.935   2.992  1.00 65.16           O  
+HETATM   27  CBA D15 A 500      36.002 115.970   1.998  1.00 60.77           C  
+HETATM   28  CAJ D15 A 500      35.271 115.353   0.975  1.00 61.97           C  
+HETATM   29  CAF D15 A 500      34.529 116.134   0.089  1.00 64.14           C  
+HETATM   30  CAE D15 A 500      34.544 117.528   0.185  1.00 65.02           C  
+HETATM   31  CAG D15 A 500      35.271 118.156   1.205  1.00 63.47           C  
+HETATM   32  CAK D15 A 500      35.996 117.380   2.095  1.00 62.34           C  
+CONECT    1    2    7
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   12
+CONECT    9   10
+CONECT   10   11
+CONECT   12   13   14
+CONECT   14   15
+CONECT   15   16   18
+CONECT   16   17
+CONECT   17   20   23
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26   27
+CONECT   27   28   32
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31
+CONECT   31   32
+END

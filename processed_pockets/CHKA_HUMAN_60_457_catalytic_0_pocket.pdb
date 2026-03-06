@@ -1,0 +1,47 @@
+HETATM    1  CAA QLW A   0      -7.428  -8.507   3.656  1.00 23.93           C  
+HETATM    2  NAW QLW A   0      -6.908  -9.870   3.875  1.00 24.05           N  
+HETATM    3  CAB QLW A   0      -5.716 -10.120   4.724  1.00 23.32           C  
+HETATM    4  CAV QLW A   0      -7.614 -10.897   3.363  1.00 23.29           C  
+HETATM    5  CAM QLW A   0      -8.760 -10.639   2.596  1.00 23.75           C  
+HETATM    6  CAO QLW A   0      -9.535 -11.662   2.063  1.00 23.35           C  
+HETATM    7  CAL QLW A   0      -7.250 -12.218   3.600  1.00 23.41           C  
+HETATM    8  CAN QLW A   0      -8.013 -13.260   3.084  1.00 22.52           C  
+HETATM    9  NAX QLW A   0      -9.158 -12.989   2.314  1.00 24.33           N  
+HETATM   10  CAR QLW A   0      -9.954 -14.111   1.799  1.00 23.67           C  
+HETATM   11  CAU QLW A   0     -10.434 -14.898   2.891  1.00 24.46           C  
+HETATM   12  CAK QLW A   0     -11.419 -14.409   3.749  1.00 25.87           C  
+HETATM   13  CAI QLW A   0     -11.906 -15.179   4.818  1.00 28.01           C  
+HETATM   14  CAJ QLW A   0      -9.930 -16.180   3.132  1.00 24.73           C  
+HETATM   15  CAH QLW A   0     -10.397 -16.956   4.201  1.00 26.94           C  
+HETATM   16  CAT QLW A   0     -11.381 -16.458   5.061  1.00 28.23           C  
+HETATM   17  CAQ QLW A   0     -11.871 -17.257   6.119  1.00 31.45           C  
+HETATM   18  CAP QLW A   0     -11.186 -17.028   7.473  1.00 37.41           C  
+HETATM   19  CAS QLW A   0     -11.692 -17.929   8.433  1.00 40.29           C  
+HETATM   20  CAF QLW A   0     -13.059 -17.970   8.741  1.00 42.27           C  
+HETATM   21  CAD QLW A   0     -13.550 -18.867   9.694  1.00 42.57           C  
+HETATM   22  CAC QLW A   0     -12.670 -19.731  10.356  1.00 43.11           C  
+HETATM   23  CAE QLW A   0     -11.308 -19.687  10.058  1.00 39.77           C  
+HETATM   24  CAG QLW A   0     -10.822 -18.792   9.101  1.00 40.29           C  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5    7
+CONECT    5    6
+CONECT    6    9
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   14
+CONECT   12   13
+CONECT   13   16
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20   24
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+END

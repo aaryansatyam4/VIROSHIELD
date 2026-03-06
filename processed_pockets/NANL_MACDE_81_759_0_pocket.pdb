@@ -1,0 +1,37 @@
+HETATM    1  C1  CNP A 760       1.774   7.394  35.978  1.00 31.60           C  
+HETATM    2  O1A CNP A 760       1.760   7.067  34.768  1.00 30.20           O  
+HETATM    3  O1B CNP A 760       0.811   7.980  36.526  1.00 25.34           O  
+HETATM    4  C2  CNP A 760       2.987   7.014  36.829  1.00 32.66           C  
+HETATM    5  C12 CNP A 760       2.696   5.601  37.353  1.00 37.90           C  
+HETATM    6  C13 CNP A 760       2.105   4.519  36.424  1.00 41.60           C  
+HETATM    7  C14 CNP A 760       1.657   3.299  36.821  1.00 41.11           C  
+HETATM    8  C3  CNP A 760       4.269   7.052  35.951  1.00 28.16           C  
+HETATM    9  C4  CNP A 760       5.519   7.551  36.692  1.00 28.26           C  
+HETATM   10  O4  CNP A 760       6.682   6.934  36.146  1.00 13.13           O  
+HETATM   11  C5  CNP A 760       5.446   7.244  38.186  1.00 28.74           C  
+HETATM   12  N5  CNP A 760       6.650   7.756  38.834  1.00 27.52           N  
+HETATM   13  C10 CNP A 760       7.220   7.120  39.857  1.00 25.25           C  
+HETATM   14  O10 CNP A 760       6.758   6.090  40.356  1.00 27.14           O  
+HETATM   15  C11 CNP A 760       8.480   7.740  40.446  1.00 21.80           C  
+HETATM   16  C6  CNP A 760       4.202   7.888  38.829  1.00 33.34           C  
+HETATM   17  O6  CNP A 760       3.062   7.983  37.909  1.00 34.32           O  
+HETATM   18  C7  CNP A 760       3.812   7.174  40.146  1.00 40.49           C  
+HETATM   19  O7  CNP A 760       3.986   5.771  40.024  1.00 45.09           O  
+HETATM   20  C8  CNP A 760       2.385   7.442  40.636  1.00 45.30           C  
+HETATM   21  O8  CNP A 760       1.426   6.891  39.747  1.00 47.95           O  
+HETATM   22  C9  CNP A 760       2.122   8.919  40.815  1.00 48.13           C  
+HETATM   23  O9  CNP A 760       1.277   9.374  39.766  1.00 52.52           O  
+CONECT    1    2    3    4
+CONECT    4    5    8   17
+CONECT    5    6
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10   11
+CONECT   11   12   16
+CONECT   12   13
+CONECT   13   14   15
+CONECT   16   17   18
+CONECT   18   19   20
+CONECT   20   21   22
+CONECT   22   23
+END

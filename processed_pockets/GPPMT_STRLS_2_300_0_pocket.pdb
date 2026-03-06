@@ -1,0 +1,48 @@
+HETATM    1  N   SFG A 501      48.301  13.936  35.604  1.00 41.27           N  
+HETATM    2  CA  SFG A 501      48.442  15.073  36.525  1.00 40.93           C  
+HETATM    3  C   SFG A 501      49.462  14.728  37.614  1.00 41.01           C  
+HETATM    4  O   SFG A 501      49.884  15.669  38.319  1.00 41.77           O  
+HETATM    5  OXT SFG A 501      49.799  13.529  37.715  1.00 40.25           O  
+HETATM    6  CB  SFG A 501      47.087  15.381  37.166  1.00 39.81           C  
+HETATM    7  CG  SFG A 501      47.144  16.669  37.991  1.00 36.73           C  
+HETATM    8  CD  SFG A 501      45.845  16.889  38.769  1.00 35.94           C  
+HETATM    9  NE  SFG A 501      45.611  15.727  39.638  1.00 34.88           N  
+HETATM   10  C5' SFG A 501      44.655  17.034  37.818  1.00 37.36           C  
+HETATM   11  C4' SFG A 501      44.860  18.197  36.844  1.00 38.98           C  
+HETATM   12  O4' SFG A 501      43.662  18.419  36.083  1.00 40.16           O  
+HETATM   13  C3' SFG A 501      45.150  19.528  37.546  1.00 38.28           C  
+HETATM   14  O3' SFG A 501      46.489  19.937  37.257  1.00 37.26           O  
+HETATM   15  C2' SFG A 501      44.164  20.500  36.894  1.00 38.53           C  
+HETATM   16  O2' SFG A 501      44.840  21.715  36.560  1.00 37.74           O  
+HETATM   17  C1' SFG A 501      43.819  19.760  35.603  1.00 41.13           C  
+HETATM   18  N9  SFG A 501      42.544  20.266  35.049  1.00 45.49           N  
+HETATM   19  C8  SFG A 501      41.385  20.320  35.702  1.00 47.30           C  
+HETATM   20  N7  SFG A 501      40.435  20.778  34.889  1.00 49.47           N  
+HETATM   21  C5  SFG A 501      40.993  21.020  33.708  1.00 49.98           C  
+HETATM   22  C6  SFG A 501      40.513  21.482  32.489  1.00 50.69           C  
+HETATM   23  N6  SFG A 501      39.226  21.782  32.341  1.00 50.74           N  
+HETATM   24  N1  SFG A 501      41.366  21.607  31.462  1.00 50.49           N  
+HETATM   25  C2  SFG A 501      42.644  21.296  31.596  1.00 49.28           C  
+HETATM   26  N3  SFG A 501      43.134  20.851  32.740  1.00 48.50           N  
+HETATM   27  C4  SFG A 501      42.340  20.700  33.809  1.00 48.03           C  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   12   17
+CONECT   13   14   15
+CONECT   15   16   17
+CONECT   17   18
+CONECT   18   19   27
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22   27
+CONECT   22   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+END

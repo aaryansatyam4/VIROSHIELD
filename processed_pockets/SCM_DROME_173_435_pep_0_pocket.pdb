@@ -1,0 +1,21 @@
+HETATM    1  N   MLY A 436     -27.431 -20.995 -15.702  1.00 64.32           N  
+HETATM    2  CA  MLY A 436     -27.107 -20.759 -17.144  1.00 64.05           C  
+HETATM    3  CB  MLY A 436     -25.820 -19.943 -17.242  1.00 63.61           C  
+HETATM    4  CG  MLY A 436     -25.624 -19.467 -18.673  1.00 62.39           C  
+HETATM    5  CD  MLY A 436     -24.578 -18.371 -18.775  1.00 58.97           C  
+HETATM    6  CE  MLY A 436     -24.104 -18.251 -20.220  1.00 56.90           C  
+HETATM    7  NZ  MLY A 436     -23.231 -17.077 -20.381  1.00 54.49           N  
+HETATM    8  CH1 MLY A 436     -22.985 -16.836 -21.812  1.00 53.02           C  
+HETATM    9  CH2 MLY A 436     -21.954 -17.324 -19.698  1.00 53.72           C  
+HETATM   10  C   MLY A 436     -26.969 -22.041 -17.928  1.00 64.35           C  
+HETATM   11  O   MLY A 436     -26.241 -22.951 -17.527  1.00 64.40           O  
+HETATM   12  OXT MLY A 436     -27.567 -22.210 -18.999  1.00 64.47           O  
+CONECT    1    2
+CONECT    2    3   10
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8    9
+CONECT   10   11   12
+END

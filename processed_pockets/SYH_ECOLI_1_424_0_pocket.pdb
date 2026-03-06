@@ -1,0 +1,57 @@
+HETATM    1  C4  HSS A 510      -5.937  17.346  21.887  1.00 37.52           C  
+HETATM    2  C5  HSS A 510      -4.960  17.139  20.923  1.00 28.97           C  
+HETATM    3  C6  HSS A 510      -3.885  16.323  21.244  1.00 33.15           C  
+HETATM    4  C8  HSS A 510      -6.455  18.458  20.113  1.00 42.83           C  
+HETATM    5  N1  HSS A 510      -3.832  15.767  22.462  1.00 45.66           N  
+HETATM    6  N3  HSS A 510      -5.824  16.753  23.083  1.00 34.92           N  
+HETATM    7  N11 HSS A 510     -15.737  23.488  16.734  1.00 46.23           N  
+HETATM    8  CE1 HSS A 510     -16.942  23.303  16.202  1.00 54.51           C  
+HETATM    9  N12 HSS A 510     -17.291  22.036  16.405  1.00 53.21           N  
+HETATM   10  CD2 HSS A 510     -16.303  21.439  17.065  1.00 51.59           C  
+HETATM   11  CG  HSS A 510     -15.340  22.334  17.264  1.00 48.07           C  
+HETATM   12  CB  HSS A 510     -13.976  22.051  17.895  1.00 32.05           C  
+HETATM   13  CA  HSS A 510     -12.996  21.650  16.791  1.00 37.92           C  
+HETATM   14  N   HSS A 510     -13.519  20.480  16.071  1.00 23.32           N  
+HETATM   15  C   HSS A 510     -11.645  21.291  17.409  1.00 48.98           C  
+HETATM   16  O   HSS A 510     -11.314  20.106  17.427  1.00 55.28           O  
+HETATM   17  N1S HSS A 510     -10.890  22.275  17.891  1.00 49.91           N  
+HETATM   18  S   HSS A 510      -9.525  21.707  18.579  1.00 54.52           S  
+HETATM   19  O2S HSS A 510      -8.344  22.342  17.908  1.00 74.86           O  
+HETATM   20  O3S HSS A 510      -9.439  20.217  18.428  1.00 77.79           O  
+HETATM   21  O5' HSS A 510      -9.498  22.013  19.977  1.00 65.55           O  
+HETATM   22  C5' HSS A 510     -10.340  21.317  20.901  1.00 56.36           C  
+HETATM   23  C4' HSS A 510      -9.539  20.376  21.804  1.00 49.88           C  
+HETATM   24  O4' HSS A 510      -8.948  19.272  21.106  1.00 48.36           O  
+HETATM   25  C3' HSS A 510      -8.299  21.067  22.368  1.00 59.36           C  
+HETATM   26  O3' HSS A 510      -8.673  21.968  23.413  1.00 71.82           O  
+HETATM   27  C2' HSS A 510      -7.587  19.855  22.971  1.00 50.17           C  
+HETATM   28  O2' HSS A 510      -8.058  19.625  24.303  1.00 50.69           O  
+HETATM   29  C1' HSS A 510      -8.025  18.708  22.054  1.00 45.46           C  
+HETATM   30  N9  HSS A 510      -6.838  18.167  21.355  1.00 47.10           N  
+HETATM   31  N7  HSS A 510      -5.310  17.833  19.843  1.00 36.95           N  
+HETATM   32  C2  HSS A 510      -4.787  15.981  23.352  1.00 41.72           C  
+HETATM   33  N6  HSS A 510      -2.916  16.107  20.359  1.00 47.41           N  
+CONECT    1    2    6   30
+CONECT    2    3   31
+CONECT    3    5   33
+CONECT    4   30   31
+CONECT    5   32
+CONECT    6   32
+CONECT    7    8   11
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   15
+CONECT   15   16   17
+CONECT   17   18
+CONECT   18   19   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24   25
+CONECT   24   29
+CONECT   25   26   27
+CONECT   27   28   29
+CONECT   29   30
+END

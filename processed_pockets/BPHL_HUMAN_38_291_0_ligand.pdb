@@ -1,0 +1,25 @@
+COMPND    __2oci_A_rec_2oci_tyc_lig_docked.pdb
+HETATM    1  N1  UNL     1     -26.816 177.044 -29.747  1.00  0.00           N  
+HETATM    2  C1  UNL     1     -26.211 175.670 -29.673  1.00  0.00           C  
+HETATM    3  C2  UNL     1     -25.598 175.309 -31.011  1.00  0.00           C  
+HETATM    4  O1  UNL     1     -26.297 174.856 -31.896  1.00  0.00           O  
+HETATM    5  N2  UNL     1     -24.088 175.292 -31.172  1.00  0.00           N  
+HETATM    6  C3  UNL     1     -27.326 174.685 -29.236  1.00  0.00           C  
+HETATM    7  C4  UNL     1     -26.745 173.504 -28.494  1.00  0.00           C  
+HETATM    8  C5  UNL     1     -27.174 172.194 -28.809  1.00  0.00           C  
+HETATM    9  C6  UNL     1     -25.781 173.708 -27.483  1.00  0.00           C  
+HETATM   10  C7  UNL     1     -26.643 171.088 -28.111  1.00  0.00           C  
+HETATM   11  C8  UNL     1     -25.246 172.604 -26.784  1.00  0.00           C  
+HETATM   12  O2  UNL     1     -25.167 170.229 -26.422  1.00  0.00           O  
+HETATM   13  C9  UNL     1     -25.678 171.291 -27.096  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4    4    5
+CONECT    6    7
+CONECT    7    8    8    9
+CONECT    8   10
+CONECT    9   11   11
+CONECT   10   13   13
+CONECT   11   13
+CONECT   12   13
+END

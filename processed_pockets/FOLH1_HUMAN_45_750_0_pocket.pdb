@@ -1,0 +1,51 @@
+HETATM    1  C2  YZE A   1      13.667  47.182  40.575  0.75 29.24           C  
+HETATM    2  C4  YZE A   1      14.797  46.410  40.403  0.75 30.06           C  
+HETATM    3  C5  YZE A   1      14.755  44.941  40.782  0.75 30.38           C  
+HETATM    4  C6  YZE A   1      16.139  44.366  41.113  0.75 31.02           C  
+HETATM    5  C7  YZE A   1      17.139  44.527  39.933  0.75 32.45           C  
+HETATM    6  O8  YZE A   1      17.047  43.729  38.952  0.75 34.06           O  
+HETATM    7  O9  YZE A   1      18.057  45.374  40.074  0.75 32.87           O  
+HETATM    8  N10 YZE A   1      16.787  45.079  42.186  0.75 30.19           N  
+HETATM    9  C11 YZE A   1      17.937  44.627  42.635  0.75 30.75           C  
+HETATM   10  N12 YZE A   1      18.486  45.377  43.573  0.75 29.50           N  
+HETATM   11  C13 YZE A   1      19.805  45.082  44.123  0.75 31.91           C  
+HETATM   12  C14 YZE A   1      20.805  45.744  43.131  0.75 30.46           C  
+HETATM   13  C15 YZE A   1      22.249  45.201  43.190  0.75 34.24           C  
+HETATM   14  C16 YZE A   1      23.302  45.938  42.273  0.75 32.56           C  
+HETATM   15  C17 YZE A   1      23.393  47.476  42.460  0.75 31.94           C  
+HETATM   16  N18 YZE A   1      23.558  47.867  43.887  0.75 36.69           N  
+HETATM   17  C19 YZE A   1      23.074  49.027  44.363  0.75 40.40           C  
+HETATM   18  C20 YZE A   1      23.193  49.340  45.895  0.75 43.99           C  
+HETATM   19  C21 YZE A   1      22.638  50.520  46.474  0.75 45.33           C  
+HETATM   20  C22 YZE A   1      22.741  50.792  47.881  0.75 46.46           C  
+HETATM   21  C23 YZE A   1      23.404  49.924  48.783  0.75 45.09           C  
+HETATM   22  I24 YZE A   1      23.611  50.207  50.988  0.75 40.27           I  
+HETATM   23  C25 YZE A   1      23.939  48.772  48.148  0.75 47.42           C  
+HETATM   24  C26 YZE A   1      23.848  48.465  46.767  0.75 45.38           C  
+HETATM   25  O27 YZE A   1      22.420  49.776  43.642  0.75 42.81           O  
+HETATM   26  C28 YZE A   1      19.896  45.711  45.538  0.75 34.71           C  
+HETATM   27  O29 YZE A   1      19.441  46.879  45.729  0.75 33.81           O  
+HETATM   28  O30 YZE A   1      20.327  44.961  46.426  0.75 35.34           O  
+HETATM   29  O31 YZE A   1      18.456  43.575  42.217  0.75 29.37           O  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    8
+CONECT    5    6    7
+CONECT    8    9
+CONECT    9   10   29
+CONECT   10   11
+CONECT   11   12   26
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   25
+CONECT   18   19   24
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22   23
+CONECT   23   24
+CONECT   26   27   28
+END

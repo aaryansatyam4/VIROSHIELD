@@ -1,0 +1,27 @@
+COMPND    __5m7s_B_rec_5uhl_8bj_lig_docked.pdb
+HETATM    1  C1  UNL     1      17.909   4.197  28.433  1.00  0.00           C  
+HETATM    2  C2  UNL     1      16.752   3.807  27.515  1.00  0.00           C  
+HETATM    3  C3  UNL     1      17.278   3.103  26.277  1.00  0.00           C  
+HETATM    4  C4  UNL     1      18.016   1.819  26.644  1.00  0.00           C  
+HETATM    5  C5  UNL     1      20.066   1.883  25.593  1.00  0.00           C  
+HETATM    6  O1  UNL     1      16.056   4.977  27.104  1.00  0.00           O  
+HETATM    7  O2  UNL     1      16.176   2.742  25.456  1.00  0.00           O  
+HETATM    8  C6  UNL     1      18.941   2.017  27.864  1.00  0.00           C  
+HETATM    9  O3  UNL     1      18.695   3.052  28.817  1.00  0.00           O  
+HETATM   10  S1  UNL     1      20.584   2.384  27.231  1.00  0.00           S  
+HETATM   11  N1  UNL     1      18.832   1.584  25.442  1.00  0.00           N  
+HETATM   12  C7  UNL     1      17.446   4.838  29.730  1.00  0.00           C  
+HETATM   13  O4  UNL     1      16.093   4.522  30.054  1.00  0.00           O  
+HETATM   14  N2  UNL     1      20.968   1.851  24.607  1.00  0.00           N  
+HETATM   15  C8  UNL     1      22.388   1.683  24.902  1.00  0.00           C  
+HETATM   16  C9  UNL     1      23.126   1.141  23.784  1.00  0.00           C  
+CONECT    1    2    9   12
+CONECT    2    3    6
+CONECT    3    4    7
+CONECT    4    8   11
+CONECT    5   10   11   11   14
+CONECT    8    9   10
+CONECT   12   13
+CONECT   14   15
+CONECT   15   16
+END

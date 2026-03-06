@@ -1,0 +1,20 @@
+HETATM    1  OBA XYN A1000      33.271 -41.061 -16.615  0.70 29.64           O  
+HETATM    2  OBB XYN A1000      27.667 -41.125 -15.838  0.70 44.60           O  
+HETATM    3  OBC XYN A1000      29.739 -42.869 -13.590  0.70 40.93           O  
+HETATM    4  OBD XYN A1000      33.072 -42.117 -14.671  0.70 30.51           O  
+HETATM    5  OBE XYN A1000      28.115 -43.320 -15.846  0.70 46.04           O  
+HETATM    6  CBF XYN A1000      31.321 -40.690 -15.354  0.70 36.27           C  
+HETATM    7  CBG XYN A1000      29.279 -40.579 -13.569  0.70 43.75           C  
+HETATM    8  SBH XYN A1000      31.078 -40.409 -13.557  0.70 44.56           S  
+HETATM    9  CBI XYN A1000      32.666 -41.352 -15.570  0.70 33.19           C  
+HETATM   10  CBJ XYN A1000      28.223 -42.155 -15.366  0.70 45.47           C  
+HETATM   11  CBK XYN A1000      29.105 -41.960 -14.119  0.70 43.98           C  
+CONECT    1    9
+CONECT    2   10
+CONECT    3   11
+CONECT    4    9
+CONECT    5   10
+CONECT    6    8    9
+CONECT    7    8   11
+CONECT   10   11
+END

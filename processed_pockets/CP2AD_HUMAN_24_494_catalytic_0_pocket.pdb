@@ -1,0 +1,22 @@
+HETATM    1  N1  NCT B 501       3.165 -13.229  11.057  1.00 40.13           N  
+HETATM    2  C1  NCT B 501       4.454 -13.628  11.066  1.00 41.71           C  
+HETATM    3  C2  NCT B 501       4.955 -14.601  10.151  1.00 43.42           C  
+HETATM    4  C3  NCT B 501       4.070 -15.166   9.210  1.00 43.16           C  
+HETATM    5  C4  NCT B 501       2.732 -14.739   9.246  1.00 41.96           C  
+HETATM    6  C5  NCT B 501       2.301 -13.762  10.170  1.00 41.53           C  
+HETATM    7  N2  NCT B 501       6.888 -16.334  10.207  1.00 44.82           N  
+HETATM    8  C6  NCT B 501       6.403 -14.941  10.255  1.00 42.88           C  
+HETATM    9  C7  NCT B 501       7.203 -14.301   9.158  1.00 43.95           C  
+HETATM   10  C8  NCT B 501       8.391 -15.246   8.960  1.00 47.24           C  
+HETATM   11  C9  NCT B 501       8.323 -16.339  10.027  1.00 44.46           C  
+HETATM   12  C10 NCT B 501       6.156 -17.589  10.340  1.00 43.19           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4    8
+CONECT    4    5
+CONECT    5    6
+CONECT    7    8   11   12
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+END

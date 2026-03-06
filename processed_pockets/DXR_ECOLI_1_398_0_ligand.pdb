@@ -1,0 +1,20 @@
+COMPND    1ONP_FOM_A_1001
+HETATM    1  C1  UNL     1      17.542   2.419  35.647  1.00  0.00           C  
+HETATM    2  C2  UNL     1      16.110   2.853  35.917  1.00  0.00           C  
+HETATM    3  O1  UNL     1      13.853   2.092  35.474  1.00  0.00           O  
+HETATM    4  N1  UNL     1      15.181   1.961  35.246  1.00  0.00           N  
+HETATM    5  C3  UNL     1      15.671   0.889  34.441  1.00  0.00           C  
+HETATM    6  O2  UNL     1      14.874   0.085  33.890  1.00  0.00           O  
+HETATM    7  C4  UNL     1      18.427   3.631  35.413  1.00  0.00           C  
+HETATM    8  P1  UNL     1      19.912   3.560  36.461  1.00  0.00           P  
+HETATM    9  O3  UNL     1      20.984   4.458  35.887  1.00  0.00           O  
+HETATM   10  O4  UNL     1      19.537   4.064  38.031  1.00  0.00           O  
+HETATM   11  O5  UNL     1      20.483   1.969  36.508  1.00  0.00           O  
+CONECT    1    2    7
+CONECT    2    4
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    6
+CONECT    7    8
+CONECT    8    9    9   10   11
+END

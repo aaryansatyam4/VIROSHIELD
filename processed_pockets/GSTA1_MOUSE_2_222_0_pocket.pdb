@@ -1,0 +1,30 @@
+HETATM    1  CB1 GTS D 250      25.618  -7.610   9.365  1.00 52.43           C  
+HETATM    2  CG1 GTS D 250      26.233  -8.914   8.909  1.00 52.82           C  
+HETATM    3  CD1 GTS D 250      25.845  -9.253   7.502  1.00 55.79           C  
+HETATM    4  OE1 GTS D 250      25.155  -8.496   6.814  1.00 54.18           O  
+HETATM    5  N2  GTS D 250      26.264 -10.464   7.138  1.00 59.90           N  
+HETATM    6  CA2 GTS D 250      25.975 -11.022   5.830  1.00 62.12           C  
+HETATM    7  C2  GTS D 250      25.774 -12.486   5.948  1.00 63.67           C  
+HETATM    8  O2  GTS D 250      26.574 -13.145   6.616  1.00 64.57           O  
+HETATM    9  CB2 GTS D 250      27.105 -10.911   4.854  1.00 66.29           C  
+HETATM   10  SG2 GTS D 250      27.649  -9.254   4.459  1.00 73.62           S  
+HETATM   11  O1S GTS D 250      28.318  -8.661   5.588  1.00 72.52           O  
+HETATM   12  O2S GTS D 250      28.541  -9.394   3.348  1.00 73.52           O  
+HETATM   13  O3S GTS D 250      26.525  -8.424   4.106  1.00 75.07           O  
+HETATM   14  N3  GTS D 250      24.735 -12.999   5.303  1.00 66.74           N  
+HETATM   15  CA3 GTS D 250      24.622 -14.427   5.170  1.00 70.04           C  
+HETATM   16  C3  GTS D 250      23.209 -14.861   4.958  1.00 73.18           C  
+HETATM   17  O31 GTS D 250      23.049 -16.021   4.603  1.00 74.10           O  
+HETATM   18  O32 GTS D 250      22.307 -14.033   5.118  1.00 76.60           O  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7    9
+CONECT    7    8   14
+CONECT    9   10
+CONECT   10   11   12   13
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   18
+END

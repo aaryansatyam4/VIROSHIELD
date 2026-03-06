@@ -1,0 +1,28 @@
+COMPND    2DE4_BPS_A_1366
+HETATM    1  C1  UNL     1     -31.330  26.564  18.643  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -31.640  27.339  17.514  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -31.554  26.742  16.231  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -31.147  25.407  16.114  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -30.829  24.657  17.247  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -30.925  25.234  18.513  1.00  0.00           C  
+HETATM    7  C7  UNL     1     -32.042  28.750  17.726  1.00  0.00           C  
+HETATM    8  C8  UNL     1     -33.341  29.050  18.163  1.00  0.00           C  
+HETATM    9  C9  UNL     1     -33.722  30.374  18.402  1.00  0.00           C  
+HETATM   10  C10 UNL     1     -32.804  31.409  18.214  1.00  0.00           C  
+HETATM   11  C11 UNL     1     -31.503  31.121  17.794  1.00  0.00           C  
+HETATM   12  C12 UNL     1     -31.123  29.797  17.556  1.00  0.00           C  
+HETATM   13  S1  UNL     1     -32.022  27.600  14.739  1.00  0.00           S  
+HETATM   14  O1  UNL     1     -31.253  26.723  13.500  1.00  0.00           O  
+HETATM   15  O2  UNL     1     -33.498  27.269  14.569  1.00  0.00           O  
+CONECT    1    2    2    6
+CONECT    2    3    7
+CONECT    3    4    4   13
+CONECT    4    5
+CONECT    5    6    6
+CONECT    7    8    8   12
+CONECT    8    9
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   12
+CONECT   13   14   15   15
+END

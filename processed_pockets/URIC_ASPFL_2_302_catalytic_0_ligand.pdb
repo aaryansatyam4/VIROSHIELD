@@ -1,0 +1,21 @@
+COMPND    PocketomeGenCross_Output/URIC_ASPFL_2_302_catalytic_0/3l8w_xan_lig.pdb
+HETATM    1  N1  UNL     1      29.823  24.825  37.667  1.00  0.00           N  
+HETATM    2  C1  UNL     1      30.171  25.510  36.571  1.00  0.00           C  
+HETATM    3  N2  UNL     1      29.344  26.195  35.744  1.00  0.00           N  
+HETATM    4  C2  UNL     1      29.894  26.835  34.667  1.00  0.00           C  
+HETATM    5  O1  UNL     1      29.155  27.480  33.880  1.00  0.00           O  
+HETATM    6  N3  UNL     1      31.246  26.779  34.443  1.00  0.00           N  
+HETATM    7  C3  UNL     1      32.073  26.087  35.280  1.00  0.00           C  
+HETATM    8  O2  UNL     1      33.313  26.040  35.066  1.00  0.00           O  
+HETATM    9  C4  UNL     1      31.501  25.442  36.368  1.00  0.00           C  
+HETATM   10  N4  UNL     1      32.079  24.707  37.327  1.00  0.00           N  
+HETATM   11  C5  UNL     1      31.020  24.346  38.104  1.00  0.00           C  
+CONECT    1    2   11
+CONECT    2    3    9    9
+CONECT    3    4
+CONECT    4    5    5    6
+CONECT    6    7
+CONECT    7    8    8    9
+CONECT    9   10
+CONECT   10   11   11
+END

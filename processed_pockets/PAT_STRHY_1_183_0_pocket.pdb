@@ -1,0 +1,18 @@
+HETATM    1  NP  PPQ A 801     -42.474   2.560 -23.199  1.00 23.92           N  
+HETATM    2  CAP PPQ A 801     -42.307   1.497 -22.264  1.00 22.06           C  
+HETATM    3  CBP PPQ A 801     -43.539   1.370 -21.386  1.00 14.44           C  
+HETATM    4  CGP PPQ A 801     -44.784   1.170 -22.227  1.00 14.71           C  
+HETATM    5  PDP PPQ A 801     -46.217   0.838 -21.157  1.00 16.67           P  
+HETATM    6  CEP PPQ A 801     -46.385   2.154 -19.920  1.00 16.75           C  
+HETATM    7  OEA PPQ A 801     -46.039  -0.462 -20.472  1.00 14.90           O  
+HETATM    8  OEB PPQ A 801     -47.520   0.792 -22.047  1.00 17.77           O  
+HETATM    9  CP  PPQ A 801     -42.065   0.207 -23.017  1.00 20.90           C  
+HETATM   10  OP  PPQ A 801     -42.282   0.152 -24.257  1.00 18.36           O  
+HETATM   11  OTP PPQ A 801     -41.652  -0.813 -22.404  1.00 15.27           O  
+CONECT    1    2
+CONECT    2    3    9
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    7    8
+CONECT    9   10   11
+END

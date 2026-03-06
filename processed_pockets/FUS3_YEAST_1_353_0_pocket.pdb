@@ -1,0 +1,45 @@
+HETATM    1  PB  ADP A 500      37.196   4.890  42.078  1.00 20.34           P  
+HETATM    2  O1B ADP A 500      38.427   5.674  42.302  1.00 21.72           O  
+HETATM    3  O2B ADP A 500      36.821   4.026  43.247  1.00 16.71           O  
+HETATM    4  O3B ADP A 500      35.979   5.757  41.593  1.00 18.57           O  
+HETATM    5  PA  ADP A 500      36.838   3.465  39.641  1.00 16.05           P  
+HETATM    6  O1A ADP A 500      36.978   1.958  39.499  1.00 15.45           O  
+HETATM    7  O2A ADP A 500      35.399   3.987  39.593  1.00 16.62           O  
+HETATM    8  O3A ADP A 500      37.526   3.808  40.971  1.00 17.53           O  
+HETATM    9  O5' ADP A 500      37.783   4.042  38.509  1.00 17.60           O  
+HETATM   10  C5' ADP A 500      37.924   5.475  38.282  1.00 15.73           C  
+HETATM   11  C4' ADP A 500      38.017   5.818  36.794  1.00 13.26           C  
+HETATM   12  O4' ADP A 500      39.128   5.081  36.253  1.00 16.34           O  
+HETATM   13  C3' ADP A 500      36.844   5.375  35.910  1.00 13.42           C  
+HETATM   14  O3' ADP A 500      35.819   6.401  35.936  1.00 13.46           O  
+HETATM   15  C2' ADP A 500      37.527   5.157  34.573  1.00 11.07           C  
+HETATM   16  O2' ADP A 500      37.671   6.369  33.840  1.00 13.10           O  
+HETATM   17  C1' ADP A 500      38.908   4.631  34.915  1.00 13.55           C  
+HETATM   18  N9  ADP A 500      38.938   3.129  34.883  1.00 15.70           N  
+HETATM   19  C8  ADP A 500      38.662   2.282  35.915  1.00 13.34           C  
+HETATM   20  N7  ADP A 500      38.769   1.008  35.580  1.00 14.27           N  
+HETATM   21  C5  ADP A 500      39.130   1.031  34.282  1.00 13.56           C  
+HETATM   22  C6  ADP A 500      39.388  -0.047  33.355  1.00 17.50           C  
+HETATM   23  N6  ADP A 500      39.314  -1.304  33.631  1.00 15.54           N  
+HETATM   24  N1  ADP A 500      39.738   0.379  32.066  1.00 14.67           N  
+HETATM   25  C2  ADP A 500      39.821   1.705  31.724  1.00 11.43           C  
+HETATM   26  N3  ADP A 500      39.582   2.696  32.570  1.00 13.14           N  
+HETATM   27  C4  ADP A 500      39.243   2.324  33.816  1.00 15.13           C  
+CONECT    1    2    3    4    8
+CONECT    5    6    7    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   12   17
+CONECT   13   14   15
+CONECT   15   16   17
+CONECT   17   18
+CONECT   18   19   27
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22   27
+CONECT   22   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+END

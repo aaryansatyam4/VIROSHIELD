@@ -1,0 +1,17 @@
+COMPND    4WS2_6UA_A_303
+HETATM    1  O1  UNL     1      27.286  -7.746  40.989  1.00  0.00           O  
+HETATM    2  C1  UNL     1      26.784  -8.765  41.529  1.00  0.00           C  
+HETATM    3  N1  UNL     1      27.610  -9.665  42.259  1.00  0.00           N  
+HETATM    4  C2  UNL     1      27.027 -10.815  42.866  1.00  0.00           C  
+HETATM    5  O2  UNL     1      27.754 -11.613  43.512  1.00  0.00           O  
+HETATM    6  N2  UNL     1      25.383  -9.020  41.410  1.00  0.00           N  
+HETATM    7  C3  UNL     1      24.803 -10.054  41.945  1.00  0.00           C  
+HETATM    8  N3  UNL     1      23.402 -10.223  41.772  1.00  0.00           N  
+HETATM    9  C4  UNL     1      25.557 -11.088  42.744  1.00  0.00           C  
+CONECT    1    2    2
+CONECT    2    3    6
+CONECT    3    4
+CONECT    4    5    5    9
+CONECT    6    7    7
+CONECT    7    8    9
+END

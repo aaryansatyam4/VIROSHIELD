@@ -1,0 +1,35 @@
+HETATM    1  CAA JPS A1151       5.309  17.894 -25.392  1.00 27.38           C  
+HETATM    2  CAG JPS A1151       4.799  16.899 -24.336  1.00 28.15           C  
+HETATM    3  CAH JPS A1151       3.361  16.407 -24.581  1.00 25.31           C  
+HETATM    4  CAM JPS A1151       3.095  15.241 -23.628  1.00 22.73           C  
+HETATM    5  CAI JPS A1151       2.800  13.960 -23.918  1.00 21.49           C  
+HETATM    6  SAK JPS A1151       3.128  15.424 -21.993  1.00 21.58           S  
+HETATM    7  CAO JPS A1151       2.765  13.830 -21.655  1.00 20.71           C  
+HETATM    8  CAN JPS A1151       2.608  13.139 -22.859  1.00 18.99           C  
+HETATM    9  CAR JPS A1151       2.279  11.619 -22.857  1.00 18.97           C  
+HETATM   10  CAL JPS A1151       2.967  10.963 -24.054  1.00 15.35           C  
+HETATM   11  OAC JPS A1151       2.355  11.086 -25.116  1.00 14.70           O  
+HETATM   12  OAB JPS A1151       4.051  10.357 -23.916  1.00 17.43           O  
+HETATM   13  OAF JPS A1151       0.859  11.393 -23.051  1.00 19.67           O  
+HETATM   14  CAJ JPS A1151       2.658  10.963 -21.515  1.00 18.71           C  
+HETATM   15  CAP JPS A1151       2.066  11.802 -20.356  1.00 20.42           C  
+HETATM   16  OAD JPS A1151       2.388  11.173 -19.103  1.00 19.15           O  
+HETATM   17  CAQ JPS A1151       2.681  13.193 -20.307  1.00 22.57           C  
+HETATM   18  OAE JPS A1151       2.029  14.102 -19.387  1.00 24.95           O  
+HETATM   19  CA0 JPS A1151       6.820  18.153 -25.379  1.00 27.94           C  
+HETATM   20  CA1 JPS A1151       5.874  19.207 -24.853  1.00 29.67           C  
+CONECT    1    2   19   20
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    6
+CONECT    5    8
+CONECT    6    7
+CONECT    7    8   17
+CONECT    8    9
+CONECT    9   10   13   14
+CONECT   10   11   12
+CONECT   14   15
+CONECT   15   16   17
+CONECT   17   18
+CONECT   19   20
+END

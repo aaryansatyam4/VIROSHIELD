@@ -1,0 +1,35 @@
+HETATM    1  OB'ARVC C 451      13.428  87.055  34.137  0.50 44.23           O  
+HETATM    2  OB ARVC C 451      13.533  85.728  26.355  0.50 29.20           O  
+HETATM    3  OA'ARVC C 451      12.175  87.278  32.489  0.50 46.60           O  
+HETATM    4  OA ARVC C 451      13.747  83.672  26.607  0.50 33.72           O  
+HETATM    5  O2 ARVC C 451      13.887  87.155  28.229  0.50 36.94           O  
+HETATM    6  C8 ARVC C 451      15.440  88.508  32.697  0.50 40.30           C  
+HETATM    7  C5 ARVC C 451      14.810  84.061  30.516  0.50 34.72           C  
+HETATM    8  C4 ARVC C 451      14.858  85.306  31.077  0.50 35.16           C  
+HETATM    9  C6 ARVC C 451      14.453  83.879  29.199  0.50 36.50           C  
+HETATM   10  C10ARVC C 451      17.820  89.090  32.734  0.50 36.63           C  
+HETATM   11  C11ARVC C 451      17.113  90.318  32.433  0.50 35.25           C  
+HETATM   12  O3 ARVC C 451      14.513  87.648  30.741  0.50 39.19           O  
+HETATM   13  C' ARVC C 451      13.283  87.352  32.950  0.50 45.57           C  
+HETATM   14  C  ARVC C 451      13.812  84.779  27.073  0.50 34.40           C  
+HETATM   15  C7 ARVC C 451      14.483  87.825  32.074  0.50 43.46           C  
+HETATM   16  C2 ARVC C 451      14.190  86.164  28.991  0.50 37.45           C  
+HETATM   17  C3 ARVC C 451      14.515  86.388  30.300  0.50 37.12           C  
+HETATM   18  C1 ARVC C 451      14.162  84.941  28.401  0.50 37.18           C  
+HETATM   19  C9 ARVC C 451      16.603  89.041  31.917  0.50 37.45           C  
+CONECT    1   13
+CONECT    2   14
+CONECT    3   13
+CONECT    4   14
+CONECT    5   16
+CONECT    6   15   19
+CONECT    7    8    9
+CONECT    8   17
+CONECT    9   18
+CONECT   10   11   19
+CONECT   11   19
+CONECT   12   15   17
+CONECT   13   15
+CONECT   14   18
+CONECT   16   17   18
+END

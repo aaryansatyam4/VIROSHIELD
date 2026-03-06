@@ -1,0 +1,60 @@
+HETATM    1  CAB 0HM A 301      -3.805 -11.049 -18.143  1.00 24.15           C  
+HETATM    2  CAC 0HM A 301      -4.044 -12.418 -18.240  1.00 23.74           C  
+HETATM    3  CAD 0HM A 301      -4.123 -13.023 -19.490  1.00 23.28           C  
+HETATM    4  CAE 0HM A 301      -3.966 -12.259 -20.643  1.00 24.84           C  
+HETATM    5  CAF 0HM A 301      -3.729 -10.894 -20.547  1.00 24.86           C  
+HETATM    6  CAA 0HM A 301      -3.646 -10.285 -19.295  1.00 25.39           C  
+HETATM    7  CAL 0HM A 301      -3.352  -8.788 -19.179  1.00 28.01           C  
+HETATM    8  NAG 0HM A 301      -3.819  -8.065 -20.377  1.00 28.74           N  
+HETATM    9  CAK 0HM A 301      -3.108  -7.922 -21.486  1.00 29.32           C  
+HETATM   10  CAJ 0HM A 301      -3.866  -7.242 -22.341  1.00 29.74           C  
+HETATM   11  NAI 0HM A 301      -5.028  -6.975 -21.746  1.00 31.39           N  
+HETATM   12  CAH 0HM A 301      -5.004  -7.484 -20.521  1.00 30.02           C  
+HETATM   13  CBD 0HM A 301      -6.143  -7.398 -19.494  1.00 29.93           C  
+HETATM   14  NAN 0HM A 301      -6.020  -6.192 -18.646  1.00 26.98           N  
+HETATM   15  CAM 0HM A 301      -6.203  -4.922 -19.216  1.00 27.00           C  
+HETATM   16  CAQ 0HM A 301      -6.069  -3.782 -18.437  1.00 25.08           C  
+HETATM   17  CAR 0HM A 301      -5.751  -3.904 -17.084  1.00 25.17           C  
+HETATM   18  CAP 0HM A 301      -5.569  -5.155 -16.510  1.00 24.91           C  
+HETATM   19  OBE 0HM A 301      -5.235  -5.242 -15.191  1.00 21.89           O  
+HETATM   20  CAO 0HM A 301      -5.708  -6.305 -17.278  1.00 25.73           C  
+HETATM   21  CAS 0HM A 301      -5.621  -7.685 -16.622  1.00 24.98           C  
+HETATM   22  OAU 0HM A 301      -6.502  -8.525 -16.828  1.00 26.40           O  
+HETATM   23  NAT 0HM A 301      -4.563  -7.873 -15.841  1.00 22.38           N  
+HETATM   24  CAX 0HM A 301      -4.264  -9.023 -15.227  1.00 21.90           C  
+HETATM   25  CAY 0HM A 301      -2.968  -9.206 -14.764  1.00 20.62           C  
+HETATM   26  CAZ 0HM A 301      -2.592 -10.413 -14.172  1.00 23.04           C  
+HETATM   27  CAW 0HM A 301      -5.190 -10.052 -15.092  1.00 20.76           C  
+HETATM   28  CAV 0HM A 301      -4.818 -11.259 -14.499  1.00 21.72           C  
+HETATM   29  CBA 0HM A 301      -3.519 -11.438 -14.042  1.00 22.41           C  
+HETATM   30  CBB 0HM A 301      -3.117 -12.777 -13.409  1.00 24.64           C  
+HETATM   31  NBC 0HM A 301      -1.870 -12.632 -12.647  1.00 27.52           N  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   12
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   20
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19   20
+CONECT   20   21
+CONECT   21   22   23
+CONECT   23   24
+CONECT   24   25   27
+CONECT   25   26
+CONECT   26   29
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31
+END

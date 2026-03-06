@@ -1,0 +1,76 @@
+HETATM    1  C12 CIS A 301      24.098  -8.454  27.773  1.00 58.30           C  
+HETATM    2  C11 CIS A 301      22.993  -8.216  26.758  1.00 57.70           C  
+HETATM    3  C10 CIS A 301      23.588  -7.688  25.469  1.00 55.49           C  
+HETATM    4  C9  CIS A 301      22.546  -7.338  24.423  1.00 55.07           C  
+HETATM    5  C8  CIS A 301      23.242  -7.054  23.103  1.00 54.14           C  
+HETATM    6  C7  CIS A 301      22.253  -6.927  21.972  1.00 53.16           C  
+HETATM    7  C6  CIS A 301      21.392  -5.686  22.140  1.00 52.61           C  
+HETATM    8  C5  CIS A 301      20.805  -5.235  20.802  1.00 49.21           C  
+HETATM    9  C4  CIS A 301      21.713  -4.224  20.157  1.00 48.53           C  
+HETATM   10  C3  CIS A 301      22.416  -4.496  19.055  1.00 49.92           C  
+HETATM   11  C2  CIS A 301      23.336  -3.442  18.445  1.00 47.50           C  
+HETATM   12  O1  CIS A 301      24.678  -3.868  18.700  1.00 46.46           O  
+HETATM   13  C1  CIS A 301      23.136  -3.287  16.933  1.00 46.30           C  
+HETATM   14  C   CIS A 301      24.124  -2.297  16.281  1.00 45.42           C  
+HETATM   15  O   CIS A 301      24.008  -1.026  16.923  1.00 42.23           O  
+HETATM   16  C43 CIS A 301      24.707   0.029  16.282  1.00 43.59           C  
+HETATM   17  C44 CIS A 301      24.518   1.290  17.095  1.00 45.31           C  
+HETATM   18  O3  CIS A 301      23.131   1.655  17.280  1.00 46.18           O  
+HETATM   19  O6  CIS A 301      26.115  -0.246  16.159  1.00 46.25           O  
+HETATM   20  C47 CIS A 301      26.819   0.724  15.370  1.00 45.91           C  
+HETATM   21  C48 CIS A 301      28.273   0.338  15.128  1.00 45.98           C  
+HETATM   22  O7  CIS A 301      28.314  -0.828  14.307  1.00 50.50           O  
+HETATM   23  C46 CIS A 301      26.742   2.028  16.124  1.00 43.81           C  
+HETATM   24  O5  CIS A 301      27.426   1.810  17.362  1.00 45.78           O  
+HETATM   25  C45 CIS A 301      25.277   2.403  16.365  1.00 44.59           C  
+HETATM   26  O4  CIS A 301      25.203   3.558  17.177  1.00 44.54           O  
+HETATM   27  S   CIS A 301      24.941   5.039  16.551  1.00 44.19           S  
+HETATM   28  O10 CIS A 301      25.749   5.898  17.386  1.00 48.92           O  
+HETATM   29  O9  CIS A 301      23.535   5.473  16.672  1.00 44.25           O  
+HETATM   30  O8  CIS A 301      25.289   5.061  15.117  1.00 45.09           O  
+HETATM   31  N   CIS A 301      21.767  -2.762  16.744  1.00 46.84           N  
+HETATM   32  C18 CIS A 301      20.786  -3.487  16.316  1.00 47.03           C  
+HETATM   33  O2  CIS A 301      20.932  -4.765  16.010  1.00 43.46           O  
+HETATM   34  C19 CIS A 301      19.405  -2.865  16.173  1.00 45.91           C  
+HETATM   35  C20 CIS A 301      18.425  -3.577  17.104  1.00 44.95           C  
+HETATM   36  C21 CIS A 301      16.998  -3.095  16.799  1.00 44.10           C  
+HETATM   37  C22 CIS A 301      15.985  -3.636  17.825  1.00 44.87           C  
+HETATM   38  C23 CIS A 301      14.568  -3.762  17.216  1.00 43.03           C  
+HETATM   39  C24 CIS A 301      13.608  -4.354  18.235  1.00 43.69           C  
+HETATM   40  C25 CIS A 301      13.984  -5.804  18.503  1.00 47.23           C  
+HETATM   41  C26 CIS A 301      13.016  -6.395  19.513  1.00 49.74           C  
+HETATM   42  C27 CIS A 301      13.513  -7.712  20.057  1.00 52.08           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   13   14   31
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   19
+CONECT   17   18   25
+CONECT   19   20
+CONECT   20   21   23
+CONECT   21   22
+CONECT   23   24   25
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28   29   30
+CONECT   31   32
+CONECT   32   33   34
+CONECT   34   35
+CONECT   35   36
+CONECT   36   37
+CONECT   37   38
+CONECT   38   39
+CONECT   39   40
+CONECT   40   41
+CONECT   41   42
+END

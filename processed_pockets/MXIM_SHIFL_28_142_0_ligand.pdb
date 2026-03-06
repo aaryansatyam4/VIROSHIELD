@@ -1,0 +1,22 @@
+COMPND    __1y9l_A_rec_1y9l_und_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1      21.107  41.953   8.140  1.00  0.00           C  
+HETATM    2  C2  UNL     1      20.978  41.420   9.562  1.00  0.00           C  
+HETATM    3  C3  UNL     1      19.757  42.031  10.241  1.00  0.00           C  
+HETATM    4  C4  UNL     1      19.151  43.137   9.379  1.00  0.00           C  
+HETATM    5  C5  UNL     1      20.545  41.833   7.717  1.00  0.00           C  
+HETATM    6  C6  UNL     1      19.671  43.054   7.914  1.00  0.00           C  
+HETATM    7  C7  UNL     1      21.161  40.817   7.128  1.00  0.00           C  
+HETATM    8  C8  UNL     1      22.511  40.781   6.425  1.00  0.00           C  
+HETATM    9  C9  UNL     1      23.367  41.949   6.892  1.00  0.00           C  
+HETATM   10  C10 UNL     1      24.160  42.556   5.740  1.00  0.00           C  
+HETATM   11  C11 UNL     1      25.428  43.232   6.215  1.00  0.00           C  
+CONECT    1    2    5    7
+CONECT    2    3
+CONECT    3    4
+CONECT    4    6
+CONECT    5    6
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+END

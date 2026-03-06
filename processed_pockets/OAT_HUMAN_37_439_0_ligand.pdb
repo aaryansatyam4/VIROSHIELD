@@ -1,0 +1,43 @@
+COMPND    2OAT_PFM_A_440
+HETATM    1  C1  UNL     1      55.829  47.770  16.655  1.00  0.00           C  
+HETATM    2  C2  UNL     1      55.812  48.445  17.899  1.00  0.00           C  
+HETATM    3  O1  UNL     1      55.800  49.836  17.966  1.00  0.00           O  
+HETATM    4  C3  UNL     1      55.809  47.700  19.087  1.00  0.00           C  
+HETATM    5  C4  UNL     1      55.792  48.380  20.413  1.00  0.00           C  
+HETATM    6  N1  UNL     1      55.823  46.343  19.042  1.00  0.00           N  
+HETATM    7  C5  UNL     1      55.838  45.668  17.865  1.00  0.00           C  
+HETATM    8  C6  UNL     1      55.834  46.360  16.654  1.00  0.00           C  
+HETATM    9  C7  UNL     1      56.602  49.530  15.067  1.00  0.00           C  
+HETATM   10  C8  UNL     1      55.839  48.480  15.353  1.00  0.00           C  
+HETATM   11  C9  UNL     1      56.295  51.478  13.687  1.00  0.00           C  
+HETATM   12  C10 UNL     1      56.554  50.174  13.754  1.00  0.00           C  
+HETATM   13  O2  UNL     1      56.781  49.434  12.596  1.00  0.00           O  
+HETATM   14  C11 UNL     1      56.215  52.227  12.392  1.00  0.00           C  
+HETATM   15  N2  UNL     1      55.000  52.153  10.290  1.00  0.00           N  
+HETATM   16  C12 UNL     1      54.851  52.056  11.732  1.00  0.00           C  
+HETATM   17  C13 UNL     1      53.850  53.070  12.202  1.00  0.00           C  
+HETATM   18  O3  UNL     1      52.636  52.928  11.902  1.00  0.00           O  
+HETATM   19  O4  UNL     1      54.240  54.165  12.966  1.00  0.00           O  
+HETATM   20  C14 UNL     1      55.875  45.570  15.386  1.00  0.00           C  
+HETATM   21  O5  UNL     1      57.198  45.252  15.071  1.00  0.00           O  
+HETATM   22  P1  UNL     1      57.212  44.987  13.396  1.00  0.00           P  
+HETATM   23  O6  UNL     1      56.400  43.755  13.062  1.00  0.00           O  
+HETATM   24  O7  UNL     1      56.568  46.326  12.587  1.00  0.00           O  
+HETATM   25  O8  UNL     1      58.808  44.751  12.889  1.00  0.00           O  
+CONECT    1    2    2    8   10
+CONECT    2    3    4
+CONECT    4    5    6    6
+CONECT    6    7
+CONECT    7    8    8
+CONECT    8   20
+CONECT    9   10   10   12
+CONECT   11   12   12   14
+CONECT   12   13
+CONECT   14   16
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   18   19
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23   23   24   25
+END

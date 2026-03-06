@@ -1,0 +1,19 @@
+COMPND    SV7
+HETATM    1  O   UNL     1     -15.287 -15.933  22.270  1.00  0.00           O  
+HETATM    2  P   UNL     1     -15.783 -16.911  21.201  1.00  0.00           P  
+HETATM    3  O   UNL     1     -16.959 -17.387  21.884  1.00  0.00           O  
+HETATM    4  O   UNL     1     -16.010 -16.041  20.071  1.00  0.00           O  
+HETATM    5  C   UNL     1     -14.501 -18.113  20.770  1.00  0.00           C  
+HETATM    6  C   UNL     1     -14.809 -19.471  20.633  1.00  0.00           C  
+HETATM    7  C   UNL     1     -13.832 -20.419  20.276  1.00  0.00           C  
+HETATM    8  C   UNL     1     -12.538 -20.006  20.020  1.00  0.00           C  
+HETATM    9  C   UNL     1     -12.230 -18.627  20.118  1.00  0.00           C  
+HETATM   10  C   UNL     1     -13.203 -17.679  20.475  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    4    4    5
+CONECT    5    6    6   10
+CONECT    6    7
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10   10
+END

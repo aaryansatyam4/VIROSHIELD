@@ -1,0 +1,28 @@
+COMPND    __4d4v_B_rec_4q9s_30g_lig_docked.pdb
+HETATM    1  C1  UNL     1     -27.125 -29.279   7.873  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -27.255 -28.776   9.149  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -27.277 -30.633   7.628  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -27.530 -29.631  10.190  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -27.562 -31.513   8.665  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -27.682 -30.977   9.939  1.00  0.00           C  
+HETATM    7  C7  UNL     1     -28.319 -33.564   9.459  1.00  0.00           C  
+HETATM    8  C8  UNL     1     -27.512 -34.993   7.258  1.00  0.00           C  
+HETATM    9  C9  UNL     1     -28.751 -32.879  10.678  1.00  0.00           C  
+HETATM   10  C10 UNL     1     -27.413 -33.495   7.198  1.00  0.00           C  
+HETATM   11  N1  UNL     1     -27.999 -35.541   8.413  1.00  0.00           N  
+HETATM   12  N2  UNL     1     -27.732 -32.870   8.482  1.00  0.00           N  
+HETATM   13  N3  UNL     1     -28.398 -34.817   9.483  1.00  0.00           N  
+HETATM   14  O1  UNL     1     -27.174 -35.687   6.313  1.00  0.00           O  
+HETATM   15  O2  UNL     1     -27.938 -31.770  11.048  1.00  0.00           O  
+CONECT    1    2    3    3
+CONECT    2    4    4
+CONECT    3    5
+CONECT    4    6
+CONECT    5    6    6   12
+CONECT    6   15
+CONECT    7    9   12   13   13
+CONECT    8   10   11   14   14
+CONECT    9   15
+CONECT   10   12
+CONECT   11   13
+END

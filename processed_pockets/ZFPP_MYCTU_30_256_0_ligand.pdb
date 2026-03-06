@@ -1,0 +1,32 @@
+COMPND    1H47_GPP_A_1157
+HETATM    1  O1  UNL     1       9.270 -12.250  30.707  1.00  0.00           O  
+HETATM    2  P1  UNL     1      10.286 -12.970  29.554  1.00  0.00           P  
+HETATM    3  O2  UNL     1      10.704 -11.926  28.543  1.00  0.00           O  
+HETATM    4  O3  UNL     1      11.675 -13.592  30.300  1.00  0.00           O  
+HETATM    5  O4  UNL     1       9.445 -14.201  28.735  1.00  0.00           O  
+HETATM    6  P2  UNL     1      10.544 -14.970  27.687  1.00  0.00           P  
+HETATM    7  O5  UNL     1       9.798 -15.746  26.625  1.00  0.00           O  
+HETATM    8  O6  UNL     1      11.576 -13.848  26.951  1.00  0.00           O  
+HETATM    9  O7  UNL     1      11.481 -16.050  28.589  1.00  0.00           O  
+HETATM   10  C1  UNL     1       8.790 -11.085  30.108  1.00  0.00           C  
+HETATM   11  C2  UNL     1       9.874 -10.055  30.083  1.00  0.00           C  
+HETATM   12  C3  UNL     1       9.747  -8.873  29.471  1.00  0.00           C  
+HETATM   13  C4  UNL     1       8.479  -8.512  28.750  1.00  0.00           C  
+HETATM   14  C5  UNL     1      10.922  -7.934  29.518  1.00  0.00           C  
+HETATM   15  C6  UNL     1      12.134  -8.491  30.256  1.00  0.00           C  
+HETATM   16  C7  UNL     1      13.157  -7.415  30.462  1.00  0.00           C  
+HETATM   17  C8  UNL     1      14.271  -7.319  29.730  1.00  0.00           C  
+HETATM   18  C9  UNL     1      14.587  -8.290  28.637  1.00  0.00           C  
+HETATM   19  C10 UNL     1      15.229  -6.214  30.011  1.00  0.00           C  
+CONECT    1    2   10
+CONECT    2    3    3    4    5
+CONECT    5    6
+CONECT    6    7    7    8    9
+CONECT   10   11
+CONECT   11   12   12
+CONECT   12   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   17
+CONECT   17   18   19
+END

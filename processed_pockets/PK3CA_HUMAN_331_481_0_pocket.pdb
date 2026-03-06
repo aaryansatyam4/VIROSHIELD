@@ -1,0 +1,23 @@
+COMPND    LUZ
+HETATM    1  N   UNL     1      82.772  51.880  74.939  1.00  0.00           N  
+HETATM    2  C   UNL     1      83.953  51.251  74.679  1.00  0.00           C  
+HETATM    3  C   UNL     1      82.488  52.350  76.185  1.00  0.00           C  
+HETATM    4  O   UNL     1      84.219  50.788  73.424  1.00  0.00           O  
+HETATM    5  N   UNL     1      84.874  51.080  75.663  1.00  0.00           N  
+HETATM    6  C   UNL     1      84.638  51.532  76.924  1.00  0.00           C  
+HETATM    7  O   UNL     1      85.585  51.342  77.887  1.00  0.00           O  
+HETATM    8  C   UNL     1      83.428  52.182  77.212  1.00  0.00           C  
+HETATM    9  N   UNL     1      83.142  52.652  78.457  1.00  0.00           N  
+HETATM   10  C   UNL     1      81.970  53.269  78.703  1.00  0.00           C  
+HETATM   11  C   UNL     1      81.034  53.439  77.679  1.00  0.00           C  
+HETATM   12  N   UNL     1      81.307  52.978  76.445  1.00  0.00           N  
+CONECT    1    2    3
+CONECT    2    4    4    5
+CONECT    3    8    8   12
+CONECT    5    6
+CONECT    6    7    7    8
+CONECT    8    9
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   12
+END

@@ -1,0 +1,22 @@
+HETATM    1  C1  IPE A 900      60.521  69.156   9.290  1.00 22.55           C  
+HETATM    2  O1  IPE A 900      61.159  67.945   8.895  1.00 23.40           O  
+HETATM    3  C2  IPE A 900      61.463  69.958  10.165  1.00 23.87           C  
+HETATM    4  C3  IPE A 900      62.804  70.184   9.510  1.00 24.00           C  
+HETATM    5  C4  IPE A 900      63.896  69.904  10.191  1.00 24.77           C  
+HETATM    6  C5  IPE A 900      62.916  70.749   8.118  1.00 23.48           C  
+HETATM    7  PA  IPE A 900      60.353  66.905   7.978  1.00 20.44           P  
+HETATM    8  O1A IPE A 900      59.946  67.655   6.744  1.00 22.62           O  
+HETATM    9  O2A IPE A 900      61.200  65.668   7.805  1.00 20.16           O  
+HETATM   10  O3A IPE A 900      58.996  66.623   8.829  1.00 20.32           O  
+HETATM   11  PB  IPE A 900      58.173  65.239   8.952  1.00 20.72           P  
+HETATM   12  O1B IPE A 900      56.755  65.594   9.305  1.00 19.87           O  
+HETATM   13  O2B IPE A 900      58.344  64.539   7.626  1.00 21.48           O  
+HETATM   14  O3B IPE A 900      58.842  64.477  10.079  1.00 20.42           O  
+CONECT    1    2    3
+CONECT    2    7
+CONECT    3    4
+CONECT    4    5    6
+CONECT    7    8    9   10
+CONECT   10   11
+CONECT   11   12   13   14
+END

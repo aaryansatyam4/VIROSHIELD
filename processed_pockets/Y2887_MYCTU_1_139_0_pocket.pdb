@@ -1,0 +1,18 @@
+HETATM    1  C1' BHA A 201      22.603   9.715  -0.409  1.00 65.96           C  
+HETATM    2  O1' BHA A 201      22.283   9.200  -1.522  1.00 69.53           O  
+HETATM    3  O2' BHA A 201      22.972  10.925  -0.380  1.00 67.19           O  
+HETATM    4  C1  BHA A 201      22.589   8.893   0.850  1.00 56.30           C  
+HETATM    5  C2  BHA A 201      23.204   9.371   2.006  1.00 64.66           C  
+HETATM    6  C3  BHA A 201      23.217   8.614   3.173  1.00 62.68           C  
+HETATM    7  C4  BHA A 201      22.610   7.364   3.191  1.00 62.65           C  
+HETATM    8  C5  BHA A 201      21.997   6.873   2.044  1.00 53.52           C  
+HETATM    9  C6  BHA A 201      21.984   7.633   0.875  1.00 53.31           C  
+HETATM   10  O2  BHA A 201      23.811  10.604   2.017  1.00 65.95           O  
+HETATM   11  N4  BHA A 201      22.629   6.598   4.400  1.00 69.56           N  
+CONECT    1    2    3    4
+CONECT    4    5    9
+CONECT    5    6   10
+CONECT    6    7
+CONECT    7    8   11
+CONECT    8    9
+END

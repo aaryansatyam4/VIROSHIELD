@@ -1,0 +1,23 @@
+COMPND    1JCY_R5P_A_1269
+HETATM    1  C1  UNL     1      13.549  35.778  31.794  1.00  0.00           C  
+HETATM    2  O1  UNL     1      13.665  34.776  32.482  1.00  0.00           O  
+HETATM    3  C2  UNL     1      12.527  35.829  30.700  1.00  0.00           C  
+HETATM    4  O2  UNL     1      12.831  34.879  29.723  1.00  0.00           O  
+HETATM    5  C3  UNL     1      12.438  37.218  30.062  1.00  0.00           C  
+HETATM    6  O3  UNL     1      13.691  37.617  29.584  1.00  0.00           O  
+HETATM    7  C4  UNL     1      11.880  38.256  31.035  1.00  0.00           C  
+HETATM    8  O4  UNL     1      10.622  37.855  31.489  1.00  0.00           O  
+HETATM    9  C5  UNL     1      11.758  39.607  30.350  1.00  0.00           C  
+HETATM   10  O5  UNL     1      11.418  40.585  31.287  1.00  0.00           O  
+HETATM   11  P1  UNL     1      11.277  42.022  30.400  1.00  0.00           P  
+HETATM   12  O6  UNL     1      10.910  43.149  31.337  1.00  0.00           O  
+HETATM   13  O7  UNL     1      12.750  42.383  29.648  1.00  0.00           O  
+HETATM   14  O8  UNL     1      10.069  41.859  29.227  1.00  0.00           O  
+CONECT    1    2    2    3
+CONECT    3    4    5
+CONECT    5    6    7
+CONECT    7    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   12   13   14
+END

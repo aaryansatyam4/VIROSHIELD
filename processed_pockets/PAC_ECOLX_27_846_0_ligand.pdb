@@ -1,0 +1,21 @@
+COMPND    1K5S_GRO_B_601
+HETATM    1  C1  UNL     1      18.274   2.723   8.418  1.00  0.00           C  
+HETATM    2  C2  UNL     1      18.222   4.109   9.040  1.00  0.00           C  
+HETATM    3  C3  UNL     1      18.399   2.792   6.927  1.00  0.00           C  
+HETATM    4  C4  UNL     1      18.220   1.626   6.174  1.00  0.00           C  
+HETATM    5  C5  UNL     1      18.327   1.663   4.781  1.00  0.00           C  
+HETATM    6  C6  UNL     1      18.613   2.869   4.133  1.00  0.00           C  
+HETATM    7  C7  UNL     1      18.793   4.037   4.879  1.00  0.00           C  
+HETATM    8  C8  UNL     1      18.686   4.001   6.272  1.00  0.00           C  
+HETATM    9  O1  UNL     1      17.042   0.543   8.529  1.00  0.00           O  
+HETATM   10  C9  UNL     1      17.102   1.896   8.839  1.00  0.00           C  
+HETATM   11  O2  UNL     1      16.171   2.427   9.499  1.00  0.00           O  
+CONECT    1    2    3   10
+CONECT    3    4    4    8
+CONECT    4    5
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8    8
+CONECT    9   10
+CONECT   10   11   11
+END

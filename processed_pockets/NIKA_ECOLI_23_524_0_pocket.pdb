@@ -1,0 +1,26 @@
+HETATM    1  CAD 6RP B 608      36.143  22.710  23.640  0.90 28.60           C  
+HETATM    2  CAI 6RP B 608      36.473  23.839  23.033  0.90 33.45           C  
+HETATM    3  CAK 6RP B 608      36.288  23.667  21.715  0.90 28.96           C  
+HETATM    4  NAL 6RP B 608      35.903  22.410  21.598  0.90 30.19           N  
+HETATM    5  NAE 6RP B 608      35.753  21.874  22.710  0.90 31.23           N  
+HETATM    6  CA  6RP B 608      35.370  20.505  23.006  0.90 26.94           C  
+HETATM    7  C   6RP B 608      36.636  19.654  22.571  0.90 25.70           C  
+HETATM    8  OXT 6RP B 608      36.991  19.889  21.388  0.90 26.35           O  
+HETATM    9  O   6RP B 608      37.318  18.899  23.343  0.90 19.62           O  
+HETATM   10  N   6RP B 608      34.178  20.142  22.279  0.90 28.95           N  
+HETATM   11  NAM 6RP B 608      33.867  20.077  20.951  0.90 31.37           N  
+HETATM   12  CAN 6RP B 608      32.696  19.587  20.738  0.90 28.86           C  
+HETATM   13  CAJ 6RP B 608      32.219  19.298  21.937  0.90 32.68           C  
+HETATM   14  CAH 6RP B 608      33.113  19.615  22.881  0.90 31.81           C  
+CONECT    1    2    5
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7   10
+CONECT    7    8    9
+CONECT   10   11   14
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+END

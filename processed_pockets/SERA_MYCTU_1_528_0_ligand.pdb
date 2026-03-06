@@ -1,0 +1,19 @@
+COMPND    __3ddn_B_rec_3ddn_hpv_lig_min.pdb
+HETATM    1  O1  UNL     1      15.741  46.315 -19.029  1.00  0.00           O  
+HETATM    2  O2  UNL     1      13.925  44.911 -17.986  1.00  0.00           O  
+HETATM    3  P1  UNL     1      14.143  46.197 -18.813  1.00  0.00           P  
+HETATM    4  O3  UNL     1      13.581  46.118 -20.246  1.00  0.00           O  
+HETATM    5  O4  UNL     1      13.831  47.495 -18.056  1.00  0.00           O  
+HETATM    6  C1  UNL     1      16.325  47.603 -18.914  1.00  0.00           C  
+HETATM    7  C2  UNL     1      17.596  47.736 -19.712  1.00  0.00           C  
+HETATM    8  O5  UNL     1      17.707  47.214 -20.804  1.00  0.00           O  
+HETATM    9  C3  UNL     1      18.670  48.551 -19.172  1.00  0.00           C  
+HETATM   10  O6  UNL     1      18.356  49.748 -18.996  1.00  0.00           O  
+HETATM   11  O7  UNL     1      19.816  48.062 -18.916  1.00  0.00           O  
+CONECT    1    3    6
+CONECT    2    3    3
+CONECT    3    4    5
+CONECT    6    7
+CONECT    7    8    8    9
+CONECT    9   10   11   11
+END

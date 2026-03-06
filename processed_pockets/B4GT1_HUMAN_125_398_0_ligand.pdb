@@ -1,0 +1,28 @@
+COMPND    __1nkh_B_rec_1nwg_bgn_lig_docked.pdb
+HETATM    1  C1  UNL     1      57.769  42.739  73.342  1.00  0.00           C  
+HETATM    2  C2  UNL     1      58.796  41.840  74.039  1.00  0.00           C  
+HETATM    3  C3  UNL     1      58.212  40.444  74.168  1.00  0.00           C  
+HETATM    4  C4  UNL     1      56.885  40.478  74.891  1.00  0.00           C  
+HETATM    5  C5  UNL     1      55.913  41.517  74.210  1.00  0.00           C  
+HETATM    6  O1  UNL     1      58.301  43.997  73.278  1.00  0.00           O  
+HETATM    7  O2  UNL     1      59.180  39.617  74.855  1.00  0.00           O  
+HETATM    8  O3  UNL     1      56.277  39.184  74.860  1.00  0.00           O  
+HETATM    9  O4  UNL     1      56.594  42.800  74.066  1.00  0.00           O  
+HETATM   10  C6  UNL     1      61.265  41.599  73.721  1.00  0.00           C  
+HETATM   11  N1  UNL     1      60.038  41.730  73.213  1.00  0.00           N  
+HETATM   12  O5  UNL     1      61.527  41.551  74.906  1.00  0.00           O  
+HETATM   13  C7  UNL     1      62.330  41.484  72.628  1.00  0.00           C  
+HETATM   14  C8  UNL     1      63.032  40.110  72.707  1.00  0.00           C  
+HETATM   15  C9  UNL     1      63.799  39.896  71.377  1.00  0.00           C  
+HETATM   16  C10 UNL     1      54.681  41.815  75.018  1.00  0.00           C  
+HETATM   17  O6  UNL     1      54.879  41.435  76.391  1.00  0.00           O  
+CONECT    1    2    6    9
+CONECT    2    3   11
+CONECT    3    4    7
+CONECT    4    5    8
+CONECT    5    9   16
+CONECT   10   11   12   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   16   17
+END

@@ -1,0 +1,19 @@
+HETATM    1  N1  BCN A 131     -18.927   5.700  29.627  1.00 45.51           N  
+HETATM    2  C1  BCN A 131     -18.010   4.633  30.007  1.00 53.82           C  
+HETATM    3  C2  BCN A 131     -16.744   4.477  29.162  1.00 40.36           C  
+HETATM    4  O21 BCN A 131     -16.802   3.604  28.061  1.00 41.03           O  
+HETATM    5  O22 BCN A 131     -16.041   5.666  28.916  1.00 44.67           O  
+HETATM    6  C3  BCN A 131     -19.050   5.686  28.183  1.00 49.46           C  
+HETATM    7  C4  BCN A 131     -20.375   6.220  27.642  1.00 60.96           C  
+HETATM    8  O4  BCN A 131     -20.576   6.210  26.472  1.00 60.03           O  
+HETATM    9  C5  BCN A 131     -18.427   6.996  30.062  1.00 42.02           C  
+HETATM   10  C6  BCN A 131     -17.230   6.958  31.012  1.00 43.45           C  
+HETATM   11  O6  BCN A 131     -16.730   7.976  31.364  1.00 47.63           O  
+CONECT    1    2    6    9
+CONECT    2    3
+CONECT    3    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11
+END

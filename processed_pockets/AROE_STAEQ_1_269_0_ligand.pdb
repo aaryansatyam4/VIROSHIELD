@@ -1,0 +1,22 @@
+COMPND    __3doo_A_rec_3doo_skm_lig_it1_docked.pdb
+HETATM    1  O1  UNL     1      20.129  -3.219  21.322  1.00  0.00           O  
+HETATM    2  C1  UNL     1      21.462  -2.890  20.926  1.00  0.00           C  
+HETATM    3  C2  UNL     1      22.011  -2.026  22.052  1.00  0.00           C  
+HETATM    4  O2  UNL     1      21.218  -0.822  22.083  1.00  0.00           O  
+HETATM    5  C3  UNL     1      23.479  -1.717  21.834  1.00  0.00           C  
+HETATM    6  C4  UNL     1      24.283  -2.891  21.253  1.00  0.00           C  
+HETATM    7  C5  UNL     1      23.694  -3.985  20.704  1.00  0.00           C  
+HETATM    8  C6  UNL     1      22.216  -4.219  20.702  1.00  0.00           C  
+HETATM    9  O3  UNL     1      21.915  -5.067  21.803  1.00  0.00           O  
+HETATM   10  C7  UNL     1      25.759  -2.853  21.250  1.00  0.00           C  
+HETATM   11  O4  UNL     1      26.358  -1.737  21.207  1.00  0.00           O  
+HETATM   12  O5  UNL     1      26.408  -3.948  21.291  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3    8
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7    7   10
+CONECT    7    8
+CONECT    8    9
+CONECT   10   11   12   12
+END

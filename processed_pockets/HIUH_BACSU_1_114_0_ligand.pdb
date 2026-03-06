@@ -1,0 +1,19 @@
+COMPND    1WS2_URN_A_900
+HETATM    1  O1  UNL     1      -8.642  63.751  37.950  1.00  0.00           O  
+HETATM    2  C1  UNL     1      -9.565  63.138  37.352  1.00  0.00           C  
+HETATM    3  N1  UNL     1     -10.278  62.188  38.010  1.00  0.00           N  
+HETATM    4  C2  UNL     1      -9.862  63.429  36.015  1.00  0.00           C  
+HETATM    5  N2  UNL     1      -9.127  64.422  35.303  1.00  0.00           N  
+HETATM    6  C3  UNL     1     -10.897  62.720  35.395  1.00  0.00           C  
+HETATM    7  N3  UNL     1     -11.239  62.978  34.037  1.00  0.00           N  
+HETATM    8  N4  UNL     1     -11.583  61.779  36.094  1.00  0.00           N  
+HETATM    9  C4  UNL     1     -11.280  61.510  37.391  1.00  0.00           C  
+HETATM   10  O2  UNL     1     -11.929  60.634  38.019  1.00  0.00           O  
+CONECT    1    2    2
+CONECT    2    3    4
+CONECT    3    9
+CONECT    4    5    6    6
+CONECT    6    7    8
+CONECT    8    9
+CONECT    9   10   10
+END

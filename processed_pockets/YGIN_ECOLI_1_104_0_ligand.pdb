@@ -1,0 +1,24 @@
+COMPND    1TUV_VK3_A_4558
+HETATM    1  C1  UNL     1     -10.853   4.451 -18.232  1.00  0.00           C  
+HETATM    2  O1  UNL     1     -11.517   5.026 -17.329  1.00  0.00           O  
+HETATM    3  C2  UNL     1     -11.523   3.497 -19.132  1.00  0.00           C  
+HETATM    4  C3  UNL     1     -10.854   2.866 -20.102  1.00  0.00           C  
+HETATM    5  C4  UNL     1      -9.408   3.110 -20.303  1.00  0.00           C  
+HETATM    6  O2  UNL     1      -8.786   2.510 -21.222  1.00  0.00           O  
+HETATM    7  C5  UNL     1      -8.698   4.061 -19.420  1.00  0.00           C  
+HETATM    8  C6  UNL     1      -7.329   4.313 -19.586  1.00  0.00           C  
+HETATM    9  C7  UNL     1      -6.673   5.214 -18.743  1.00  0.00           C  
+HETATM   10  C8  UNL     1      -7.380   5.869 -17.731  1.00  0.00           C  
+HETATM   11  C9  UNL     1      -8.745   5.624 -17.559  1.00  0.00           C  
+HETATM   12  C10 UNL     1      -9.410   4.722 -18.399  1.00  0.00           C  
+HETATM   13  C11 UNL     1     -11.589   1.913 -20.979  1.00  0.00           C  
+CONECT    1    2    2    3   12
+CONECT    3    4    4
+CONECT    4    5   13
+CONECT    5    6    6    7
+CONECT    7    8   12   12
+CONECT    8    9    9
+CONECT    9   10
+CONECT   10   11   11
+CONECT   11   12
+END

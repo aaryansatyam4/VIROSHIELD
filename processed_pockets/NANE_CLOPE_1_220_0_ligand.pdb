@@ -1,0 +1,31 @@
+COMPND    4UTU_LRY_A_301
+HETATM    1  N1  UNL     1      21.363   0.145  37.860  1.00  0.00           N  
+HETATM    2  P1  UNL     1      19.540   2.219  43.655  1.00  0.00           P  
+HETATM    3  C1  UNL     1      19.212  -0.861  37.312  1.00  0.00           C  
+HETATM    4  O1  UNL     1      18.462  -1.806  37.132  1.00  0.00           O  
+HETATM    5  C2  UNL     1      20.554  -1.067  37.941  1.00  0.00           C  
+HETATM    6  C3  UNL     1      20.440  -1.577  39.383  1.00  0.00           C  
+HETATM    7  O2  UNL     1      21.539  -2.395  39.650  1.00  0.00           O  
+HETATM    8  C4  UNL     1      20.326  -0.481  40.461  1.00  0.00           C  
+HETATM    9  O3  UNL     1      20.540  -1.057  41.719  1.00  0.00           O  
+HETATM   10  C5  UNL     1      18.961   0.223  40.432  1.00  0.00           C  
+HETATM   11  O4  UNL     1      18.914   1.149  39.389  1.00  0.00           O  
+HETATM   12  C6  UNL     1      18.644   0.941  41.742  1.00  0.00           C  
+HETATM   13  O5  UNL     1      19.568   1.963  41.979  1.00  0.00           O  
+HETATM   14  C7  UNL     1      21.932   0.614  36.636  1.00  0.00           C  
+HETATM   15  O6  UNL     1      21.775  -0.029  35.565  1.00  0.00           O  
+HETATM   16  C8  UNL     1      22.722   1.873  36.630  1.00  0.00           C  
+HETATM   17  O7  UNL     1      20.541   3.530  44.029  1.00  0.00           O  
+HETATM   18  O8  UNL     1      17.964   2.563  44.165  1.00  0.00           O  
+HETATM   19  O9  UNL     1      20.047   0.989  44.373  1.00  0.00           O  
+CONECT    1    5   14
+CONECT    2   13   17   18   19
+CONECT    2   19
+CONECT    3    4    4    5
+CONECT    5    6
+CONECT    6    7    8
+CONECT    8    9   10
+CONECT   10   11   12
+CONECT   12   13
+CONECT   14   15   15   16
+END

@@ -1,0 +1,32 @@
+COMPND    4ZYB_4SQ_A_409
+HETATM    1  P1  UNL     1      30.240  75.845  44.211  1.00  0.00           P  
+HETATM    2  O1  UNL     1      28.865  75.279  43.936  1.00  0.00           O  
+HETATM    3  O2  UNL     1      30.091  77.308  45.048  1.00  0.00           O  
+HETATM    4  C1  UNL     1      31.196  74.668  45.207  1.00  0.00           C  
+HETATM    5  C2  UNL     1      30.263  73.866  46.093  1.00  0.00           C  
+HETATM    6  C3  UNL     1      31.047  73.151  47.135  1.00  0.00           C  
+HETATM    7  N1  UNL     1      30.397  72.204  47.982  1.00  0.00           N  
+HETATM    8  O3  UNL     1      32.284  73.367  47.243  1.00  0.00           O  
+HETATM    9  C4  UNL     1      31.119  71.464  49.004  1.00  0.00           C  
+HETATM   10  C5  UNL     1      30.764  70.023  48.922  1.00  0.00           C  
+HETATM   11  O4  UNL     1      29.862  69.477  49.824  1.00  0.00           O  
+HETATM   12  O5  UNL     1      31.254  69.305  48.011  1.00  0.00           O  
+HETATM   13  C6  UNL     1      31.101  76.132  42.641  1.00  0.00           C  
+HETATM   14  N2  UNL     1      30.471  77.232  41.933  1.00  0.00           N  
+HETATM   15  C7  UNL     1      31.041  78.541  41.910  1.00  0.00           C  
+HETATM   16  O6  UNL     1      32.113  78.785  42.523  1.00  0.00           O  
+HETATM   17  N3  UNL     1      30.739  80.918  41.733  1.00  0.00           N  
+HETATM   18  C8  UNL     1      30.342  79.634  41.183  1.00  0.00           C  
+CONECT    1    2    2    3    4
+CONECT    1   13
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7    8    8
+CONECT    7    9
+CONECT    9   10
+CONECT   10   11   12   12
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16   16   18
+CONECT   17   18
+END

@@ -1,0 +1,26 @@
+COMPND    3KBO_NDB_A_314
+HETATM    1  C1  UNL     1       6.642  -1.376 -28.659  1.00  0.00           C  
+HETATM    2  C2  UNL     1       4.586  -1.290 -27.552  1.00  0.00           C  
+HETATM    3  O1  UNL     1       9.621  -5.579 -26.093  1.00  0.00           O  
+HETATM    4  O2  UNL     1       8.513  -7.799 -26.865  1.00  0.00           O  
+HETATM    5  O3  UNL     1       8.463  -0.489 -24.982  1.00  0.00           O  
+HETATM    6  O4  UNL     1       9.312  -5.945 -28.500  1.00  0.00           O  
+HETATM    7  C3  UNL     1       8.032  -1.183 -26.112  1.00  0.00           C  
+HETATM    8  C4  UNL     1       7.278  -3.866 -27.302  1.00  0.00           C  
+HETATM    9  C5  UNL     1       6.519  -1.032 -26.255  1.00  0.00           C  
+HETATM   10  C6  UNL     1       5.913  -3.189 -27.214  1.00  0.00           C  
+HETATM   11  C7  UNL     1       7.121  -5.353 -27.058  1.00  0.00           C  
+HETATM   12  N1  UNL     1       5.961  -1.735 -27.418  1.00  0.00           N1+
+HETATM   13  S1  UNL     1       8.708  -6.154 -27.140  1.00  0.00           S  
+CONECT    1   12
+CONECT    2   12
+CONECT    3   13   13
+CONECT    4   13
+CONECT    5    7
+CONECT    6   13   13
+CONECT    7    9
+CONECT    8   10   11
+CONECT    9   12
+CONECT   10   12
+CONECT   11   13
+END

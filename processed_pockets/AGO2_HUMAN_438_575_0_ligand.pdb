@@ -1,0 +1,9 @@
+COMPND    __3qx9_A_rec_3lug_c5p_lig_it1_docked.pdb
+HETATM    1  O1  UNL     1      19.456   1.431 -21.609  1.00  0.00           O  
+HETATM    2  P1  UNL     1      20.296   1.260 -22.865  1.00  0.00           P  
+HETATM    3  O2  UNL     1      19.573   1.940 -24.012  1.00  0.00           O  
+HETATM    4  O3  UNL     1      20.439  -0.215 -23.167  1.00  0.00           O  
+HETATM    5  O4  UNL     1      21.649   1.905 -22.662  1.00  0.00           O  
+CONECT    1    2    2
+CONECT    2    3    4    5
+END

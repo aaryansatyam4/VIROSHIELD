@@ -1,0 +1,23 @@
+COMPND    __2j5v_A_rec_2j5v_rgp_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1     -23.990  22.637 -21.556  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -23.033  23.474 -20.725  1.00  0.00           C  
+HETATM    3  O1  UNL     1     -22.823  23.192 -19.563  1.00  0.00           O  
+HETATM    4  O2  UNL     1     -22.329  24.615 -21.283  1.00  0.00           O  
+HETATM    5  P1  UNL     1     -20.835  25.005 -20.853  1.00  0.00           P  
+HETATM    6  O3  UNL     1     -20.662  24.325 -19.517  1.00  0.00           O  
+HETATM    7  O4  UNL     1     -20.034  24.374 -21.945  1.00  0.00           O  
+HETATM    8  O5  UNL     1     -20.726  26.519 -20.847  1.00  0.00           O  
+HETATM    9  C3  UNL     1     -23.289  21.323 -21.897  1.00  0.00           C  
+HETATM   10  C4  UNL     1     -22.121  21.365 -22.893  1.00  0.00           C  
+HETATM   11  N1  UNL     1     -22.505  21.758 -24.250  1.00  0.00           N  
+HETATM   12  C5  UNL     1     -21.384  20.042 -22.873  1.00  0.00           C  
+HETATM   13  O6  UNL     1     -21.330  19.336 -23.917  1.00  0.00           O  
+HETATM   14  O7  UNL     1     -20.852  19.704 -21.784  1.00  0.00           O  
+CONECT    1    2    9
+CONECT    2    3    3    4
+CONECT    4    5
+CONECT    5    6    7    8    8
+CONECT    9   10
+CONECT   10   11   12
+CONECT   12   13   13   14
+END

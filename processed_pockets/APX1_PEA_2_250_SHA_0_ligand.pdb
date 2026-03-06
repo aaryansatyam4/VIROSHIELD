@@ -1,0 +1,22 @@
+COMPND    ISZ
+HETATM    1  C1  UNL     1      12.559  59.291  12.181  1.00  0.00           C  
+HETATM    2  C2  UNL     1      12.323  60.654  11.979  1.00  0.00           C  
+HETATM    3  N1  UNL     1      12.548  61.542  12.982  1.00  0.00           N  
+HETATM    4  C3  UNL     1      13.003  61.141  14.198  1.00  0.00           C  
+HETATM    5  C4  UNL     1      13.252  59.788  14.443  1.00  0.00           C  
+HETATM    6  C5  UNL     1      13.030  58.843  13.427  1.00  0.00           C  
+HETATM    7  C6  UNL     1      13.287  57.404  13.666  1.00  0.00           C  
+HETATM    8  O1  UNL     1      14.473  56.977  13.736  1.00  0.00           O  
+HETATM    9  N2  UNL     1      12.196  56.491  13.819  1.00  0.00           N  
+HETATM   10  N3  UNL     1      12.316  55.264  13.515  1.00  0.00           N  
+HETATM   11  H1  UNL     1      11.553  54.652  13.628  1.00  0.00           H  
+CONECT    1    2    2    6
+CONECT    2    3
+CONECT    3    4    4
+CONECT    4    5
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8    8    9
+CONECT    9   10   10
+CONECT   10   11
+END

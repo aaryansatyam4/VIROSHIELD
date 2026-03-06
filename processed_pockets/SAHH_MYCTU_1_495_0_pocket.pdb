@@ -1,0 +1,35 @@
+HETATM    1  O5' ADN A 500      21.053  13.211   5.790  1.00 12.15           O  
+HETATM    2  C5' ADN A 500      21.452  12.321   6.829  1.00  9.42           C  
+HETATM    3  C4' ADN A 500      21.536  10.931   6.202  1.00 10.88           C  
+HETATM    4  O4' ADN A 500      22.715  10.845   5.407  1.00  9.51           O  
+HETATM    5  C3' ADN A 500      21.605   9.762   7.198  1.00 11.49           C  
+HETATM    6  O3' ADN A 500      20.302   9.273   7.568  1.00 12.23           O  
+HETATM    7  C2' ADN A 500      22.444   8.730   6.453  1.00  9.69           C  
+HETATM    8  O2' ADN A 500      21.723   7.544   6.197  1.00 12.11           O  
+HETATM    9  C1' ADN A 500      22.791   9.462   5.148  1.00  9.88           C  
+HETATM   10  N9  ADN A 500      24.110   9.077   4.625  1.00  8.33           N  
+HETATM   11  C8  ADN A 500      25.281   8.989   5.275  1.00  7.64           C  
+HETATM   12  N7  ADN A 500      26.273   8.579   4.472  1.00  9.20           N  
+HETATM   13  C5  ADN A 500      25.729   8.431   3.246  1.00  8.82           C  
+HETATM   14  C6  ADN A 500      26.231   8.001   1.943  1.00  9.82           C  
+HETATM   15  N6  ADN A 500      27.517   7.649   1.818  1.00  9.23           N  
+HETATM   16  N1  ADN A 500      25.348   7.980   0.938  1.00  8.62           N  
+HETATM   17  C2  ADN A 500      24.047   8.312   1.102  1.00  8.40           C  
+HETATM   18  N3  ADN A 500      23.483   8.682   2.285  1.00  9.38           N  
+HETATM   19  C4  ADN A 500      24.308   8.767   3.357  1.00  8.06           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5
+CONECT    4    9
+CONECT    5    6    7
+CONECT    7    8    9
+CONECT    9   10
+CONECT   10   11   19
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   19
+CONECT   14   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+END

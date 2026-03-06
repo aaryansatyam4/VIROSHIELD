@@ -1,0 +1,30 @@
+COMPND    __4cs4_A_rec_4cs4_axz_lig_min.pdb
+HETATM    1  O1  UNL     1     -16.604  17.117  17.163  1.00  0.00           O  
+HETATM    2  S1  UNL     1     -17.195  16.873  18.515  1.00  0.00           S  
+HETATM    3  O2  UNL     1     -16.768  15.564  19.117  1.00  0.00           O  
+HETATM    4  C1  UNL     1     -16.600  18.160  19.568  1.00  0.00           C  
+HETATM    5  C2  UNL     1     -15.504  18.867  19.202  1.00  0.00           C  
+HETATM    6  C3  UNL     1     -17.339  18.441  20.841  1.00  0.00           C  
+HETATM    7  C4  UNL     1     -16.905  19.415  21.657  1.00  0.00           C  
+HETATM    8  C5  UNL     1     -15.679  20.203  21.283  1.00  0.00           C  
+HETATM    9  C6  UNL     1     -15.017  19.955  20.139  1.00  0.00           C  
+HETATM   10  C7  UNL     1     -15.216  21.296  22.219  1.00  0.00           C  
+HETATM   11  N1  UNL     1     -18.850  16.916  18.511  1.00  0.00           N  
+HETATM   12  C8  UNL     1     -19.338  18.181  18.102  1.00  0.00           C  
+HETATM   13  C9  UNL     1     -20.750  18.369  18.587  1.00  0.00           C  
+HETATM   14  O3  UNL     1     -21.312  19.495  18.568  1.00  0.00           O  
+HETATM   15  O4  UNL     1     -21.397  17.362  18.983  1.00  0.00           O  
+HETATM   16  C10 UNL     1     -19.480  18.090  16.617  1.00  0.00           C  
+HETATM   17  O5  UNL     1     -20.176  19.170  16.083  1.00  0.00           O  
+CONECT    1    2    2
+CONECT    2    3    3    4   11
+CONECT    4    5    5    6
+CONECT    5    9
+CONECT    6    7    7
+CONECT    7    8
+CONECT    8    9    9   10
+CONECT   11   12
+CONECT   12   13   16
+CONECT   13   14   15   15
+CONECT   16   17
+END

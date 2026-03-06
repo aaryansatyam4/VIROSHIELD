@@ -1,0 +1,24 @@
+COMPND    1X2B_STX_A_401
+HETATM    1  N1  UNL     1      18.950  -0.949  -8.765  1.00  0.00           N  
+HETATM    2  C1  UNL     1      19.353   0.147  -7.903  1.00  0.00           C  
+HETATM    3  C2  UNL     1      20.815   0.062  -7.622  1.00  0.00           C  
+HETATM    4  O1  UNL     1      21.273  -0.928  -6.992  1.00  0.00           O  
+HETATM    5  C3  UNL     1      17.527  -0.792  -9.002  1.00  0.00           C  
+HETATM    6  C4  UNL     1      21.721   1.127  -8.063  1.00  0.00           C  
+HETATM    7  N2  UNL     1      21.331   2.226  -8.737  1.00  0.00           N  
+HETATM    8  N3  UNL     1      22.427   2.938  -8.951  1.00  0.00           N  
+HETATM    9  C5  UNL     1      23.445   2.244  -8.403  1.00  0.00           C  
+HETATM   10  O2  UNL     1      23.015   1.132  -7.852  1.00  0.00           O  
+HETATM   11  C6  UNL     1      24.873   2.708  -8.395  1.00  0.00           C  
+HETATM   12  C7  UNL     1      25.278   3.172  -9.781  1.00  0.00           C  
+HETATM   13  C8  UNL     1      25.802   1.584  -7.971  1.00  0.00           C  
+HETATM   14  C9  UNL     1      25.024   3.860  -7.422  1.00  0.00           C  
+CONECT    1    2    5
+CONECT    2    3
+CONECT    3    4    4    6
+CONECT    6    7    7   10
+CONECT    7    8
+CONECT    8    9    9
+CONECT    9   10   11
+CONECT   11   12   13   14
+END

@@ -1,0 +1,22 @@
+COMPND    __2cy0_A_rec_2d5c_skm_lig_it1_docked.pdb
+HETATM    1  O1  UNL     1      24.899  11.611  18.760  1.00  0.00           O  
+HETATM    2  C1  UNL     1      25.502  12.529  19.683  1.00  0.00           C  
+HETATM    3  C2  UNL     1      26.744  13.189  19.021  1.00  0.00           C  
+HETATM    4  O2  UNL     1      27.673  12.171  18.657  1.00  0.00           O  
+HETATM    5  C3  UNL     1      27.431  14.188  19.989  1.00  0.00           C  
+HETATM    6  C4  UNL     1      26.438  14.998  20.822  1.00  0.00           C  
+HETATM    7  C5  UNL     1      25.128  14.737  20.872  1.00  0.00           C  
+HETATM    8  C6  UNL     1      24.465  13.615  20.102  1.00  0.00           C  
+HETATM    9  O3  UNL     1      23.851  14.168  18.927  1.00  0.00           O  
+HETATM   10  C7  UNL     1      26.971  16.136  21.616  1.00  0.00           C  
+HETATM   11  O4  UNL     1      26.142  17.124  22.005  1.00  0.00           O  
+HETATM   12  O5  UNL     1      28.154  16.184  21.923  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3    8
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7    7   10
+CONECT    7    8
+CONECT    8    9
+CONECT   10   11   12   12
+END

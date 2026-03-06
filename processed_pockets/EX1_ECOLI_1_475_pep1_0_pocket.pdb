@@ -1,0 +1,36 @@
+HETATM    1  CL1 BBP A 501      28.082   2.172  55.217  1.00 20.84          CL  
+HETATM    2  C4  BBP A 501      29.691   2.531  55.860  1.00 18.33           C  
+HETATM    3  C3  BBP A 501      29.799   3.719  56.562  1.00 20.47           C  
+HETATM    4  C2  BBP A 501      31.001   4.073  57.141  1.00 21.19           C  
+HETATM    5  C5  BBP A 501      30.779   1.664  55.757  1.00 20.39           C  
+HETATM    6  C6  BBP A 501      31.997   2.027  56.349  1.00 20.53           C  
+HETATM    7  S1  BBP A 501      33.418   1.081  56.274  1.00 22.93           S  
+HETATM    8  C7  BBP A 501      32.097   3.233  57.041  1.00 22.08           C  
+HETATM    9  N1  BBP A 501      33.354   3.388  57.539  1.00 23.41           N  
+HETATM   10  C1  BBP A 501      34.133   2.343  57.233  1.00 23.33           C  
+HETATM   11  N2  BBP A 501      35.421   2.329  57.660  1.00 24.58           N  
+HETATM   12  C8  BBP A 501      36.333   1.373  57.434  1.00 27.51           C  
+HETATM   13  O1  BBP A 501      36.016   0.153  56.681  1.00 29.65           O  
+HETATM   14  N3  BBP A 501      36.010   3.365  58.433  1.00 25.23           N  
+HETATM   15  C10 BBP A 501      37.282   2.889  58.574  1.00 28.78           C  
+HETATM   16  C9  BBP A 501      37.693   1.560  58.004  1.00 28.04           C  
+HETATM   17  C11 BBP A 501      38.298   3.660  59.377  1.00 31.23           C  
+HETATM   18  C12 BBP A 501      37.857   5.100  59.581  1.00 33.36           C  
+HETATM   19  C13 BBP A 501      38.355   2.979  60.740  1.00 33.37           C  
+HETATM   20  C14 BBP A 501      39.686   3.598  58.758  1.00 31.96           C  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4
+CONECT    4    8
+CONECT    5    6
+CONECT    6    7    8
+CONECT    7   10
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   14
+CONECT   12   13   16
+CONECT   14   15
+CONECT   15   16   17
+CONECT   17   18   19   20
+END

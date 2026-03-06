@@ -1,0 +1,26 @@
+HETATM    1  C1  BZS A 430      66.265  32.317  71.992  1.00 34.38           C  
+HETATM    2  C2  BZS A 430      65.804  33.744  72.326  1.00 39.85           C  
+HETATM    3  CA  BZS A 430      64.417  33.848  73.034  1.00 24.18           C  
+HETATM    4  C   BZS A 430      63.368  33.055  72.324  1.00 54.68           C  
+HETATM    5  CB  BZS A 430      63.889  35.268  73.136  1.00 23.23           C  
+HETATM    6  CG  BZS A 430      63.864  35.984  71.833  1.00 45.65           C  
+HETATM    7  CD1 BZS A 430      62.889  35.706  70.873  1.00 39.78           C  
+HETATM    8  CD2 BZS A 430      64.857  36.934  71.569  1.00 46.64           C  
+HETATM    9  CE1 BZS A 430      62.935  36.412  69.666  1.00 38.87           C  
+HETATM   10  CE2 BZS A 430      64.897  37.677  70.389  1.00 40.56           C  
+HETATM   11  CZ  BZS A 430      63.919  37.388  69.431  1.00 46.74           C  
+HETATM   12  O1  BZS A 430      66.182  31.366  72.862  1.00 42.23           O  
+HETATM   13  O2  BZS A 430      66.749  32.167  70.869  1.00 45.18           O  
+HETATM   14  O3  BZS A 430      62.362  32.805  72.978  1.00 27.44           O  
+HETATM   15  O4  BZS A 430      63.531  32.775  71.128  1.00 38.36           O  
+CONECT    1    2   12   13
+CONECT    2    3
+CONECT    3    4    5
+CONECT    4   14   15
+CONECT    5    6
+CONECT    6    7    8
+CONECT    7    9
+CONECT    8   10
+CONECT    9   11
+CONECT   10   11
+END

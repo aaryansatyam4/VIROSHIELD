@@ -1,0 +1,18 @@
+COMPND    __2nxe_B_rec_3cjt_2mm_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1     -23.788   0.707  34.971  1.00  0.00           C  
+HETATM    2  N1  UNL     1     -24.774  -0.150  34.229  1.00  0.00           N  
+HETATM    3  C2  UNL     1     -25.481  -1.147  35.054  1.00  0.00           C  
+HETATM    4  C3  UNL     1     -24.020  -0.787  33.148  1.00  0.00           C  
+HETATM    5  C4  UNL     1     -24.355   1.631  36.050  1.00  0.00           C  
+HETATM    6  O1  UNL     1     -23.769   1.869  37.143  1.00  0.00           O  
+HETATM    7  C5  UNL     1     -22.747   1.364  34.049  1.00  0.00           C  
+HETATM    8  C6  UNL     1     -21.383   1.671  34.644  1.00  0.00           C  
+HETATM    9  C7  UNL     1     -18.624   2.084  34.139  1.00  0.00           C  
+HETATM   10  S1  UNL     1     -20.172   1.840  33.360  1.00  0.00           S  
+CONECT    1    2    5    7
+CONECT    2    3    4
+CONECT    5    6    6
+CONECT    7    8
+CONECT    8   10
+CONECT    9   10
+END

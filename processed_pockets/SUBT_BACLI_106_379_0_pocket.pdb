@@ -1,0 +1,20 @@
+HETATM    1  OAA 1AX A 305     -35.239 -36.416  -4.007  1.00 80.06           O  
+HETATM    2  CAE 1AX A 305     -35.394 -37.061  -5.281  1.00 81.71           C  
+HETATM    3  CAJ 1AX A 305     -35.541 -36.025  -6.409  1.00 83.28           C  
+HETATM    4  OAC 1AX A 305     -34.694 -36.395  -7.512  1.00 83.03           O  
+HETATM    5  CAG 1AX A 305     -37.005 -35.952  -6.879  1.00 84.34           C  
+HETATM    6  OAI 1AX A 305     -37.231 -34.722  -7.599  1.00 84.38           O  
+HETATM    7  CAH 1AX A 305     -38.590 -34.521  -8.005  1.00 84.83           C  
+HETATM    8  CAK 1AX A 305     -39.186 -33.302  -7.288  1.00 84.61           C  
+HETATM    9  OAD 1AX A 305     -39.870 -33.744  -6.105  1.00 85.59           O  
+HETATM   10  CAF 1AX A 305     -40.166 -32.576  -8.222  1.00 82.26           C  
+HETATM   11  OAB 1AX A 305     -39.476 -31.573  -8.978  1.00 80.46           O  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10
+CONECT   10   11
+END

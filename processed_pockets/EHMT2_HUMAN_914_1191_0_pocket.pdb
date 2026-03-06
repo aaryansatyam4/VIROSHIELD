@@ -1,0 +1,50 @@
+HETATM    1  C4  9HJ A1506      -9.226  13.161  47.985  1.00 22.80           C  
+HETATM    2  C5  9HJ A1506     -10.596  13.388  48.012  1.00 24.51           C  
+HETATM    3  C6  9HJ A1506     -11.098  14.615  47.574  1.00 28.41           C  
+HETATM    4  C7  9HJ A1506      -4.892  17.372  47.939  1.00 47.77           C  
+HETATM    5  N1  9HJ A1506     -10.251  15.570  47.131  1.00 26.29           N  
+HETATM    6  N3  9HJ A1506      -8.403  14.149  47.541  1.00 24.45           N  
+HETATM    7  C1  9HJ A1506      -8.585  17.637  46.278  1.00 32.13           C  
+HETATM    8  C2  9HJ A1506      -8.909  15.337  47.117  1.00 26.60           C  
+HETATM    9  CAB 9HJ A1506      -7.730   9.468  49.378  1.00 23.57           C  
+HETATM   10  CAC 9HJ A1506     -13.171  10.376  49.568  1.00 23.64           C  
+HETATM   11  CAD 9HJ A1506     -15.927  18.768  46.026  1.00 43.32           C  
+HETATM   12  CAE 9HJ A1506      -8.731  11.929  48.425  1.00 22.46           C  
+HETATM   13  CAF 9HJ A1506     -11.460  12.388  48.465  1.00 26.90           C  
+HETATM   14  CAJ 9HJ A1506      -6.089  16.447  47.989  1.00 42.80           C  
+HETATM   15  CAK 9HJ A1506      -6.608  16.132  46.591  1.00 29.97           C  
+HETATM   16  CAL 9HJ A1506     -13.522  15.900  45.759  1.00 38.59           C  
+HETATM   17  CAM 9HJ A1506     -12.921  17.218  47.716  1.00 43.90           C  
+HETATM   18  CAN 9HJ A1506     -14.753  16.761  45.501  1.00 44.20           C  
+HETATM   19  CAO 9HJ A1506     -14.154  18.100  47.509  1.00 44.82           C  
+HETATM   20  CAW 9HJ A1506      -9.602  10.936  48.882  1.00 22.60           C  
+HETATM   21  CAX 9HJ A1506     -10.964  11.162  48.903  1.00 23.64           C  
+HETATM   22  CBB 9HJ A1506     -13.365  15.836  47.268  1.00 41.73           C  
+HETATM   23  NAR 9HJ A1506      -8.040  16.345  46.666  1.00 28.52           N  
+HETATM   24  NAS 9HJ A1506     -12.445  14.748  47.617  1.00 28.34           N  
+HETATM   25  NBC 9HJ A1506     -14.616  18.104  46.101  1.00 46.95           N  
+HETATM   26  OAT 9HJ A1506      -9.135   9.722  49.312  1.00 24.43           O  
+HETATM   27  OAU 9HJ A1506     -11.773  10.148  49.355  1.00 24.69           O  
+CONECT    1    2    6   12
+CONECT    2    3   13
+CONECT    3    5   24
+CONECT    4   14
+CONECT    5    8
+CONECT    6    8
+CONECT    7   23
+CONECT    8   23
+CONECT    9   26
+CONECT   10   27
+CONECT   11   25
+CONECT   12   20
+CONECT   13   21
+CONECT   14   15
+CONECT   15   23
+CONECT   16   18   22
+CONECT   17   19   22
+CONECT   18   25
+CONECT   19   25
+CONECT   20   21   26
+CONECT   21   27
+CONECT   22   24
+END

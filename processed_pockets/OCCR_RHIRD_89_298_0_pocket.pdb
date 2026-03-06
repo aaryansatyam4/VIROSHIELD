@@ -1,0 +1,29 @@
+HETATM    1  O   6DB A 301      -1.825   9.414  52.110  1.00 20.21           O  
+HETATM    2  C   6DB A 301      -1.614   8.443  52.883  1.00 19.72           C  
+HETATM    3  CA  6DB A 301      -2.250   7.101  52.513  1.00 18.93           C  
+HETATM    4  CB  6DB A 301      -3.275   7.311  51.423  1.00 18.72           C  
+HETATM    5  N   6DB A 301      -1.147   6.169  52.287  1.00 18.07           N  
+HETATM    6  CAI 6DB A 301      -1.481   4.860  51.721  1.00 17.10           C  
+HETATM    7  CAE 6DB A 301      -2.165   3.996  52.779  1.00 16.53           C  
+HETATM    8  OAB 6DB A 301      -2.697   2.937  52.337  1.00 16.23           O  
+HETATM    9  OAF 6DB A 301      -2.114   4.409  53.969  1.00 16.48           O  
+HETATM   10  CAK 6DB A 301      -0.166   4.137  51.414  1.00 16.64           C  
+HETATM   11  CAL 6DB A 301       0.465   4.835  50.232  1.00 16.78           C  
+HETATM   12  CAM 6DB A 301       1.570   4.092  49.510  1.00 17.49           C  
+HETATM   13  NAN 6DB A 301       2.584   3.692  50.463  1.00 18.42           N  
+HETATM   14  CAP 6DB A 301       3.712   4.466  50.633  1.00 18.86           C  
+HETATM   15  NAO 6DB A 301       3.920   5.560  49.979  1.00 19.07           N  
+HETATM   16  NAQ 6DB A 301       4.579   3.975  51.579  1.00 18.84           N  
+HETATM   17  OXT 6DB A 301      -0.950   8.430  53.952  1.00 19.96           O  
+CONECT    1    2
+CONECT    2    3   17
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7   10
+CONECT    7    8    9
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   16
+END

@@ -1,0 +1,36 @@
+COMPND    INI
+HETATM    1  N   UNL     1      45.711  -8.164  31.856  1.00  0.00           N  
+HETATM    2  C   UNL     1      47.047  -8.231  32.157  1.00  0.00           C  
+HETATM    3  O   UNL     1      47.795  -9.032  31.604  1.00  0.00           O  
+HETATM    4  N   UNL     1      47.501  -7.331  33.089  1.00  0.00           N  
+HETATM    5  C   UNL     1      46.753  -6.363  33.740  1.00  0.00           C  
+HETATM    6  O   UNL     1      47.309  -5.577  34.508  1.00  0.00           O  
+HETATM    7  C   UNL     1      45.298  -6.353  33.371  1.00  0.00           C  
+HETATM    8  N   UNL     1      44.390  -5.403  34.009  1.00  0.00           N1+
+HETATM    9  O   UNL     1      44.836  -4.625  34.830  1.00  0.00           O1-
+HETATM   10  O   UNL     1      43.200  -5.416  33.703  1.00  0.00           O  
+HETATM   11  C   UNL     1      44.822  -7.285  32.399  1.00  0.00           C  
+HETATM   12  N   UNL     1      43.510  -7.236  31.960  1.00  0.00           N  
+HETATM   13  C   UNL     1      42.923  -8.020  30.885  1.00  0.00           C  
+HETATM   14  C   UNL     1      43.554  -7.548  29.530  1.00  0.00           C  
+HETATM   15  O   UNL     1      43.093  -6.229  29.233  1.00  0.00           O  
+HETATM   16  C   UNL     1      43.218  -8.542  28.417  1.00  0.00           C  
+HETATM   17  O   UNL     1      43.855  -9.780  28.724  1.00  0.00           O  
+HETATM   18  C   UNL     1      43.631  -8.127  27.004  1.00  0.00           C  
+HETATM   19  O   UNL     1      43.004  -6.894  26.642  1.00  0.00           O  
+HETATM   20  C   UNL     1      43.300  -9.178  25.950  1.00  0.00           C  
+HETATM   21  O   UNL     1      41.908  -9.480  25.932  1.00  0.00           O  
+CONECT    1    2   11
+CONECT    2    3    3    4
+CONECT    4    5
+CONECT    5    6    6    7
+CONECT    7    8   11   11
+CONECT    8    9   10   10
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   16
+CONECT   16   17   18
+CONECT   18   19   20
+CONECT   20   21
+END

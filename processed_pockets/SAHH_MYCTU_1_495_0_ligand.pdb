@@ -1,0 +1,35 @@
+COMPND    __2ziz_C_rec_3ce6_adn_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1      21.520  10.906   5.246  1.00  0.00           C  
+HETATM    2  O1  UNL     1      22.746  10.786   4.531  1.00  0.00           O  
+HETATM    3  C2  UNL     1      21.546   9.812   6.327  1.00  0.00           C  
+HETATM    4  O2  UNL     1      20.230   9.326   6.652  1.00  0.00           O  
+HETATM    5  C3  UNL     1      22.444   8.746   5.708  1.00  0.00           C  
+HETATM    6  O3  UNL     1      21.757   7.531   5.496  1.00  0.00           O  
+HETATM    7  C4  UNL     1      22.857   9.390   4.378  1.00  0.00           C  
+HETATM    8  N1  UNL     1      24.211   8.994   3.961  1.00  0.00           N  
+HETATM    9  C5  UNL     1      25.344   8.980   4.683  1.00  0.00           C  
+HETATM   10  N2  UNL     1      26.389   8.532   3.972  1.00  0.00           N  
+HETATM   11  C6  UNL     1      25.919   8.279   2.733  1.00  0.00           C  
+HETATM   12  C7  UNL     1      26.504   7.761   1.498  1.00  0.00           C  
+HETATM   13  N3  UNL     1      27.801   7.427   1.475  1.00  0.00           N  
+HETATM   14  N4  UNL     1      25.682   7.644   0.449  1.00  0.00           N  
+HETATM   15  C8  UNL     1      24.369   7.960   0.512  1.00  0.00           C  
+HETATM   16  N5  UNL     1      23.729   8.407   1.628  1.00  0.00           N  
+HETATM   17  C9  UNL     1      24.489   8.592   2.736  1.00  0.00           C  
+HETATM   18  O4  UNL     1      20.148  12.835   5.248  1.00  0.00           O  
+HETATM   19  C10 UNL     1      21.379  12.335   5.766  1.00  0.00           C  
+CONECT    1    2    3   19
+CONECT    2    7
+CONECT    3    4    5
+CONECT    5    6    7
+CONECT    7    8
+CONECT    8    9   17
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   12   17
+CONECT   12   13   14
+CONECT   14   15   15
+CONECT   15   16
+CONECT   16   17   17
+CONECT   18   19
+END

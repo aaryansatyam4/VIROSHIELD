@@ -1,0 +1,33 @@
+HETATM    1  O1  HRC A 301      27.770   6.530  56.398  0.63 28.02           O  
+HETATM    2  S   HRC A 301      28.245   7.679  55.660  0.67 26.30           S  
+HETATM    3  O2  HRC A 301      29.594   7.439  55.232  0.53 25.14           O  
+HETATM    4  C9  HRC A 301      27.271   7.847  54.382  0.45 25.35           C  
+HETATM    5  C14 HRC A 301      27.735   8.269  53.134  0.59 24.75           C  
+HETATM    6  C13 HRC A 301      26.853   8.418  52.065  0.86 25.78           C  
+HETATM    7  C12 HRC A 301      25.497   8.147  52.219  0.65 21.80           C  
+HETATM    8  C11 HRC A 301      25.023   7.724  53.454  0.51 21.00           C  
+HETATM    9  C10 HRC A 301      25.909   7.568  54.514  0.86 23.16           C  
+HETATM   10  N   HRC A 301      28.071   8.974  56.646  0.63 23.10           N  
+HETATM   11  C1  HRC A 301      28.744  10.108  56.302  1.00 28.50           C  
+HETATM   12  C6  HRC A 301      30.127  10.223  56.479  0.68 30.37           C  
+HETATM   13  C7  HRC A 301      30.860   9.271  57.342  0.79 36.14           C  
+HETATM   14  C2  HRC A 301      28.135  11.022  55.440  0.77 29.19           C  
+HETATM   15  C8  HRC A 301      26.688  10.951  55.155  0.98 28.49           C  
+HETATM   16  C3  HRC A 301      28.848  12.069  54.858  1.00 31.37           C  
+HETATM   17  C4  HRC A 301      30.214  12.198  55.078  0.71 26.17           C  
+HETATM   18  O3  HRC A 301      30.906  13.221  54.500  0.30 23.06           O  
+HETATM   19  C5  HRC A 301      30.850  11.271  55.898  0.66 29.51           C  
+CONECT    1    2
+CONECT    2    3    4   10
+CONECT    4    5    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT   10   11
+CONECT   11   12   14
+CONECT   12   13   19
+CONECT   14   15   16
+CONECT   16   17
+CONECT   17   18   19
+END

@@ -1,0 +1,26 @@
+HETATM    1  CAA 1HU A 401      29.079  43.724   2.525  1.00 28.30           C  
+HETATM    2  NAI 1HU A 401      29.507  44.477   1.376  1.00 35.72           N  
+HETATM    3  CAG 1HU A 401      29.842  43.628   0.265  1.00 37.03           C  
+HETATM    4  CAH 1HU A 401      29.004  43.581  -0.995  1.00 44.28           C  
+HETATM    5  CAK 1HU A 401      27.505  43.708  -0.915  1.00 51.54           C  
+HETATM    6  CAM 1HU A 401      26.654  42.898  -0.110  1.00 48.14           C  
+HETATM    7  CAE 1HU A 401      26.862  41.839   0.772  1.00 42.33           C  
+HETATM    8  CAC 1HU A 401      25.775  41.275   1.429  1.00 38.97           C  
+HETATM    9  CAB 1HU A 401      24.494  41.768   1.204  1.00 38.50           C  
+HETATM   10  CAD 1HU A 401      24.302  42.827   0.319  1.00 42.17           C  
+HETATM   11  CAL 1HU A 401      25.400  43.371  -0.325  1.00 43.07           C  
+HETATM   12  NAJ 1HU A 401      25.373  44.376  -1.184  1.00 37.33           N  
+HETATM   13  CAF 1HU A 401      26.626  44.633  -1.576  1.00 40.15           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6   13
+CONECT    6    7   11
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+END

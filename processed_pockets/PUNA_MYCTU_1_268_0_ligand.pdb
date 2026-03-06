@@ -1,0 +1,20 @@
+COMPND    1A9Q_HPA_A_290
+HETATM    1  N1  UNL     1      53.679  18.526  39.187  1.00  0.00           N  
+HETATM    2  C1  UNL     1      54.104  19.083  40.367  1.00  0.00           C  
+HETATM    3  N2  UNL     1      54.966  18.405  41.184  1.00  0.00           N  
+HETATM    4  C2  UNL     1      55.383  17.177  40.792  1.00  0.00           C  
+HETATM    5  C3  UNL     1      54.980  16.611  39.637  1.00  0.00           C  
+HETATM    6  C4  UNL     1      54.105  17.288  38.798  1.00  0.00           C  
+HETATM    7  O1  UNL     1      53.712  16.783  37.714  1.00  0.00           O  
+HETATM    8  N3  UNL     1      55.539  15.402  39.493  1.00  0.00           N  
+HETATM    9  C5  UNL     1      56.292  15.286  40.622  1.00  0.00           C  
+HETATM   10  N4  UNL     1      56.220  16.365  41.449  1.00  0.00           N  
+CONECT    1    2    6
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5    5   10
+CONECT    5    6    8
+CONECT    6    7    7
+CONECT    8    9
+CONECT    9   10   10
+END

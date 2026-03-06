@@ -1,0 +1,24 @@
+COMPND    __4nap_A_rec_4pgp_iac_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1      28.415   7.437  54.796  1.00  0.00           C  
+HETATM    2  C2  UNL     1      27.763   7.959  55.903  1.00  0.00           C  
+HETATM    3  C3  UNL     1      27.829   9.330  56.115  1.00  0.00           C  
+HETATM    4  C4  UNL     1      28.560  10.101  55.222  1.00  0.00           C  
+HETATM    5  C5  UNL     1      29.195   9.544  54.105  1.00  0.00           C  
+HETATM    6  C6  UNL     1      29.109   8.191  53.906  1.00  0.00           C  
+HETATM    7  C7  UNL     1      27.165   6.915  56.572  1.00  0.00           C  
+HETATM    8  C8  UNL     1      27.472   5.773  55.889  1.00  0.00           C  
+HETATM    9  N1  UNL     1      28.208   6.125  54.815  1.00  0.00           N  
+HETATM   10  C9  UNL     1      26.368   7.009  57.824  1.00  0.00           C  
+HETATM   11  C10 UNL     1      27.318   7.195  58.962  1.00  0.00           C  
+HETATM   12  O1  UNL     1      27.343   8.306  59.576  1.00  0.00           O  
+HETATM   13  O2  UNL     1      28.080   6.231  59.298  1.00  0.00           O  
+CONECT    1    2    6    9    9
+CONECT    2    3    3    7
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    6
+CONECT    7    8    8   10
+CONECT    8    9
+CONECT   10   11
+CONECT   11   12   13   13
+END

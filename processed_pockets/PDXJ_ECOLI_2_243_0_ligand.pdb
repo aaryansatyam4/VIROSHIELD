@@ -1,0 +1,22 @@
+COMPND    1IXN_DXP_A_2001
+HETATM    1  C1  UNL     1      -0.570 -13.719  -4.869  1.00  0.00           C  
+HETATM    2  O1  UNL     1      -1.031 -13.303  -6.121  1.00  0.00           O  
+HETATM    3  C2  UNL     1       0.739 -14.494  -5.004  1.00  0.00           C  
+HETATM    4  O2  UNL     1       1.637 -13.821  -5.838  1.00  0.00           O  
+HETATM    5  C3  UNL     1      -0.780 -16.571  -5.197  1.00  0.00           C  
+HETATM    6  C4  UNL     1       0.505 -15.884  -5.507  1.00  0.00           C  
+HETATM    7  O3  UNL     1       1.360 -16.464  -6.158  1.00  0.00           O  
+HETATM    8  C5  UNL     1      -0.370 -12.514  -3.966  1.00  0.00           C  
+HETATM    9  O4  UNL     1      -1.292 -11.517  -4.294  1.00  0.00           O  
+HETATM   10  P1  UNL     1      -0.553 -10.056  -3.853  1.00  0.00           P  
+HETATM   11  O5  UNL     1      -1.334  -9.393  -2.506  1.00  0.00           O  
+HETATM   12  O6  UNL     1      -0.662  -8.971  -5.145  1.00  0.00           O  
+HETATM   13  O7  UNL     1       0.905 -10.293  -3.527  1.00  0.00           O  
+CONECT    1    2    3    8
+CONECT    3    4    6
+CONECT    5    6
+CONECT    6    7    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12   13   13
+END

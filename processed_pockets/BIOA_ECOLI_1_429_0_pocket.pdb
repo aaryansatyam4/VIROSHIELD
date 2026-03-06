@@ -1,0 +1,24 @@
+HETATM    1  N1  PLP B 530      42.809  -2.147  21.469  1.00 27.33           N  
+HETATM    2  C2  PLP B 530      42.264  -1.440  20.472  1.00 25.86           C  
+HETATM    3  C2A PLP B 530      40.800  -1.545  20.205  1.00 23.65           C  
+HETATM    4  C3  PLP B 530      43.107  -0.577  19.605  1.00 26.74           C  
+HETATM    5  O3  PLP B 530      42.569   0.043  18.659  1.00 30.44           O  
+HETATM    6  C4  PLP B 530      44.549  -0.481  19.882  1.00 24.12           C  
+HETATM    7  C4A PLP B 530      45.495   0.363  19.071  1.00 22.34           C  
+HETATM    8  C5  PLP B 530      45.018  -1.306  21.031  1.00 26.65           C  
+HETATM    9  C6  PLP B 530      44.119  -2.089  21.764  1.00 27.83           C  
+HETATM   10  C5A PLP B 530      46.473  -1.340  21.439  1.00 26.03           C  
+HETATM   11  O4P PLP B 530      46.964  -0.023  21.708  1.00 26.30           O  
+HETATM   12  P   PLP B 530      48.560   0.234  21.621  1.00 24.41           P  
+HETATM   13  O1P PLP B 530      48.770   0.311  20.165  1.00 23.00           O  
+HETATM   14  O2P PLP B 530      49.357  -0.806  22.359  1.00 24.10           O  
+HETATM   15  O3P PLP B 530      48.730   1.580  22.329  1.00 27.89           O  
+CONECT    1    2    9
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7    8
+CONECT    8    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   14   15
+END

@@ -1,0 +1,27 @@
+COMPND    UDP
+HETATM    1  C   UNL     1      10.089  12.125 -13.996  1.00  0.00           C  
+HETATM    2  C   UNL     1      10.315  11.069 -15.090  1.00  0.00           C  
+HETATM    3  C   UNL     1      11.672  10.516 -14.682  1.00  0.00           C  
+HETATM    4  C   UNL     1      12.364  11.649 -13.775  1.00  0.00           C  
+HETATM    5  O   UNL     1      11.379  12.680 -13.713  1.00  0.00           O  
+HETATM    6  O   UNL     1      11.578   9.499 -13.713  1.00  0.00           O  
+HETATM    7  C   UNL     1      13.570  12.119 -14.626  1.00  0.00           C  
+HETATM    8  O   UNL     1      13.678  11.446 -15.889  1.00  0.00           O  
+HETATM    9  P   UNL     1      13.417  12.133 -17.335  1.00  0.00           P  
+HETATM   10  O   UNL     1      12.891  13.503 -17.151  1.00  0.00           O  
+HETATM   11  O   UNL     1      12.497  11.252 -18.098  1.00  0.00           O  
+HETATM   12  O   UNL     1      14.872  12.279 -18.018  1.00  0.00           O  
+HETATM   13  P   UNL     1      15.940  13.468 -18.321  1.00  0.00           P  
+HETATM   14  O   UNL     1      16.286  13.219 -19.762  1.00  0.00           O  
+HETATM   15  O   UNL     1      17.076  13.182 -17.407  1.00  0.00           O  
+HETATM   16  O   UNL     1      15.318  14.810 -18.152  1.00  0.00           O  
+CONECT    1    2    5
+CONECT    2    3
+CONECT    3    4    6
+CONECT    4    5    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   10   11   12
+CONECT   12   13
+CONECT   13   14   14   15   16
+END

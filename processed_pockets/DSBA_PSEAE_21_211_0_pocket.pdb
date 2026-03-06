@@ -1,0 +1,27 @@
+HETATM    1  CAA 1YO A 201      21.949  37.563  -2.208  1.00 43.40           C  
+HETATM    2  CAC 1YO A 201      25.049  36.929  -4.244  1.00 40.88           C  
+HETATM    3  CAD 1YO A 201      24.705  35.760  -4.905  1.00 40.78           C  
+HETATM    4  CAE 1YO A 201      24.159  37.520  -3.365  1.00 40.71           C  
+HETATM    5  CAF 1YO A 201      23.466  35.179  -4.693  1.00 39.52           C  
+HETATM    6  CAG 1YO A 201      19.365  35.080   1.159  1.00 18.01           C  
+HETATM    7  CAH 1YO A 201      21.244  35.168  -3.565  1.00 29.95           C  
+HETATM    8  CAL 1YO A 201      22.922  36.940  -3.151  1.00 40.87           C  
+HETATM    9  CAM 1YO A 201      22.575  35.781  -3.822  1.00 37.17           C  
+HETATM   10  CAN 1YO A 201      20.314  34.879  -0.824  1.00 20.49           C  
+HETATM   11  NAB 1YO A 201      20.584  32.998   0.637  1.00 15.68           N  
+HETATM   12  NAI 1YO A 201      19.126  36.180   0.435  1.00 19.59           N  
+HETATM   13  NAJ 1YO A 201      19.703  36.063  -0.764  1.00 20.07           N  
+HETATM   14  NAO 1YO A 201      20.102  34.234   0.360  1.00 17.56           N  
+HETATM   15  SAK 1YO A 201      21.223  34.138  -2.135  1.00 22.55           S  
+CONECT    1    8
+CONECT    2    3    4
+CONECT    3    5
+CONECT    4    8
+CONECT    5    9
+CONECT    6   12   14
+CONECT    7    9   15
+CONECT    8    9
+CONECT   10   13   14   15
+CONECT   11   14
+CONECT   12   13
+END

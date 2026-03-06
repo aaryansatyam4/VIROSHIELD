@@ -1,0 +1,19 @@
+COMPND    LYN
+HETATM    1  N   UNL     1      62.877 -70.154  22.340  1.00  0.00           N  
+HETATM    2  C   UNL     1      61.896 -70.893  21.532  1.00  0.00           C  
+HETATM    3  C   UNL     1      62.559 -72.145  20.951  1.00  0.00           C  
+HETATM    4  C   UNL     1      63.620 -71.806  19.900  1.00  0.00           C  
+HETATM    5  C   UNL     1      62.988 -71.257  18.619  1.00  0.00           C  
+HETATM    6  C   UNL     1      64.047 -70.896  17.575  1.00  0.00           C  
+HETATM    7  N   UNL     1      64.873 -69.781  18.062  1.00  0.00           N1+
+HETATM    8  C   UNL     1      60.732 -71.309  22.433  1.00  0.00           C  
+HETATM    9  O   UNL     1      60.933 -71.759  23.560  1.00  0.00           O  
+HETATM   10  N   UNL     1      59.525 -71.136  21.902  1.00  0.00           N  
+CONECT    1    2
+CONECT    2    3    8
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    8    9    9   10
+END

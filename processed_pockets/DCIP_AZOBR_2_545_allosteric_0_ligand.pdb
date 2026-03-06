@@ -1,0 +1,26 @@
+COMPND    KPV
+HETATM    1  C1  UNL     1      12.662  51.071  30.338  1.00  0.00           C  
+HETATM    2  C2  UNL     1      11.252  51.195  29.744  1.00  0.00           C  
+HETATM    3  C3  UNL     1      10.369  52.013  30.647  1.00  0.00           C  
+HETATM    4  C4  UNL     1      10.090  53.355  30.339  1.00  0.00           C  
+HETATM    5  C5  UNL     1       9.296  54.124  31.196  1.00  0.00           C  
+HETATM    6  C6  UNL     1       8.783  53.562  32.368  1.00  0.00           C  
+HETATM    7  C7  UNL     1       9.067  52.231  32.688  1.00  0.00           C  
+HETATM    8  C8  UNL     1       9.861  51.459  31.834  1.00  0.00           C  
+HETATM    9  C9  UNL     1      13.754  51.489  29.344  1.00  0.00           C  
+HETATM   10  C10 UNL     1      13.818  52.982  29.177  1.00  0.00           C  
+HETATM   11  O1  UNL     1      14.499  53.662  29.991  1.00  0.00           O  
+HETATM   12  C11 UNL     1      13.079  53.667  28.103  1.00  0.00           C  
+HETATM   13  O2  UNL     1      12.846  54.902  28.189  1.00  0.00           O  
+HETATM   14  O3  UNL     1      12.630  52.957  26.993  1.00  0.00           O  
+CONECT    1    2    9
+CONECT    2    3
+CONECT    3    4    8    8
+CONECT    4    5    5
+CONECT    5    6
+CONECT    6    7    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11   11   12
+CONECT   12   13   13   14
+END

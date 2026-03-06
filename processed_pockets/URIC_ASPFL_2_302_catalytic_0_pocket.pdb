@@ -1,0 +1,21 @@
+COMPND    AZA
+HETATM    1  N   UNL     1      29.924  27.334  36.356  1.00  0.00           N  
+HETATM    2  C   UNL     1      29.177  27.115  37.500  1.00  0.00           C  
+HETATM    3  O   UNL     1      28.032  27.570  37.546  1.00  0.00           O  
+HETATM    4  N   UNL     1      29.717  26.422  38.558  1.00  0.00           N  
+HETATM    5  C   UNL     1      30.982  25.923  38.347  1.00  0.00           C  
+HETATM    6  C   UNL     1      31.722  26.106  37.196  1.00  0.00           C  
+HETATM    7  C   UNL     1      31.196  26.848  36.139  1.00  0.00           C  
+HETATM    8  O   UNL     1      31.767  27.117  35.066  1.00  0.00           O  
+HETATM    9  N   UNL     1      32.873  25.471  37.398  1.00  0.00           N  
+HETATM   10  N   UNL     1      32.873  24.957  38.556  1.00  0.00           N  
+HETATM   11  N   UNL     1      31.781  25.218  39.150  1.00  0.00           N  
+CONECT    1    2    7
+CONECT    2    3    3    4
+CONECT    4    5
+CONECT    5    6    6   11
+CONECT    6    7    9
+CONECT    7    8    8
+CONECT    9   10   10
+CONECT   10   11
+END

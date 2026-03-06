@@ -1,0 +1,17 @@
+COMPND    __7tim_B_rec_1ney_13p_lig_it1_docked.pdb
+HETATM    1  O1  UNL     1      93.981  42.746  48.006  1.00  0.00           O  
+HETATM    2  P1  UNL     1      92.543  42.641  47.077  1.00  0.00           P  
+HETATM    3  O2  UNL     1      93.044  42.356  45.609  1.00  0.00           O  
+HETATM    4  O3  UNL     1      91.717  41.524  47.651  1.00  0.00           O  
+HETATM    5  O4  UNL     1      91.879  44.045  47.178  1.00  0.00           O  
+HETATM    6  C1  UNL     1      95.174  42.443  47.137  1.00  0.00           C  
+HETATM    7  C2  UNL     1      96.298  42.441  48.195  1.00  0.00           C  
+HETATM    8  O5  UNL     1      95.987  42.565  49.348  1.00  0.00           O  
+HETATM    9  C3  UNL     1      97.664  42.156  47.779  1.00  0.00           C  
+HETATM   10  O6  UNL     1      97.943  41.717  46.503  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3    4    5    5
+CONECT    6    7
+CONECT    7    8    8    9
+CONECT    9   10
+END

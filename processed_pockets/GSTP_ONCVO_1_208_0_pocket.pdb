@@ -1,0 +1,46 @@
+HETATM    1  N1  GTX C2004      11.505   2.576  88.600  1.00 12.84           N  
+HETATM    2  CA1 GTX C2004      12.217   3.056  87.431  1.00 13.66           C  
+HETATM    3  C1  GTX C2004      13.524   3.641  87.871  1.00 14.47           C  
+HETATM    4  O11 GTX C2004      13.690   4.087  89.092  1.00 14.10           O  
+HETATM    5  O12 GTX C2004      14.520   3.715  87.026  1.00 12.77           O  
+HETATM    6  CB1 GTX C2004      11.386   4.099  86.682  1.00 13.77           C  
+HETATM    7  CG1 GTX C2004      12.015   4.537  85.359  1.00 14.39           C  
+HETATM    8  CD1 GTX C2004      11.120   5.540  84.662  1.00 15.62           C  
+HETATM    9  OE1 GTX C2004       9.880   5.861  85.207  1.00 15.13           O  
+HETATM   10  N2  GTX C2004      11.596   6.072  83.545  1.00 17.09           N  
+HETATM   11  CA2 GTX C2004      10.915   7.089  82.776  1.00 18.65           C  
+HETATM   12  C2  GTX C2004      10.847   6.676  81.345  1.00 18.41           C  
+HETATM   13  O2  GTX C2004      11.915   5.975  80.795  1.00 17.75           O  
+HETATM   14  CB2 GTX C2004      11.679   8.401  82.865  1.00 19.43           C  
+HETATM   15  SG2 GTX C2004      11.622   9.032  84.561  1.00 22.64           S  
+HETATM   16  C1S GTX C2004      10.010   9.823  84.285  1.00 27.92           C  
+HETATM   17  C2S GTX C2004      10.111  11.341  84.159  1.00 30.78           C  
+HETATM   18  C3S GTX C2004      10.787  11.811  82.868  1.00 32.41           C  
+HETATM   19  C4S GTX C2004       9.853  11.741  81.666  1.00 34.48           C  
+HETATM   20  C5S GTX C2004      10.461  12.476  80.473  1.00 35.14           C  
+HETATM   21  C6S GTX C2004      10.291  11.699  79.173  1.00 36.00           C  
+HETATM   22  N3  GTX C2004       9.757   7.002  80.668  1.00 20.12           N  
+HETATM   23  CA3 GTX C2004       9.737   6.958  79.216  1.00 21.46           C  
+HETATM   24  C3  GTX C2004       8.889   5.811  78.720  1.00 22.58           C  
+HETATM   25  O31 GTX C2004       8.746   5.636  77.435  1.00 25.27           O  
+HETATM   26  O32 GTX C2004       8.279   4.984  79.539  1.00 21.06           O  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10
+CONECT   10   11
+CONECT   11   12   14
+CONECT   12   13   22
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   26
+END

@@ -1,0 +1,17 @@
+COMPND    __2vft_A_rec_2vfs_xyl_lig_min.pdb
+HETATM    1  C1  UNL     1      26.503  41.039  22.118  1.00  0.00           C  
+HETATM    2  O1  UNL     1      26.721  39.834  21.394  1.00  0.00           O  
+HETATM    3  C2  UNL     1      26.403  42.216  21.135  1.00  0.00           C  
+HETATM    4  O2  UNL     1      27.659  42.566  20.572  1.00  0.00           O  
+HETATM    5  C3  UNL     1      25.427  41.961  20.009  1.00  0.00           C  
+HETATM    6  O3  UNL     1      25.131  43.086  19.185  1.00  0.00           O  
+HETATM    7  C4  UNL     1      27.634  41.286  23.176  1.00  0.00           C  
+HETATM    8  O4  UNL     1      28.929  41.252  22.615  1.00  0.00           O  
+HETATM    9  C5  UNL     1      27.622  40.280  24.357  1.00  0.00           C  
+HETATM   10  O5  UNL     1      26.440  40.366  25.114  1.00  0.00           O  
+CONECT    1    2    3    7
+CONECT    3    4    5
+CONECT    5    6
+CONECT    7    8    9
+CONECT    9   10
+END

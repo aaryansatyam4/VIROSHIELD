@@ -1,0 +1,20 @@
+COMPND    __1jmm_A_rec_3ipk_pms_lig_docked.pdb
+HETATM    1  C1  UNL     1      38.730  20.542  -9.408  1.00  0.00           C  
+HETATM    2  S1  UNL     1      37.880  19.135 -10.152  1.00  0.00           S  
+HETATM    3  O1  UNL     1      38.789  18.433 -11.100  1.00  0.00           O  
+HETATM    4  O2  UNL     1      37.763  18.176  -9.031  1.00  0.00           O  
+HETATM    5  O3  UNL     1      36.575  19.329 -10.737  1.00  0.00           O  
+HETATM    6  C2  UNL     1      38.970  22.015  -9.085  1.00  0.00           C  
+HETATM    7  C3  UNL     1      38.168  22.678  -8.064  1.00  0.00           C  
+HETATM    8  C4  UNL     1      38.395  24.091  -7.747  1.00  0.00           C  
+HETATM    9  C5  UNL     1      39.430  24.850  -8.449  1.00  0.00           C  
+HETATM   10  C6  UNL     1      40.234  24.183  -9.471  1.00  0.00           C  
+HETATM   11  C7  UNL     1      40.005  22.775  -9.787  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3    4    5
+CONECT    6    7   11   11
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10   10
+CONECT   10   11
+END

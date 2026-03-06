@@ -1,0 +1,35 @@
+COMPND    __3hrq_A_rec_3hrq_plm_lig_min.pdb
+HETATM    1  C1  UNL     1     101.362  95.912   0.625  1.00  0.00           C  
+HETATM    2  C2  UNL     1     101.471  96.300  -0.848  1.00  0.00           C  
+HETATM    3  C3  UNL     1     100.411  97.329  -1.238  1.00  0.00           C  
+HETATM    4  C4  UNL     1     101.029  98.546  -1.922  1.00  0.00           C  
+HETATM    5  C5  UNL     1     100.729  98.539  -3.417  1.00  0.00           C  
+HETATM    6  C6  UNL     1     102.014  98.422  -4.240  1.00  0.00           C  
+HETATM    7  C7  UNL     1     102.152  97.038  -4.849  1.00  0.00           C  
+HETATM    8  O1  UNL     1     102.350  96.905  -6.074  1.00  0.00           O  
+HETATM    9  O2  UNL     1     102.075  96.011  -4.138  1.00  0.00           O  
+HETATM   10  C8  UNL     1     100.058  95.164   0.908  1.00  0.00           C  
+HETATM   11  C9  UNL     1      99.528  95.533   2.287  1.00  0.00           C  
+HETATM   12  C10 UNL     1      98.136  94.964   2.533  1.00  0.00           C  
+HETATM   13  C11 UNL     1      97.453  95.709   3.677  1.00  0.00           C  
+HETATM   14  C12 UNL     1      96.805  94.779   4.702  1.00  0.00           C  
+HETATM   15  C13 UNL     1      96.333  95.569   5.920  1.00  0.00           C  
+HETATM   16  C14 UNL     1      95.684  94.684   6.999  1.00  0.00           C  
+HETATM   17  C15 UNL     1      96.608  93.550   7.453  1.00  0.00           C  
+HETATM   18  C16 UNL     1      96.809  93.569   8.970  1.00  0.00           C  
+CONECT    1    2   10
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8    8    9
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+END

@@ -1,0 +1,16 @@
+COMPND    1IQU_TDR_A_500
+HETATM    1  N1  UNL     1      -2.175   2.125  29.304  1.00  0.00           N  
+HETATM    2  C1  UNL     1      -1.952   1.587  30.531  1.00  0.00           C  
+HETATM    3  O1  UNL     1      -1.136   0.638  30.662  1.00  0.00           O  
+HETATM    4  N2  UNL     1      -2.608   2.072  31.618  1.00  0.00           N  
+HETATM    5  C2  UNL     1      -3.494   3.097  31.500  1.00  0.00           C  
+HETATM    6  O2  UNL     1      -4.088   3.526  32.525  1.00  0.00           O  
+HETATM    7  C3  UNL     1      -3.736   3.663  30.242  1.00  0.00           C  
+HETATM    8  C4  UNL     1      -4.697   4.788  30.059  1.00  0.00           C  
+HETATM    9  C5  UNL     1      -3.052   3.150  29.142  1.00  0.00           C  
+CONECT    1    2    9
+CONECT    2    3    3    4
+CONECT    4    5
+CONECT    5    6    6    7
+CONECT    7    8    9    9
+END

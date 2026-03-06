@@ -1,0 +1,29 @@
+COMPND    __4aua_A_rec_4aua_4au_lig_docked.pdb
+HETATM    1  C1  UNL     1      32.814  26.555  61.576  1.00  0.00           C  
+HETATM    2  C2  UNL     1      32.270  25.284  61.507  1.00  0.00           C  
+HETATM    3  C3  UNL     1      31.721  24.855  60.311  1.00  0.00           C  
+HETATM    4  C4  UNL     1      31.717  25.698  59.211  1.00  0.00           C  
+HETATM    5  C5  UNL     1      32.246  26.974  59.282  1.00  0.00           C  
+HETATM    6  C6  UNL     1      32.796  27.395  60.477  1.00  0.00           C  
+HETATM    7  C7  UNL     1      30.758  23.793  58.669  1.00  0.00           C  
+HETATM    8  N1  UNL     1      31.116  23.630  59.977  1.00  0.00           N  
+HETATM    9  N2  UNL     1      31.109  25.025  58.192  1.00  0.00           N  
+HETATM   10  C8  UNL     1      30.097  22.814  57.805  1.00  0.00           C  
+HETATM   11  O1  UNL     1      30.196  21.645  58.099  1.00  0.00           O  
+HETATM   12  C9  UNL     1      29.346  23.264  56.619  1.00  0.00           C  
+HETATM   13  C10 UNL     1      29.620  23.234  55.252  1.00  0.00           C  
+HETATM   14  C11 UNL     1      28.532  23.791  54.591  1.00  0.00           C  
+HETATM   15  C12 UNL     1      27.602  24.160  55.567  1.00  0.00           C  
+HETATM   16  N3  UNL     1      28.105  23.833  56.784  1.00  0.00           N  
+CONECT    1    2    6    6
+CONECT    2    3    3
+CONECT    3    4    8
+CONECT    4    5    5    9
+CONECT    5    6
+CONECT    7    8    8    9   10
+CONECT   10   11   11   12
+CONECT   12   13   16   16
+CONECT   13   14
+CONECT   14   15   15
+CONECT   15   16
+END

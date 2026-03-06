@@ -1,0 +1,35 @@
+COMPND    BNG
+HETATM    1  C   UNL     1      65.034   8.471  17.160  1.00  0.00           C  
+HETATM    2  C   UNL     1      66.514   8.597  17.647  1.00  0.00           C  
+HETATM    3  C   UNL     1      66.595   9.575  18.858  1.00  0.00           C  
+HETATM    4  C   UNL     1      66.029  10.966  18.432  1.00  0.00           C  
+HETATM    5  C   UNL     1      64.543  10.802  17.940  1.00  0.00           C  
+HETATM    6  C   UNL     1      63.969  12.157  17.479  1.00  0.00           C  
+HETATM    7  C   UNL     1      63.693   7.368  15.458  1.00  0.00           C  
+HETATM    8  C   UNL     1      63.871   6.997  14.005  1.00  0.00           C  
+HETATM    9  C   UNL     1      62.531   6.818  13.325  1.00  0.00           C  
+HETATM   10  C   UNL     1      62.245   7.954  12.367  1.00  0.00           C  
+HETATM   11  C   UNL     1      60.962   8.671  12.733  1.00  0.00           C  
+HETATM   12  C   UNL     1      60.086   8.847  11.515  1.00  0.00           C  
+HETATM   13  C   UNL     1      59.492  10.237  11.444  1.00  0.00           C  
+HETATM   14  C   UNL     1      59.738  10.845  10.085  1.00  0.00           C  
+HETATM   15  O   UNL     1      64.992   7.583  16.019  1.00  0.00           O  
+HETATM   16  O   UNL     1      67.013   7.315  18.005  1.00  0.00           O  
+HETATM   17  O   UNL     1      67.945   9.698  19.292  1.00  0.00           O  
+HETATM   18  O   UNL     1      66.088  11.894  19.526  1.00  0.00           O  
+HETATM   19  O   UNL     1      64.517   9.832  16.821  1.00  0.00           O  
+HETATM   20  O   UNL     1      63.455  12.897  18.584  1.00  0.00           O  
+CONECT    1    2   15   19
+CONECT    2    3   16
+CONECT    3    4   17
+CONECT    4    5   18
+CONECT    5    6   19
+CONECT    6   20
+CONECT    7    8   15
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+END

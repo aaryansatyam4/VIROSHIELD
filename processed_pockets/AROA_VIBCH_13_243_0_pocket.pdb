@@ -1,0 +1,25 @@
+HETATM    1  C1 AS3P A 427       8.674  10.371   8.582  0.60  6.88           C  
+HETATM    2  C2 AS3P A 427       9.592   9.794   7.760  0.60  8.42           C  
+HETATM    3  C3 AS3P A 427      10.859   9.081   8.226  0.60  8.33           C  
+HETATM    4  C4 AS3P A 427      10.938   9.068   9.766  0.60  7.47           C  
+HETATM    5  C5 AS3P A 427      10.362  10.340  10.370  0.60  6.87           C  
+HETATM    6  C6 AS3P A 427       8.918  10.459   9.954  0.60  6.14           C  
+HETATM    7  C7 AS3P A 427       7.444  10.910   7.932  0.60  6.22           C  
+HETATM    8  O1 AS3P A 427      11.948   9.757   7.549  0.60  8.55           O  
+HETATM    9  O2 AS3P A 427      12.302   8.955  10.188  0.60  9.54           O  
+HETATM   10  O3 AS3P A 427      10.533  10.391  11.795  0.60  8.41           O  
+HETATM   11  O4 AS3P A 427       7.373  11.138   6.684  0.60  6.59           O  
+HETATM   12  O5 AS3P A 427       6.484  11.152   8.697  0.60  6.18           O  
+HETATM   13  P1 AS3P A 427      12.833   9.202   6.319  0.60  7.05           P  
+HETATM   14  O6 AS3P A 427      11.869   9.030   5.149  0.60  8.38           O  
+HETATM   15  O7 AS3P A 427      13.397   7.908   6.813  0.60  7.20           O  
+HETATM   16  O8 AS3P A 427      13.818  10.309   6.083  0.60  6.86           O  
+CONECT    1    2    6    7
+CONECT    2    3
+CONECT    3    4    8
+CONECT    4    5    9
+CONECT    5    6   10
+CONECT    7   11   12
+CONECT    8   13
+CONECT   13   14   15   16
+END

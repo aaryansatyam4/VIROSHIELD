@@ -1,0 +1,23 @@
+HETATM    1  OAB 9PY A 301       7.364  -5.275  43.924  1.00 27.33           O  
+HETATM    2  CAI 9PY A 301       6.248  -4.802  44.240  1.00 27.23           C  
+HETATM    3  OAD 9PY A 301       5.308  -4.505  43.471  1.00 28.87           O  
+HETATM    4  CAN 9PY A 301       6.002  -4.538  45.721  1.00 26.52           C  
+HETATM    5  OAG 9PY A 301       4.625  -4.183  45.915  1.00 25.42           O  
+HETATM    6  CAH 9PY A 301       6.312  -5.799  46.512  1.00 26.09           C  
+HETATM    7  CAL 9PY A 301       6.210  -5.511  47.998  1.00 25.54           C  
+HETATM    8  OAE 9PY A 301       6.615  -6.645  48.746  1.00 25.57           O  
+HETATM    9  CAM 9PY A 301       7.130  -4.370  48.341  1.00 25.53           C  
+HETATM   10  OAF 9PY A 301       6.967  -4.142  49.735  1.00 24.46           O  
+HETATM   11  CAJ 9PY A 301       6.821  -3.240  47.560  1.00 26.60           C  
+HETATM   12  OAC 9PY A 301       6.513  -2.158  48.069  1.00 27.60           O  
+HETATM   13  CAK 9PY A 301       6.889  -3.372  46.170  1.00 26.74           C  
+HETATM   14  CAA 9PY A 301       6.429  -2.065  45.492  1.00 27.25           C  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5    6   13
+CONECT    6    7
+CONECT    7    8    9
+CONECT    9   10   11
+CONECT   11   12   13
+CONECT   13   14
+END

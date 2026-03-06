@@ -1,0 +1,20 @@
+COMPND    1D8C_SOR_A_4000
+HETATM    1  C1  UNL     1      14.979 -14.792  57.347  1.00  0.00           C  
+HETATM    2  C2  UNL     1      14.311 -13.602  58.019  1.00  0.00           C  
+HETATM    3  C3  UNL     1      14.880 -13.395  59.421  1.00  0.00           C  
+HETATM    4  C4  UNL     1      14.525 -14.565  60.344  1.00  0.00           C  
+HETATM    5  C5  UNL     1      15.313 -14.496  61.651  1.00  0.00           C  
+HETATM    6  C6  UNL     1      14.976 -15.687  62.533  1.00  0.00           C  
+HETATM    7  O1  UNL     1      14.331 -15.083  56.146  1.00  0.00           O  
+HETATM    8  O2  UNL     1      14.526 -12.459  57.246  1.00  0.00           O  
+HETATM    9  O3  UNL     1      14.406 -12.195  59.961  1.00  0.00           O  
+HETATM   10  O4  UNL     1      13.151 -14.572  60.606  1.00  0.00           O  
+HETATM   11  O5  UNL     1      16.683 -14.498  61.382  1.00  0.00           O  
+HETATM   12  O6  UNL     1      15.559 -15.526  63.790  1.00  0.00           O  
+CONECT    1    2    7
+CONECT    2    3    8
+CONECT    3    4    9
+CONECT    4    5   10
+CONECT    5    6   11
+CONECT    6   12
+END

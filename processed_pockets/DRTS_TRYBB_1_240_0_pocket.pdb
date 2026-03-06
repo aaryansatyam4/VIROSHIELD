@@ -1,0 +1,41 @@
+HETATM    1  C1  WRA A 602     -21.550  22.830   8.461  1.00 17.42           C  
+HETATM    2  N2  WRA A 602     -22.986  22.785   8.067  1.00 15.90           N  
+HETATM    3  C3  WRA A 602     -23.525  23.637   7.179  1.00 15.72           C  
+HETATM    4  N4  WRA A 602     -22.758  24.611   6.567  1.00 15.00           N  
+HETATM    5  C5  WRA A 602     -21.391  24.690   6.752  1.00 18.62           C  
+HETATM    6  N6  WRA A 602     -20.742  23.753   7.555  1.00 18.53           N  
+HETATM    7  O7  WRA A 602     -19.294  23.867   7.749  1.00 21.39           O  
+HETATM    8  C8  WRA A 602     -18.266  23.591   6.683  1.00 21.19           C  
+HETATM    9  C9  WRA A 602     -16.801  23.803   7.193  1.00 22.43           C  
+HETATM   10  C10 WRA A 602     -16.566  23.040   8.553  1.00 22.72           C  
+HETATM   11  O11 WRA A 602     -16.849  21.585   8.417  1.00 22.29           O  
+HETATM   12  C12 WRA A 602     -16.765  20.635   9.475  1.00 23.77           C  
+HETATM   13  C13 WRA A 602     -17.008  19.199   9.177  1.00 24.81           C  
+HETATM   14  C14 WRA A 602     -16.918  18.218  10.264  1.00 26.51           C  
+HETATM   15  C15 WRA A 602     -16.592  18.661  11.645  1.00 28.69           C  
+HETATM   16  C16 WRA A 602     -16.347  20.118  11.945  1.00 29.21           C  
+HETATM   17  C17 WRA A 602     -16.437  21.080  10.851  1.00 24.60           C  
+HETATM   18  CM1 WRA A 602     -20.950  21.408   8.472  1.00 16.23           C  
+HETATM   19  CM2 WRA A 602     -21.548  23.448   9.882  1.00 15.78           C  
+HETATM   20  NH1 WRA A 602     -24.841  23.534   6.939  1.00 15.71           N  
+HETATM   21  NH2 WRA A 602     -20.691  25.643   6.179  1.00 16.02           N  
+HETATM   22  CL1 WRA A 602     -17.391  18.709   7.563  1.00 22.85          CL  
+HETATM   23  CL2 WRA A 602     -16.499  17.460  12.907  1.00 35.68          CL  
+HETATM   24  CL3 WRA A 602     -15.950  20.822  13.533  1.00 29.98          CL  
+CONECT    1    2    6   18   19
+CONECT    2    3
+CONECT    3    4   20
+CONECT    4    5
+CONECT    5    6   21
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   17
+CONECT   13   14   22
+CONECT   14   15
+CONECT   15   16   23
+CONECT   16   17   24
+END

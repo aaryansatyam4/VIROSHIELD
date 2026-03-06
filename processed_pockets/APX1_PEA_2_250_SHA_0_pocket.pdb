@@ -1,0 +1,20 @@
+HETATM    1  C1  SHA X 253      14.012  57.885  14.926  1.00 14.80           C  
+HETATM    2  C2  SHA X 253      13.426  59.146  14.850  1.00 16.30           C  
+HETATM    3  C3  SHA X 253      12.720  59.555  13.735  1.00 15.94           C  
+HETATM    4  C4  SHA X 253      12.568  58.676  12.655  1.00 16.86           C  
+HETATM    5  C5  SHA X 253      13.142  57.409  12.673  1.00 16.63           C  
+HETATM    6  C6  SHA X 253      13.853  56.967  13.774  1.00 15.56           C  
+HETATM    7  O6  SHA X 253      14.406  55.753  13.780  1.00 15.98           O  
+HETATM    8  C7  SHA X 253      14.766  57.520  16.178  1.00 13.86           C  
+HETATM    9  O7  SHA X 253      14.975  58.441  16.972  1.00 14.02           O  
+HETATM   10  N8  SHA X 253      15.165  56.273  16.449  1.00 13.29           N  
+HETATM   11  O9  SHA X 253      15.683  55.969  17.590  1.00 11.65           O  
+CONECT    1    2    6    8
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    8    9   10
+CONECT   10   11
+END

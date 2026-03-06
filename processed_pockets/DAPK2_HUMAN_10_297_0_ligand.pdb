@@ -1,0 +1,33 @@
+COMPND    2CKE_IQU_A_1302
+HETATM    1  C1  UNL     1     -41.719  -7.748 -52.898  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -42.290  -9.007 -52.671  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -42.049 -10.070 -53.544  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -41.234  -9.887 -54.662  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -40.660  -8.639 -54.910  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -39.848  -8.450 -56.029  1.00  0.00           C  
+HETATM    7  N1  UNL     1     -39.293  -7.233 -56.272  1.00  0.00           N  
+HETATM    8  C7  UNL     1     -39.507  -6.174 -55.446  1.00  0.00           C  
+HETATM    9  C8  UNL     1     -40.312  -6.316 -54.314  1.00  0.00           C  
+HETATM   10  C9  UNL     1     -40.899  -7.556 -54.031  1.00  0.00           C  
+HETATM   11  S1  UNL     1     -42.068  -6.440 -51.764  1.00  0.00           S  
+HETATM   12  O1  UNL     1     -41.348  -6.684 -50.466  1.00  0.00           O  
+HETATM   13  O2  UNL     1     -41.600  -5.141 -52.356  1.00  0.00           O  
+HETATM   14  N2  UNL     1     -43.772  -6.333 -51.465  1.00  0.00           N  
+HETATM   15  C10 UNL     1     -44.135  -4.925 -51.438  1.00  0.00           C  
+HETATM   16  C11 UNL     1     -45.639  -4.795 -51.330  1.00  0.00           C  
+HETATM   17  N3  UNL     1     -46.108  -5.546 -50.180  1.00  0.00           N  
+CONECT    1    2    2   10   11
+CONECT    2    3
+CONECT    3    4    4
+CONECT    4    5
+CONECT    5    6   10   10
+CONECT    6    7    7
+CONECT    7    8
+CONECT    8    9    9
+CONECT    9   10
+CONECT   11   12   12   13   13
+CONECT   11   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+END

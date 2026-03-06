@@ -1,0 +1,29 @@
+COMPND    __1xes_A_rec_1xes_3io_lig_min.pdb
+HETATM    1  C1  UNL     1      29.470  49.719  99.932  1.00  0.00           C  
+HETATM    2  C2  UNL     1      28.128  49.524  99.615  1.00  0.00           C  
+HETATM    3  C3  UNL     1      27.369  48.611 100.341  1.00  0.00           C  
+HETATM    4  C4  UNL     1      27.955  47.892 101.379  1.00  0.00           C  
+HETATM    5  C5  UNL     1      29.296  48.086 101.696  1.00  0.00           C  
+HETATM    6  C6  UNL     1      30.053  49.002 100.970  1.00  0.00           C  
+HETATM    7  N1  UNL     1      31.324  49.388 101.056  1.00  0.00           N  
+HETATM    8  C7  UNL     1      31.567  50.309 100.126  1.00  0.00           C  
+HETATM    9  C8  UNL     1      30.466  50.538  99.413  1.00  0.00           C  
+HETATM   10  C9  UNL     1      30.374  51.434  98.175  1.00  0.00           C  
+HETATM   11  C10 UNL     1      30.324  52.926  98.518  1.00  0.00           C  
+HETATM   12  O1  UNL     1      29.446  53.394  99.241  1.00  0.00           O  
+HETATM   13  C11 UNL     1      31.416  53.848  97.969  1.00  0.00           C  
+HETATM   14  O2  UNL     1      32.249  53.363  97.171  1.00  0.00           O  
+HETATM   15  O3  UNL     1      31.440  55.030  98.376  1.00  0.00           O  
+CONECT    1    2    2    6    9
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    5
+CONECT    5    6
+CONECT    6    7    7
+CONECT    7    8
+CONECT    8    9    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   12   13
+CONECT   13   14   15   15
+END

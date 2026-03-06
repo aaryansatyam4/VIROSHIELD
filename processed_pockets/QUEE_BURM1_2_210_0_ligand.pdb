@@ -1,0 +1,27 @@
+COMPND    __4njh_A_rec_4njk_2ka_lig_min.pdb
+HETATM    1  C1  UNL     1      -9.484  83.330  22.566  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -8.464  82.446  23.105  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -8.821  84.257  21.806  1.00  0.00           C  
+HETATM    4  N1  UNL     1      -7.463  84.063  21.850  1.00  0.00           N  
+HETATM    5  C4  UNL     1      -7.204  82.983  22.640  1.00  0.00           C  
+HETATM    6  N2  UNL     1      -5.983  82.542  22.995  1.00  0.00           N  
+HETATM    7  C5  UNL     1      -5.963  81.536  23.857  1.00  0.00           C  
+HETATM    8  N3  UNL     1      -4.788  81.105  24.349  1.00  0.00           N  
+HETATM    9  N4  UNL     1      -7.096  80.930  24.319  1.00  0.00           N  
+HETATM   10  C6  UNL     1      -8.390  81.317  23.990  1.00  0.00           C  
+HETATM   11  O1  UNL     1      -9.344  80.699  24.462  1.00  0.00           O  
+HETATM   12  O2  UNL     1     -11.428  82.566  23.646  1.00  0.00           O  
+HETATM   13  C7  UNL     1     -10.954  83.430  22.888  1.00  0.00           C  
+HETATM   14  O3  UNL     1     -11.585  84.409  22.409  1.00  0.00           O  
+CONECT    1    2    3    3   13
+CONECT    2    5   10
+CONECT    3    4
+CONECT    4    5    5
+CONECT    5    6
+CONECT    6    7    7
+CONECT    7    8    9
+CONECT    9   10
+CONECT   10   11   11
+CONECT   12   13   13
+CONECT   13   14
+END

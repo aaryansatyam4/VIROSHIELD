@@ -1,0 +1,36 @@
+COMPND    1BX4_ADN_A_350
+HETATM    1  O1  UNL     1      21.655  -3.636 -92.664  1.00  0.00           O  
+HETATM    2  C1  UNL     1      21.713  -4.910 -92.099  1.00  0.00           C  
+HETATM    3  C2  UNL     1      22.260  -5.898 -93.113  1.00  0.00           C  
+HETATM    4  O2  UNL     1      23.602  -5.604 -93.397  1.00  0.00           O  
+HETATM    5  C3  UNL     1      22.188  -7.299 -92.552  1.00  0.00           C  
+HETATM    6  O3  UNL     1      21.039  -7.941 -93.024  1.00  0.00           O  
+HETATM    7  C4  UNL     1      23.456  -7.952 -93.049  1.00  0.00           C  
+HETATM    8  O4  UNL     1      23.198  -8.985 -93.954  1.00  0.00           O  
+HETATM    9  C5  UNL     1      24.184  -6.831 -93.759  1.00  0.00           C  
+HETATM   10  N1  UNL     1      25.599  -6.837 -93.409  1.00  0.00           N  
+HETATM   11  C6  UNL     1      26.159  -6.648 -92.185  1.00  0.00           C  
+HETATM   12  N2  UNL     1      27.521  -6.708 -92.220  1.00  0.00           N  
+HETATM   13  C7  UNL     1      27.784  -6.939 -93.520  1.00  0.00           C  
+HETATM   14  C8  UNL     1      29.005  -7.095 -94.161  1.00  0.00           C  
+HETATM   15  N3  UNL     1      30.234  -7.022 -93.448  1.00  0.00           N  
+HETATM   16  N4  UNL     1      28.992  -7.323 -95.508  1.00  0.00           N  
+HETATM   17  C9  UNL     1      27.812  -7.395 -96.206  1.00  0.00           C  
+HETATM   18  N5  UNL     1      26.614  -7.240 -95.564  1.00  0.00           N  
+HETATM   19  C10 UNL     1      26.637  -7.015 -94.228  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5
+CONECT    4    9
+CONECT    5    6    7
+CONECT    7    8    9
+CONECT    9   10
+CONECT   10   11   19
+CONECT   11   12   12
+CONECT   12   13
+CONECT   13   14   14   19
+CONECT   14   15   16
+CONECT   16   17   17
+CONECT   17   18
+CONECT   18   19   19
+END

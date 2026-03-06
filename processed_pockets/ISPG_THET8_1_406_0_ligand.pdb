@@ -1,0 +1,14 @@
+COMPND    __4s3e_A_rec_4s3d_dpo_lig_it1_docked.pdb
+HETATM    1  O1  UNL     1      -8.273  13.592  13.036  1.00  0.00           O  
+HETATM    2  P1  UNL     1      -8.972  14.693  13.988  1.00  0.00           P  
+HETATM    3  O2  UNL     1      -7.821  15.095  14.900  1.00  0.00           O  
+HETATM    4  O3  UNL     1     -10.115  14.033  14.732  1.00  0.00           O  
+HETATM    5  O4  UNL     1      -9.385  15.810  13.068  1.00  0.00           O  
+HETATM    6  P2  UNL     1      -7.257  13.849  11.826  1.00  0.00           P  
+HETATM    7  O5  UNL     1      -6.731  12.518  11.349  1.00  0.00           O  
+HETATM    8  O6  UNL     1      -8.021  14.526  10.709  1.00  0.00           O  
+HETATM    9  O7  UNL     1      -6.213  14.790  12.394  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3    4    4    5
+CONECT    6    7    7    8    9
+END

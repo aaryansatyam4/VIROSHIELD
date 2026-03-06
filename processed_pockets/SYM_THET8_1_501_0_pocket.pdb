@@ -1,0 +1,18 @@
+HETATM    1  S1  MDS A 602      38.422  38.311  37.172  1.00 59.30           S  
+HETATM    2  N2  MDS A 602      39.382  37.302  36.324  1.00 55.26           N  
+HETATM    3  C5  MDS A 602      39.091  36.080  35.874  1.00 48.23           C  
+HETATM    4  O5  MDS A 602      37.966  35.625  36.145  1.00 51.20           O  
+HETATM    5  C6  MDS A 602      40.094  35.380  35.128  1.00 42.45           C  
+HETATM    6  N3  MDS A 602      40.784  36.195  34.134  1.00 38.89           N  
+HETATM    7  C7  MDS A 602      41.077  34.858  36.169  1.00 37.49           C  
+HETATM    8  C8  MDS A 602      41.817  33.622  35.730  1.00 42.68           C  
+HETATM    9  S2  MDS A 602      40.919  32.073  36.057  1.00 42.54           S  
+HETATM   10  C9  MDS A 602      41.501  31.068  34.692  1.00 33.52           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+END

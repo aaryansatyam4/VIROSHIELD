@@ -1,0 +1,31 @@
+COMPND    NPS
+HETATM    1  C1  UNL     1      20.064  60.339   6.479  1.00  0.00           C  
+HETATM    2  C2  UNL     1      20.898  59.336   6.987  1.00  0.00           C  
+HETATM    3  C3  UNL     1      21.149  59.244   8.358  1.00  0.00           C  
+HETATM    4  C4  UNL     1      20.566  60.160   9.245  1.00  0.00           C  
+HETATM    5  C5  UNL     1      19.722  61.177   8.744  1.00  0.00           C  
+HETATM    6  C6  UNL     1      19.475  61.262   7.365  1.00  0.00           C  
+HETATM    7  C7  UNL     1      20.813  60.075  10.624  1.00  0.00           C  
+HETATM    8  C8  UNL     1      20.230  60.995  11.514  1.00  0.00           C  
+HETATM    9  C9  UNL     1      19.139  62.092   9.631  1.00  0.00           C  
+HETATM   10  C10 UNL     1      19.389  62.001  11.002  1.00  0.00           C  
+HETATM   11  O1  UNL     1      19.848  60.383   5.093  1.00  0.00           O  
+HETATM   12  C11 UNL     1      18.665  59.922   4.448  1.00  0.00           C  
+HETATM   13  C12 UNL     1      20.501  60.887  13.001  1.00  0.00           C  
+HETATM   14  C13 UNL     1      19.218  60.562  13.775  1.00  0.00           C  
+HETATM   15  O2  UNL     1      20.435  63.050  14.288  1.00  0.00           O  
+HETATM   16  O3  UNL     1      22.348  62.397  13.202  1.00  0.00           O  
+HETATM   17  C14 UNL     1      21.154  62.142  13.513  1.00  0.00           C  
+CONECT    1    2    2    6   11
+CONECT    2    3
+CONECT    3    4    4
+CONECT    4    5    7
+CONECT    5    6    6    9
+CONECT    7    8    8
+CONECT    8   10   13
+CONECT    9   10   10
+CONECT   11   12
+CONECT   13   14   17
+CONECT   15   17
+CONECT   16   17   17
+END

@@ -1,0 +1,21 @@
+COMPND    XAN
+HETATM    1  N   UNL     1      21.959 136.839  25.826  1.00  0.00           N  
+HETATM    2  C   UNL     1      22.020 136.013  26.920  1.00  0.00           C  
+HETATM    3  N   UNL     1      22.891 134.994  27.065  1.00  0.00           N  
+HETATM    4  C   UNL     1      22.793 134.372  28.278  1.00  0.00           C  
+HETATM    5  O   UNL     1      23.516 133.403  28.543  1.00  0.00           O  
+HETATM    6  N   UNL     1      21.876 134.826  29.236  1.00  0.00           N  
+HETATM    7  C   UNL     1      20.984 135.880  29.111  1.00  0.00           C  
+HETATM    8  O   UNL     1      20.262 136.205  30.054  1.00  0.00           O  
+HETATM    9  C   UNL     1      21.081 136.469  27.816  1.00  0.00           C  
+HETATM   10  N   UNL     1      20.403 137.544  27.273  1.00  0.00           N  
+HETATM   11  C   UNL     1      20.951 137.713  26.103  1.00  0.00           C  
+CONECT    1    2   11
+CONECT    2    3    9    9
+CONECT    3    4
+CONECT    4    5    5    6
+CONECT    6    7
+CONECT    7    8    8    9
+CONECT    9   10
+CONECT   10   11   11
+END

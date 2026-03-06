@@ -1,0 +1,24 @@
+COMPND    __4hzm_A_rec_4gvf_ndg_lig_min.pdb
+HETATM    1  C1  UNL     1      21.102  48.095  52.634  1.00  0.00           C  
+HETATM    2  C2  UNL     1      19.939  47.968  51.711  1.00  0.00           C  
+HETATM    3  C3  UNL     1      20.054  46.766  50.861  1.00  0.00           C  
+HETATM    4  C4  UNL     1      21.308  46.748  50.152  1.00  0.00           C  
+HETATM    5  C5  UNL     1      22.477  46.874  51.071  1.00  0.00           C  
+HETATM    6  O1  UNL     1      22.334  48.053  51.952  1.00  0.00           O  
+HETATM    7  O2  UNL     1      18.938  46.677  49.917  1.00  0.00           O  
+HETATM    8  O3  UNL     1      21.421  45.518  49.423  1.00  0.00           O  
+HETATM    9  O4  UNL     1      21.015  47.062  53.546  1.00  0.00           O  
+HETATM   10  C6  UNL     1      17.573  48.648  52.138  1.00  0.00           C  
+HETATM   11  C7  UNL     1      16.353  48.578  53.040  1.00  0.00           C  
+HETATM   12  O5  UNL     1      17.526  49.291  51.087  1.00  0.00           O  
+HETATM   13  N1  UNL     1      18.731  47.946  52.536  1.00  0.00           N  
+HETATM   14  C8  UNL     1      23.742  46.992  50.346  1.00  0.00           C  
+HETATM   15  O6  UNL     1      24.062  48.256  49.807  1.00  0.00           O  
+CONECT    1    2    6    9
+CONECT    2    3   13
+CONECT    3    4    7
+CONECT    4    5    8
+CONECT    5    6   14
+CONECT   10   11   12   12   13
+CONECT   14   15
+END

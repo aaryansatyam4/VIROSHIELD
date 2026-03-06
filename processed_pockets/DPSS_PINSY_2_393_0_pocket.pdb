@@ -1,0 +1,28 @@
+HETATM    1  CAO 3IO A2000      30.463  49.746 100.006  1.00 24.82           C  
+HETATM    2  CAG 3IO A2000      29.173  49.672  99.485  1.00 25.85           C  
+HETATM    3  CAE 3IO A2000      28.351  48.600  99.819  1.00 26.53           C  
+HETATM    4  CAD 3IO A2000      28.821  47.603 100.670  1.00 25.47           C  
+HETATM    5  CAF 3IO A2000      30.110  47.676 101.190  1.00 24.61           C  
+HETATM    6  CAN 3IO A2000      30.930  48.751 100.857  1.00 22.90           C  
+HETATM    7  NAJ 3IO A2000      32.173  49.076 101.205  1.00 22.29           N  
+HETATM    8  CAH 3IO A2000      32.508  50.222 100.616  1.00 22.44           C  
+HETATM    9  CAM 3IO A2000      31.497  50.664  99.871  1.00 23.94           C  
+HETATM   10  CAI 3IO A2000      31.538  51.880  98.942  1.00 24.43           C  
+HETATM   11  CAL 3IO A2000      30.550  52.978  99.348  1.00 26.35           C  
+HETATM   12  OAB 3IO A2000      29.484  52.715  99.903  1.00 23.80           O  
+HETATM   13  CAK 3IO A2000      30.919  54.440  99.083  1.00 25.97           C  
+HETATM   14  OAC 3IO A2000      32.132  54.742  99.041  1.00 22.33           O  
+HETATM   15  OAA 3IO A2000      29.986  55.263  98.958  1.00 22.82           O  
+CONECT    1    2    6    9
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   13   14   15
+END

@@ -1,0 +1,26 @@
+HETATM    1  N1  PXP A 802       2.211 -16.996  -6.083  1.00 32.89           N  
+HETATM    2  C2  PXP A 802       0.915 -16.606  -6.378  1.00 33.71           C  
+HETATM    3  C2A PXP A 802       0.000 -17.524  -7.206  1.00 29.36           C  
+HETATM    4  C3  PXP A 802       0.458 -15.380  -5.918  1.00 32.40           C  
+HETATM    5  O3  PXP A 802      -0.830 -14.962  -6.197  1.00 37.84           O  
+HETATM    6  C4  PXP A 802       1.321 -14.547  -5.155  1.00 32.70           C  
+HETATM    7  C4A PXP A 802       0.814 -13.209  -4.662  1.00 34.69           C  
+HETATM    8  O4A PXP A 802      -0.473 -13.407  -4.215  1.00 41.65           O  
+HETATM    9  C5  PXP A 802       2.643 -14.963  -4.860  1.00 31.78           C  
+HETATM   10  C6  PXP A 802       3.072 -16.193  -5.332  1.00 35.07           C  
+HETATM   11  C5A PXP A 802       3.627 -14.107  -4.025  1.00 32.78           C  
+HETATM   12  O4P PXP A 802       3.224 -14.103  -2.671  1.00 31.62           O  
+HETATM   13  P   PXP A 802       3.990 -13.354  -1.534  1.00 29.91           P  
+HETATM   14  O1P PXP A 802       3.260 -13.830  -0.360  1.00 35.08           O  
+HETATM   15  O2P PXP A 802       3.725 -11.840  -1.879  1.00 28.26           O  
+HETATM   16  O3P PXP A 802       5.437 -13.558  -1.515  1.00 32.40           O  
+CONECT    1    2   10
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7    9
+CONECT    7    8
+CONECT    9   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   15   16
+END

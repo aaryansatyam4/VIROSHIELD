@@ -1,0 +1,22 @@
+COMPND    4ZCW_4NG_A_501
+HETATM    1  C1  UNL     1      97.902  96.270  23.594  1.00  0.00           C  
+HETATM    2  C2  UNL     1      95.664  96.971  23.665  1.00  0.00           C  
+HETATM    3  C3  UNL     1      96.112  96.916  22.195  1.00  0.00           C  
+HETATM    4  C4  UNL     1      97.554  96.385  22.162  1.00  0.00           C  
+HETATM    5  N1  UNL     1      96.833  96.619  24.439  1.00  0.00           N  
+HETATM    6  O1  UNL     1      96.827  96.426  25.779  1.00  0.00           O  
+HETATM    7  O2  UNL     1      99.031  95.912  24.025  1.00  0.00           O  
+HETATM    8  O3  UNL     1      95.264  98.269  23.982  1.00  0.00           O  
+HETATM    9  O4  UNL     1      98.645  94.763  20.054  1.00  0.00           O  
+HETATM   10  O5  UNL     1      96.192  94.396  20.884  1.00  0.00           O  
+HETATM   11  O6  UNL     1      98.091  93.589  22.488  1.00  0.00           O  
+HETATM   12  P1  UNL     1      97.580  94.748  21.368  1.00  0.00           P  
+CONECT    1    4    5    7    7
+CONECT    2    3    5    8
+CONECT    3    4
+CONECT    4   12
+CONECT    5    6
+CONECT    9   12
+CONECT   10   12   12
+CONECT   11   12
+END

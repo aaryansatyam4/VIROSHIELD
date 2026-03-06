@@ -1,0 +1,52 @@
+HETATM    1  CBA VH2 A 418      47.806  -5.414  23.606  0.80 22.82           C  
+HETATM    2  CAP VH2 A 418      47.821  -4.176  24.306  0.80 23.49           C  
+HETATM    3  CAG VH2 A 418      47.876  -2.921  23.662  0.80 23.86           C  
+HETATM    4  CAF VH2 A 418      47.970  -2.943  22.261  0.80 21.90           C  
+HETATM    5  CAN VH2 A 418      47.988  -4.153  21.546  0.80 22.27           C  
+HETATM    6  CAZ VH2 A 418      47.861  -5.401  22.186  0.80 23.11           C  
+HETATM    7  CAO VH2 A 418      47.866  -6.599  21.459  0.80 21.55           C  
+HETATM    8  CAH VH2 A 418      47.805  -7.839  22.092  0.80 21.72           C  
+HETATM    9  CAK VH2 A 418      47.714  -7.871  23.480  0.80 22.04           C  
+HETATM   10  CAW VH2 A 418      47.695  -6.686  24.228  0.80 22.71           C  
+HETATM   11  SBB VH2 A 418      47.623  -6.891  25.972  0.80 25.07           S  
+HETATM   12  OAB VH2 A 418      46.625  -5.912  26.490  0.80 23.54           O  
+HETATM   13  OAC VH2 A 418      47.182  -8.338  26.327  0.80 28.99           O  
+HETATM   14  NAR VH2 A 418      49.129  -6.493  26.605  0.80 25.97           N  
+HETATM   15  CAV VH2 A 418      50.128  -7.311  26.568  0.80 26.79           C  
+HETATM   16  SAS VH2 A 418      50.048  -9.022  26.135  0.80 26.31           S  
+HETATM   17  NAQ VH2 A 418      51.378  -6.930  26.867  0.80 26.47           N  
+HETATM   18  CAX VH2 A 418      52.255  -7.935  26.758  0.80 28.17           C  
+HETATM   19  OAA VH2 A 418      53.443  -7.707  26.992  0.80 32.16           O  
+HETATM   20  CAY VH2 A 418      51.792  -9.154  26.377  0.80 25.69           C  
+HETATM   21  CAE VH2 A 418      52.600 -10.252  26.251  0.80 27.09           C  
+HETATM   22  CAU VH2 A 418      52.141 -11.542  25.942  0.80 25.12           C  
+HETATM   23  CAL VH2 A 418      50.895 -11.994  26.375  0.80 24.94           C  
+HETATM   24  CAI VH2 A 418      50.479 -13.268  26.078  0.80 23.35           C  
+HETATM   25  CAT VH2 A 418      51.279 -14.080  25.353  0.80 23.06           C  
+HETATM   26  BR  VH2 A 418      50.694 -15.916  24.886  0.80 35.87          BR  
+HETATM   27  CAJ VH2 A 418      52.554 -13.708  24.928  0.80 24.61           C  
+HETATM   28  CAM VH2 A 418      52.965 -12.405  25.228  0.80 25.84           C  
+CONECT    1    2    6   10
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13   14
+CONECT   14   15
+CONECT   15   16   17
+CONECT   16   20
+CONECT   17   18
+CONECT   18   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23   28
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26   27
+CONECT   27   28
+END

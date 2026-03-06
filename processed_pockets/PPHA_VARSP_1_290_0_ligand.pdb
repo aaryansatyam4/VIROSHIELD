@@ -1,0 +1,16 @@
+COMPND    1KC7_PPR_A_1000
+HETATM    1  C1  UNL     1      55.271  21.849  41.277  1.00  0.00           C  
+HETATM    2  P1  UNL     1      53.539  22.284  41.618  1.00  0.00           P  
+HETATM    3  O1  UNL     1      52.996  23.106  40.473  1.00  0.00           O  
+HETATM    4  O2  UNL     1      53.448  23.183  43.047  1.00  0.00           O  
+HETATM    5  O3  UNL     1      52.620  20.873  41.781  1.00  0.00           O  
+HETATM    6  C2  UNL     1      55.424  21.401  39.862  1.00  0.00           C  
+HETATM    7  O4  UNL     1      54.896  22.077  38.940  1.00  0.00           O  
+HETATM    8  C3  UNL     1      56.163  20.174  39.537  1.00  0.00           C  
+HETATM    9  O5  UNL     1      57.133  19.805  40.251  1.00  0.00           O  
+HETATM   10  O6  UNL     1      55.794  19.411  38.437  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3    3    4    5
+CONECT    6    7    7    8
+CONECT    8    9    9   10
+END

@@ -1,0 +1,20 @@
+COMPND    LFA
+HETATM    1  C1  UNL     1       2.404   4.798  60.515  1.00  0.00           C  
+HETATM    2  C2  UNL     1       1.044   4.095  60.370  1.00  0.00           C  
+HETATM    3  C3  UNL     1       0.934   2.832  61.237  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.319   0.440  60.713  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.151   1.892  60.700  1.00  0.00           C  
+HETATM    6  C6  UNL     1       2.370   5.943  61.543  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.992   6.617  61.630  1.00  0.00           C  
+HETATM    8  C8  UNL     1       1.077   8.093  62.048  1.00  0.00           C  
+HETATM    9  C9  UNL     1       2.326   8.349  62.901  1.00  0.00           C  
+HETATM   10  C10 UNL     1       2.852   9.767  62.698  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    5
+CONECT    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+END

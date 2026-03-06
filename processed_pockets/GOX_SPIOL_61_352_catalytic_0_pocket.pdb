@@ -1,0 +1,33 @@
+HETATM    1  N1  DHP A 361      48.623  55.250  19.797  1.00 16.53           N  
+HETATM    2  C1  DHP A 361      48.970  55.767  17.752  1.00 19.75           C  
+HETATM    3  O3  DHP A 361      49.392  56.246  16.759  1.00 17.94           O  
+HETATM    4  C2  DHP A 361      49.323  56.034  18.999  1.00 18.00           C  
+HETATM    5  O2  DHP A 361      50.226  56.936  19.461  1.00 16.28           O  
+HETATM    6  C3  DHP A 361      47.749  54.557  19.031  1.00 18.64           C  
+HETATM    7  O1  DHP A 361      46.965  53.865  20.058  1.00 13.22           O  
+HETATM    8  C4  DHP A 361      47.988  54.791  17.724  1.00 20.17           C  
+HETATM    9  C5  DHP A 361      47.363  54.131  16.482  1.00 23.17           C  
+HETATM   10  C6  DHP A 361      46.284  54.992  15.798  1.00 25.16           C  
+HETATM   11  C7  DHP A 361      45.708  54.322  14.534  0.00 28.03           C  
+HETATM   12  C8  DHP A 361      46.701  54.299  13.357  0.00 30.49           C  
+HETATM   13  C9  DHP A 361      46.069  54.793  12.045  1.00 33.66           C  
+HETATM   14  C10 DHP A 361      47.094  54.983  10.909  1.00 34.28           C  
+HETATM   15  C11 DHP A 361      47.230  56.456  10.478  1.00 33.92           C  
+HETATM   16  C12 DHP A 361      47.258  56.638   8.950  1.00 34.31           C  
+HETATM   17  C13 DHP A 361      48.666  56.948   8.410  1.00 31.43           C  
+HETATM   18  C14 DHP A 361      48.780  58.416   7.878  1.00 30.81           C  
+CONECT    1    4    6
+CONECT    2    3    4    8
+CONECT    4    5
+CONECT    6    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+END

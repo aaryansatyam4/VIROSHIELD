@@ -1,0 +1,30 @@
+HETATM    1  C1  SGN A   3      -8.372   9.557  28.432  0.75 60.61           C  
+HETATM    2  C2  SGN A   3      -9.503  10.322  27.728  0.75 63.64           C  
+HETATM    3  C3  SGN A   3     -10.664   9.446  27.239  0.75 63.39           C  
+HETATM    4  C4  SGN A   3     -10.190   8.075  26.772  0.75 61.23           C  
+HETATM    5  C5  SGN A   3      -9.418   7.408  27.912  0.75 58.41           C  
+HETATM    6  C6  SGN A   3      -8.960   6.012  27.536  0.75 56.30           C  
+HETATM    7  N   SGN A   3      -9.983  11.378  28.620  0.75 66.67           N  
+HETATM    8  O3  SGN A   3     -11.340  10.092  26.181  0.75 63.43           O  
+HETATM    9  O4  SGN A   3     -11.302   7.302  26.358  0.75 61.79           O  
+HETATM   10  O5  SGN A   3      -8.248   8.159  28.183  0.75 56.24           O  
+HETATM   11  O6  SGN A   3      -7.962   6.199  26.560  0.75 56.10           O  
+HETATM   12  S1  SGN A   3      -9.289  12.833  28.699  0.75 70.27           S  
+HETATM   13  O1S SGN A   3      -8.591  12.954  27.423  0.75 70.55           O  
+HETATM   14  O2S SGN A   3     -10.366  13.826  28.825  0.75 67.34           O  
+HETATM   15  O3S SGN A   3      -8.353  12.851  29.838  0.75 67.26           O  
+HETATM   16  S2  SGN A   3      -6.495   5.681  26.769  0.75 58.73           S  
+HETATM   17  O4S SGN A   3      -5.588   6.764  26.363  0.75 55.28           O  
+HETATM   18  O5S SGN A   3      -6.285   5.361  28.190  0.75 57.68           O  
+HETATM   19  O6S SGN A   3      -6.370   4.491  25.905  0.75 58.21           O  
+CONECT    1    2   10
+CONECT    2    3    7
+CONECT    3    4    8
+CONECT    4    5    9
+CONECT    5    6   10
+CONECT    6   11
+CONECT    7   12
+CONECT   11   16
+CONECT   12   13   14   15
+CONECT   16   17   18   19
+END

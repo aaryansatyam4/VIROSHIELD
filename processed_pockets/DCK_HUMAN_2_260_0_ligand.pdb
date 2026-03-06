@@ -1,0 +1,30 @@
+COMPND    __3mjr_A_rec_2no6_etv_lig_it1_docked.pdb
+HETATM    1  O1  UNL     1       7.607   5.048  17.745  1.00  0.00           O  
+HETATM    2  C1  UNL     1       8.380   5.629  16.971  1.00  0.00           C  
+HETATM    3  N1  UNL     1       7.979   6.305  15.834  1.00  0.00           N  
+HETATM    4  C2  UNL     1       8.854   6.898  15.047  1.00  0.00           C  
+HETATM    5  N2  UNL     1       8.431   7.535  13.971  1.00  0.00           N  
+HETATM    6  C3  UNL     1      10.256   6.830  15.364  1.00  0.00           C  
+HETATM    7  F1  UNL     1      11.139   7.450  14.524  1.00  0.00           F  
+HETATM    8  C4  UNL     1      10.680   6.190  16.470  1.00  0.00           C  
+HETATM    9  N3  UNL     1       9.731   5.589  17.281  1.00  0.00           N  
+HETATM   10  C5  UNL     1      10.117   4.833  18.512  1.00  0.00           C  
+HETATM   11  O2  UNL     1      10.825   5.752  19.318  1.00  0.00           O  
+HETATM   12  C6  UNL     1      10.239   6.006  20.593  1.00  0.00           C  
+HETATM   13  S1  UNL     1       8.496   5.625  20.360  1.00  0.00           S  
+HETATM   14  C7  UNL     1       8.925   4.256  19.273  1.00  0.00           C  
+HETATM   15  C8  UNL     1      10.455   7.453  21.020  1.00  0.00           C  
+HETATM   16  O3  UNL     1      10.340   8.236  19.858  1.00  0.00           O  
+CONECT    1    2    2
+CONECT    2    3    9
+CONECT    3    4    4
+CONECT    4    5    6
+CONECT    6    7    8    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   14
+CONECT   11   12
+CONECT   12   13   15
+CONECT   13   14
+CONECT   15   16
+END

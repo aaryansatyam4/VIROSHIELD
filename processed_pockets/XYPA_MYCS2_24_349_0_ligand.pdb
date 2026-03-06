@@ -1,0 +1,17 @@
+COMPND    __4rs3_A_rec_4rs3_xyl_lig_min.pdb
+HETATM    1  C1  UNL     1      56.282  10.883  14.107  1.00  0.00           C  
+HETATM    2  O1  UNL     1      55.290  11.918  14.390  1.00  0.00           O  
+HETATM    3  C2  UNL     1      55.633   9.713  13.335  1.00  0.00           C  
+HETATM    4  O2  UNL     1      54.630   9.040  14.113  1.00  0.00           O  
+HETATM    5  C3  UNL     1      54.970  10.180  11.997  1.00  0.00           C  
+HETATM    6  O3  UNL     1      55.572  11.363  11.506  1.00  0.00           O  
+HETATM    7  C4  UNL     1      56.853  10.457  15.451  1.00  0.00           C  
+HETATM    8  O4  UNL     1      57.570  11.585  15.953  1.00  0.00           O  
+HETATM    9  C5  UNL     1      57.808   9.260  15.321  1.00  0.00           C  
+HETATM   10  O5  UNL     1      58.189   8.712  16.593  1.00  0.00           O  
+CONECT    1    2    3    7
+CONECT    3    4    5
+CONECT    5    6
+CONECT    7    8    9
+CONECT    9   10
+END

@@ -1,0 +1,47 @@
+HETATM    1  N   SAH A1706      -5.181  -7.701  27.503  1.00 58.10           N  
+HETATM    2  CA  SAH A1706      -6.446  -6.972  27.505  1.00 52.58           C  
+HETATM    3  CB  SAH A1706      -6.348  -5.661  28.278  1.00 43.03           C  
+HETATM    4  CG  SAH A1706      -5.247  -5.612  29.329  1.00 39.40           C  
+HETATM    5  SD  SAH A1706      -5.919  -5.665  31.009  1.00 35.61           S  
+HETATM    6  C   SAH A1706      -6.965  -6.732  26.092  1.00 48.61           C  
+HETATM    7  O   SAH A1706      -6.854  -7.598  25.225  1.00 36.89           O  
+HETATM    8  OXT SAH A1706      -7.518  -5.673  25.795  1.00 54.79           O  
+HETATM    9  C5' SAH A1706      -5.196  -4.045  31.376  1.00 34.48           C  
+HETATM   10  C4' SAH A1706      -3.672  -4.074  31.366  1.00 37.23           C  
+HETATM   11  O4' SAH A1706      -3.146  -2.781  31.596  1.00 38.43           O  
+HETATM   12  C3' SAH A1706      -3.114  -4.974  32.458  1.00 33.32           C  
+HETATM   13  O3' SAH A1706      -2.464  -6.076  31.870  1.00 29.84           O  
+HETATM   14  C2' SAH A1706      -2.103  -4.127  33.204  1.00 35.52           C  
+HETATM   15  O2' SAH A1706      -0.880  -4.812  33.313  1.00 37.45           O  
+HETATM   16  C1' SAH A1706      -1.946  -2.891  32.334  1.00 33.56           C  
+HETATM   17  N9  SAH A1706      -1.684  -1.678  33.130  1.00 28.14           N  
+HETATM   18  C8  SAH A1706      -2.140  -1.389  34.392  1.00 32.34           C  
+HETATM   19  N7  SAH A1706      -1.661  -0.174  34.751  1.00 23.47           N  
+HETATM   20  C5  SAH A1706      -0.909   0.315  33.739  1.00 33.12           C  
+HETATM   21  C6  SAH A1706      -0.197   1.498  33.578  1.00 31.06           C  
+HETATM   22  N6  SAH A1706      -0.176   2.411  34.545  1.00 33.49           N  
+HETATM   23  N1  SAH A1706       0.492   1.723  32.404  1.00 35.04           N  
+HETATM   24  C2  SAH A1706       0.473   0.779  31.399  1.00 34.67           C  
+HETATM   25  N3  SAH A1706      -0.236  -0.393  31.566  1.00 29.26           N  
+HETATM   26  C4  SAH A1706      -0.915  -0.622  32.717  1.00 29.75           C  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4
+CONECT    4    5
+CONECT    5    9
+CONECT    6    7    8
+CONECT    9   10
+CONECT   10   11   12
+CONECT   11   16
+CONECT   12   13   14
+CONECT   14   15   16
+CONECT   16   17
+CONECT   17   18   26
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21   26
+CONECT   21   22   23
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26
+END

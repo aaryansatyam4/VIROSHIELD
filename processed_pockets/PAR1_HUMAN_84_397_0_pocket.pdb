@@ -1,0 +1,68 @@
+HETATM    1  CAA VPX A2001     -16.871  -8.997  58.591  1.00 43.41           C  
+HETATM    2  CAO VPX A2001     -15.518  -8.462  59.056  1.00 42.59           C  
+HETATM    3  OAV VPX A2001     -14.506  -9.421  58.761  1.00 36.02           O  
+HETATM    4  CAX VPX A2001     -13.301  -8.960  59.174  1.00 30.25           C  
+HETATM    5  OAC VPX A2001     -13.123  -7.754  59.323  1.00 31.24           O  
+HETATM    6  NAU VPX A2001     -12.308  -9.821  59.414  1.00 27.48           N  
+HETATM    7  CBE VPX A2001     -10.981  -9.389  59.864  1.00 27.23           C  
+HETATM    8  CAR VPX A2001     -10.419 -10.432  60.807  1.00 25.00           C  
+HETATM    9  CAP VPX A2001     -10.063  -9.253  58.668  1.00 24.74           C  
+HETATM   10  CAQ VPX A2001      -8.680  -8.835  59.131  1.00 24.56           C  
+HETATM   11  CBI VPX A2001      -8.114  -9.869  60.090  1.00 26.54           C  
+HETATM   12  CBG VPX A2001      -9.039 -10.014  61.275  1.00 25.22           C  
+HETATM   13  CAS VPX A2001      -8.491 -11.083  62.187  1.00 26.08           C  
+HETATM   14  CBH VPX A2001      -7.146 -10.671  62.749  1.00 24.45           C  
+HETATM   15  CAY VPX A2001      -6.533 -11.811  63.237  1.00 28.98           C  
+HETATM   16  OAD VPX A2001      -6.641 -12.137  64.417  1.00 29.80           O  
+HETATM   17  OAW VPX A2001      -5.823 -12.514  62.307  1.00 29.61           O  
+HETATM   18  CBD VPX A2001      -5.844 -11.699  61.113  1.00 27.23           C  
+HETATM   19  CAB VPX A2001      -4.455 -11.701  60.476  1.00 26.61           C  
+HETATM   20  CBJ VPX A2001      -6.162 -10.319  61.655  1.00 24.40           C  
+HETATM   21  CBF VPX A2001      -6.763  -9.383  60.584  1.00 27.32           C  
+HETATM   22  CAG VPX A2001      -5.789  -9.232  59.407  1.00 25.16           C  
+HETATM   23  CAF VPX A2001      -4.981  -7.956  59.630  1.00 27.97           C  
+HETATM   24  CBA VPX A2001      -4.007  -7.764  58.656  1.00 29.41           C  
+HETATM   25  CAK VPX A2001      -3.785  -8.693  57.644  1.00 32.13           C  
+HETATM   26  CAL VPX A2001      -2.797  -8.460  56.690  1.00 29.17           C  
+HETATM   27  NAT VPX A2001      -3.275  -6.646  58.716  1.00 33.43           N  
+HETATM   28  CAM VPX A2001      -2.281  -6.386  57.776  1.00 28.65           C  
+HETATM   29  CBB VPX A2001      -2.041  -7.295  56.759  1.00 32.74           C  
+HETATM   30  CBC VPX A2001      -1.045  -7.011  55.833  1.00 36.39           C  
+HETATM   31  CAN VPX A2001       0.034  -6.228  56.219  1.00 35.09           C  
+HETATM   32  CAZ VPX A2001       1.040  -5.925  55.313  1.00 34.78           C  
+HETATM   33  FAE VPX A2001       2.076  -5.172  55.696  1.00 37.76           F  
+HETATM   34  CAI VPX A2001       0.968  -6.406  54.012  1.00 32.26           C  
+HETATM   35  CAH VPX A2001      -0.113  -7.188  53.622  1.00 34.73           C  
+HETATM   36  CAJ VPX A2001      -1.121  -7.490  54.531  1.00 39.39           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    6
+CONECT    6    7
+CONECT    7    8    9
+CONECT    8   12
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   21
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   20
+CONECT   15   16   17
+CONECT   17   18
+CONECT   18   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   27
+CONECT   25   26
+CONECT   26   29
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31   36
+CONECT   31   32
+CONECT   32   33   34
+CONECT   34   35
+CONECT   35   36
+END

@@ -1,0 +1,35 @@
+COMPND    __5gmd_A_rec_5gmd_dp6_lig_it2_docked.pdb
+HETATM    1  O1  UNL     1      10.210  23.500  19.102  1.00  0.00           O  
+HETATM    2  O2  UNL     1      12.464  23.048  20.180  1.00  0.00           O  
+HETATM    3  O3  UNL     1      12.415  24.144  17.934  1.00  0.00           O  
+HETATM    4  P1  UNL     1      11.772  23.194  18.848  1.00  0.00           P  
+HETATM    5  O4  UNL     1      11.650  21.744  18.216  1.00  0.00           O  
+HETATM    6  O5  UNL     1      11.154  19.328  18.279  1.00  0.00           O  
+HETATM    7  O6  UNL     1      12.487  20.384  20.132  1.00  0.00           O  
+HETATM    8  O7  UNL     1      13.529  20.020  17.896  1.00  0.00           O  
+HETATM    9  P2  UNL     1      12.230  20.290  18.625  1.00  0.00           P  
+HETATM   10  C1  UNL     1       9.166  22.700  18.353  1.00  0.00           C  
+HETATM   11  C2  UNL     1       7.999  22.741  19.089  1.00  0.00           C  
+HETATM   12  C3  UNL     1       7.349  20.952  17.576  1.00  0.00           C  
+HETATM   13  O8  UNL     1       6.710  20.829  19.809  1.00  0.00           O  
+HETATM   14  C4  UNL     1       6.922  21.789  18.759  1.00  0.00           C  
+HETATM   15  C5  UNL     1       5.613  22.459  18.435  1.00  0.00           C  
+HETATM   16  C6  UNL     1       4.404  21.950  19.038  1.00  0.00           C  
+HETATM   17  O9  UNL     1       3.366  21.586  18.467  1.00  0.00           O  
+HETATM   18  O10 UNL     1       4.437  21.700  20.358  1.00  0.00           O  
+CONECT    1    4   10
+CONECT    2    4    4
+CONECT    3    4
+CONECT    4    5
+CONECT    5    9
+CONECT    6    9    9
+CONECT    7    9
+CONECT    8    9
+CONECT   10   11
+CONECT   11   14
+CONECT   12   14
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   17   18
+END

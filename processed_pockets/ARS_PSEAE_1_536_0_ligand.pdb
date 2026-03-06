@@ -1,0 +1,32 @@
+COMPND    4CXU_62Y_A_1529
+HETATM    1  C1  UNL     1     -12.145 -19.088  21.082  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -13.083 -18.132  21.482  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -14.314 -18.040  20.822  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -14.609 -18.915  19.771  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -13.671 -19.871  19.372  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -12.438 -19.956  20.026  1.00  0.00           C  
+HETATM    7  O1  UNL     1     -16.214 -17.322  22.593  1.00  0.00           O  
+HETATM    8  O2  UNL     1     -16.665 -16.589  20.125  1.00  0.00           O  
+HETATM    9  O3  UNL     1     -14.731 -15.334  21.690  1.00  0.00           O  
+HETATM   10  C7  UNL     1     -13.991 -14.618  20.743  1.00  0.00           C  
+HETATM   11  C8  UNL     1     -13.382 -13.419  21.131  1.00  0.00           C  
+HETATM   12  C9  UNL     1     -12.630 -12.678  20.213  1.00  0.00           C  
+HETATM   13  C10 UNL     1     -12.484 -13.133  18.900  1.00  0.00           C  
+HETATM   14  C11 UNL     1     -13.089 -14.329  18.504  1.00  0.00           C  
+HETATM   15  C12 UNL     1     -13.840 -15.068  19.421  1.00  0.00           C  
+HETATM   16  P1  UNL     1     -15.519 -16.827  21.346  1.00  0.00           P  
+HETATM   17 BR1  UNL     1     -12.889 -14.955  16.716  1.00  0.00          BR  
+CONECT    1    2    2    6
+CONECT    2    3
+CONECT    3    4    4   16
+CONECT    4    5
+CONECT    5    6    6
+CONECT    7   16   16
+CONECT    8   16
+CONECT    9   10   16
+CONECT   10   11   11   15
+CONECT   11   12
+CONECT   12   13   13
+CONECT   13   14
+CONECT   14   15   15   17
+END

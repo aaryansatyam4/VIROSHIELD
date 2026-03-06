@@ -1,0 +1,24 @@
+COMPND    3P9K_CIY_A_601
+HETATM    1  C1  UNL     1     -22.849  12.866   5.228  1.00  0.00           C  
+HETATM    2  C2  UNL     1     -23.666  13.695   6.002  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -23.782  13.512   7.385  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -23.054  12.465   8.000  1.00  0.00           C  
+HETATM    5  O1  UNL     1     -23.126  12.231   9.368  1.00  0.00           O  
+HETATM    6  C5  UNL     1     -22.238  11.636   7.225  1.00  0.00           C  
+HETATM    7  C6  UNL     1     -22.134  11.833   5.848  1.00  0.00           C  
+HETATM    8  O2  UNL     1     -24.624  14.390   8.082  1.00  0.00           O  
+HETATM    9  C7  UNL     1     -26.014  14.184   8.289  1.00  0.00           C  
+HETATM   10  C8  UNL     1     -22.767  13.106   3.781  1.00  0.00           C  
+HETATM   11  C9  UNL     1     -21.648  12.931   3.087  1.00  0.00           C  
+HETATM   12  C10 UNL     1     -21.633  13.187   1.651  1.00  0.00           C  
+HETATM   13  O3  UNL     1     -21.742  14.364   1.221  1.00  0.00           O  
+CONECT    1    2    7    7   10
+CONECT    2    3    3
+CONECT    3    4    8
+CONECT    4    5    6    6
+CONECT    6    7
+CONECT    8    9
+CONECT   10   11   11
+CONECT   11   12
+CONECT   12   13   13
+END

@@ -1,0 +1,12 @@
+COMPND    __3pnq_D_rec_3pnq_2ha_lig_min.pdb
+HETATM    1  O1  UNL     1      39.882  -2.158 -30.093  1.00  0.00           O  
+HETATM    2  C1  UNL     1      41.016  -2.458 -30.446  1.00  0.00           C  
+HETATM    3  O2  UNL     1      42.141  -1.385 -28.580  1.00  0.00           O  
+HETATM    4  C2  UNL     1      42.191  -1.610 -29.980  1.00  0.00           C  
+HETATM    5  O3  UNL     1      40.357  -3.724 -32.410  1.00  0.00           O  
+HETATM    6  C3  UNL     1      41.257  -3.708 -31.297  1.00  0.00           C  
+CONECT    1    2    2
+CONECT    2    4    6
+CONECT    3    4
+CONECT    5    6
+END

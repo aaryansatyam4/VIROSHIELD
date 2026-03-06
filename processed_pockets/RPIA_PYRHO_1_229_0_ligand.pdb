@@ -1,0 +1,22 @@
+COMPND    __1lk7_A_rec_1lk7_der_lig_it1_it2_docked.pdb
+HETATM    1  C1  UNL     1      17.789  10.710  89.419  1.00  0.00           C  
+HETATM    2  O1  UNL     1      17.115  11.641  88.603  1.00  0.00           O  
+HETATM    3  C2  UNL     1      17.377  11.007  90.853  1.00  0.00           C  
+HETATM    4  O2  UNL     1      17.477  12.408  91.089  1.00  0.00           O  
+HETATM    5  O3  UNL     1      15.103  11.201  91.528  1.00  0.00           O  
+HETATM    6  C3  UNL     1      15.962  10.498  90.982  1.00  0.00           C  
+HETATM    7  O4  UNL     1      15.677   9.373  90.563  1.00  0.00           O  
+HETATM    8  C4  UNL     1      19.285  10.835  89.211  1.00  0.00           C  
+HETATM    9  O5  UNL     1      19.583  10.893  87.808  1.00  0.00           O  
+HETATM   10  P1  UNL     1      20.637   9.815  87.258  1.00  0.00           P  
+HETATM   11  O6  UNL     1      19.897   8.674  86.623  1.00  0.00           O  
+HETATM   12  O7  UNL     1      21.444   9.435  88.472  1.00  0.00           O  
+HETATM   13  O8  UNL     1      21.398  10.537  86.176  1.00  0.00           O  
+CONECT    1    2    3    8
+CONECT    3    4    6
+CONECT    5    6    6
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12   13   13
+END

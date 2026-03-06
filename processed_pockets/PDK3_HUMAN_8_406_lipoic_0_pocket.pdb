@@ -1,0 +1,20 @@
+HETATM    1  C1  RED C 900      32.341   1.427  18.771  1.00 64.11           C  
+HETATM    2  O1  RED C 900      32.554   1.860  19.955  1.00 67.07           O  
+HETATM    3  C2  RED C 900      31.588   0.149  18.385  1.00 66.47           C  
+HETATM    4  C3  RED C 900      30.144   0.201  18.967  1.00 65.06           C  
+HETATM    5  C4  RED C 900      29.807  -1.059  19.808  1.00 63.92           C  
+HETATM    6  C5  RED C 900      29.173  -0.652  21.172  1.00 64.56           C  
+HETATM    7  C6  RED C 900      27.708  -0.114  21.051  1.00 65.65           C  
+HETATM    8  C7  RED C 900      27.197   0.193  22.520  1.00 64.82           C  
+HETATM    9  C8  RED C 900      25.720  -0.224  22.821  1.00 64.32           C  
+HETATM   10  S8  RED C 900      25.043   1.148  23.768  1.00 63.67           S  
+HETATM   11  S6  RED C 900      26.662  -1.340  20.165  1.00 69.44           S  
+CONECT    1    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8   11
+CONECT    8    9
+CONECT    9   10
+END

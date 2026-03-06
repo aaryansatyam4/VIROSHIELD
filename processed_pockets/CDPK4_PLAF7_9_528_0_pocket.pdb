@@ -1,0 +1,39 @@
+HETATM    1  N1 ADXR A 602      33.522 -14.694  -1.525  0.37 48.30           N  
+HETATM    2  C2 ADXR A 602      33.006 -15.726  -2.309  0.37 42.38           C  
+HETATM    3  N3 ADXR A 602      31.634 -15.743  -2.549  0.37 37.57           N  
+HETATM    4  C4 ADXR A 602      30.869 -14.779  -2.021  0.37 42.85           C  
+HETATM    5  C5 ADXR A 602      31.392 -13.797  -1.274  0.37 49.72           C  
+HETATM    6  C6 ADXR A 602      32.701 -13.757  -1.026  0.37 52.37           C  
+HETATM    7  NAGADXR A 602      29.555 -14.773  -2.233  0.37 43.28           N  
+HETATM    8  CAHADXR A 602      30.912 -12.737  -0.621  0.37 50.29           C  
+HETATM    9  NAIADXR A 602      31.921 -12.104  -0.033  0.37 55.23           N  
+HETATM   10  NAJADXR A 602      32.940 -12.686  -0.260  0.37 54.10           N  
+HETATM   11  CAKADXR A 602      34.258 -12.235   0.261  0.37 45.82           C  
+HETATM   12  CALADXR A 602      34.066 -10.952   1.072  0.37 34.51           C  
+HETATM   13  CAMADXR A 602      34.860 -13.317   1.160  0.37 52.13           C  
+HETATM   14  CANADXR A 602      35.206 -11.955  -0.908  0.37 42.95           C  
+HETATM   15  CAOADXR A 602      29.458 -12.239  -0.538  0.37 51.97           C  
+HETATM   16  CAPADXR A 602      28.646 -13.025   0.284  0.37 54.74           C  
+HETATM   17  CAQADXR A 602      27.345 -12.602   0.530  0.37 59.31           C  
+HETATM   18  CARADXR A 602      26.502 -13.357   1.335  0.37 67.57           C  
+HETATM   19  CASADXR A 602      26.957 -14.544   1.897  0.37 82.10           C  
+HETATM   20  CATADXR A 602      28.257 -14.972   1.656  0.37 86.19           C  
+HETATM   21  CAUADXR A 602      29.097 -14.214   0.850  0.37 63.58           C  
+HETATM   22 BRAVADXR A 602      24.750 -12.770   1.659  0.37 85.84          BR  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    7
+CONECT    5    6    8
+CONECT    6   10
+CONECT    8    9   15
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13   14
+CONECT   15   16
+CONECT   16   17   21
+CONECT   17   18
+CONECT   18   19   22
+CONECT   19   20
+CONECT   20   21
+END

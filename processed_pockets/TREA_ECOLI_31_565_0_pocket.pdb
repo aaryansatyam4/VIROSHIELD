@@ -1,0 +1,44 @@
+HETATM    1  O7  TTZ A1548      18.281  51.298  13.399  1.00  8.88           O  
+HETATM    2  C7  TTZ A1548      19.228  51.007  14.383  1.00  7.30           C  
+HETATM    3  C5  TTZ A1548      19.810  49.616  14.236  1.00  4.79           C  
+HETATM    4  O5  TTZ A1548      20.733  49.559  15.299  1.00  6.36           O  
+HETATM    5  C4  TTZ A1548      18.828  48.450  14.400  1.00  4.00           C  
+HETATM    6  O4  TTZ A1548      17.454  48.841  14.380  1.00  4.24           O  
+HETATM    7  C3  TTZ A1548      19.100  47.478  13.240  1.00  4.41           C  
+HETATM    8  O3  TTZ A1548      18.930  46.098  13.574  1.00  3.87           O  
+HETATM    9  C2  TTZ A1548      20.499  47.826  12.700  1.00  5.70           C  
+HETATM   10  S1  TTZ A1548      20.608  47.647  10.929  1.00  7.62           S  
+HETATM   11  C6  TTZ A1548      20.583  49.330  12.942  1.00  5.70           C  
+HETATM   12  N1  TTZ A1548      19.954  49.906  11.726  1.00  5.93           N  
+HETATM   13  C1  TTZ A1548      19.817  49.148  10.731  1.00  6.81           C  
+HETATM   14  N1' TTZ A1548      19.036  49.519   9.689  1.00  5.70           N  
+HETATM   15  C1' TTZ A1548      18.220  50.712   9.622  1.00  4.86           C  
+HETATM   16  C2' TTZ A1548      16.719  50.361   9.539  1.00  3.95           C  
+HETATM   17  O2' TTZ A1548      16.356  49.479  10.600  1.00  5.07           O  
+HETATM   18  O5' TTZ A1548      18.597  51.512   8.472  1.00  5.07           O  
+HETATM   19  C5' TTZ A1548      18.248  51.000   7.179  1.00  3.74           C  
+HETATM   20  C6' TTZ A1548      18.617  52.052   6.139  1.00  3.31           C  
+HETATM   21  O6' TTZ A1548      20.046  52.180   6.066  1.00  5.73           O  
+HETATM   22  C4' TTZ A1548      16.752  50.722   7.112  1.00  3.58           C  
+HETATM   23  O4' TTZ A1548      16.374  50.298   5.806  1.00  4.15           O  
+HETATM   24  C3' TTZ A1548      16.344  49.733   8.202  1.00  4.22           C  
+HETATM   25  O3' TTZ A1548      14.961  49.505   8.133  1.00  4.22           O  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5   11
+CONECT    5    6    7
+CONECT    7    8    9
+CONECT    9   10   11
+CONECT   10   13
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16   18
+CONECT   16   17   24
+CONECT   18   19
+CONECT   19   20   22
+CONECT   20   21
+CONECT   22   23   24
+CONECT   24   25
+END

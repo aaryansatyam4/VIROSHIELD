@@ -1,0 +1,34 @@
+HETATM    1  N1  GSH A 245      13.797  72.535  17.257  1.00 23.71           N  
+HETATM    2  CA1 GSH A 245      13.826  72.648  18.751  1.00 23.71           C  
+HETATM    3  C1  GSH A 245      15.284  72.556  19.241  1.00 23.71           C  
+HETATM    4  O11 GSH A 245      15.685  73.427  20.056  1.00 23.71           O  
+HETATM    5  O12 GSH A 245      16.005  71.614  18.817  1.00 23.71           O  
+HETATM    6  CB1 GSH A 245      12.977  71.523  19.370  1.00 23.71           C  
+HETATM    7  CG1 GSH A 245      12.894  71.493  20.890  1.00 23.71           C  
+HETATM    8  CD1 GSH A 245      12.053  70.345  21.441  1.00 23.71           C  
+HETATM    9  OE1 GSH A 245      11.140  69.825  20.763  1.00 23.71           O  
+HETATM   10  N2  GSH A 245      12.350  69.947  22.685  1.00 23.71           N  
+HETATM   11  CA2 GSH A 245      11.621  68.862  23.347  1.00 23.71           C  
+HETATM   12  C2  GSH A 245      10.377  69.446  24.009  1.00 23.71           C  
+HETATM   13  O2  GSH A 245      10.444  70.516  24.635  1.00 23.71           O  
+HETATM   14  CB2 GSH A 245      12.511  68.129  24.354  1.00 23.71           C  
+HETATM   15  SG2 GSH A 245      13.470  66.787  23.626  1.00 23.71           S  
+HETATM   16  N3  GSH A 245       9.246  68.741  23.845  1.00 23.71           N  
+HETATM   17  CA3 GSH A 245       7.971  69.183  24.402  1.00 23.71           C  
+HETATM   18  C3  GSH A 245       7.099  70.027  23.485  1.00 23.71           C  
+HETATM   19  O31 GSH A 245       5.853  70.037  23.678  1.00 23.71           O  
+HETATM   20  O32 GSH A 245       7.668  70.684  22.572  1.00 23.71           O  
+CONECT    1    2
+CONECT    2    3    6
+CONECT    3    4    5
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10
+CONECT   10   11
+CONECT   11   12   14
+CONECT   12   13   16
+CONECT   14   15
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19   20
+END

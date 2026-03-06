@@ -1,0 +1,25 @@
+COMPND    1A3G_PLP_A_413
+HETATM    1  N1  UNL     1      43.109  -1.885  21.727  1.00  0.00           N  
+HETATM    2  C1  UNL     1      42.486  -1.540  20.570  1.00  0.00           C  
+HETATM    3  C2  UNL     1      41.032  -1.823  20.414  1.00  0.00           C  
+HETATM    4  C3  UNL     1      43.212  -0.926  19.539  1.00  0.00           C  
+HETATM    5  O1  UNL     1      42.581  -0.573  18.349  1.00  0.00           O  
+HETATM    6  C4  UNL     1      44.580  -0.674  19.718  1.00  0.00           C  
+HETATM    7  C5  UNL     1      45.366  -0.024  18.625  1.00  0.00           C  
+HETATM    8  C6  UNL     1      45.196  -1.035  20.930  1.00  0.00           C  
+HETATM    9  C7  UNL     1      44.433  -1.651  21.924  1.00  0.00           C  
+HETATM   10  C8  UNL     1      46.653  -0.815  21.169  1.00  0.00           C  
+HETATM   11  O2  UNL     1      47.387  -1.853  20.591  1.00  0.00           O  
+HETATM   12  P1  UNL     1      48.877  -1.167  20.160  1.00  0.00           P  
+HETATM   13  O3  UNL     1      48.667  -0.081  19.129  1.00  0.00           O  
+HETATM   14  O4  UNL     1      49.868  -2.369  19.503  1.00  0.00           O  
+HETATM   15  O5  UNL     1      49.633  -0.512  21.525  1.00  0.00           O  
+CONECT    1    2    2    9
+CONECT    2    3    4
+CONECT    4    5    6    6
+CONECT    6    7    8
+CONECT    8    9    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   13   14   15
+END

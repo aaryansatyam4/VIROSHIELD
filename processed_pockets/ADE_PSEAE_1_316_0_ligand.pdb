@@ -1,0 +1,20 @@
+COMPND    __3ou8_A_rec_3pao_ade_lig_docked.pdb
+HETATM    1  N1  UNL     1      21.271  68.539  62.809  1.00  0.00           N  
+HETATM    2  C1  UNL     1      22.367  68.523  63.635  1.00  0.00           C  
+HETATM    3  N2  UNL     1      23.430  69.115  63.131  1.00  0.00           N  
+HETATM    4  C2  UNL     1      23.000  69.553  61.891  1.00  0.00           C  
+HETATM    5  C3  UNL     1      23.643  70.261  60.858  1.00  0.00           C  
+HETATM    6  N3  UNL     1      24.919  70.660  60.910  1.00  0.00           N  
+HETATM    7  N4  UNL     1      22.925  70.531  59.751  1.00  0.00           N  
+HETATM    8  C4  UNL     1      21.656  70.127  59.684  1.00  0.00           C  
+HETATM    9  N5  UNL     1      20.950  69.461  60.589  1.00  0.00           N  
+HETATM   10  C5  UNL     1      21.682  69.201  61.676  1.00  0.00           C  
+CONECT    1    2   10   10
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6    7    7
+CONECT    7    8
+CONECT    8    9    9
+CONECT    9   10
+END

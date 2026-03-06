@@ -1,0 +1,18 @@
+COMPND    __1tt8_A_rec_1jd3_phb_lig_min.pdb
+HETATM    1  C1  UNL     1      10.530  -5.527  33.264  1.00  0.00           C  
+HETATM    2  C2  UNL     1      10.919  -6.843  33.793  1.00  0.00           C  
+HETATM    3  C3  UNL     1      11.913  -6.960  34.777  1.00  0.00           C  
+HETATM    4  C4  UNL     1      12.570  -5.761  35.267  1.00  0.00           C  
+HETATM    5  C5  UNL     1      12.175  -4.441  34.721  1.00  0.00           C  
+HETATM    6  C6  UNL     1      11.151  -4.364  33.725  1.00  0.00           C  
+HETATM    7  O1  UNL     1      13.488  -5.857  36.311  1.00  0.00           O  
+HETATM    8  C7  UNL     1       9.551  -5.458  32.129  1.00  0.00           C  
+HETATM    9  O2  UNL     1       9.006  -6.543  31.753  1.00  0.00           O  
+HETATM   10  O3  UNL     1       9.184  -4.324  31.722  1.00  0.00           O  
+CONECT    1    2    6    6    8
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5    5    7
+CONECT    5    6
+CONECT    8    9   10   10
+END

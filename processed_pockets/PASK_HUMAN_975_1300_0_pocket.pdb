@@ -1,0 +1,45 @@
+HETATM    1  PB  ADP A   1      25.830  22.971   4.816  1.00 25.10           P  
+HETATM    2  O1B ADP A   1      26.189  23.195   6.263  1.00 24.87           O  
+HETATM    3  O2B ADP A   1      27.027  22.813   3.913  1.00 33.94           O  
+HETATM    4  O3B ADP A   1      24.779  21.935   4.561  1.00 36.27           O  
+HETATM    5  PA  ADP A   1      25.741  25.648   3.611  1.00 20.61           P  
+HETATM    6  O1A ADP A   1      26.957  25.251   2.822  1.00 16.78           O  
+HETATM    7  O2A ADP A   1      25.895  26.803   4.562  1.00 22.23           O  
+HETATM    8  O3A ADP A   1      25.103  24.360   4.374  1.00 30.46           O  
+HETATM    9  O5' ADP A   1      24.551  26.001   2.585  1.00 31.33           O  
+HETATM   10  C5' ADP A   1      24.074  25.062   1.611  1.00 16.86           C  
+HETATM   11  C4' ADP A   1      23.814  25.786   0.302  1.00 23.41           C  
+HETATM   12  O4' ADP A   1      22.867  26.862   0.457  1.00 18.39           O  
+HETATM   13  C3' ADP A   1      25.070  26.444  -0.246  1.00 23.96           C  
+HETATM   14  O3' ADP A   1      25.891  25.574  -1.015  1.00 18.85           O  
+HETATM   15  C2' ADP A   1      24.526  27.579  -1.072  1.00 19.94           C  
+HETATM   16  O2' ADP A   1      24.108  27.077  -2.344  1.00 35.92           O  
+HETATM   17  C1' ADP A   1      23.289  28.010  -0.299  1.00 23.74           C  
+HETATM   18  N9  ADP A   1      23.592  29.166   0.606  1.00 20.57           N  
+HETATM   19  C8  ADP A   1      24.001  29.092   1.884  1.00 18.35           C  
+HETATM   20  N7  ADP A   1      24.195  30.319   2.422  1.00 15.35           N  
+HETATM   21  C5  ADP A   1      23.907  31.220   1.468  1.00 17.71           C  
+HETATM   22  C6  ADP A   1      23.880  32.704   1.344  1.00 15.25           C  
+HETATM   23  N6  ADP A   1      24.204  33.501   2.378  1.00 21.73           N  
+HETATM   24  N1  ADP A   1      23.522  33.243   0.155  1.00 15.42           N  
+HETATM   25  C2  ADP A   1      23.180  32.478  -0.896  1.00 13.64           C  
+HETATM   26  N3  ADP A   1      23.176  31.137  -0.854  1.00 22.43           N  
+HETATM   27  C4  ADP A   1      23.523  30.455   0.272  1.00 13.92           C  
+CONECT    1    2    3    4    8
+CONECT    5    6    7    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   12   17
+CONECT   13   14   15
+CONECT   15   16   17
+CONECT   17   18
+CONECT   18   19   27
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22   27
+CONECT   22   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+END

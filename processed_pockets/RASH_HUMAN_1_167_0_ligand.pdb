@@ -1,0 +1,41 @@
+COMPND    PocketomeGenCross_Output/RASH_HUMAN_1_167_0/5vbe_92v_lig.pdb
+HETATM    1  C1  UNL     1     -11.055   0.819 -20.556  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -8.900  -1.076 -20.994  1.00  0.00           C  
+HETATM    3  C3  UNL     1     -19.575   5.103 -18.360  1.00  0.00           C  
+HETATM    4  C4  UNL     1     -20.393   4.886 -19.622  1.00  0.00           C  
+HETATM    5  C5  UNL     1     -16.317   3.139 -19.058  1.00  0.00           C  
+HETATM    6  C6  UNL     1     -15.701   1.987 -19.537  1.00  0.00           C  
+HETATM    7  C7  UNL     1     -15.294   4.026 -18.778  1.00  0.00           C  
+HETATM    8  C8  UNL     1     -13.303   1.257 -19.748  1.00  0.00           C  
+HETATM    9  C9  UNL     1     -13.404  -0.083 -19.346  1.00  0.00           C  
+HETATM   10  C10 UNL     1     -12.347  -0.970 -19.565  1.00  0.00           C  
+HETATM   11  C11 UNL     1     -11.169  -0.527 -20.174  1.00  0.00           C  
+HETATM   12  C12 UNL     1     -12.113   1.705 -20.337  1.00  0.00           C  
+HETATM   13  C13 UNL     1     -16.384   0.755 -20.090  1.00  0.00           C  
+HETATM   14  C14 UNL     1     -17.744   3.405 -18.805  1.00  0.00           C  
+HETATM   15  C15 UNL     1     -21.846   5.250 -19.378  1.00  0.00           C  
+HETATM   16  F1  UNL     1     -15.598   0.147 -21.051  1.00  0.00           F  
+HETATM   17  F2  UNL     1     -17.579   1.091 -20.698  1.00  0.00           F  
+HETATM   18  F3  UNL     1     -16.628  -0.137 -19.063  1.00  0.00           F  
+HETATM   19  N1  UNL     1     -14.362   2.190 -19.480  1.00  0.00           N  
+HETATM   20  N2  UNL     1     -14.122   3.418 -19.046  1.00  0.00           N  
+HETATM   21  N3  UNL     1     -18.183   4.751 -18.596  1.00  0.00           N  
+HETATM   22  O1  UNL     1     -10.131  -1.440 -20.383  1.00  0.00           O  
+HETATM   23  O2  UNL     1     -18.569   2.455 -18.724  1.00  0.00           O  
+HETATM   24  S1  UNL     1     -22.049   7.056 -19.345  1.00  0.00           S  
+CONECT    1   11   11   12
+CONECT    2   22
+CONECT    3    4   21
+CONECT    4   15
+CONECT    5    6    6    7   14
+CONECT    6   13   19
+CONECT    7   20   20
+CONECT    8    9   12   12   19
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   22
+CONECT   13   16   17   18
+CONECT   14   21   23   23
+CONECT   15   24
+CONECT   19   20
+END

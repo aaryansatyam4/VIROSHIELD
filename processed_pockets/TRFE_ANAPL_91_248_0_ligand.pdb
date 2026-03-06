@@ -1,0 +1,22 @@
+COMPND    __1gvc_A_rec_1gvc_nta_lig_min.pdb
+HETATM    1  N1  UNL     1     -35.816  32.611   6.802  1.00  0.00           N  
+HETATM    2  C1  UNL     1     -35.571  33.985   6.435  1.00  0.00           C  
+HETATM    3  C2  UNL     1     -36.081  34.378   5.079  1.00  0.00           C  
+HETATM    4  O1  UNL     1     -36.132  33.579   4.162  1.00  0.00           O  
+HETATM    5  O2  UNL     1     -36.435  35.526   4.916  1.00  0.00           O  
+HETATM    6  C3  UNL     1     -37.058  32.338   7.468  1.00  0.00           C  
+HETATM    7  C4  UNL     1     -38.221  31.822   6.657  1.00  0.00           C  
+HETATM    8  O3  UNL     1     -39.260  32.458   6.402  1.00  0.00           O  
+HETATM    9  O4  UNL     1     -38.058  30.666   6.306  1.00  0.00           O  
+HETATM   10  C5  UNL     1     -34.680  31.737   6.999  1.00  0.00           C  
+HETATM   11  C6  UNL     1     -34.535  30.621   6.008  1.00  0.00           C  
+HETATM   12  O5  UNL     1     -33.628  29.831   6.205  1.00  0.00           O  
+HETATM   13  O6  UNL     1     -35.288  30.497   5.066  1.00  0.00           O  
+CONECT    1    2    6   10
+CONECT    2    3
+CONECT    3    4    4    5
+CONECT    6    7
+CONECT    7    8    8    9
+CONECT   10   11
+CONECT   11   12   13   13
+END

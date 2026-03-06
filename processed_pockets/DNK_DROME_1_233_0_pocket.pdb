@@ -1,0 +1,34 @@
+HETATM    1  O5' AZZ D1211      37.130  17.113  10.817  1.00 42.94           O  
+HETATM    2  C5' AZZ D1211      38.108  16.526   9.941  1.00 40.58           C  
+HETATM    3  C4' AZZ D1211      37.360  15.875   8.785  1.00 37.85           C  
+HETATM    4  O4' AZZ D1211      36.678  14.698   9.204  1.00 35.26           O  
+HETATM    5  C3' AZZ D1211      36.298  16.838   8.296  1.00 37.86           C  
+HETATM    6  N3' AZZ D1211      36.674  17.080   6.930  1.00 24.16           N  
+HETATM    7  N4' AZZ D1211      37.438  17.915   6.403  1.00 35.18           N  
+HETATM    8  N5' AZZ D1211      38.106  18.643   5.944  1.00 41.81           N  
+HETATM    9  C2' AZZ D1211      34.945  16.146   8.429  1.00 36.00           C  
+HETATM   10  C1' AZZ D1211      35.292  14.705   8.802  1.00 32.10           C  
+HETATM   11  N1  AZZ D1211      34.445  14.025   9.820  1.00 29.39           N  
+HETATM   12  C2  AZZ D1211      33.583  12.980   9.398  1.00 29.13           C  
+HETATM   13  O2  AZZ D1211      33.525  12.676   8.181  1.00 29.52           O  
+HETATM   14  N3  AZZ D1211      32.807  12.290  10.244  1.00 28.72           N  
+HETATM   15  C4  AZZ D1211      32.809  12.564  11.549  1.00 29.74           C  
+HETATM   16  O4  AZZ D1211      32.085  11.910  12.340  1.00 29.10           O  
+HETATM   17  C5  AZZ D1211      33.701  13.649  12.035  1.00 29.44           C  
+HETATM   18  C5A AZZ D1211      33.725  13.976  13.504  1.00 28.47           C  
+HETATM   19  C6  AZZ D1211      34.509  14.335  11.119  1.00 28.62           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5
+CONECT    4   10
+CONECT    5    6    9
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   19
+CONECT   12   13   14
+CONECT   14   15
+CONECT   15   16   17
+CONECT   17   18   19
+END

@@ -1,0 +1,18 @@
+COMPND    13PK_3PG_A_423
+HETATM    1  C1  UNL     1      16.328  78.445   7.979  1.00  0.00           C  
+HETATM    2  C2  UNL     1      15.550  78.617   9.278  1.00  0.00           C  
+HETATM    3  O1  UNL     1      14.670  79.697   9.182  1.00  0.00           O  
+HETATM    4  C3  UNL     1      14.814  77.367   9.640  1.00  0.00           C  
+HETATM    5  O2  UNL     1      15.287  76.569  10.492  1.00  0.00           O  
+HETATM    6  O3  UNL     1      13.581  77.105   9.060  1.00  0.00           O  
+HETATM    7  O4  UNL     1      15.639  77.611   7.093  1.00  0.00           O  
+HETATM    8  P1  UNL     1      16.491  76.145   7.105  1.00  0.00           P  
+HETATM    9  O5  UNL     1      15.517  75.007   7.303  1.00  0.00           O  
+HETATM   10  O6  UNL     1      17.300  75.936   5.633  1.00  0.00           O  
+HETATM   11  O7  UNL     1      17.614  76.141   8.372  1.00  0.00           O  
+CONECT    1    2    7
+CONECT    2    3    4
+CONECT    4    5    5    6
+CONECT    7    8
+CONECT    8    9    9   10   11
+END

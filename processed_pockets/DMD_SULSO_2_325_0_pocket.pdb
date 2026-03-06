@@ -1,0 +1,35 @@
+HETATM    1  C3A DP6 A1001      10.662  21.138  14.250  1.00 13.58           C  
+HETATM    2  O1A DP6 A1001       7.305  23.008  18.896  1.00 16.11           O  
+HETATM    3  O2A DP6 A1001       7.226  20.796  20.058  1.00 13.44           O  
+HETATM    4  O3A DP6 A1001      11.352  21.182  16.470  1.00 13.27           O  
+HETATM    5  O1B DP6 A1001       2.850  21.909  18.743  1.00 12.89           O  
+HETATM    6  O2B DP6 A1001       4.301  22.471  20.718  1.00 13.53           O  
+HETATM    7  O3B DP6 A1001       3.845  20.088  20.142  1.00 11.82           O  
+HETATM    8  PB  DP6 A1001       3.997  21.487  19.584  1.00 12.49           P  
+HETATM    9  O6  DP6 A1001       5.289  21.566  18.615  1.00 11.68           O  
+HETATM   10  PA  DP6 A1001       6.855  21.568  18.867  1.00 12.80           P  
+HETATM   11  O5  DP6 A1001       7.343  20.897  17.486  1.00 15.65           O  
+HETATM   12  C5  DP6 A1001       8.790  20.480  17.334  1.00 18.28           C  
+HETATM   13  C4  DP6 A1001       9.090  20.488  15.987  1.00 14.31           C  
+HETATM   14  C3  DP6 A1001      10.506  20.436  15.578  1.00 11.95           C  
+HETATM   15  C2  DP6 A1001      11.039  19.033  15.454  1.00 11.58           C  
+HETATM   16  C1  DP6 A1001      11.217  18.249  16.654  1.00 12.49           C  
+HETATM   17  O1  DP6 A1001      11.104  17.021  16.782  1.00 12.37           O  
+HETATM   18  O2  DP6 A1001      11.700  18.885  17.734  1.00 14.02           O  
+CONECT    1   14
+CONECT    2   10
+CONECT    3   10
+CONECT    4   14
+CONECT    5    8
+CONECT    6    8
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   18
+END

@@ -1,0 +1,78 @@
+HETATM    1  NA  RCC A1000     -12.153   8.261 -14.246  1.00 61.86           N  
+HETATM    2  NB  RCC A1000      -9.287   8.153 -14.523  1.00 62.35           N  
+HETATM    3  OB  RCC A1000      -7.327   9.390 -14.618  1.00 62.16           O  
+HETATM    4  NC  RCC A1000      -9.070  12.410 -16.267  1.00 61.77           N  
+HETATM    5  OC  RCC A1000      -8.403  10.767 -18.384  1.00 61.86           O  
+HETATM    6  ND  RCC A1000     -11.581  11.330 -14.358  1.00 61.75           N  
+HETATM    7  C1A RCC A1000     -13.392   8.630 -14.578  1.00 61.76           C  
+HETATM    8  O1A RCC A1000     -17.738   6.972 -14.843  1.00 60.87           O  
+HETATM    9  C1B RCC A1000      -9.502   6.814 -14.599  1.00 62.22           C  
+HETATM   10  C1C RCC A1000      -8.107  12.744 -17.160  1.00 61.77           C  
+HETATM   11  C1D RCC A1000     -11.419  12.703 -14.440  1.00 61.67           C  
+HETATM   12  O1D RCC A1000     -16.029   9.661 -13.182  1.00 62.77           O  
+HETATM   13  C2A RCC A1000     -14.293   7.427 -14.692  1.00 61.72           C  
+HETATM   14  O2A RCC A1000     -16.668   5.149 -14.225  1.00 60.06           O  
+HETATM   15  C2B RCC A1000      -8.315   6.099 -14.765  1.00 62.09           C  
+HETATM   16  C2C RCC A1000      -7.542  13.966 -16.867  1.00 61.67           C  
+HETATM   17  C2D RCC A1000     -12.651  13.295 -14.798  1.00 61.69           C  
+HETATM   18  O2D RCC A1000     -17.581  10.844 -14.419  1.00 62.48           O  
+HETATM   19  C3A RCC A1000     -13.375   6.281 -14.282  1.00 61.95           C  
+HETATM   20  C3B RCC A1000      -7.291   7.041 -14.794  1.00 62.13           C  
+HETATM   21  C3C RCC A1000      -8.259  14.407 -15.651  1.00 61.89           C  
+HETATM   22  C3D RCC A1000     -13.553  12.277 -14.933  1.00 61.69           C  
+HETATM   23  C4A RCC A1000     -12.033   6.937 -14.334  1.00 62.05           C  
+HETATM   24  C4B RCC A1000      -7.942   8.259 -14.642  1.00 62.30           C  
+HETATM   25  C4C RCC A1000      -9.182  13.410 -15.340  1.00 61.80           C  
+HETATM   26  C4D RCC A1000     -12.924  11.132 -14.676  1.00 61.82           C  
+HETATM   27  CAA RCC A1000     -14.865   7.266 -16.100  1.00 61.48           C  
+HETATM   28  CAB RCC A1000      -5.817   6.857 -14.950  1.00 62.06           C  
+HETATM   29  CAC RCC A1000      -8.080  15.663 -14.869  1.00 61.80           C  
+HETATM   30  CAD RCC A1000     -14.883  12.067 -15.252  1.00 61.85           C  
+HETATM   31  CBA RCC A1000     -15.962   6.204 -16.234  1.00 60.92           C  
+HETATM   32  CBB RCC A1000      -5.242   5.675 -15.091  1.00 62.02           C  
+HETATM   33  CBC RCC A1000      -7.075  16.727 -15.235  1.00 61.85           C  
+HETATM   34  CBD RCC A1000     -15.148  10.597 -15.188  1.00 62.03           C  
+HETATM   35  OBD RCC A1000     -15.748  12.972 -15.545  1.00 61.63           O  
+HETATM   36  CED RCC A1000     -18.361  11.389 -13.353  1.00 62.44           C  
+HETATM   37  CGA RCC A1000     -16.853   6.103 -15.014  1.00 60.90           C  
+HETATM   38  CGD RCC A1000     -16.238  10.321 -14.189  1.00 62.37           C  
+HETATM   39  CHA RCC A1000     -13.795  10.060 -14.796  1.00 61.93           C  
+HETATM   40  CHB RCC A1000     -10.881   6.254 -14.512  1.00 62.03           C  
+HETATM   41  CHC RCC A1000      -7.794  11.818 -18.277  1.00 61.81           C  
+HETATM   42  CHD RCC A1000     -10.131  13.443 -14.167  1.00 61.80           C  
+HETATM   43  CMA RCC A1000     -13.698   5.779 -12.884  1.00 62.24           C  
+HETATM   44  CMB RCC A1000      -8.204   4.623 -14.885  1.00 61.90           C  
+HETATM   45  CMC RCC A1000      -6.463  14.655 -17.613  1.00 61.66           C  
+HETATM   46  CMD RCC A1000     -13.027  14.713 -15.018  1.00 61.87           C  
+CONECT    1    7   23
+CONECT    2    9   24
+CONECT    3   24
+CONECT    4   10   25
+CONECT    5   41
+CONECT    6   11   26
+CONECT    7   13   39
+CONECT    8   37
+CONECT    9   15   40
+CONECT   10   16   41
+CONECT   11   17   42
+CONECT   12   38
+CONECT   13   19   27
+CONECT   14   37
+CONECT   15   20   44
+CONECT   16   21   45
+CONECT   17   22   46
+CONECT   18   36   38
+CONECT   19   23   43
+CONECT   20   24   28
+CONECT   21   25   29
+CONECT   22   26   30
+CONECT   23   40
+CONECT   25   42
+CONECT   26   39
+CONECT   27   31
+CONECT   28   32
+CONECT   29   33
+CONECT   30   34   35
+CONECT   31   37
+CONECT   34   38   39
+END

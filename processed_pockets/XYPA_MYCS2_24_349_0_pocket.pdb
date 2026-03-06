@@ -1,0 +1,16 @@
+HETATM    1  C1  XYL A 401      54.722  10.031  12.196  1.00  7.55           C  
+HETATM    2  C2  XYL A 401      55.474   9.609  13.501  1.00  6.45           C  
+HETATM    3  C3  XYL A 401      56.143  10.810  14.206  1.00  6.20           C  
+HETATM    4  C4  XYL A 401      56.784  10.431  15.534  1.00  6.00           C  
+HETATM    5  C5  XYL A 401      57.725   9.226  15.400  1.00  6.90           C  
+HETATM    6  O1  XYL A 401      55.564  10.763  11.325  1.00  6.81           O  
+HETATM    7  O2  XYL A 401      54.536   8.935  14.353  1.00  6.84           O  
+HETATM    8  O3  XYL A 401      55.152  11.841  14.504  1.00  7.12           O  
+HETATM    9  O4  XYL A 401      57.529  11.573  15.954  1.00  7.00           O  
+HETATM   10  O5  XYL A 401      58.302   8.828  16.654  1.00  7.46           O  
+CONECT    1    2    6
+CONECT    2    3    7
+CONECT    3    4    8
+CONECT    4    5    9
+CONECT    5   10
+END

@@ -1,0 +1,18 @@
+COMPND    1EQJ_2PG_A_801
+HETATM    1  C1  UNL     1      28.666   4.349  13.703  1.00  0.00           C  
+HETATM    2  C2  UNL     1      29.541   4.259  12.495  1.00  0.00           C  
+HETATM    3  O1  UNL     1      30.596   4.942  12.416  1.00  0.00           O  
+HETATM    4  O2  UNL     1      29.195   3.404  11.457  1.00  0.00           O  
+HETATM    5  C3  UNL     1      28.938   3.192  14.652  1.00  0.00           C  
+HETATM    6  O3  UNL     1      28.394   2.015  14.137  1.00  0.00           O  
+HETATM    7  O4  UNL     1      28.889   5.561  14.364  1.00  0.00           O  
+HETATM    8  P1  UNL     1      27.811   6.672  13.666  1.00  0.00           P  
+HETATM    9  O5  UNL     1      28.440   7.304  12.445  1.00  0.00           O  
+HETATM   10  O6  UNL     1      26.376   5.891  13.223  1.00  0.00           O  
+HETATM   11  O7  UNL     1      27.456   7.880  14.795  1.00  0.00           O  
+CONECT    1    2    5    7
+CONECT    2    3    3    4
+CONECT    5    6
+CONECT    7    8
+CONECT    8    9    9   10   11
+END

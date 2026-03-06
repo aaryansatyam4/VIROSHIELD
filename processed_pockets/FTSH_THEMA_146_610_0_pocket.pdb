@@ -1,0 +1,58 @@
+HETATM    1  C   NHX E 998      32.496   8.427  26.318  1.00 96.63           C  
+HETATM    2  N   NHX E 998      32.440  10.958  26.138  1.00 92.02           N  
+HETATM    3  O   NHX E 998      33.063   7.336  26.212  1.00102.89           O  
+HETATM    4  CA  NHX E 998      33.259   9.730  26.027  1.00 87.19           C  
+HETATM    5  CB  NHX E 998      34.359   9.834  27.065  1.00 92.21           C  
+HETATM    6  CAA NHX E 998      33.796  13.884  22.213  1.00 76.32           C  
+HETATM    7  CAB NHX E 998      34.397  15.779  20.553  1.00 74.28           C  
+HETATM    8  NAD NHX E 998      31.241   8.584  26.729  1.00 90.54           N  
+HETATM    9  OAF NHX E 998      29.324  17.446  21.261  1.00 74.03           O  
+HETATM   10  OAG NHX E 998      32.368  14.904  24.875  1.00 81.29           O  
+HETATM   11  OAH NHX E 998      31.776  10.927  23.967  1.00 82.23           O  
+HETATM   12  OAI NHX E 998      30.788  19.497  21.200  1.00 59.83           O  
+HETATM   13  CAJ NHX E 998      26.741   7.928  22.542  1.00154.75           C  
+HETATM   14  CAK NHX E 998      28.056   8.032  22.133  1.00154.79           C  
+HETATM   15  CAL NHX E 998      27.470  11.310  25.917  1.00163.32           C  
+HETATM   16  CAM NHX E 998      26.271   8.713  23.578  1.00160.90           C  
+HETATM   17  CAN NHX E 998      28.903   8.928  22.764  1.00163.53           C  
+HETATM   18  CAO NHX E 998      26.645  10.393  25.263  1.00166.95           C  
+HETATM   19  CAP NHX E 998      29.262  10.626  24.441  1.00166.73           C  
+HETATM   20  CAQ NHX E 998      30.265  16.652  23.354  1.00 43.77           C  
+HETATM   21  CAR NHX E 998      29.737  12.386  26.193  1.00125.63           C  
+HETATM   22  CAS NHX E 998      32.498  16.173  22.204  1.00 53.98           C  
+HETATM   23  NAT NHX E 998      30.899  18.663  22.299  1.00 55.36           N  
+HETATM   24  NAV NHX E 998      30.695  13.573  24.224  1.00 88.36           N  
+HETATM   25  CAX NHX E 998      30.168  17.583  22.180  1.00 59.91           C  
+HETATM   26  CAY NHX E 998      31.464  14.646  24.082  1.00 74.95           C  
+HETATM   27  CAZ NHX E 998      31.806  11.468  25.081  1.00 90.90           C  
+HETATM   28  CBA NHX E 998      28.787  11.429  25.478  1.00154.28           C  
+HETATM   29  CBB NHX E 998      27.118   9.608  24.212  1.00167.41           C  
+HETATM   30  CBC NHX E 998      28.432   9.721  23.801  1.00169.76           C  
+HETATM   31  CBD NHX E 998      33.285  15.110  21.394  1.00 52.31           C  
+HETATM   32  CBF NHX E 998      31.228  15.560  22.890  1.00 64.51           C  
+HETATM   33  CBG NHX E 998      31.013  12.755  25.406  1.00106.48           C  
+CONECT    1    3    4    8
+CONECT    2    4   27
+CONECT    4    5
+CONECT    6   31
+CONECT    7   31
+CONECT    9   25
+CONECT   10   26
+CONECT   11   27
+CONECT   12   23
+CONECT   13   14   16
+CONECT   14   17
+CONECT   15   18   28
+CONECT   16   29
+CONECT   17   30
+CONECT   18   29
+CONECT   19   28   30
+CONECT   20   25   32
+CONECT   21   28   33
+CONECT   22   31   32
+CONECT   23   25
+CONECT   24   26   33
+CONECT   26   32
+CONECT   27   33
+CONECT   29   30
+END

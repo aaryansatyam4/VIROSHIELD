@@ -1,0 +1,38 @@
+COMPND    1DBW_15P_A_999
+HETATM    1  O1  UNL     1      32.714   0.794  34.206  1.00  0.00           O  
+HETATM    2  C1  UNL     1      32.844  -0.114  35.258  1.00  0.00           C  
+HETATM    3  C2  UNL     1      31.801   0.174  36.327  1.00  0.00           C  
+HETATM    4  O2  UNL     1      32.408   0.258  37.583  1.00  0.00           O  
+HETATM    5  C3  UNL     1      31.565  -0.455  38.439  1.00  0.00           C  
+HETATM    6  C4  UNL     1      32.170  -1.813  38.742  1.00  0.00           C  
+HETATM    7  O3  UNL     1      31.214  -2.810  38.552  1.00  0.00           O  
+HETATM    8  C5  UNL     1      31.600  -3.447  37.372  1.00  0.00           C  
+HETATM    9  O4  UNL     1      29.357  -4.102  36.896  1.00  0.00           O  
+HETATM   10  C6  UNL     1      30.457  -3.422  36.375  1.00  0.00           C  
+HETATM   11  C7  UNL     1      33.990   1.339  34.052  1.00  0.00           C  
+HETATM   12  C8  UNL     1      33.967   2.417  32.985  1.00  0.00           C  
+HETATM   13  O5  UNL     1      32.952   3.334  33.260  1.00  0.00           O  
+HETATM   14  C9  UNL     1      33.590   4.574  33.270  1.00  0.00           C  
+HETATM   15  C10 UNL     1      32.802   5.564  32.434  1.00  0.00           C  
+HETATM   16  O6  UNL     1      31.932   6.289  33.249  1.00  0.00           O  
+HETATM   17  C11 UNL     1      30.895   6.676  32.401  1.00  0.00           C  
+HETATM   18  C12 UNL     1      29.835   5.592  32.355  1.00  0.00           C  
+HETATM   19  O7  UNL     1      29.482   5.332  31.030  1.00  0.00           O  
+CONECT    1    2   11
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8   10
+CONECT    9   10
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+END

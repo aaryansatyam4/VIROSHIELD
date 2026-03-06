@@ -1,0 +1,34 @@
+COMPND    __1fm8_A_rec_1fm7_dfv_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1      22.130  19.874  31.668  1.00  0.00           C  
+HETATM    2  C2  UNL     1      22.842  18.799  32.151  1.00  0.00           C  
+HETATM    3  C3  UNL     1      23.482  18.801  33.556  1.00  0.00           C  
+HETATM    4  C4  UNL     1      23.293  19.932  34.346  1.00  0.00           C  
+HETATM    5  C5  UNL     1      22.492  21.186  33.821  1.00  0.00           C  
+HETATM    6  C6  UNL     1      21.944  21.116  32.560  1.00  0.00           C  
+HETATM    7  C7  UNL     1      23.902  20.052  35.803  1.00  0.00           C  
+HETATM    8  C8  UNL     1      23.619  21.394  36.523  1.00  0.00           C  
+HETATM    9  C9  UNL     1      22.351  22.085  36.027  1.00  0.00           C  
+HETATM   10  O1  UNL     1      22.318  22.286  34.621  1.00  0.00           O  
+HETATM   11  O2  UNL     1      24.542  19.167  36.329  1.00  0.00           O  
+HETATM   12  O3  UNL     1      21.591  19.832  30.446  1.00  0.00           O  
+HETATM   13  C10 UNL     1      22.114  23.422  36.726  1.00  0.00           C  
+HETATM   14  C11 UNL     1      20.864  23.845  37.218  1.00  0.00           C  
+HETATM   15  C12 UNL     1      20.747  25.215  37.921  1.00  0.00           C  
+HETATM   16  C13 UNL     1      21.850  26.034  38.072  1.00  0.00           C  
+HETATM   17  C14 UNL     1      23.207  25.566  37.532  1.00  0.00           C  
+HETATM   18  C15 UNL     1      23.335  24.355  36.904  1.00  0.00           C  
+HETATM   19  O4  UNL     1      21.749  27.219  38.683  1.00  0.00           O  
+CONECT    1    2    6    6   12
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5    5    7
+CONECT    5    6   10
+CONECT    7    8   11   11
+CONECT    8    9
+CONECT    9   10   13
+CONECT   13   14   14   18
+CONECT   14   15
+CONECT   15   16   16
+CONECT   16   17   19
+CONECT   17   18   18
+END

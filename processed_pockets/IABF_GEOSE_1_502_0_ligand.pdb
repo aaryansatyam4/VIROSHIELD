@@ -1,0 +1,33 @@
+COMPND    __1qw9_A_rec_1qw8_kho_lig_docked.pdb
+HETATM    1  O1  UNL     1      89.227  28.058  38.824  1.00  0.00           O  
+HETATM    2  C1  UNL     1      91.917  26.062  40.384  1.00  0.00           C  
+HETATM    3  O2  UNL     1      93.044  25.388  39.813  1.00  0.00           O  
+HETATM    4  C2  UNL     1      90.913  26.430  39.300  1.00  0.00           C  
+HETATM    5  O3  UNL     1      91.580  26.859  38.111  1.00  0.00           O  
+HETATM    6  C3  UNL     1      89.952  27.467  39.910  1.00  0.00           C  
+HETATM    7  C4  UNL     1      89.173  26.758  41.027  1.00  0.00           C  
+HETATM    8  O4  UNL     1      88.410  27.673  41.817  1.00  0.00           O  
+HETATM    9  C5  UNL     1      90.102  25.989  41.998  1.00  0.00           C  
+HETATM   10  O5  UNL     1      91.195  25.293  41.364  1.00  0.00           O  
+HETATM   11  C6  UNL     1      87.843  27.827  38.508  1.00  0.00           C  
+HETATM   12  C7  UNL     1      87.446  28.734  37.319  1.00  0.00           C  
+HETATM   13  C8  UNL     1      87.368  27.757  36.140  1.00  0.00           C  
+HETATM   14  O6  UNL     1      88.071  28.245  34.996  1.00  0.00           O  
+HETATM   15  O7  UNL     1      86.255  29.552  37.527  1.00  0.00           O  
+HETATM   16  O8  UNL     1      87.707  26.476  38.042  1.00  0.00           O  
+HETATM   17  C9  UNL     1      88.030  26.465  36.673  1.00  0.00           C  
+HETATM   18  C10 UNL     1      87.634  25.121  36.009  1.00  0.00           C  
+HETATM   19  O9  UNL     1      86.268  25.131  35.616  1.00  0.00           O  
+CONECT    1    6   11
+CONECT    2    3    4   10
+CONECT    4    5    6
+CONECT    6    7
+CONECT    7    8    9
+CONECT    9   10
+CONECT   11   12   16
+CONECT   12   13   15
+CONECT   13   14   17
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+END

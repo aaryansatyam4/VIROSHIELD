@@ -1,0 +1,36 @@
+COMPND    __1lif_A_rec_1lie_plm_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1      14.439  24.159 -14.670  1.00  0.00           C  
+HETATM    2  C2  UNL     1      15.370  24.489 -13.517  1.00  0.00           C  
+HETATM    3  C3  UNL     1      14.659  25.307 -12.464  1.00  0.00           C  
+HETATM    4  C4  UNL     1      13.919  26.477 -13.084  1.00  0.00           C  
+HETATM    5  C5  UNL     1      12.614  26.054 -13.746  1.00  0.00           C  
+HETATM    6  C6  UNL     1      11.484  26.980 -13.311  1.00  0.00           C  
+HETATM    7  C7  UNL     1      10.140  26.280 -13.181  1.00  0.00           C  
+HETATM    8  O1  UNL     1       9.191  26.917 -12.688  1.00  0.00           O  
+HETATM    9  O2  UNL     1      10.033  25.093 -13.556  1.00  0.00           O  
+HETATM   10  C8  UNL     1      13.010  24.523 -14.335  1.00  0.00           C  
+HETATM   11  C9  UNL     1      12.957  25.549 -13.215  1.00  0.00           C  
+HETATM   12  C10 UNL     1      11.719  25.370 -12.360  1.00  0.00           C  
+HETATM   13  C11 UNL     1      11.050  24.030 -12.604  1.00  0.00           C  
+HETATM   14  C12 UNL     1       9.942  23.793 -11.591  1.00  0.00           C  
+HETATM   15  C13 UNL     1       9.362  22.394 -11.700  1.00  0.00           C  
+HETATM   16  C14 UNL     1       7.842  22.410 -11.529  1.00  0.00           C  
+HETATM   17  C15 UNL     1       7.264  21.009 -11.369  1.00  0.00           C  
+HETATM   18  C16 UNL     1       5.788  21.058 -10.998  1.00  0.00           C  
+CONECT    1    2   10
+CONECT    2    3
+CONECT    3    4   11
+CONECT    4    5
+CONECT    5    6   11
+CONECT    6    7   12
+CONECT    7    8    8    9
+CONECT    9   13
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+END

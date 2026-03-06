@@ -1,0 +1,55 @@
+HETATM    1  FAE IHZ A1001     -15.951  11.295  -5.196  1.00 52.39           F  
+HETATM    2  CBD IHZ A1001     -16.306  10.129  -4.647  1.00 51.38           C  
+HETATM    3  FAF IHZ A1001     -16.039  10.116  -3.331  1.00 52.31           F  
+HETATM    4  FAG IHZ A1001     -15.591   9.159  -5.219  1.00 53.09           F  
+HETATM    5  CBB IHZ A1001     -17.804   9.857  -4.921  1.00 50.49           C  
+HETATM    6  CAP IHZ A1001     -18.282   9.943  -6.230  1.00 48.91           C  
+HETATM    7  CAK IHZ A1001     -18.675   9.501  -3.881  1.00 48.27           C  
+HETATM    8  CAH IHZ A1001     -20.014   9.247  -4.163  1.00 48.71           C  
+HETATM    9  CAI IHZ A1001     -20.477   9.351  -5.479  1.00 48.70           C  
+HETATM   10  CAX IHZ A1001     -19.627   9.699  -6.530  1.00 48.39           C  
+HETATM   11  NAS IHZ A1001     -20.132   9.785  -7.790  1.00 47.93           N  
+HETATM   12  CAV IHZ A1001     -19.457   9.604  -8.948  1.00 46.83           C  
+HETATM   13  OAD IHZ A1001     -18.253   9.359  -9.034  1.00 48.03           O  
+HETATM   14  CAZ IHZ A1001     -20.266   9.754 -10.250  1.00 46.07           C  
+HETATM   15  CAQ IHZ A1001     -19.635  10.293 -11.376  1.00 46.14           C  
+HETATM   16  CAL IHZ A1001     -21.602   9.358 -10.337  1.00 46.54           C  
+HETATM   17  CAJ IHZ A1001     -22.269   9.523 -11.552  1.00 46.70           C  
+HETATM   18  CAW IHZ A1001     -21.629  10.068 -12.675  1.00 46.71           C  
+HETATM   19  CAA IHZ A1001     -22.442  10.224 -13.965  1.00 46.72           C  
+HETATM   20  CBC IHZ A1001     -20.284  10.449 -12.608  1.00 46.49           C  
+HETATM   21  NAT IHZ A1001     -19.592  11.009 -13.640  1.00 46.51           N  
+HETATM   22  CAY IHZ A1001     -19.324  10.532 -14.882  1.00 46.42           C  
+HETATM   23  CAO IHZ A1001     -19.865   9.338 -15.376  1.00 46.45           C  
+HETATM   24  CAM IHZ A1001     -18.465  11.269 -15.725  1.00 46.69           C  
+HETATM   25  NAR IHZ A1001     -18.176  10.853 -16.959  1.00 46.30           N  
+HETATM   26  CAN IHZ A1001     -18.683   9.715 -17.443  1.00 46.91           C  
+HETATM   27  CBA IHZ A1001     -19.551   8.920 -16.674  1.00 46.93           C  
+HETATM   28  CAU IHZ A1001     -20.154   7.592 -17.199  1.00 47.75           C  
+HETATM   29  OAC IHZ A1001     -21.038   7.016 -16.562  1.00 49.84           O  
+HETATM   30  NAB IHZ A1001     -19.663   7.123 -18.351  1.00 47.36           N  
+CONECT    1    2
+CONECT    2    3    4    5
+CONECT    5    6    7
+CONECT    6   10
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   14
+CONECT   14   15   16
+CONECT   15   20
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23   24
+CONECT   23   27
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28
+CONECT   28   29   30
+END

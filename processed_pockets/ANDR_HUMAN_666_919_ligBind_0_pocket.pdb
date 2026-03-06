@@ -1,0 +1,48 @@
+HETATM    1  C17 FHM A   1      29.913  -0.266   8.792  1.00 19.07           C  
+HETATM    2  C18 FHM A   1      29.711  -0.539  10.144  1.00 18.94           C  
+HETATM    3  C19 FHM A   1      28.864   0.263  10.900  1.00 16.91           C  
+HETATM    4  F19 FHM A   1      28.687   0.019  12.215  1.00 18.88           F  
+HETATM    5  C20 FHM A   1      28.213   1.341  10.303  1.00 14.66           C  
+HETATM    6  C21 FHM A   1      28.417   1.613   8.952  1.00 14.64           C  
+HETATM    7  C16 FHM A   1      29.267   0.814   8.193  1.00 16.35           C  
+HETATM    8  O14 FHM A   1      29.424   1.114   6.874  1.00 17.11           O  
+HETATM    9  C13 FHM A   1      29.481  -0.030   6.007  1.00 17.42           C  
+HETATM   10  C11 FHM A   1      29.248   0.444   4.580  1.00 16.52           C  
+HETATM   11  O11 FHM A   1      30.313   1.317   4.194  1.00 17.77           O  
+HETATM   12  C12 FHM A   1      29.185  -0.765   3.645  1.00 18.04           C  
+HETATM   13  C10 FHM A   1      27.924   1.209   4.521  1.00 17.94           C  
+HETATM   14  O10 FHM A   1      26.860   0.636   4.754  1.00 18.17           O  
+HETATM   15  N9  FHM A   1      28.047   2.500   4.222  1.00 16.65           N  
+HETATM   16  C6  FHM A   1      27.050   3.381   4.120  1.00 16.44           C  
+HETATM   17  C5  FHM A   1      25.721   3.060   4.380  1.00 15.33           C  
+HETATM   18  C1  FHM A   1      27.371   4.696   3.802  1.00 16.57           C  
+HETATM   19  C2  FHM A   1      26.369   5.660   3.771  1.00 16.47           C  
+HETATM   20  C3  FHM A   1      25.045   5.339   4.056  1.00 19.35           C  
+HETATM   21  N8  FHM A   1      24.177   6.352   4.035  1.00 20.82           N  
+HETATM   22  O2  FHM A   1      22.840   6.233   4.500  1.00 25.78           O  
+HETATM   23  O1  FHM A   1      24.624   7.650   3.679  1.00 26.74           O  
+HETATM   24  C4  FHM A   1      24.703   4.015   4.350  1.00 17.92           C  
+HETATM   25  C7  FHM A   1      23.254   3.551   4.593  1.00 18.89           C  
+HETATM   26  F2  FHM A   1      22.862   3.907   5.813  1.00 17.71           F  
+HETATM   27  F3  FHM A   1      22.399   4.049   3.704  1.00 19.52           F  
+HETATM   28  F1  FHM A   1      23.122   2.231   4.505  1.00 18.52           F  
+CONECT    1    2    7
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12   13
+CONECT   13   14   15
+CONECT   15   16
+CONECT   16   17   18
+CONECT   17   24
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21   24
+CONECT   21   22   23
+CONECT   24   25
+CONECT   25   26   27   28
+END

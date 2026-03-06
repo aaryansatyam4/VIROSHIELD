@@ -1,0 +1,35 @@
+COMPND    PLM
+HETATM    1  C   UNL     1      -1.673   1.874   0.748  1.00  0.00           C  
+HETATM    2  O   UNL     1      -1.120   1.990  -0.368  1.00  0.00           O  
+HETATM    3  O   UNL     1      -1.097   2.338   1.755  1.00  0.00           O  
+HETATM    4  C   UNL     1      -3.010   1.182   0.874  1.00  0.00           C  
+HETATM    5  C   UNL     1      -4.051   2.143   1.439  1.00  0.00           C  
+HETATM    6  C   UNL     1      -4.995   2.617   0.338  1.00  0.00           C  
+HETATM    7  C   UNL     1      -4.366   3.742  -0.475  1.00  0.00           C  
+HETATM    8  C   UNL     1      -5.210   5.011  -0.418  1.00  0.00           C  
+HETATM    9  C   UNL     1      -5.880   5.136   0.943  1.00  0.00           C  
+HETATM   10  C   UNL     1      -6.456   6.526   1.155  1.00  0.00           C  
+HETATM   11  C   UNL     1      -6.677   6.765   2.642  1.00  0.00           C  
+HETATM   12  C   UNL     1      -6.746   8.250   2.973  1.00  0.00           C  
+HETATM   13  C   UNL     1      -8.185   8.707   3.166  1.00  0.00           C  
+HETATM   14  C   UNL     1      -8.278   9.728   4.298  1.00  0.00           C  
+HETATM   15  C   UNL     1      -7.054   9.676   5.206  1.00  0.00           C  
+HETATM   16  C   UNL     1      -7.405  10.131   6.620  1.00  0.00           C  
+HETATM   17  C   UNL     1      -6.498  11.264   7.082  1.00  0.00           C  
+HETATM   18  C   UNL     1      -7.086  12.620   6.721  1.00  0.00           C  
+CONECT    1    2    3    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+END

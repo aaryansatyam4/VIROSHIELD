@@ -1,0 +1,21 @@
+COMPND    1DTN_APG_A_399
+HETATM    1  C1  UNL     1      33.489   4.904  17.638  1.00  0.00           C  
+HETATM    2  C2  UNL     1      32.230   4.906  18.245  1.00  0.00           C  
+HETATM    3  C3  UNL     1      31.111   4.375  17.578  1.00  0.00           C  
+HETATM    4  C4  UNL     1      31.277   3.874  16.276  1.00  0.00           C  
+HETATM    5  C5  UNL     1      32.536   3.871  15.668  1.00  0.00           C  
+HETATM    6  C6  UNL     1      33.642   4.383  16.351  1.00  0.00           C  
+HETATM    7  C7  UNL     1      29.734   4.428  18.207  1.00  0.00           C  
+HETATM    8  O1  UNL     1      28.912   3.451  17.634  1.00  0.00           O  
+HETATM    9  C8  UNL     1      29.132   5.790  17.993  1.00  0.00           C  
+HETATM   10  C9  UNL     1      29.809   4.147  19.702  1.00  0.00           C  
+HETATM   11  O2  UNL     1      28.074   5.926  17.323  1.00  0.00           O  
+HETATM   12  O3  UNL     1      29.744   6.915  18.534  1.00  0.00           O  
+CONECT    1    2    2    6
+CONECT    2    3
+CONECT    3    4    4    7
+CONECT    4    5
+CONECT    5    6    6
+CONECT    7    8    9   10
+CONECT    9   11   11   12
+END

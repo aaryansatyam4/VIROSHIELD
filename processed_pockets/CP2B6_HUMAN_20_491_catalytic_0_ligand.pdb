@@ -1,0 +1,18 @@
+COMPND    __4i91_A_rec_4i91_tmh_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1      15.842   2.762  37.830  1.00  0.00           C  
+HETATM    2  C2  UNL     1      15.232   1.523  37.688  1.00  0.00           C  
+HETATM    3  C3  UNL     1      15.652   0.506  38.531  1.00  0.00           C  
+HETATM    4  C4  UNL     1      17.142   0.331  38.721  1.00  0.00           C  
+HETATM    5  C5  UNL     1      17.076   1.691  39.544  1.00  0.00           C  
+HETATM    6  C6  UNL     1      16.819   2.847  38.816  1.00  0.00           C  
+HETATM    7  C7  UNL     1      15.793   0.859  40.054  1.00  0.00           C  
+HETATM    8  C8  UNL     1      16.240  -0.375  40.884  1.00  0.00           C  
+HETATM    9  C9  UNL     1      14.484   1.520  40.552  1.00  0.00           C  
+HETATM   10  C10 UNL     1      14.239   1.310  36.739  1.00  0.00           C  
+CONECT    1    2    2    6
+CONECT    2    3   10
+CONECT    3    4    7
+CONECT    4    5
+CONECT    5    6    7
+CONECT    7    8    9
+END

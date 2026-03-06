@@ -1,0 +1,26 @@
+HETATM    1  N   MCG A1001     -47.405  10.816  36.699  1.00 58.29           N  
+HETATM    2  CA  MCG A1001     -46.936  10.888  35.299  1.00 61.07           C  
+HETATM    3  C   MCG A1001     -47.640   9.854  34.452  1.00 58.11           C  
+HETATM    4  CB  MCG A1001     -45.439  10.680  35.230  1.00 64.15           C  
+HETATM    5  CG1 MCG A1001     -44.895   9.531  34.603  1.00 65.36           C  
+HETATM    6  CG2 MCG A1001     -44.574  11.622  35.831  1.00 66.17           C  
+HETATM    7  CD1 MCG A1001     -43.502   9.327  34.598  1.00 57.48           C  
+HETATM    8  CD2 MCG A1001     -43.187  11.413  35.822  1.00 57.70           C  
+HETATM    9  CE  MCG A1001     -42.657  10.267  35.216  1.00 54.98           C  
+HETATM   10  CZ  MCG A1001     -41.237  10.038  35.257  1.00 61.23           C  
+HETATM   11  OH2 MCG A1001     -40.490  10.908  34.766  1.00 64.28           O  
+HETATM   12  OH1 MCG A1001     -40.824   8.985  35.791  1.00 71.76           O  
+HETATM   13  O   MCG A1001     -47.809  10.105  33.237  1.00 50.43           O  
+HETATM   14  OXT MCG A1001     -48.016   8.798  35.009  1.00 59.61           O  
+HETATM   15  CM  MCG A1001     -47.313  12.258  34.676  1.00 67.11           C  
+CONECT    1    2
+CONECT    2    3    4   15
+CONECT    3   13   14
+CONECT    4    5    6
+CONECT    5    7
+CONECT    6    8
+CONECT    7    9
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12
+END

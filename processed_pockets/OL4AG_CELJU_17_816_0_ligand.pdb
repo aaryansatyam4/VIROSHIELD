@@ -1,0 +1,21 @@
+COMPND    __5npe_A_rec_5npd_94b_lig_docked.pdb
+HETATM    1  C1  UNL     1      29.682  79.607  34.769  1.00  0.00           C  
+HETATM    2  C2  UNL     1      28.173  79.582  34.845  1.00  0.00           C  
+HETATM    3  C3  UNL     1      27.552  80.279  36.056  1.00  0.00           C  
+HETATM    4  C4  UNL     1      28.180  79.689  37.318  1.00  0.00           C  
+HETATM    5  C5  UNL     1      29.714  79.894  37.406  1.00  0.00           C  
+HETATM    6  C6  UNL     1      30.450  79.699  36.082  1.00  0.00           C  
+HETATM    7  O1  UNL     1      27.558  80.273  38.445  1.00  0.00           O  
+HETATM    8  O2  UNL     1      26.151  80.007  36.021  1.00  0.00           O  
+HETATM    9  O3  UNL     1      27.724  80.041  33.592  1.00  0.00           O  
+HETATM   10  N1  UNL     1      30.425  80.829  35.118  1.00  0.00           N  
+HETATM   11  C7  UNL     1      30.330  78.998  38.501  1.00  0.00           C  
+HETATM   12  O4  UNL     1      30.341  77.617  38.155  1.00  0.00           O  
+CONECT    1    2    6   10
+CONECT    2    3    9
+CONECT    3    4    8
+CONECT    4    5    7
+CONECT    5    6   11
+CONECT    6   10
+CONECT   11   12
+END

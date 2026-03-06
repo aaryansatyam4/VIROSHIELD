@@ -1,0 +1,44 @@
+COMPND    PocketomeGenCross_Output/GYRB_STAAU_415_640_0/5cdo_50m_lig.pdb
+HETATM    1  C1  UNL     1      44.980 -44.015  68.127  1.00  0.00           C  
+HETATM    2  C2  UNL     1      44.228 -43.778  66.784  1.00  0.00           C  
+HETATM    3  C3  UNL     1      45.125 -43.158  65.729  1.00  0.00           C  
+HETATM    4  C4  UNL     1      42.194 -43.622  67.760  1.00  0.00           C  
+HETATM    5  C5  UNL     1      43.264 -45.859  71.025  1.00  0.00           C  
+HETATM    6  C6  UNL     1      44.827 -47.372  72.100  1.00  0.00           C  
+HETATM    7  C7  UNL     1      45.839 -46.909  71.247  1.00  0.00           C  
+HETATM    8  C8  UNL     1      45.563 -45.937  70.282  1.00  0.00           C  
+HETATM    9  C9  UNL     1      46.666 -45.429  69.417  1.00  0.00           C  
+HETATM   10  C10 UNL     1      46.190 -45.002  68.020  1.00  0.00           C  
+HETATM   11  C11 UNL     1      47.369 -44.251  67.415  1.00  0.00           C  
+HETATM   12  C12 UNL     1      47.655 -45.841  65.640  1.00  0.00           C  
+HETATM   13  C13 UNL     1      45.813 -46.247  67.222  1.00  0.00           C  
+HETATM   14  O1  UNL     1      43.124 -42.925  66.974  1.00  0.00           O  
+HETATM   15  C14 UNL     1      40.871 -42.886  67.748  1.00  0.00           C  
+HETATM   16  C15 UNL     1      42.717 -43.697  69.185  1.00  0.00           C  
+HETATM   17  N1  UNL     1      44.002 -44.393  69.172  1.00  0.00           N  
+HETATM   18  C16 UNL     1      44.276 -45.397  70.168  1.00  0.00           C  
+HETATM   19  C17 UNL     1      43.537 -46.839  71.982  1.00  0.00           C  
+HETATM   20  O2  UNL     1      47.797 -43.078  68.029  1.00  0.00           O  
+HETATM   21  N2  UNL     1      48.002 -44.658  66.355  1.00  0.00           N  
+HETATM   22  O3  UNL     1      48.317 -46.181  64.626  1.00  0.00           O  
+HETATM   23  N3  UNL     1      46.557 -46.632  66.070  1.00  0.00           N  
+HETATM   24  O4  UNL     1      44.829 -46.952  67.571  1.00  0.00           O  
+HETATM   25  N4  UNL     1      45.106 -48.374  73.087  1.00  0.00           N1+
+HETATM   26  O5  UNL     1      44.458 -48.413  74.153  1.00  0.00           O  
+HETATM   27  O6  UNL     1      46.095 -49.306  72.869  1.00  0.00           O1-
+CONECT    1    2   10   17
+CONECT    2    3   14
+CONECT    4   14   15   16
+CONECT    5   18   18   19
+CONECT    6    7   19   19   25
+CONECT    7    8    8
+CONECT    8    9   18
+CONECT    9   10
+CONECT   10   11   13
+CONECT   11   20   21   21
+CONECT   12   21   22   22   23
+CONECT   13   23   24   24
+CONECT   16   17
+CONECT   17   18
+CONECT   25   26   26   27
+END

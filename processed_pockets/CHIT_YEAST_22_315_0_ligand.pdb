@@ -1,0 +1,22 @@
+COMPND    __2uy2_A_rec_2uy4_azm_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1      38.805  24.538  26.250  1.00  0.00           C  
+HETATM    2  C2  UNL     1      37.923  22.498  25.420  1.00  0.00           C  
+HETATM    3  N1  UNL     1      37.324  23.622  24.967  1.00  0.00           N  
+HETATM    4  N2  UNL     1      37.793  24.707  25.404  1.00  0.00           N  
+HETATM    5  S1  UNL     1      39.166  22.901  26.462  1.00  0.00           S  
+HETATM    6  N3  UNL     1      39.008  27.211  26.501  1.00  0.00           N  
+HETATM    7  O1  UNL     1      41.110  25.735  26.689  1.00  0.00           O  
+HETATM    8  O2  UNL     1      39.468  25.674  28.507  1.00  0.00           O  
+HETATM    9  S2  UNL     1      39.645  25.804  27.033  1.00  0.00           S  
+HETATM   10  C3  UNL     1      37.693  20.786  23.823  1.00  0.00           C  
+HETATM   11  C4  UNL     1      37.227  19.358  23.700  1.00  0.00           C  
+HETATM   12  N4  UNL     1      37.610  21.252  25.058  1.00  0.00           N  
+HETATM   13  O3  UNL     1      38.100  21.395  22.838  1.00  0.00           O  
+CONECT    1    4    4    5    9
+CONECT    2    3    3    5   12
+CONECT    3    4
+CONECT    6    9
+CONECT    7    9    9
+CONECT    8    9    9
+CONECT   10   11   12   13   13
+END

@@ -1,0 +1,50 @@
+HETATM    1  C1  MHI A 516      13.901  55.497  39.603  1.00 20.36           C  
+HETATM    2  N1  MHI A 516      11.666  54.765  39.026  1.00 18.95           N  
+HETATM    3  O1  MHI A 516      11.274  57.317  39.700  1.00 19.64           O  
+HETATM    4  C2  MHI A 516      12.423  55.343  40.110  1.00 20.33           C  
+HETATM    5  N2  MHI A 516      12.099  57.149  41.745  1.00 21.68           N  
+HETATM    6  O2  MHI A 516      11.791  57.367  44.416  1.00 22.63           O  
+HETATM    7  C3  MHI A 516      11.869  56.688  40.511  1.00 20.62           C  
+HETATM    8  N3  MHI A 516      13.398  61.919  39.664  1.00 24.29           N  
+HETATM    9  O3  MHI A 516      10.717  59.232  44.248  1.00 23.54           O  
+HETATM   10  C4  MHI A 516      11.587  58.429  42.215  1.00 22.66           C  
+HETATM   11  N4  MHI A 516      15.222  65.649  33.633  1.00 25.97           N  
+HETATM   12  O4  MHI A 516      15.056  60.890  40.757  1.00 23.35           O  
+HETATM   13  C5  MHI A 516      11.313  58.353  43.685  1.00 22.61           C  
+HETATM   14  O5  MHI A 516      14.494  65.349  40.232  1.00 26.53           O  
+HETATM   15  C6  MHI A 516      12.563  59.578  41.990  1.00 21.81           C  
+HETATM   16  O6  MHI A 516      12.747  64.283  40.856  1.00 28.50           O  
+HETATM   17  C7  MHI A 516      12.974  59.692  40.523  1.00 22.39           C  
+HETATM   18  O7  MHI A 516      15.311  67.481  36.615  1.00 28.13           O  
+HETATM   19  C8  MHI A 516      13.898  60.891  40.334  1.00 23.94           C  
+HETATM   20  O8  MHI A 516      14.328  67.771  34.627  1.00 32.46           O  
+HETATM   21  C9  MHI A 516      14.155  63.082  39.284  1.00 23.81           C  
+HETATM   22  C10 MHI A 516      13.744  64.270  40.151  1.00 27.41           C  
+HETATM   23  C11 MHI A 516      13.857  63.312  37.816  1.00 23.74           C  
+HETATM   24  C12 MHI A 516      14.486  64.582  37.260  1.00 23.38           C  
+HETATM   25  C13 MHI A 516      14.436  64.657  35.754  1.00 24.36           C  
+HETATM   26  C15 MHI A 516      14.963  67.055  35.421  1.00 29.20           C  
+HETATM   27  C14 MHI A 516      15.358  65.681  35.072  1.00 25.29           C  
+CONECT    1    4
+CONECT    2    4
+CONECT    3    7
+CONECT    4    7
+CONECT    5    7   10
+CONECT    6   13
+CONECT    8   19   21
+CONECT    9   13
+CONECT   10   13   15
+CONECT   11   27
+CONECT   12   19
+CONECT   14   22
+CONECT   15   17
+CONECT   16   22
+CONECT   17   19
+CONECT   18   26
+CONECT   20   26
+CONECT   21   22   23
+CONECT   23   24
+CONECT   24   25
+CONECT   25   27
+CONECT   26   27
+END

@@ -1,0 +1,24 @@
+HETATM    1  C2  SSM A 400     -30.984  18.754  -0.858  1.00 72.17           C  
+HETATM    2  C   SSM A 400     -29.711  18.504  -0.083  1.00 72.08           C  
+HETATM    3  O   SSM A 400     -29.722  17.753   0.913  1.00 71.99           O  
+HETATM    4  N   SSM A 400     -28.580  19.136  -0.474  1.00 71.65           N  
+HETATM    5  CA  SSM A 400     -27.286  18.955   0.220  1.00 70.66           C  
+HETATM    6  CB  SSM A 400     -26.576  20.328   0.314  1.00 69.77           C  
+HETATM    7  CG  SSM A 400     -25.123  20.258   0.199  1.00 65.22           C  
+HETATM    8  SD  SSM A 400     -24.645  21.714  -0.806  1.00 56.90           S  
+HETATM    9  OD1 SSM A 400     -25.277  22.892  -0.282  1.00 54.17           O  
+HETATM   10  CE  SSM A 400     -22.869  21.758  -0.710  1.00 56.16           C  
+HETATM   11  C3  SSM A 400     -27.519  18.412   1.560  1.00 71.63           C  
+HETATM   12  O3  SSM A 400     -27.527  19.150   2.518  1.00 71.30           O  
+HETATM   13  N2  SSM A 400     -27.754  17.136   1.687  1.00 73.00           N  
+HETATM   14  C1  SSM A 400     -28.027  16.578   3.011  1.00 73.13           C  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6   11
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10
+CONECT   11   12   13
+CONECT   13   14
+END

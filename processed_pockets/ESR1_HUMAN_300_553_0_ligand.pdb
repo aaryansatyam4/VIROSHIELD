@@ -1,0 +1,45 @@
+COMPND    __5tlm_A_rec_4ivy_1gt_lig_docked.pdb
+HETATM    1  N1  UNL     1      17.981  -3.590   6.523  1.00  0.00           N  
+HETATM    2  N2  UNL     1      17.374  -3.478   5.239  1.00  0.00           N  
+HETATM    3  C1  UNL     1      18.325  -2.886   4.304  1.00  0.00           C  
+HETATM    4  C2  UNL     1      19.580  -2.626   5.047  1.00  0.00           C  
+HETATM    5  C3  UNL     1      20.936  -2.033   4.645  1.00  0.00           C  
+HETATM    6  C4  UNL     1      21.979  -1.914   5.615  1.00  0.00           C  
+HETATM    7  C5  UNL     1      21.741  -2.376   7.037  1.00  0.00           C  
+HETATM    8  C6  UNL     1      20.422  -2.960   7.426  1.00  0.00           C  
+HETATM    9  C7  UNL     1      19.351  -3.071   6.435  1.00  0.00           C  
+HETATM   10  C8  UNL     1      18.055  -2.616   2.941  1.00  0.00           C  
+HETATM   11  C9  UNL     1      19.087  -2.941   1.823  1.00  0.00           C  
+HETATM   12  C10 UNL     1      18.764  -2.651   0.441  1.00  0.00           C  
+HETATM   13  C11 UNL     1      17.393  -2.022   0.078  1.00  0.00           C  
+HETATM   14  O1  UNL     1      17.051  -1.723  -1.332  1.00  0.00           O  
+HETATM   15  C12 UNL     1      16.404  -1.718   1.152  1.00  0.00           C  
+HETATM   16  C13 UNL     1      16.750  -2.022   2.599  1.00  0.00           C  
+HETATM   17  O2  UNL     1      15.799  -1.730   3.642  1.00  0.00           O  
+HETATM   18  C14 UNL     1      20.192  -3.426   8.924  1.00  0.00           C  
+HETATM   19  F1  UNL     1      19.070  -2.708   9.472  1.00  0.00           F  
+HETATM   20  F2  UNL     1      21.332  -3.131   9.676  1.00  0.00           F  
+HETATM   21  F3  UNL     1      19.944  -4.813   8.976  1.00  0.00           F  
+HETATM   22  C15 UNL     1      17.274  -4.179   7.747  1.00  0.00           C  
+HETATM   23  C16 UNL     1      16.410  -8.041   8.478  1.00  0.00           C  
+HETATM   24  C17 UNL     1      17.040  -6.737   8.572  1.00  0.00           C  
+HETATM   25  C18 UNL     1      16.649  -5.583   7.526  1.00  0.00           C  
+CONECT    1    2    9   22
+CONECT    2    3    3
+CONECT    3    4   10
+CONECT    4    5    9    9
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8    8
+CONECT    8    9   18
+CONECT   10   11   11   16
+CONECT   11   12
+CONECT   12   13   13
+CONECT   13   14   15
+CONECT   15   16   16
+CONECT   16   17
+CONECT   18   19   20   21
+CONECT   22   25
+CONECT   23   24
+CONECT   24   25   25
+END

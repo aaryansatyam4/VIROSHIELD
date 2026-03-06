@@ -1,0 +1,22 @@
+COMPND    __3h9a_A_rec_3h7j_ppy_lig_min.pdb
+HETATM    1  C1  UNL     1      12.856  -7.997  -9.581  1.00  0.00           C  
+HETATM    2  C2  UNL     1      12.341  -8.928  -8.536  1.00  0.00           C  
+HETATM    3  C3  UNL     1      12.269 -10.312  -8.627  1.00  0.00           C  
+HETATM    4  C4  UNL     1      11.690 -11.043  -7.601  1.00  0.00           C  
+HETATM    5  C5  UNL     1      11.195 -10.437  -6.454  1.00  0.00           C  
+HETATM    6  C6  UNL     1      11.268  -9.068  -6.356  1.00  0.00           C  
+HETATM    7  C7  UNL     1      11.833  -8.304  -7.378  1.00  0.00           C  
+HETATM    8  C8  UNL     1      13.886  -8.405 -10.591  1.00  0.00           C  
+HETATM    9  O1  UNL     1      14.165  -9.579 -10.707  1.00  0.00           O  
+HETATM   10  C9  UNL     1      14.595  -7.340 -11.266  1.00  0.00           C  
+HETATM   11  O2  UNL     1      14.224  -6.128 -11.118  1.00  0.00           O  
+HETATM   12  O3  UNL     1      15.567  -7.804 -11.909  1.00  0.00           O  
+CONECT    1    2    8
+CONECT    2    3    3    7
+CONECT    3    4
+CONECT    4    5    5
+CONECT    5    6
+CONECT    6    7    7
+CONECT    8    9    9   10
+CONECT   10   11   12   12
+END

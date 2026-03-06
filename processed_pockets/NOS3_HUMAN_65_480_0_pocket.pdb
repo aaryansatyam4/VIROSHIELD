@@ -1,0 +1,36 @@
+HETATM    1  S01 PQW A 800       6.810  10.316  29.882  1.00 48.39           S  
+HETATM    2  C02 PQW A 800       8.161  10.187  28.772  1.00 40.63           C  
+HETATM    3  C03 PQW A 800       8.985  11.277  28.998  1.00 36.72           C  
+HETATM    4  C04 PQW A 800       8.602  12.197  29.979  1.00 33.02           C  
+HETATM    5  C05 PQW A 800       7.436  11.795  30.579  1.00 41.79           C  
+HETATM    6  C06 PQW A 800       6.613  12.342  31.687  1.00 42.79           C  
+HETATM    7  N07 PQW A 800       7.206  12.922  32.702  1.00 45.03           N  
+HETATM    8  N08 PQW A 800       5.368  12.227  31.700  1.00 36.39           N  
+HETATM    9  N1' PQW A 800      13.878  14.229  36.359  1.00 92.62           N  
+HETATM   10  C11 PQW A 800       8.551  12.950  33.000  1.00 46.87           C  
+HETATM   11  C12 PQW A 800       9.115  14.197  33.182  1.00 46.23           C  
+HETATM   12  C13 PQW A 800      10.436  14.324  33.570  1.00 47.51           C  
+HETATM   13  C14 PQW A 800      11.234  13.227  33.773  1.00 53.03           C  
+HETATM   14  C15 PQW A 800      10.700  11.950  33.588  1.00 50.50           C  
+HETATM   15  C16 PQW A 800       9.356  11.824  33.210  1.00 43.79           C  
+HETATM   16  O17 PQW A 800      12.535  13.462  34.126  1.00 67.83           O  
+HETATM   17  C18 PQW A 800      12.938  14.837  34.167  1.00 84.02           C  
+HETATM   18  C2' PQW A 800      14.035  15.068  35.188  1.00 96.34           C  
+HETATM   19  C3' PQW A 800      15.368  14.685  34.547  1.00105.16           C  
+CONECT    1    2    5
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7    8
+CONECT    7   10
+CONECT    9   18
+CONECT   10   11   15
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   16
+CONECT   14   15
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+END

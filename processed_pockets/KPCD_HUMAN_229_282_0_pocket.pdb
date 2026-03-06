@@ -1,0 +1,47 @@
+HETATM    1  C1  PRB A   3      10.006  23.859  22.583  1.00 39.14           C  
+HETATM    2  C2  PRB A   3       9.089  22.889  22.944  1.00 40.13           C  
+HETATM    3  C3  PRB A   3       8.773  23.057  24.276  1.00 38.01           C  
+HETATM    4  O3  PRB A   3       7.906  22.393  24.869  1.00 39.73           O  
+HETATM    5  C4  PRB A   3       9.456  24.274  24.872  1.00 36.52           C  
+HETATM    6  O4  PRB A   3       8.414  25.238  25.032  1.00 36.10           O  
+HETATM    7  C5  PRB A   3      10.134  23.934  26.223  1.00 32.11           C  
+HETATM    8  C6  PRB A   3      11.376  24.688  26.598  1.00 29.38           C  
+HETATM    9  C7  PRB A   3      11.695  25.936  26.067  1.00 28.79           C  
+HETATM   10  C8  PRB A   3      10.824  26.691  25.082  1.00 32.12           C  
+HETATM   11  C9  PRB A   3      10.821  26.183  23.597  1.00 34.14           C  
+HETATM   12  O9  PRB A   3      12.128  26.253  23.040  1.00 36.99           O  
+HETATM   13  C10 PRB A   3      10.543  24.583  23.796  1.00 37.18           C  
+HETATM   14  C11 PRB A   3       9.795  27.092  22.796  1.00 35.10           C  
+HETATM   15  C12 PRB A   3      10.330  28.536  22.726  1.00 34.19           C  
+HETATM   16  O12 PRB A   3       9.289  29.473  22.463  1.00 33.08           O  
+HETATM   17  C13 PRB A   3      11.024  29.055  24.004  1.00 35.63           C  
+HETATM   18  C14 PRB A   3      11.195  28.204  25.304  1.00 32.51           C  
+HETATM   19  C15 PRB A   3      10.431  29.462  25.395  1.00 34.07           C  
+HETATM   20  C16 PRB A   3       8.967  29.179  25.814  1.00 29.96           C  
+HETATM   21  C17 PRB A   3      11.008  30.670  26.154  1.00 30.56           C  
+HETATM   22  C18 PRB A   3       9.460  26.699  21.365  1.00 37.50           C  
+HETATM   23  C19 PRB A   3       8.520  21.842  22.024  1.00 38.39           C  
+HETATM   24  C20 PRB A   3      12.272  24.147  27.625  1.00 26.79           C  
+HETATM   25  O20 PRB A   3      12.543  22.751  27.509  1.00 16.40           O  
+HETATM   26  OA1 PRB A   3      12.040  30.019  23.705  1.00 38.43           O  
+HETATM   27  CA1 PRB A   3      13.110  29.783  22.769  1.00 41.35           C  
+HETATM   28  OA2 PRB A   3      13.387  28.621  22.424  1.00 37.45           O  
+HETATM   29  CA2 PRB A   3      13.899  30.940  22.171  1.00 41.34           C  
+CONECT    1    2   13
+CONECT    2    3   23
+CONECT    3    4    5
+CONECT    5    6    7   13
+CONECT    7    8
+CONECT    8    9   24
+CONECT    9   10
+CONECT   10   11   18
+CONECT   11   12   13   14
+CONECT   14   15   22
+CONECT   15   16   17
+CONECT   17   18   19   26
+CONECT   18   19
+CONECT   19   20   21
+CONECT   24   25
+CONECT   26   27
+CONECT   27   28   29
+END

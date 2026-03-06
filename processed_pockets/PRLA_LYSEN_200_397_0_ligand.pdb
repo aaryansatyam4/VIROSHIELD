@@ -1,0 +1,14 @@
+COMPND    __1p09_A_rec_1tal_tam_lig_it1_it2_docked.pdb
+HETATM    1  C1  UNL     1       9.383  41.699  19.980  1.00  0.00           C  
+HETATM    2  N1  UNL     1      10.100  41.598  21.270  1.00  0.00           N  
+HETATM    3  C2  UNL     1       9.687  43.045  19.319  1.00  0.00           C  
+HETATM    4  C3  UNL     1       9.852  44.219  20.265  1.00  0.00           C  
+HETATM    5  C4  UNL     1       9.979  40.705  19.004  1.00  0.00           C  
+HETATM    6  C5  UNL     1      11.009  41.326  18.125  1.00  0.00           C  
+HETATM    7  C6  UNL     1       7.938  41.136  20.113  1.00  0.00           C  
+HETATM    8  C7  UNL     1       6.728  42.035  19.910  1.00  0.00           C  
+CONECT    1    2    3    5    7
+CONECT    3    4
+CONECT    5    6
+CONECT    7    8
+END

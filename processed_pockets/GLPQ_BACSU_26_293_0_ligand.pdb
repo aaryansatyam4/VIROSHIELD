@@ -1,0 +1,19 @@
+COMPND    __5t9c_E_rec_5t9c_g3p_lig_it1_docked.pdb
+HETATM    1  C1  UNL     1       6.853  -8.258  -9.108  1.00  0.00           C  
+HETATM    2  C2  UNL     1       6.859  -9.582  -8.356  1.00  0.00           C  
+HETATM    3  O1  UNL     1       5.553 -10.142  -8.224  1.00  0.00           O  
+HETATM    4  O2  UNL     1       6.335  -9.512  -6.056  1.00  0.00           O  
+HETATM    5  C3  UNL     1       7.427  -9.370  -6.973  1.00  0.00           C  
+HETATM    6  O3  UNL     1       5.829  -7.402  -8.629  1.00  0.00           O  
+HETATM    7  O4  UNL     1       3.420  -7.847  -9.200  1.00  0.00           O  
+HETATM    8  O5  UNL     1       4.237  -5.486  -8.960  1.00  0.00           O  
+HETATM    9  O6  UNL     1       4.949  -6.881 -10.914  1.00  0.00           O  
+HETATM   10  P1  UNL     1       4.567  -6.885  -9.445  1.00  0.00           P  
+CONECT    1    2    6
+CONECT    2    3    5
+CONECT    4    5
+CONECT    6   10
+CONECT    7   10   10
+CONECT    8   10
+CONECT    9   10
+END

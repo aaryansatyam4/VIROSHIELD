@@ -1,0 +1,54 @@
+HETATM    1  C   GBP B 464      -0.852  57.885  53.448  1.00 43.76           C  
+HETATM    2  OT1 GBP B 464      -1.103  58.198  54.642  1.00 45.46           O  
+HETATM    3  OT2 GBP B 464      -0.688  56.690  53.099  1.00 45.08           O  
+HETATM    4  N   GBP B 464      -1.902  58.929  51.418  1.00 42.86           N  
+HETATM    5  CA  GBP B 464      -0.737  58.972  52.337  1.00 42.41           C  
+HETATM    6  CB  GBP B 464      -0.599  60.433  52.844  1.00 39.40           C  
+HETATM    7  CB2 GBP B 464       2.434  64.288  50.924  1.00 24.26           C  
+HETATM    8  SG2 GBP B 464       1.282  63.557  49.693  1.00 27.99           S  
+HETATM    9  CG  GBP B 464       0.625  60.796  53.733  1.00 34.52           C  
+HETATM   10  CD  GBP B 464       1.902  61.300  53.043  1.00 32.05           C  
+HETATM   11  OE  GBP B 464       2.879  60.547  52.956  1.00 32.66           O  
+HETATM   12  N2  GBP B 464       1.884  62.548  52.567  1.00 26.25           N  
+HETATM   13  CA2 GBP B 464       3.007  63.172  51.832  1.00 24.01           C  
+HETATM   14  C2  GBP B 464       4.114  63.800  52.766  1.00 21.59           C  
+HETATM   15  O2  GBP B 464       5.150  64.244  52.259  1.00 20.46           O  
+HETATM   16  N3  GBP B 464       3.775  63.927  54.057  1.00 20.07           N  
+HETATM   17  CA3 GBP B 464       4.586  64.654  55.055  1.00 21.16           C  
+HETATM   18  C3  GBP B 464       4.949  63.870  56.314  1.00 21.22           C  
+HETATM   19  O31 GBP B 464       4.579  62.679  56.397  1.00 25.56           O  
+HETATM   20  O32 GBP B 464       5.606  64.442  57.201  1.00 18.65           O  
+HETATM   21  NE2 GBP B 464       1.659  61.828  47.542  1.00 35.22           N  
+HETATM   22  OF2 GBP B 464       0.337  61.768  47.629  1.00 37.31           O  
+HETATM   23  CD2 GBP B 464       2.223  62.581  48.501  1.00 31.76           C  
+HETATM   24  OZ1 GBP B 464       3.433  62.771  48.588  1.00 33.64           O  
+HETATM   25  CG2 GBP B 464       2.297  61.064  46.469  1.00 35.58           C  
+HETATM   26  CL1 GBP B 464       3.535  60.430  46.650  1.00 36.70           C  
+HETATM   27  CL2 GBP B 464       1.634  60.963  45.237  1.00 36.16           C  
+HETATM   28  CM1 GBP B 464       4.118  59.692  45.622  1.00 36.01           C  
+HETATM   29  CM2 GBP B 464       2.214  60.224  44.212  1.00 36.35           C  
+HETATM   30  CZ  GBP B 464       3.442  59.608  44.408  1.00 36.44           C  
+HETATM   31  BR  GBP B 464       4.224  58.622  43.008  1.00 35.21          BR  
+CONECT    1    2    3    5
+CONECT    4    5
+CONECT    5    6
+CONECT    6    9
+CONECT    7    8   13
+CONECT    8   23
+CONECT    9   10
+CONECT   10   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19   20
+CONECT   21   22   23   25
+CONECT   23   24
+CONECT   25   26   27
+CONECT   26   28
+CONECT   27   29
+CONECT   28   30
+CONECT   29   30
+CONECT   30   31
+END

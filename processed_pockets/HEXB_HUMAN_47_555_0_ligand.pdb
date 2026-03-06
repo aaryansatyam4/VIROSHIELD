@@ -1,0 +1,24 @@
+COMPND    __3lmy_A_rec_1o7a_gdl_lig_min.pdb
+HETATM    1  C1  UNL     1       5.787  22.180  35.597  1.00  0.00           C  
+HETATM    2  C2  UNL     1       5.957  23.780  35.968  1.00  0.00           C  
+HETATM    3  C3  UNL     1       7.537  24.223  36.145  1.00  0.00           C  
+HETATM    4  C4  UNL     1       8.413  22.988  36.559  1.00  0.00           C  
+HETATM    5  C5  UNL     1       8.196  21.881  35.550  1.00  0.00           C  
+HETATM    6  O1  UNL     1       4.608  21.828  35.405  1.00  0.00           O  
+HETATM    7  O2  UNL     1       7.613  25.232  37.134  1.00  0.00           O  
+HETATM    8  O3  UNL     1       9.778  23.385  36.584  1.00  0.00           O  
+HETATM    9  O4  UNL     1       6.793  21.398  35.487  1.00  0.00           O  
+HETATM   10  C6  UNL     1       5.456  24.378  33.561  1.00  0.00           C  
+HETATM   11  C7  UNL     1       4.685  25.306  32.594  1.00  0.00           C  
+HETATM   12  N1  UNL     1       5.329  24.626  34.898  1.00  0.00           N  
+HETATM   13  O5  UNL     1       6.147  23.468  33.114  1.00  0.00           O  
+HETATM   14  C8  UNL     1       9.099  20.670  35.906  1.00  0.00           C  
+HETATM   15  O6  UNL     1       9.000  19.712  34.864  1.00  0.00           O  
+CONECT    1    2    6    6    9
+CONECT    2    3   12
+CONECT    3    4    7
+CONECT    4    5    8
+CONECT    5    9   14
+CONECT   10   11   12   13   13
+CONECT   14   15
+END

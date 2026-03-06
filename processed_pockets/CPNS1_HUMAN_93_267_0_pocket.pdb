@@ -1,0 +1,23 @@
+HETATM    1  OAL 2UB A 301      14.065 -11.530  23.994  1.00 82.33           O  
+HETATM    2  CAJ 2UB A 301      13.187 -11.898  24.783  1.00 81.82           C  
+HETATM    3  OAM 2UB A 301      13.496 -12.069  25.981  1.00 82.79           O  
+HETATM    4  CAI 2UB A 301      11.750 -12.148  24.313  1.00 85.43           C  
+HETATM    5  SAK 2UB A 301      10.705 -12.608  25.390  1.00 91.83           S  
+HETATM    6  CAG 2UB A 301      11.255 -12.006  22.870  1.00 86.89           C  
+HETATM    7  CAE 2UB A 301      12.105 -11.600  21.858  1.00 85.76           C  
+HETATM    8  CAD 2UB A 301      12.736 -10.361  21.952  1.00 86.67           C  
+HETATM    9  CAC 2UB A 301      13.595  -9.931  20.955  1.00 87.44           C  
+HETATM   10  CAB 2UB A 301      13.810 -10.739  19.848  1.00 89.65           C  
+HETATM   11  CL  2UB A 301      14.893 -10.173  18.631  1.00 95.79          CL  
+HETATM   12  CAA 2UB A 301      13.186 -11.987  19.744  1.00 88.31           C  
+HETATM   13  CAF 2UB A 301      12.325 -12.418  20.752  1.00 86.97           C  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7
+CONECT    7    8   13
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12
+CONECT   12   13
+END

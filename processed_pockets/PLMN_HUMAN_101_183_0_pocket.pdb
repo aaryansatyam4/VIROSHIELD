@@ -1,0 +1,19 @@
+HETATM    1  C1  AMH A  90      35.525   3.567 -30.715  1.00 26.46           C  
+HETATM    2  C2  AMH A  90      35.388   2.305 -29.970  1.00 25.59           C  
+HETATM    3  C3  AMH A  90      34.093   1.614 -30.254  1.00 25.70           C  
+HETATM    4  C4  AMH A  90      33.664   1.662 -31.660  1.00 25.40           C  
+HETATM    5  C5  AMH A  90      33.830   2.990 -32.390  1.00 25.60           C  
+HETATM    6  C6  AMH A  90      35.142   3.677 -32.146  1.00 26.27           C  
+HETATM    7  C7  AMH A  90      32.215   1.029 -31.990  1.00 24.64           C  
+HETATM    8  C8  AMH A  90      36.525   4.611 -30.263  1.00 27.09           C  
+HETATM    9  N   AMH A  90      32.449   0.503 -33.292  1.00 24.29           N  
+HETATM   10  O1  AMH A  90      37.720   4.454 -30.030  1.00 27.27           O  
+HETATM   11  O2  AMH A  90      36.002   5.765 -30.068  1.00 29.22           O  
+CONECT    1    2    6    8
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    7
+CONECT    5    6
+CONECT    7    9
+CONECT    8   10   11
+END

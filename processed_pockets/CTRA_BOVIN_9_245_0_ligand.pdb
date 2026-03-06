@@ -1,0 +1,21 @@
+COMPND    6CHA_PBA_C_1
+HETATM    1  C1  UNL     1      40.674  78.621  92.311  1.00  0.00           C  
+HETATM    2  C2  UNL     1      40.621  77.724  91.107  1.00  0.00           C  
+HETATM    3  C3  UNL     1      41.761  77.083  90.593  1.00  0.00           C  
+HETATM    4  C4  UNL     1      39.385  77.526  90.482  1.00  0.00           C  
+HETATM    5  C5  UNL     1      41.661  76.258  89.469  1.00  0.00           C  
+HETATM    6  C6  UNL     1      39.284  76.701  89.358  1.00  0.00           C  
+HETATM    7  C7  UNL     1      40.422  76.067  88.852  1.00  0.00           C  
+HETATM    8  C8  UNL     1      39.302  79.012  92.844  1.00  0.00           C  
+HETATM    9  B1  UNL     1      39.453  79.671  94.279  1.00  0.00           B  
+HETATM   10  O1  UNL     1      40.193  80.919  94.439  1.00  0.00           O  
+HETATM   11  O2  UNL     1      38.903  78.996  95.451  1.00  0.00           O  
+CONECT    1    2    8
+CONECT    2    3    3    4
+CONECT    3    5
+CONECT    4    6    6
+CONECT    5    7    7
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10   11
+END

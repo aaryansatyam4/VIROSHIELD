@@ -1,0 +1,21 @@
+COMPND    1GVY_NIN_A_1422
+HETATM    1  C1  UNL     1      78.174  39.114  -4.949  1.00  0.00           C  
+HETATM    2  C2  UNL     1      79.208  39.654  -4.171  1.00  0.00           C  
+HETATM    3  C3  UNL     1      79.148  41.003  -3.793  1.00  0.00           C  
+HETATM    4  C4  UNL     1      78.069  41.810  -4.183  1.00  0.00           C  
+HETATM    5  C5  UNL     1      77.044  41.254  -4.960  1.00  0.00           C  
+HETATM    6  C6  UNL     1      77.096  39.911  -5.342  1.00  0.00           C  
+HETATM    7  N1  UNL     1      80.317  38.840  -3.766  1.00  0.00           N1+
+HETATM    8  O1  UNL     1      81.512  38.906  -4.445  1.00  0.00           O1-
+HETATM    9  O2  UNL     1      80.212  38.064  -2.793  1.00  0.00           O  
+HETATM   10  N2  UNL     1      78.012  43.189  -3.793  1.00  0.00           N1+
+HETATM   11  O3  UNL     1      78.905  43.688  -2.873  1.00  0.00           O1-
+HETATM   12  O4  UNL     1      77.153  43.952  -4.282  1.00  0.00           O  
+CONECT    1    2    6    6
+CONECT    2    3    3    7
+CONECT    3    4
+CONECT    4    5    5   10
+CONECT    5    6
+CONECT    7    8    9    9
+CONECT   10   11   12   12
+END

@@ -1,0 +1,10 @@
+COMPND    PocketomeGenCross_Output/DRAA_ECOLX_22_160_0/2w5p_cl8_lig.pdb
+HETATM    1  C1  UNL     1      11.519  18.836  -9.666  1.00  0.00           C  
+HETATM    2  O1  UNL     1      10.562  19.643  -9.801  1.00  0.00           O  
+HETATM    3  N1  UNL     1      12.773  19.119 -10.275  1.00  0.00           N  
+HETATM    4  C2  UNL     1      11.350  17.584  -8.873  1.00  0.00           C  
+HETATM    5 CL1  UNL     1      12.230  17.701  -7.330  1.00  0.00          CL  
+HETATM    6 CL2  UNL     1      11.935  16.178  -9.797  1.00  0.00          CL  
+CONECT    1    2    2    3    4
+CONECT    4    5    6
+END

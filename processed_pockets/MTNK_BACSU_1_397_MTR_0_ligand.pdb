@@ -1,0 +1,21 @@
+COMPND    1Z5N_SR1_A_233
+HETATM    1  C1  UNL     1     -76.472 -26.163   5.529  1.00  0.00           C  
+HETATM    2  S1  UNL     1     -76.307 -24.474   6.176  1.00  0.00           S  
+HETATM    3  C2  UNL     1     -75.933 -25.060   7.858  1.00  0.00           C  
+HETATM    4  C3  UNL     1     -77.211 -25.427   8.597  1.00  0.00           C  
+HETATM    5  O1  UNL     1     -76.889 -26.202   9.733  1.00  0.00           O  
+HETATM    6  C4  UNL     1     -77.563 -25.639  10.831  1.00  0.00           C  
+HETATM    7  O2  UNL     1     -78.751 -26.342  11.055  1.00  0.00           O  
+HETATM    8  C5  UNL     1     -77.836 -24.186  10.512  1.00  0.00           C  
+HETATM    9  O3  UNL     1     -78.985 -23.708  11.151  1.00  0.00           O  
+HETATM   10  C6  UNL     1     -77.960 -24.174   9.015  1.00  0.00           C  
+HETATM   11  O4  UNL     1     -79.295 -24.294   8.618  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6
+CONECT    6    7    8
+CONECT    8    9   10
+CONECT   10   11
+END

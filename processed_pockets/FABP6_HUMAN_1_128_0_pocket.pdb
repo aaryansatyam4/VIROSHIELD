@@ -1,0 +1,19 @@
+HETATM    1  C1  PGE A 201      64.431   1.759  75.737  1.00 52.07           C  
+HETATM    2  O1  PGE A 201      65.602   1.046  76.165  1.00 53.50           O  
+HETATM    3  C2  PGE A 201      64.225   1.617  74.228  1.00 50.96           C  
+HETATM    4  O2  PGE A 201      65.141   2.446  73.491  1.00 50.32           O  
+HETATM    5  C3  PGE A 201      64.530   3.257  72.480  1.00 49.49           C  
+HETATM    6  C4  PGE A 201      65.587   3.907  71.584  1.00 49.25           C  
+HETATM    7  O4  PGE A 201      67.032   7.239  73.849  1.00 46.22           O  
+HETATM    8  C6  PGE A 201      66.783   7.315  72.442  1.00 46.16           C  
+HETATM    9  C5  PGE A 201      65.752   6.280  72.011  1.00 46.48           C  
+HETATM   10  O3  PGE A 201      66.302   4.981  72.212  1.00 48.11           O  
+CONECT    1    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6   10
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+END

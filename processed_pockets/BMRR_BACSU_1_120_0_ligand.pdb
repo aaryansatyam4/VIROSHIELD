@@ -1,0 +1,48 @@
+COMPND    118
+HETATM    1 SB1  UNL     1      71.200 137.728  83.397  1.00  0.00          SB1+
+HETATM    2  C1  UNL     1      70.251 139.635  83.256  1.00  0.00           C  
+HETATM    3  C2  UNL     1      70.917 140.781  83.705  1.00  0.00           C  
+HETATM    4  C3  UNL     1      70.309 142.034  83.586  1.00  0.00           C  
+HETATM    5  C4  UNL     1      69.039 142.144  83.011  1.00  0.00           C  
+HETATM    6  C5  UNL     1      68.378 141.000  82.550  1.00  0.00           C  
+HETATM    7  C6  UNL     1      68.987 139.746  82.669  1.00  0.00           C  
+HETATM    8  C7  UNL     1      69.724 136.223  83.729  1.00  0.00           C  
+HETATM    9  C8  UNL     1      69.432 135.297  82.722  1.00  0.00           C  
+HETATM   10  C9  UNL     1      68.444 134.329  82.927  1.00  0.00           C  
+HETATM   11  C10 UNL     1      67.741 134.292  84.136  1.00  0.00           C  
+HETATM   12  C11 UNL     1      68.025 135.226  85.139  1.00  0.00           C  
+HETATM   13  C12 UNL     1      69.013 136.194  84.934  1.00  0.00           C  
+HETATM   14  C13 UNL     1      72.584 137.737  85.022  1.00  0.00           C  
+HETATM   15  C14 UNL     1      73.959 137.787  84.770  1.00  0.00           C  
+HETATM   16  C15 UNL     1      74.865 137.763  85.835  1.00  0.00           C  
+HETATM   17  C16 UNL     1      74.398 137.679  87.150  1.00  0.00           C  
+HETATM   18  C17 UNL     1      73.023 137.617  87.401  1.00  0.00           C  
+HETATM   19  C18 UNL     1      72.116 137.641  86.337  1.00  0.00           C  
+HETATM   20  C19 UNL     1      72.220 138.248  80.535  1.00  0.00           C  
+HETATM   21  C20 UNL     1      72.927 137.991  79.356  1.00  0.00           C  
+HETATM   22  C21 UNL     1      73.663 136.809  79.225  1.00  0.00           C  
+HETATM   23  C22 UNL     1      73.695 135.885  80.275  1.00  0.00           C  
+HETATM   24  C23 UNL     1      72.988 136.141  81.454  1.00  0.00           C  
+HETATM   25  C24 UNL     1      72.242 137.318  81.580  1.00  0.00           C  
+CONECT    1    2    8   14   25
+CONECT    2    3    3    7
+CONECT    3    4
+CONECT    4    5    5
+CONECT    5    6
+CONECT    6    7    7
+CONECT    8    9    9   13
+CONECT    9   10
+CONECT   10   11   11
+CONECT   11   12
+CONECT   12   13   13
+CONECT   14   15   15   19
+CONECT   15   16
+CONECT   16   17   17
+CONECT   17   18
+CONECT   18   19   19
+CONECT   20   21   21   25
+CONECT   21   22
+CONECT   22   23   23
+CONECT   23   24
+CONECT   24   25   25
+END

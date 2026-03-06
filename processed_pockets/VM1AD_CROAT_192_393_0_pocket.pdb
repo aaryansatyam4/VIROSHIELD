@@ -1,0 +1,54 @@
+HETATM    1  C1  BAT A 972       0.792  24.745   4.856  0.90  5.00           C  
+HETATM    2  C2  BAT A 972      -0.263  25.907   4.840  0.90 36.06           C  
+HETATM    3  C3  BAT A 972       0.310  23.676   5.856  0.90 25.32           C  
+HETATM    4  C4  BAT A 972      -0.237  22.972   8.542  0.90 20.80           C  
+HETATM    5  C5  BAT A 972      -1.130  23.531   9.465  0.90 24.48           C  
+HETATM    6  C6  BAT A 972      -1.918  22.483  10.119  0.90 30.28           C  
+HETATM    7  C7  BAT A 972      -1.554  21.220   9.635  0.90 19.09           C  
+HETATM    8  C8  BAT A 972       1.187  24.017   3.523  0.90 31.70           C  
+HETATM    9  C9  BAT A 972       0.310  23.122   2.598  0.90 28.56           C  
+HETATM   10  C10 BAT A 972      -0.992  23.708   1.989  0.90 33.04           C  
+HETATM   11  C11 BAT A 972      -2.050  24.493   2.787  0.90 31.09           C  
+HETATM   12  C12 BAT A 972      -1.683  22.368   1.667  0.90 23.86           C  
+HETATM   13  C13 BAT A 972       2.036  24.839   2.527  0.90 18.32           C  
+HETATM   14  C14 BAT A 972       4.016  24.601   1.072  0.91 33.80           C  
+HETATM   15  C15 BAT A 972       4.752  25.821   1.662  0.91 28.14           C  
+HETATM   16  C16 BAT A 972       5.530  28.065   1.447  0.91 32.85           C  
+HETATM   17  C17 BAT A 972       3.299  24.691  -0.276  0.91 29.16           C  
+HETATM   18  C18 BAT A 972       2.966  23.283  -0.729  0.91 28.47           C  
+HETATM   19  C19 BAT A 972       3.924  22.510  -1.384  0.90 26.19           C  
+HETATM   20  C20 BAT A 972       3.627  21.195  -1.773  0.91 28.90           C  
+HETATM   21  C21 BAT A 972       2.374  20.656  -1.501  0.90 28.73           C  
+HETATM   22  C22 BAT A 972       1.414  21.424  -0.844  0.91 25.67           C  
+HETATM   23  C23 BAT A 972       1.712  22.742  -0.457  0.91 21.92           C  
+HETATM   24  N1  BAT A 972       0.313  27.068   4.481  0.90 28.60           N  
+HETATM   25  N2  BAT A 972       3.065  24.110   2.052  0.90 30.73           N  
+HETATM   26  N3  BAT A 972       4.831  26.917   0.893  0.91 21.11           N  
+HETATM   27  O1  BAT A 972      -1.408  25.797   5.136  0.90 26.20           O  
+HETATM   28  O2  BAT A 972      -0.095  28.049   4.401  0.90 28.87           O  
+HETATM   29  O3  BAT A 972       1.663  25.892   1.988  0.90 25.29           O  
+HETATM   30  O4  BAT A 972       5.310  25.736   2.758  0.90 29.66           O  
+HETATM   31  S1  BAT A 972       0.863  23.897   7.567  0.91 30.01           S  
+HETATM   32  S2  BAT A 972      -0.322  21.245   8.440  0.90 30.07           S  
+CONECT    1    2    3    8
+CONECT    2   24   27
+CONECT    3   31
+CONECT    4    5   31   32
+CONECT    5    6
+CONECT    6    7
+CONECT    7   32
+CONECT    8    9   13
+CONECT    9   10
+CONECT   10   11   12
+CONECT   13   25   29
+CONECT   14   15   17   25
+CONECT   15   26   30
+CONECT   16   26
+CONECT   17   18
+CONECT   18   19   23
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   24   28
+END

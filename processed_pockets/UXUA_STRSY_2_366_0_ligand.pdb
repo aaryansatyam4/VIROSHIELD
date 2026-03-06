@@ -1,0 +1,20 @@
+COMPND    2WKU_DNO_A_1396
+HETATM    1  C1  UNL     1      -0.227  21.973  -1.771  1.00  0.00           C  
+HETATM    2  O1  UNL     1       0.193  20.695  -1.391  1.00  0.00           O  
+HETATM    3  C2  UNL     1      -0.137  22.952  -0.591  1.00  0.00           C  
+HETATM    4  O2  UNL     1      -0.105  24.263  -1.079  1.00  0.00           O  
+HETATM    5  C3  UNL     1      -1.324  22.792   0.365  1.00  0.00           C  
+HETATM    6  O3  UNL     1      -1.026  21.860   1.361  1.00  0.00           O  
+HETATM    7  C4  UNL     1      -1.661  24.098   1.013  1.00  0.00           C  
+HETATM    8  O4  UNL     1      -2.567  24.788   0.574  1.00  0.00           O  
+HETATM    9  C5  UNL     1       0.581  22.454  -2.979  1.00  0.00           C  
+HETATM   10  O5  UNL     1       0.082  21.868  -4.144  1.00  0.00           O  
+HETATM   11  C6  UNL     1       2.064  22.138  -2.834  1.00  0.00           C  
+HETATM   12  O6  UNL     1       2.812  22.992  -3.645  1.00  0.00           O  
+CONECT    1    2    3    9
+CONECT    3    4    5
+CONECT    5    6    7
+CONECT    7    8    8
+CONECT    9   10   11
+CONECT   11   12
+END

@@ -1,0 +1,42 @@
+HETATM    1  OAA CHW A 504       0.015  24.184  39.874  1.00 28.63           O  
+HETATM    2  CAB CHW A 504       0.450  23.680  38.692  1.00 31.15           C  
+HETATM    3  CAC CHW A 504      -0.016  24.283  37.536  1.00 33.79           C  
+HETATM    4  CAD CHW A 504      -0.972  25.457  37.644  1.00 34.66           C  
+HETATM    5  CAE CHW A 504      -1.633  25.603  36.434  1.00 36.15           C  
+HETATM    6  CAF CHW A 504      -2.785  24.947  36.064  1.00 36.92           C  
+HETATM    7  CAG CHW A 504      -3.356  25.213  34.677  1.00 40.22           C  
+HETATM    8  CAH CHW A 504      -3.487  24.030  33.953  1.00 41.98           C  
+HETATM    9  CAI CHW A 504      -4.627  23.258  34.136  1.00 43.39           C  
+HETATM   10  CAJ CHW A 504      -4.870  22.076  33.440  1.00 45.70           C  
+HETATM   11  CAK CHW A 504      -6.170  21.335  33.755  1.00 44.16           C  
+HETATM   12  OAL CHW A 504      -6.695  20.752  32.573  1.00 44.63           O  
+HETATM   13  OAM CHW A 504       1.170  21.957  40.923  1.00 25.56           O  
+HETATM   14  CAN CHW A 504       1.826  21.912  39.895  1.00 28.00           C  
+HETATM   15  CAO CHW A 504       1.313  22.577  38.629  1.00 30.95           C  
+HETATM   16  CAP CHW A 504       0.420  23.763  36.310  1.00 36.61           C  
+HETATM   17  OAQ CHW A 504       0.044  24.256  35.098  1.00 40.41           O  
+HETATM   18  CAR CHW A 504      -3.479  24.033  37.052  1.00 37.23           C  
+HETATM   19  CAS CHW A 504      -3.886  21.520  32.384  1.00 45.57           C  
+HETATM   20  CAT CHW A 504      -5.908  20.270  34.809  1.00 43.19           C  
+HETATM   21  CAU CHW A 504       1.740  22.091  37.396  1.00 34.06           C  
+HETATM   22  CAV CHW A 504       1.275  22.702  36.238  1.00 37.48           C  
+HETATM   23 CLAW CHW A 504       1.701  22.240  34.625  1.00 49.86          CL  
+HETATM   24  CAX CHW A 504       2.695  20.903  37.324  1.00 33.99           C  
+CONECT    1    2
+CONECT    2    3   15
+CONECT    3    4   16
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7   18
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   19
+CONECT   11   12   20
+CONECT   13   14
+CONECT   14   15
+CONECT   15   21
+CONECT   16   17   22
+CONECT   21   22   24
+CONECT   22   23
+END

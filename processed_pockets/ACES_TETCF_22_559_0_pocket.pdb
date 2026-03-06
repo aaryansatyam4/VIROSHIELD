@@ -1,0 +1,39 @@
+HETATM    1  CL1 HUX A 803       7.488  70.450  69.989  1.00 25.95          CL  
+HETATM    2  C1  HUX A 803       6.294  70.095  68.885  1.00 28.50           C  
+HETATM    3  N1  HUX A 803       5.841  69.064  65.346  1.00 24.85           N  
+HETATM    4  C3  HUX A 803       5.464  69.423  66.710  1.00 26.43           C  
+HETATM    5  C4  HUX A 803       4.848  68.685  64.515  1.00 24.00           C  
+HETATM    6  N2  HUX A 803       1.780  68.899  66.547  1.00 27.04           N  
+HETATM    7  C14 HUX A 803       3.119  68.984  66.211  1.00 26.27           C  
+HETATM    8  C2  HUX A 803       6.573  69.747  67.468  1.00 27.70           C  
+HETATM    9  C17 HUX A 803       4.855  70.085  69.328  1.00 26.96           C  
+HETATM   10  C15 HUX A 803       4.147  69.381  67.100  1.00 26.87           C  
+HETATM   11  C5  HUX A 803       5.378  68.282  63.034  1.00 24.99           C  
+HETATM   12  C13 HUX A 803       3.499  68.593  64.810  1.00 25.35           C  
+HETATM   13  C6  HUX A 803       4.379  67.382  62.287  1.00 25.41           C  
+HETATM   14  C7  HUX A 803       4.144  65.901  63.029  1.00 25.50           C  
+HETATM   15  C12 HUX A 803       3.022  68.055  62.277  1.00 25.36           C  
+HETATM   16  C8  HUX A 803       3.177  65.577  63.890  1.00 26.25           C  
+HETATM   17  C9  HUX A 803       2.176  66.665  64.210  1.00 26.66           C  
+HETATM   18  C18 HUX A 803       3.159  64.120  64.498  1.00 26.17           C  
+HETATM   19  C11 HUX A 803       2.488  68.090  63.774  1.00 26.07           C  
+HETATM   20  C10 HUX A 803       4.272  63.108  64.144  1.00 24.58           C  
+HETATM   21  C16 HUX A 803       3.827  69.761  68.524  1.00 26.80           C  
+CONECT    1    2
+CONECT    2    8    9
+CONECT    3    4    5
+CONECT    4    8   10
+CONECT    5   11   12
+CONECT    6    7
+CONECT    7   10   12
+CONECT    9   21
+CONECT   10   21
+CONECT   11   13
+CONECT   12   19
+CONECT   13   14   15
+CONECT   14   16
+CONECT   15   19
+CONECT   16   17   18
+CONECT   17   19
+CONECT   18   20
+END

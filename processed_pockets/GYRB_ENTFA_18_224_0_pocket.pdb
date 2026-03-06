@@ -1,0 +1,59 @@
+HETATM    1  N19 MJU A 301      -6.014  -4.106 -16.984  1.00 36.98           N  
+HETATM    2  C17 MJU A 301      -6.398  -4.175 -15.586  1.00 34.83           C  
+HETATM    3  C16 MJU A 301      -6.995  -2.849 -15.121  1.00 34.92           C  
+HETATM    4  C15 MJU A 301      -8.220  -3.174 -14.270  1.00 32.38           C  
+HETATM    5  C18 MJU A 301      -7.445  -5.268 -15.354  1.00 33.33           C  
+HETATM    6  N14 MJU A 301      -8.520  -4.540 -14.677  1.00 31.39           N  
+HETATM    7  C10 MJU A 301      -9.809  -5.101 -14.562  1.00 29.97           C  
+HETATM    8  C7  MJU A 301     -10.936  -4.594 -13.704  1.00 28.94           C  
+HETATM    9  C3  MJU A 301     -11.126  -3.516 -12.711  1.00 28.39           C  
+HETATM   10  C4  MJU A 301     -10.274  -2.525 -12.216  1.00 29.87           C  
+HETATM   11  C5  MJU A 301     -10.788  -1.630 -11.256  1.00 28.67           C  
+HETATM   12  C6  MJU A 301     -12.109  -1.718 -10.798  1.00 28.23           C  
+HETATM   13  C1  MJU A 301     -12.988  -2.700 -11.282  1.00 28.50           C  
+HETATM   14  N11 MJU A 301     -10.105  -6.174 -15.349  1.00 28.94           N  
+HETATM   15  C12 MJU A 301     -11.324  -6.787 -15.352  1.00 29.51           C  
+HETATM   16  N13 MJU A 301     -12.357  -6.356 -14.600  1.00 28.02           N  
+HETATM   17  C8  MJU A 301     -12.233  -5.297 -13.761  1.00 28.34           C  
+HETATM   18  N9  MJU A 301     -13.089  -4.666 -12.899  1.00 27.04           N  
+HETATM   19  C2  MJU A 301     -12.525  -3.618 -12.234  1.00 28.76           C  
+HETATM   20  S20 MJU A 301     -11.611  -8.148 -16.316  1.00 30.32           S  
+HETATM   21  C21 MJU A 301     -10.326  -8.520 -17.354  1.00 32.27           C  
+HETATM   22  C26 MJU A 301      -9.667  -7.490 -18.034  1.00 33.09           C  
+HETATM   23  N25 MJU A 301      -8.653  -7.731 -18.882  1.00 35.78           N  
+HETATM   24  C24 MJU A 301      -8.239  -8.999 -19.112  1.00 36.25           C  
+HETATM   25  N27 MJU A 301      -7.221  -9.265 -19.964  1.00 37.86           N  
+HETATM   26  C28 MJU A 301      -6.833 -10.534 -20.171  1.00 39.20           C  
+HETATM   27  C29 MJU A 301      -7.464 -11.601 -19.524  1.00 39.77           C  
+HETATM   28  N30 MJU A 301      -8.482 -11.389 -18.669  1.00 39.76           N  
+HETATM   29  C23 MJU A 301      -8.912 -10.130 -18.417  1.00 36.09           C  
+HETATM   30  C22 MJU A 301      -9.960  -9.856 -17.542  1.00 34.24           C  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4
+CONECT    4    6
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8   14
+CONECT    8    9   17
+CONECT    9   10   19
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   19
+CONECT   14   15
+CONECT   15   16   20
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   20   21
+CONECT   21   22   30
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   29
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+END

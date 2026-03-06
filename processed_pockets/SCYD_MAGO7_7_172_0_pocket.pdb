@@ -1,0 +1,34 @@
+HETATM    1  CL0 CRP A 600      31.876   7.281  35.852  1.00  2.00          CL  
+HETATM    2  C1' CRP A 600      30.028  11.226  34.738  1.00 19.86           C  
+HETATM    3  C2' CRP A 600      29.967  10.753  36.026  1.00 20.53           C  
+HETATM    4  C3' CRP A 600      30.534   9.555  36.369  1.00 18.64           C  
+HETATM    5  C4' CRP A 600      31.149   8.807  35.422  1.00 19.73           C  
+HETATM    6  C5' CRP A 600      31.199   9.257  34.130  1.00 21.04           C  
+HETATM    7  C6' CRP A 600      30.638  10.460  33.803  1.00 21.15           C  
+HETATM    8  C7' CRP A 600      29.432  12.578  34.345  1.00 16.32           C  
+HETATM    9  C8' CRP A 600      30.569  13.579  34.171  1.00 17.31           C  
+HETATM   10  N   CRP A 600      28.666  12.445  33.117  1.00 18.16           N  
+HETATM   11  C   CRP A 600      27.349  12.075  33.173  1.00 23.78           C  
+HETATM   12  O   CRP A 600      26.731  11.945  34.244  1.00 22.56           O  
+HETATM   13  C1  CRP A 600      26.614  11.754  31.868  1.00 19.38           C  
+HETATM   14  C2  CRP A 600      25.604  12.877  31.417  1.00 16.20           C  
+HETATM   15  C3  CRP A 600      26.941  12.650  30.639  1.00 17.90           C  
+HETATM   16  C4  CRP A 600      26.875  12.130  29.157  1.00 18.82           C  
+HETATM   17  C5  CRP A 600      26.192  10.270  31.784  1.00 21.29           C  
+HETATM   18  C6  CRP A 600      27.299   9.211  31.540  1.00 19.69           C  
+HETATM   19  CL1 CRP A 600      25.563  14.434  32.238  1.00  2.00          CL  
+HETATM   20  CL2 CRP A 600      24.081  12.389  30.651  1.00  2.00          CL  
+CONECT    1    5
+CONECT    2    3    7    8
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    8    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   13   14   15   17
+CONECT   14   15   19   20
+CONECT   15   16
+CONECT   17   18
+END

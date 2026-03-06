@@ -1,0 +1,30 @@
+COMPND    __3qfx_A_rec_3qfx_cp6_lig_min.pdb
+HETATM    1  N1  UNL     1     -22.503  24.779   6.849  1.00  0.00           N  
+HETATM    2  C1  UNL     1     -23.353  23.764   7.310  1.00  0.00           C  
+HETATM    3  C2  UNL     1     -21.124  24.715   7.086  1.00  0.00           C  
+HETATM    4  C3  UNL     1     -20.509  23.543   7.848  1.00  0.00           C  
+HETATM    5  C4  UNL     1     -21.561  22.506   8.301  1.00  0.00           C  
+HETATM    6  N2  UNL     1     -22.910  22.650   8.023  1.00  0.00           N  
+HETATM    7  N3  UNL     1     -20.317  25.697   6.637  1.00  0.00           N  
+HETATM    8  N4  UNL     1     -24.717  23.856   7.063  1.00  0.00           N  
+HETATM    9  C5  UNL     1     -19.087  23.383   8.123  1.00  0.00           C  
+HETATM   10  C6  UNL     1     -18.373  24.053   9.176  1.00  0.00           C  
+HETATM   11  C7  UNL     1     -16.965  23.837   9.400  1.00  0.00           C  
+HETATM   12  C8  UNL     1     -16.219  22.897   8.527  1.00  0.00           C  
+HETATM   13  C9  UNL     1     -16.872  22.206   7.465  1.00  0.00           C  
+HETATM   14  C10 UNL     1     -18.290  22.445   7.265  1.00  0.00           C  
+HETATM   15 CL1  UNL     1     -14.625  22.727   8.887  1.00  0.00          CL  
+HETATM   16  C11 UNL     1     -21.140  21.280   9.075  1.00  0.00           C  
+HETATM   17  C12 UNL     1     -20.939  19.987   8.315  1.00  0.00           C  
+CONECT    1    2    3    3
+CONECT    2    6    6    8
+CONECT    3    4    7
+CONECT    4    5    5    9
+CONECT    5    6   16
+CONECT    9   10   10   14
+CONECT   10   11
+CONECT   11   12   12
+CONECT   12   13   15
+CONECT   13   14   14
+CONECT   16   17
+END

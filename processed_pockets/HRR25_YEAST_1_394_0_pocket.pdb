@@ -1,0 +1,32 @@
+HETATM    1  C1  CKI A 401      27.660  37.282   3.989  1.00 68.41           C  
+HETATM    2  N2  CKI A 401      27.693  37.016   5.332  1.00 70.41           N  
+HETATM    3  C3  CKI A 401      27.427  35.739   5.773  1.00 69.00           C  
+HETATM    4  C4  CKI A 401      27.130  34.724   4.865  1.00 67.94           C  
+HETATM    5  C5  CKI A 401      26.800  33.990   2.577  1.00 68.31           C  
+HETATM    6  CL5 CKI A 401      26.447  32.333   2.993  1.00 90.17          CL  
+HETATM    7  C6  CKI A 401      26.768  34.266   1.216  1.00 69.32           C  
+HETATM    8  C7  CKI A 401      27.036  35.558   0.777  1.00 69.87           C  
+HETATM    9  C8  CKI A 401      27.331  36.556   1.692  1.00 71.52           C  
+HETATM   10  C9  CKI A 401      27.361  36.268   3.067  1.00 69.45           C  
+HETATM   11  C10 CKI A 401      27.101  35.011   3.507  1.00 69.43           C  
+HETATM   12  S   CKI A 401      27.622  38.047   0.782  1.00 87.21           S  
+HETATM   13  O1S CKI A 401      26.808  38.107  -0.406  1.00 88.19           O  
+HETATM   14  O2S CKI A 401      27.173  39.207   1.507  1.00 81.15           O  
+HETATM   15  N1' CKI A 401      29.223  38.143   0.402  1.00110.88           N  
+HETATM   16  C1' CKI A 401      29.883  39.393   0.527  1.00113.33           C  
+HETATM   17  C2' CKI A 401      31.024  39.443  -0.458  1.00114.95           C  
+HETATM   18  N2' CKI A 401      32.193  39.951   0.188  1.00116.04           N  
+CONECT    1    2   10
+CONECT    2    3
+CONECT    3    4
+CONECT    4   11
+CONECT    5    6    7   11
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   12
+CONECT   10   11
+CONECT   12   13   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+END

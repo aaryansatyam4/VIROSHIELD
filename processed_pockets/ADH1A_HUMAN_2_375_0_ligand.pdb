@@ -1,0 +1,12 @@
+COMPND    __1hso_A_rec_1hso_pyz_lig_min.pdb
+HETATM    1  N1  UNL     1      10.703   1.200   4.611  1.00  0.00           N  
+HETATM    2  N2  UNL     1      11.189   2.413   4.217  1.00  0.00           N  
+HETATM    3  C1  UNL     1      11.451   2.413   2.900  1.00  0.00           C  
+HETATM    4  C2  UNL     1      11.092   1.139   2.566  1.00  0.00           C  
+HETATM    5  I1  UNL     1      11.264   0.432   0.641  1.00  0.00           I  
+HETATM    6  C3  UNL     1      10.624   0.342   3.570  1.00  0.00           C  
+CONECT    1    2    2    6
+CONECT    2    3
+CONECT    3    4    4
+CONECT    4    5    6
+END

@@ -1,0 +1,51 @@
+HETATM    1  OAV FEF A 600      53.592  58.873  20.647  1.00 29.37           O  
+HETATM    2  CAT FEF A 600      53.146  60.082  20.575  1.00 31.18           C  
+HETATM    3  CAR FEF A 600      52.744  60.753  19.411  1.00 25.70           C  
+HETATM    4  CAS FEF A 600      52.398  62.053  19.870  1.00 19.98           C  
+HETATM    5  CAX FEF A 600      51.943  63.255  19.286  1.00 15.45           C  
+HETATM    6  CAY FEF A 600      51.728  64.386  20.045  1.00 16.81           C  
+HETATM    7  CAZ FEF A 600      51.966  64.372  21.409  1.00 24.28           C  
+HETATM    8  CBA FEF A 600      52.429  63.212  22.004  1.00 28.45           C  
+HETATM    9  CAW FEF A 600      52.634  62.055  21.256  1.00 22.03           C  
+HETATM   10  NAU FEF A 600      53.103  60.855  21.657  1.00 30.39           N  
+HETATM   11  CAI FEF A 600      52.707  60.107  18.182  1.00 27.36           C  
+HETATM   12  CAG FEF A 600      52.322  60.492  16.893  1.00 39.87           C  
+HETATM   13  CAD FEF A 600      52.486  59.401  16.039  1.00 38.87           C  
+HETATM   14  CAC FEF A 600      52.274  59.189  14.675  1.00 42.45           C  
+HETATM   15  CAA FEF A 600      52.555  57.939  14.122  1.00 33.98           C  
+HETATM   16  CAB FEF A 600      53.034  56.904  14.930  1.00 38.98           C  
+HETATM   17  CAF FEF A 600      53.231  57.109  16.293  1.00 31.96           C  
+HETATM   18  CAE FEF A 600      52.969  58.367  16.842  1.00 33.94           C  
+HETATM   19  NAH FEF A 600      53.101  58.823  18.108  1.00 25.58           N  
+HETATM   20  NAJ FEF A 600      51.884  61.721  16.538  1.00 50.66           N  
+HETATM   21  OAK FEF A 600      51.572  62.185  15.213  1.00 73.59           O  
+HETATM   22  CAL FEF A 600      51.384  63.595  15.010  1.00 64.28           C  
+HETATM   23  CAM FEF A 600      49.955  64.006  15.369  1.00 69.45           C  
+HETATM   24  CAN FEF A 600      49.843  65.290  16.208  1.00 63.86           C  
+HETATM   25  OAQ FEF A 600      51.059  66.052  16.165  1.00 68.22           O  
+HETATM   26  CAO FEF A 600      48.677  66.132  15.674  1.00 67.13           C  
+HETATM   27  OAP FEF A 600      48.292  67.208  16.550  1.00 49.50           O  
+CONECT    1    2
+CONECT    2    3   10
+CONECT    3    4   11
+CONECT    4    5    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   11   12   19
+CONECT   12   13   20
+CONECT   13   14   18
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25   26
+CONECT   26   27
+END

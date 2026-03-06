@@ -1,0 +1,55 @@
+HETATM    1  CAA 22E A 500       0.328   5.277  12.141  1.00 20.87           C  
+HETATM    2  CAB 22E A 500       2.193  10.421  13.408  1.00 21.37           C  
+HETATM    3  OAC 22E A 500       7.576   8.575  15.110  1.00 35.86           O  
+HETATM    4  OAD 22E A 500       0.193  11.216  11.662  1.00 16.68           O  
+HETATM    5  CAE 22E A 500      10.307  10.872  18.549  1.00 36.78           C  
+HETATM    6  CAF 22E A 500       9.093  10.515  19.136  1.00 39.57           C  
+HETATM    7  CAG 22E A 500      10.516  10.627  17.193  1.00 39.13           C  
+HETATM    8  CAH 22E A 500      -1.476   8.535  10.287  1.00 20.27           C  
+HETATM    9  CAI 22E A 500       8.084   9.916  18.376  1.00 40.99           C  
+HETATM   10  CAJ 22E A 500       9.501  10.019  16.440  1.00 39.69           C  
+HETATM   11  CAK 22E A 500       5.233   6.805  16.271  1.00 29.51           C  
+HETATM   12  CAL 22E A 500      -0.858   7.479  10.915  1.00 18.30           C  
+HETATM   13  CAM 22E A 500       4.359   5.982  15.569  1.00 26.02           C  
+HETATM   14  CAN 22E A 500       4.131   8.645  15.183  1.00 24.85           C  
+HETATM   15  NAO 22E A 500      -1.078   9.769  10.599  1.00 17.93           N  
+HETATM   16  NAP 22E A 500       2.505   5.864  13.997  1.00 25.67           N  
+HETATM   17  OAQ 22E A 500       5.981   9.031  16.734  1.00 32.82           O  
+HETATM   18  CAR 22E A 500       7.263   9.046  16.216  1.00 33.51           C  
+HETATM   19  CAS 22E A 500       5.134   8.175  16.065  1.00 30.42           C  
+HETATM   20  CAT 22E A 500       8.271   9.657  17.015  1.00 37.76           C  
+HETATM   21  CAU 22E A 500       0.792   6.589  12.448  1.00 22.64           C  
+HETATM   22  CAV 22E A 500       1.692   9.109  13.076  1.00 19.30           C  
+HETATM   23  CAW 22E A 500      -0.065  10.010  11.502  1.00 17.56           C  
+HETATM   24  CAX 22E A 500       3.418   6.489  14.738  1.00 25.64           C  
+HETATM   25  CAY 22E A 500       0.172   7.666  11.843  1.00 17.75           C  
+HETATM   26  CAZ 22E A 500       3.289   7.817  14.527  1.00 23.79           C  
+HETATM   27  CBA 22E A 500       1.798   6.781  13.311  1.00 22.06           C  
+HETATM   28  CBB 22E A 500       0.629   8.969  12.146  1.00 17.47           C  
+HETATM   29  CBC 22E A 500       2.267   8.011  13.633  1.00 22.75           C  
+CONECT    1   21
+CONECT    2   22
+CONECT    3   18
+CONECT    4   23
+CONECT    5    6    7
+CONECT    6    9
+CONECT    7   10
+CONECT    8   12   15
+CONECT    9   20
+CONECT   10   20
+CONECT   11   13   19
+CONECT   12   25
+CONECT   13   24
+CONECT   14   19   26
+CONECT   15   23
+CONECT   16   24   27
+CONECT   17   18   19
+CONECT   18   20
+CONECT   21   25   27
+CONECT   22   28   29
+CONECT   23   28
+CONECT   24   26
+CONECT   25   28
+CONECT   26   29
+CONECT   27   29
+END

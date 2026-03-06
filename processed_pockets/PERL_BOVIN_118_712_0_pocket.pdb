@@ -1,0 +1,20 @@
+HETATM    1  C1  SHA A 617     -21.545   3.177  28.756  1.00 26.68           C  
+HETATM    2  C2  SHA A 617     -22.105   4.252  29.309  1.00 29.17           C  
+HETATM    3  C3  SHA A 617     -22.903   4.138  30.564  1.00 28.10           C  
+HETATM    4  C4  SHA A 617     -23.078   2.886  31.196  1.00 27.99           C  
+HETATM    5  C5  SHA A 617     -22.451   1.778  30.561  1.00 28.22           C  
+HETATM    6  C6  SHA A 617     -21.704   1.903  29.372  1.00 29.54           C  
+HETATM    7  O6  SHA A 617     -21.110   0.772  28.775  1.00 29.19           O  
+HETATM    8  C7  SHA A 617     -20.800   3.347  27.539  1.00 28.76           C  
+HETATM    9  O7  SHA A 617     -20.684   4.489  27.024  1.00 30.01           O  
+HETATM   10  N8  SHA A 617     -20.235   2.279  26.942  1.00 31.31           N  
+HETATM   11  O9  SHA A 617     -19.493   2.443  25.688  1.00 29.54           O  
+CONECT    1    2    6    8
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    8    9   10
+CONECT   10   11
+END

@@ -1,0 +1,32 @@
+COMPND    3LVV_LBP_A_693
+HETATM    1  S1  UNL     1      31.937  -1.071  18.555  1.00  0.00           S  
+HETATM    2  N1  UNL     1      32.596  -2.427  18.161  1.00  0.00           N  
+HETATM    3  O1  UNL     1      31.613  -1.073  20.024  1.00  0.00           O  
+HETATM    4  P1  UNL     1      31.776  -3.943  18.407  1.00  0.00           P  
+HETATM    5  O2  UNL     1      30.639  -3.809  19.653  1.00  0.00           O  
+HETATM    6  O3  UNL     1      32.910  -5.129  18.813  1.00  0.00           O  
+HETATM    7  O4  UNL     1      31.073  -4.341  17.130  1.00  0.00           O  
+HETATM    8  C1  UNL     1      30.447  -0.830  17.609  1.00  0.00           C  
+HETATM    9  C2  UNL     1      30.365   0.603  17.122  1.00  0.00           C  
+HETATM   10  C3  UNL     1      28.912   0.997  16.963  1.00  0.00           C  
+HETATM   11  C4  UNL     1      28.779   1.971  15.811  1.00  0.00           C  
+HETATM   12  C5  UNL     1      33.072   0.255  18.201  1.00  0.00           C  
+HETATM   13  C6  UNL     1      34.413  -0.017  18.857  1.00  0.00           C  
+HETATM   14  N2  UNL     1      35.943   1.750  19.554  1.00  0.00           N  
+HETATM   15  C7  UNL     1      34.717   1.048  19.898  1.00  0.00           C  
+HETATM   16  C8  UNL     1      34.849   0.425  21.247  1.00  0.00           C  
+HETATM   17  O5  UNL     1      34.115  -0.713  21.553  1.00  0.00           O  
+HETATM   18  O6  UNL     1      35.629   0.915  22.107  1.00  0.00           O  
+CONECT    1    2    2    3    3
+CONECT    1    8   12
+CONECT    2    4
+CONECT    4    5    6    7    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   12   13
+CONECT   13   15
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   18   18
+END

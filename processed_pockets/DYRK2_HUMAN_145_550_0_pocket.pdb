@@ -1,0 +1,48 @@
+HETATM    1  OAA IRB A   1      42.818  13.431  19.281  1.00 33.46           O  
+HETATM    2  OAB IRB A   1      42.774  13.081  10.431  1.00 30.47           O  
+HETATM    3  OAC IRB A   1      45.626  11.493  15.887  1.00 44.99           O  
+HETATM    4  OAD IRB A   1      41.262  14.948  18.686  1.00 29.85           O  
+HETATM    5 BRAE IRB A   1      46.969  11.761   7.284  0.75 37.83          BR  
+HETATM    6  CAF IRB A   1      47.861  10.401  11.221  1.00 44.32           C  
+HETATM    7  CAG IRB A   1      47.963  10.670   9.839  1.00 35.48           C  
+HETATM    8  CAH IRB A   1      41.105  13.990  16.159  1.00 37.19           C  
+HETATM    9  CAI IRB A   1      46.725  10.802  11.972  1.00 40.23           C  
+HETATM   10  CAJ IRB A   1      41.183  13.786  14.789  1.00 31.59           C  
+HETATM   11  CAK IRB A   1      43.300  12.973  16.455  1.00 33.50           C  
+HETATM   12  NAL IRB A   1      45.459  11.744  14.570  1.00 44.68           N  
+HETATM   13  NAM IRB A   1      44.723  12.356   9.477  1.00 30.65           N  
+HETATM   14  NAN IRB A   1      42.566  12.889  12.974  1.00 29.45           N  
+HETATM   15  CAO IRB A   1      42.017  13.945  18.462  1.00 41.15           C  
+HETATM   16  CAP IRB A   1      42.150  13.590  16.984  1.00 27.08           C  
+HETATM   17  CAQ IRB A   1      46.912  11.319   9.176  1.00 31.56           C  
+HETATM   18  CAR IRB A   1      43.893  12.540  10.507  1.00 32.76           C  
+HETATM   19  CAS IRB A   1      43.737  12.223  12.886  1.00 28.08           C  
+HETATM   20  CAT IRB A   1      44.284  12.239  14.180  1.00 41.43           C  
+HETATM   21  CAU IRB A   1      44.404  11.957  11.679  1.00 26.43           C  
+HETATM   22  CAV IRB A   1      42.292  13.168  14.242  1.00 32.65           C  
+HETATM   23  CAW IRB A   1      45.690  11.488  11.325  1.00 27.25           C  
+HETATM   24  CAX IRB A   1      43.353  12.773  15.059  1.00 39.70           C  
+HETATM   25  CAY IRB A   1      45.805  11.725   9.916  1.00 32.75           C  
+CONECT    1   15
+CONECT    2   18
+CONECT    3   12
+CONECT    4   15
+CONECT    5   17
+CONECT    6    7    9
+CONECT    7   17
+CONECT    8   10   16
+CONECT    9   23
+CONECT   10   22
+CONECT   11   16   24
+CONECT   12   20
+CONECT   13   18   25
+CONECT   14   19   22
+CONECT   15   16
+CONECT   17   25
+CONECT   18   21
+CONECT   19   20   21
+CONECT   20   24
+CONECT   21   23
+CONECT   22   24
+CONECT   23   25
+END

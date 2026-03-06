@@ -1,0 +1,22 @@
+HETATM    1  OP4 PXL A1003      -2.358   8.334  41.380  1.00 60.19           O  
+HETATM    2  C5A PXL A1003      -2.882   7.211  40.669  1.00 57.55           C  
+HETATM    3  C5  PXL A1003      -1.951   6.833  39.509  1.00 55.11           C  
+HETATM    4  C6  PXL A1003      -0.615   6.377  39.807  1.00 56.21           C  
+HETATM    5  N1  PXL A1003       0.256   6.025  38.743  1.00 48.40           N  
+HETATM    6  C2  PXL A1003      -0.182   6.043  37.391  1.00 40.96           C  
+HETATM    7  C3  PXL A1003      -1.532   6.464  37.056  1.00 49.82           C  
+HETATM    8  C4  PXL A1003      -2.421   6.903  38.150  1.00 56.18           C  
+HETATM    9  C4A PXL A1003      -3.870   7.435  37.904  1.00 59.98           C  
+HETATM   10  O4A PXL A1003      -4.284   7.512  36.697  1.00 59.24           O  
+HETATM   11  O3  PXL A1003      -1.945   6.488  35.729  1.00 62.81           O  
+HETATM   12  C2A PXL A1003       0.810   5.647  36.298  1.00 40.49           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    8
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7   12
+CONECT    7    8   11
+CONECT    8    9
+CONECT    9   10
+END

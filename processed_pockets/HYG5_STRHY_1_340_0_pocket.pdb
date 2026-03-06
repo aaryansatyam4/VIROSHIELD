@@ -1,0 +1,25 @@
+HETATM    1  C   3EB A1341     -27.509   3.037  -2.314  1.00 28.80           C  
+HETATM    2  O   3EB A1341     -28.606   2.656  -1.989  1.00 31.77           O  
+HETATM    3  CA  3EB A1341     -26.447   3.342  -1.296  1.00 28.57           C  
+HETATM    4  OAB 3EB A1341     -22.203  -0.032  -4.802  1.00 35.90           O  
+HETATM    5  OAD 3EB A1341     -22.397  -2.067  -3.987  1.00 27.27           O  
+HETATM    6  CAE 3EB A1341     -25.096   0.672  -0.824  1.00 22.27           C  
+HETATM    7  CAF 3EB A1341     -24.757  -0.667  -0.861  1.00 20.26           C  
+HETATM    8  CAG 3EB A1341     -24.646   1.546  -1.795  1.00 24.49           C  
+HETATM    9  CAH 3EB A1341     -23.954  -1.149  -1.876  1.00 24.20           C  
+HETATM   10  CAL 3EB A1341     -22.641  -0.793  -3.977  1.00 23.58           C  
+HETATM   11  CAM 3EB A1341     -23.836   1.054  -2.816  1.00 26.23           C  
+HETATM   12  CAN 3EB A1341     -23.488  -0.292  -2.861  1.00 24.77           C  
+HETATM   13  OXT 3EB A1341     -27.154   3.228  -3.569  1.00 29.24           O  
+HETATM   14  C2  3EB A1341     -25.013   3.011  -1.760  1.00 28.20           C  
+CONECT    1    2    3   13
+CONECT    3   14
+CONECT    4   10
+CONECT    5   10
+CONECT    6    7    8
+CONECT    7    9
+CONECT    8   11   14
+CONECT    9   12
+CONECT   10   12
+CONECT   11   12
+END

@@ -1,0 +1,26 @@
+HETATM    1  CAH RAU A 400     -34.605   0.468  10.776  1.00 63.44           C  
+HETATM    2  CAG RAU A 400     -33.992   0.795  12.109  1.00 66.50           C  
+HETATM    3  CAE RAU A 400     -35.026   0.646  12.992  1.00 64.23           C  
+HETATM    4  CAD RAU A 400     -34.964   0.285  14.270  1.00 71.28           C  
+HETATM    5  CAC RAU A 400     -36.145   0.182  15.002  1.00 73.84           C  
+HETATM    6  CAB RAU A 400     -37.345   0.459  14.349  1.00 71.97           C  
+HETATM    7  CAA RAU A 400     -37.342   0.822  13.005  1.00 64.68           C  
+HETATM    8  CAF RAU A 400     -36.187   0.911  12.362  1.00 60.63           C  
+HETATM    9  CAI RAU A 400     -35.881   1.267  11.064  1.00 61.32           C  
+HETATM   10  NAJ RAU A 400     -36.923   0.947  10.094  1.00 61.90           N  
+HETATM   11  CAK RAU A 400     -37.936   1.973   9.946  1.00 59.26           C  
+HETATM   12  CAL RAU A 400     -39.240   1.344   9.738  1.00 57.41           C  
+HETATM   13  CAM RAU A 400     -40.232   0.833   9.559  1.00 54.98           C  
+CONECT    1    2    9
+CONECT    2    3
+CONECT    3    4    8
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+END

@@ -1,0 +1,64 @@
+HETATM    1  O4  STU X 902      22.752 -10.813  25.200  1.00 29.20           O  
+HETATM    2  C25 STU X 902      21.916 -10.814  24.016  1.00 25.69           C  
+HETATM    3  C24 STU X 902      22.420  -9.900  22.894  1.00 25.32           C  
+HETATM    4  C23 STU X 902      23.567  -9.036  23.346  1.00 27.68           C  
+HETATM    5  C22 STU X 902      22.970  -8.516  24.637  1.00 30.58           C  
+HETATM    6  C21 STU X 902      23.085  -9.544  25.715  1.00 27.98           C  
+HETATM    7  C26 STU X 902      24.521  -9.635  26.104  1.00 28.17           C  
+HETATM    8  N2  STU X 902      22.290  -9.037  26.847  1.00 26.20           N  
+HETATM    9  C18 STU X 902      20.907  -9.103  26.544  1.00 25.68           C  
+HETATM   10  C19 STU X 902      20.139  -9.755  25.473  1.00 21.59           C  
+HETATM   11  C6  STU X 902      18.728  -9.703  25.486  1.00 19.49           C  
+HETATM   12  C7  STU X 902      17.995  -9.051  26.535  1.00 22.90           C  
+HETATM   13  C10 STU X 902      18.691  -8.424  27.576  1.00 23.79           C  
+HETATM   14  C11 STU X 902      20.116  -8.482  27.544  1.00 25.15           C  
+HETATM   15  C12 STU X 902      21.016  -7.860  28.443  1.00 25.75           C  
+HETATM   16  C17 STU X 902      22.274  -8.301  27.972  1.00 25.01           C  
+HETATM   17  C16 STU X 902      23.409  -7.827  28.627  1.00 23.48           C  
+HETATM   18  C15 STU X 902      23.272  -6.996  29.767  1.00 23.75           C  
+HETATM   19  C14 STU X 902      22.004  -6.628  30.256  1.00 25.27           C  
+HETATM   20  C13 STU X 902      20.846  -7.057  29.582  1.00 26.56           C  
+HETATM   21  C9  STU X 902      17.606  -7.806  28.475  1.00 21.20           C  
+HETATM   22  N1  STU X 902      16.354  -8.152  27.786  1.00 19.66           N  
+HETATM   23  C8  STU X 902      16.607  -8.943  26.699  1.00 23.96           C  
+HETATM   24  O5  STU X 902      15.754  -9.502  26.038  1.00 28.32           O  
+HETATM   25  C5  STU X 902      18.266 -10.390  24.331  1.00 18.48           C  
+HETATM   26  C20 STU X 902      19.455 -10.843  23.719  1.00 20.75           C  
+HETATM   27  C1  STU X 902      19.413 -11.619  22.530  1.00 22.11           C  
+HETATM   28  C2  STU X 902      18.155 -11.920  21.957  1.00 22.83           C  
+HETATM   29  C3  STU X 902      16.971 -11.442  22.550  1.00 19.43           C  
+HETATM   30  C4  STU X 902      17.017 -10.680  23.752  1.00 18.97           C  
+HETATM   31  N3  STU X 902      20.536 -10.465  24.397  1.00 21.36           N  
+HETATM   32  O6  STU X 902      22.081  -7.676  24.701  1.00 40.21           O  
+HETATM   33  C27 STU X 902      22.178  -6.235  24.658  1.00 39.55           C  
+HETATM   34  N4  STU X 902      23.785  -7.996  22.355  1.00 25.57           N  
+HETATM   35  C28 STU X 902      25.112  -8.227  21.786  1.00 27.40           C  
+CONECT    1    2    6
+CONECT    2    3   31
+CONECT    3    4
+CONECT    4    5   34
+CONECT    5    6   32
+CONECT    6    7    8
+CONECT    8    9   16
+CONECT    9   10   14
+CONECT   10   11   31
+CONECT   11   12   25
+CONECT   12   13   23
+CONECT   13   14   21
+CONECT   14   15
+CONECT   15   16   20
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   25   26   30
+CONECT   26   27   31
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   32   33
+CONECT   34   35
+END

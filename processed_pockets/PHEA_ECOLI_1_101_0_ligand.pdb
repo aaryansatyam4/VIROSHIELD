@@ -1,0 +1,27 @@
+COMPND    __1ecm_A_rec_1ecm_tsa_lig_it2_docked.pdb
+HETATM    1  C1  UNL     1      26.768  31.681  24.543  1.00  0.00           C  
+HETATM    2  C2  UNL     1      26.521  31.076  23.147  1.00  0.00           C  
+HETATM    3  C3  UNL     1      25.947  31.823  22.178  1.00  0.00           C  
+HETATM    4  C4  UNL     1      25.268  33.169  22.413  1.00  0.00           C  
+HETATM    5  O1  UNL     1      23.873  32.939  22.375  1.00  0.00           O  
+HETATM    6  C5  UNL     1      25.567  33.763  23.785  1.00  0.00           C  
+HETATM    7  C6  UNL     1      25.581  32.627  24.850  1.00  0.00           C  
+HETATM    8  O2  UNL     1      26.822  34.429  23.817  1.00  0.00           O  
+HETATM    9  C7  UNL     1      28.092  33.771  23.907  1.00  0.00           C  
+HETATM   10  C8  UNL     1      28.015  32.521  24.781  1.00  0.00           C  
+HETATM   11  C9  UNL     1      26.996  30.582  25.593  1.00  0.00           C  
+HETATM   12  O3  UNL     1      26.636  30.817  26.756  1.00  0.00           O  
+HETATM   13  O4  UNL     1      27.596  29.538  25.279  1.00  0.00           O  
+HETATM   14  C10 UNL     1      28.643  33.423  22.525  1.00  0.00           C  
+HETATM   15  O5  UNL     1      28.378  34.100  21.512  1.00  0.00           O  
+HETATM   16  O6  UNL     1      29.469  32.499  22.508  1.00  0.00           O  
+CONECT    1    2    7   10   11
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5    6
+CONECT    6    7    8
+CONECT    8    9
+CONECT    9   10   14
+CONECT   11   12   13   13
+CONECT   14   15   16   16
+END

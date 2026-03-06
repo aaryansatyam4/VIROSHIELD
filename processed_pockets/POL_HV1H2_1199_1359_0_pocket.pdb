@@ -1,0 +1,29 @@
+HETATM    1  F12 FMQ B 306       7.256 -21.533  -4.524  1.00 40.27           F  
+HETATM    2  C9  FMQ B 306       8.170 -21.866  -5.465  1.00 36.57           C  
+HETATM    3  C8  FMQ B 306       7.861 -22.758  -6.470  1.00 37.50           C  
+HETATM    4  C7  FMQ B 306       8.830 -23.078  -7.426  1.00 42.80           C  
+HETATM    5  C10 FMQ B 306       9.435 -21.302  -5.432  1.00 37.48           C  
+HETATM    6  C11 FMQ B 306      10.388 -21.634  -6.380  1.00 35.08           C  
+HETATM    7  C6  FMQ B 306      10.124 -22.531  -7.405  1.00 39.34           C  
+HETATM    8  N3  FMQ B 306      11.046 -22.841  -8.313  1.00 40.95           N  
+HETATM    9  C2  FMQ B 306      11.002 -22.413  -9.568  1.00 44.68           C  
+HETATM   10  C13 FMQ B 306      10.000 -21.489 -10.205  1.00 42.64           C  
+HETATM   11  N4  FMQ B 306      12.109 -23.687  -8.021  1.00 36.59           N  
+HETATM   12  C5  FMQ B 306      12.818 -23.799  -9.181  1.00 39.09           C  
+HETATM   13  C1  FMQ B 306      12.212 -23.034 -10.180  1.00 42.52           C  
+HETATM   14  C14 FMQ B 306      12.694 -22.892 -11.606  1.00 47.75           C  
+HETATM   15  O15 FMQ B 306      12.617 -21.519 -12.015  1.00 52.77           O  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4
+CONECT    4    7
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   11
+CONECT    9   10   13
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+END

@@ -1,0 +1,44 @@
+HETATM    1  PG  ATP A   1      20.427   6.425 -25.591  0.28 64.58           P  
+HETATM    2  O1G ATP A   1      19.004   6.257 -26.068  0.85 53.89           O  
+HETATM    3  O2G ATP A   1      20.862   7.861 -25.431  0.86 61.54           O  
+HETATM    4  O3G ATP A   1      21.427   5.537 -26.292  0.89 55.11           O  
+HETATM    5  PB  ATP A   1      20.416   4.291 -23.747  0.45 49.44           P  
+HETATM    6  O1B ATP A   1      19.151   3.670 -24.283  0.65 53.19           O  
+HETATM    7  O2B ATP A   1      21.753   3.719 -24.151  0.99 50.29           O  
+HETATM    8  O3B ATP A   1      20.414   5.870 -24.080  0.98 52.97           O  
+HETATM    9  PA  ATP A   1      19.113   3.670 -21.338  0.90 44.99           P  
+HETATM   10  O1A ATP A   1      19.306   2.188 -21.143  1.00 40.71           O  
+HETATM   11  O2A ATP A   1      17.851   4.195 -21.983  0.98 45.12           O  
+HETATM   12  O3A ATP A   1      20.363   4.294 -22.141  1.00 46.39           O  
+HETATM   13  O5' ATP A   1      19.285   4.405 -19.916  1.00 45.56           O  
+HETATM   14  C5' ATP A   1      18.339   5.384 -19.488  1.00 46.20           C  
+HETATM   15  C4' ATP A   1      18.557   5.717 -18.016  0.86 45.85           C  
+HETATM   16  O4' ATP A   1      19.934   5.602 -17.654  1.00 45.04           O  
+HETATM   17  C3' ATP A   1      18.128   7.142 -17.687  0.37 46.23           C  
+HETATM   18  O3' ATP A   1      16.960   7.116 -16.859  0.76 48.77           O  
+HETATM   19  C2' ATP A   1      19.316   7.764 -16.966  0.71 46.18           C  
+HETATM   20  O2' ATP A   1      18.939   8.409 -15.747  0.35 47.68           O  
+HETATM   21  C1' ATP A   1      20.262   6.600 -16.690  0.67 45.93           C  
+HETATM   22  N9  ATP A   1      21.680   7.011 -16.803  0.71 44.65           N  
+HETATM   23  C8  ATP A   1      22.270   7.537 -17.896  0.99 44.51           C  
+HETATM   24  N7  ATP A   1      23.580   7.805 -17.665  0.81 43.65           N  
+HETATM   25  C5  ATP A   1      23.851   7.452 -16.394  1.00 42.73           C  
+HETATM   26  C6  ATP A   1      25.040   7.470 -15.509  1.00 41.13           C  
+HETATM   27  N3  ATP A   1      22.590   6.501 -14.549  1.00 42.61           N  
+HETATM   28  C4  ATP A   1      22.597   6.934 -15.831  0.76 43.61           C  
+CONECT    1    2    3    4    8
+CONECT    5    6    7    8   12
+CONECT    9   10   11   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16   17
+CONECT   16   21
+CONECT   17   18   19
+CONECT   19   20   21
+CONECT   21   22
+CONECT   22   23   28
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26   28
+CONECT   27   28
+END

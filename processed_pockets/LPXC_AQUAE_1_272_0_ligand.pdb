@@ -1,0 +1,31 @@
+COMPND    MYR
+HETATM    1  C1  UNL     1      22.047   5.639  -7.127  1.00  0.00           C  
+HETATM    2  C2  UNL     1      22.083   5.855  -5.606  1.00  0.00           C  
+HETATM    3  C3  UNL     1      21.037   6.873  -5.128  1.00  0.00           C  
+HETATM    4  C4  UNL     1      20.927   6.869  -3.598  1.00  0.00           C  
+HETATM    5  C5  UNL     1      19.526   6.445  -3.149  1.00  0.00           C  
+HETATM    6  C6  UNL     1      19.603   5.620  -1.900  1.00  0.00           C  
+HETATM    7  O1  UNL     1      18.924   4.564  -1.802  1.00  0.00           O  
+HETATM    8  O2  UNL     1      20.454   5.985  -0.862  1.00  0.00           O  
+HETATM    9  C7  UNL     1      21.486   6.852  -7.885  1.00  0.00           C  
+HETATM   10  C8  UNL     1      21.205   6.497  -9.354  1.00  0.00           C  
+HETATM   11  C9  UNL     1      20.407   7.588 -10.087  1.00  0.00           C  
+HETATM   12  C10 UNL     1      20.667   8.994  -9.519  1.00  0.00           C  
+HETATM   13  C11 UNL     1      20.763  10.065 -10.617  1.00  0.00           C  
+HETATM   14  C12 UNL     1      20.603   9.484 -12.030  1.00  0.00           C  
+HETATM   15  C13 UNL     1      19.402  10.111 -12.748  1.00  0.00           C  
+HETATM   16  C14 UNL     1      19.560  10.028 -14.263  1.00  0.00           C  
+CONECT    1    2    9
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7    7    8
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+END

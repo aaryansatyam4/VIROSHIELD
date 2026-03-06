@@ -1,0 +1,30 @@
+COMPND    5BWZ_XCH_A_404
+HETATM    1  O1  UNL     1      61.959  75.475  10.059  1.00  0.00           O  
+HETATM    2 CL1  UNL     1      59.119  79.439  13.480  1.00  0.00          CL  
+HETATM    3  C1  UNL     1      59.958  78.278  12.474  1.00  0.00           C  
+HETATM    4  C2  UNL     1      59.369  77.043  12.193  1.00  0.00           C  
+HETATM    5  C3  UNL     1      60.035  76.112  11.390  1.00  0.00           C  
+HETATM    6  C4  UNL     1      59.382  74.803  11.108  1.00  0.00           C  
+HETATM    7  C5  UNL     1      61.301  76.415  10.861  1.00  0.00           C  
+HETATM    8  C6  UNL     1      61.886  77.660  11.150  1.00  0.00           C  
+HETATM    9  C7  UNL     1      61.216  78.587  11.952  1.00  0.00           C  
+HETATM   10  C8  UNL     1      61.386  74.939   8.874  1.00  0.00           C  
+HETATM   11  C9  UNL     1      61.363  73.429   8.965  1.00  0.00           C  
+HETATM   12  C10 UNL     1      62.745  72.884   8.658  1.00  0.00           C  
+HETATM   13  C11 UNL     1      62.677  71.905   7.538  1.00  0.00           C  
+HETATM   14  O2  UNL     1      63.601  71.858   6.683  1.00  0.00           O  
+HETATM   15  N1  UNL     1      61.553  71.035   7.432  1.00  0.00           N  
+HETATM   16  O3  UNL     1      61.461  70.140   6.421  1.00  0.00           O  
+CONECT    1    7   10
+CONECT    2    3
+CONECT    3    4    4    9
+CONECT    4    5
+CONECT    5    6    7    7
+CONECT    7    8
+CONECT    8    9    9
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   14   15
+CONECT   15   16
+END

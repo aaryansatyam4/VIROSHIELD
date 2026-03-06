@@ -1,0 +1,42 @@
+COMPND    1AKC_PPE_A_411
+HETATM    1  N1  UNL     1      31.900   0.776  63.108  1.00  0.00           N1+
+HETATM    2  C1  UNL     1      33.204   0.509  62.835  1.00  0.00           C  
+HETATM    3  C2  UNL     1      33.979  -0.360  63.764  1.00  0.00           C  
+HETATM    4  C3  UNL     1      33.806   1.050  61.690  1.00  0.00           C  
+HETATM    5  O1  UNL     1      35.143   0.783  61.406  1.00  0.00           O  
+HETATM    6  C4  UNL     1      33.047   1.863  60.834  1.00  0.00           C  
+HETATM    7  C5  UNL     1      31.703   2.133  61.150  1.00  0.00           C  
+HETATM    8  C6  UNL     1      31.146   1.565  62.298  1.00  0.00           C  
+HETATM    9  C7  UNL     1      33.684   2.471  59.624  1.00  0.00           C  
+HETATM   10  N2  UNL     1      34.598   3.525  60.033  1.00  0.00           N  
+HETATM   11  C8  UNL     1      35.309   3.967  58.841  1.00  0.00           C  
+HETATM   12  C9  UNL     1      36.665   4.513  59.182  1.00  0.00           C  
+HETATM   13  O2  UNL     1      36.902   4.995  60.322  1.00  0.00           O  
+HETATM   14  O3  UNL     1      37.677   4.480  58.230  1.00  0.00           O  
+HETATM   15  C10 UNL     1      34.480   4.981  58.048  1.00  0.00           C  
+HETATM   16  C11 UNL     1      34.056   6.189  58.878  1.00  0.00           C  
+HETATM   17  C12 UNL     1      32.580   6.203  59.083  1.00  0.00           C  
+HETATM   18  O4  UNL     1      32.078   5.607  60.070  1.00  0.00           O  
+HETATM   19  O5  UNL     1      31.759   6.887  58.196  1.00  0.00           O  
+HETATM   20  C13 UNL     1      30.841   2.972  60.267  1.00  0.00           C  
+HETATM   21  O6  UNL     1      30.247   2.169  59.290  1.00  0.00           O  
+HETATM   22  P1  UNL     1      30.047   3.172  57.937  1.00  0.00           P  
+HETATM   23  O7  UNL     1      28.971   4.200  58.208  1.00  0.00           O  
+HETATM   24  O8  UNL     1      29.589   2.227  56.613  1.00  0.00           O  
+HETATM   25  O9  UNL     1      31.503   3.957  57.577  1.00  0.00           O  
+CONECT    1    2    2    8
+CONECT    2    3    4
+CONECT    4    5    6    6
+CONECT    6    7    9
+CONECT    7    8    8   20
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   15
+CONECT   12   13   13   14
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   18   19
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23   23   24   25
+END

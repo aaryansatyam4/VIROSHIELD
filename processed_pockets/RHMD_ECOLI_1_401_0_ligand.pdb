@@ -1,0 +1,19 @@
+COMPND    __3d47_A_rec_3cxo_3lr_lig_min.pdb
+HETATM    1  C1  UNL     1      18.480  24.706  87.327  1.00  0.00           C  
+HETATM    2  C2  UNL     1      17.773  24.698  85.967  1.00  0.00           C  
+HETATM    3  O1  UNL     1      17.710  23.364  85.412  1.00  0.00           O  
+HETATM    4  O2  UNL     1      16.317  26.478  86.534  1.00  0.00           O  
+HETATM    5  C3  UNL     1      16.359  25.292  86.136  1.00  0.00           C  
+HETATM    6  O3  UNL     1      15.371  24.571  85.870  1.00  0.00           O  
+HETATM    7  C4  UNL     1      19.781  23.909  87.338  1.00  0.00           C  
+HETATM    8  O4  UNL     1      20.881  24.821  87.351  1.00  0.00           O  
+HETATM    9  C5  UNL     1      19.894  22.967  88.548  1.00  0.00           C  
+HETATM   10  C6  UNL     1      20.847  23.396  89.676  1.00  0.00           C  
+HETATM   11  O5  UNL     1      20.283  21.691  88.075  1.00  0.00           O  
+CONECT    1    2    7
+CONECT    2    3    5
+CONECT    4    5    5
+CONECT    5    6
+CONECT    7    8    9
+CONECT    9   10   11
+END

@@ -1,0 +1,24 @@
+HETATM    1  N   TYC A 202     -19.704   1.471  -7.592  1.00 56.43           N1+
+HETATM    2  CA  TYC A 202     -19.586   0.853  -6.313  1.00 61.40           C  
+HETATM    3  C   TYC A 202     -19.745  -0.640  -6.458  1.00 70.87           C  
+HETATM    4  O   TYC A 202     -20.136  -1.103  -7.510  1.00 56.68           O  
+HETATM    5  CB  TYC A 202     -20.667   1.374  -5.395  1.00 51.86           C  
+HETATM    6  CG  TYC A 202     -20.451   2.842  -5.111  1.00 42.56           C  
+HETATM    7  CD1 TYC A 202     -19.295   3.278  -4.573  1.00 44.31           C  
+HETATM    8  CD2 TYC A 202     -21.557   3.816  -5.435  1.00 40.11           C  
+HETATM    9  CE1 TYC A 202     -19.105   4.752  -4.300  1.00 37.14           C  
+HETATM   10  CE2 TYC A 202     -21.388   5.126  -5.190  1.00 39.51           C  
+HETATM   11  OH  TYC A 202     -19.928   6.990  -4.341  1.00 43.29           O  
+HETATM   12  CZ  TYC A 202     -20.094   5.619  -4.591  1.00 35.94           C  
+HETATM   13  NXT TYC A 202     -19.441  -1.500  -5.373  1.00 54.80           N  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4   13
+CONECT    5    6
+CONECT    6    7    8
+CONECT    7    9
+CONECT    8   10
+CONECT    9   12
+CONECT   10   12
+CONECT   11   12
+END

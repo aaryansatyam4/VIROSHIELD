@@ -1,0 +1,34 @@
+HETATM    1  CAJ 0QV A 203     -25.478  -2.613 -12.620  1.00 14.42           C  
+HETATM    2  CAH 0QV A 203     -24.729  -2.453 -13.990  1.00 15.48           C  
+HETATM    3  CAQ 0QV A 203     -25.702  -2.089 -15.122  1.00 17.41           C  
+HETATM    4  OAA 0QV A 203     -26.611  -3.211 -15.252  1.00 17.15           O  
+HETATM    5  CAI 0QV A 203     -26.548  -0.778 -14.887  1.00 14.63           C  
+HETATM    6  CAK 0QV A 203     -27.100  -0.861 -13.485  1.00 15.53           C  
+HETATM    7  NAR 0QV A 203     -26.065  -1.238 -12.465  1.00 15.72           N  
+HETATM    8  CAM 0QV A 203     -25.744  -0.404 -11.402  1.00 13.28           C  
+HETATM    9  SAB 0QV A 203     -26.455   1.212 -11.473  1.00 16.91           S  
+HETATM   10  CAN 0QV A 203     -24.886  -0.744 -10.303  1.00 15.65           C  
+HETATM   11  CAP 0QV A 203     -23.880   0.104  -9.734  1.00 12.53           C  
+HETATM   12  CAF 0QV A 203     -23.423   1.405  -9.995  1.00 17.21           C  
+HETATM   13  CAD 0QV A 203     -22.396   1.961  -9.268  1.00 14.70           C  
+HETATM   14  CAC 0QV A 203     -21.824   1.250  -8.225  1.00 13.67           C  
+HETATM   15  CAE 0QV A 203     -22.302  -0.026  -7.895  1.00 14.97           C  
+HETATM   16  CAO 0QV A 203     -23.328  -0.612  -8.645  1.00 14.81           C  
+HETATM   17  NAL 0QV A 203     -24.011  -1.790  -8.568  1.00 15.87           N  
+HETATM   18  CAG 0QV A 203     -24.900  -1.868  -9.577  1.00 14.01           C  
+CONECT    1    2    7
+CONECT    2    3
+CONECT    3    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10
+CONECT   10   11   18
+CONECT   11   12   16
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+END

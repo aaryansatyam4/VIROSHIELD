@@ -1,0 +1,45 @@
+HETATM    1  PB  ADP B 801      19.965  -1.034   9.201  1.00 66.30           P  
+HETATM    2  O1B ADP B 801      18.453  -1.076   9.208  1.00 67.19           O  
+HETATM    3  O2B ADP B 801      20.615  -2.394   9.269  1.00 68.08           O  
+HETATM    4  O3B ADP B 801      20.547  -0.029  10.175  1.00 61.73           O  
+HETATM    5  PA  ADP B 801      21.513  -0.762   6.764  1.00 61.85           P  
+HETATM    6  O1A ADP B 801      22.087   0.585   6.386  1.00 59.76           O  
+HETATM    7  O2A ADP B 801      22.423  -1.818   7.338  1.00 59.22           O  
+HETATM    8  O3A ADP B 801      20.240  -0.475   7.711  1.00 62.33           O  
+HETATM    9  O5' ADP B 801      20.812  -1.400   5.457  1.00 59.44           O  
+HETATM   10  C5' ADP B 801      20.326  -2.744   5.445  1.00 59.23           C  
+HETATM   11  C4' ADP B 801      20.840  -3.522   4.231  1.00 58.02           C  
+HETATM   12  O4' ADP B 801      20.703  -2.738   3.047  1.00 57.21           O  
+HETATM   13  C3' ADP B 801      22.308  -3.924   4.282  1.00 55.49           C  
+HETATM   14  O3' ADP B 801      22.515  -5.197   4.887  1.00 54.95           O  
+HETATM   15  C2' ADP B 801      22.732  -3.945   2.827  1.00 55.73           C  
+HETATM   16  O2' ADP B 801      22.542  -5.207   2.187  1.00 51.08           O  
+HETATM   17  C1' ADP B 801      21.800  -2.966   2.164  1.00 55.77           C  
+HETATM   18  N9  ADP B 801      22.503  -1.702   1.856  1.00 56.73           N  
+HETATM   19  C8  ADP B 801      22.531  -0.548   2.559  1.00 58.31           C  
+HETATM   20  N7  ADP B 801      23.280   0.388   1.917  1.00 57.82           N  
+HETATM   21  C5  ADP B 801      23.727  -0.178   0.781  1.00 56.80           C  
+HETATM   22  C6  ADP B 801      24.563   0.226  -0.372  1.00 56.69           C  
+HETATM   23  N6  ADP B 801      25.092   1.471  -0.452  1.00 55.37           N  
+HETATM   24  N1  ADP B 801      24.785  -0.699  -1.344  1.00 55.49           N  
+HETATM   25  C2  ADP B 801      24.274  -1.948  -1.290  1.00 54.70           C  
+HETATM   26  N3  ADP B 801      23.510  -2.378  -0.274  1.00 56.09           N  
+HETATM   27  C4  ADP B 801      23.214  -1.554   0.756  1.00 56.19           C  
+CONECT    1    2    3    4    8
+CONECT    5    6    7    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   12   17
+CONECT   13   14   15
+CONECT   15   16   17
+CONECT   17   18
+CONECT   18   19   27
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22   27
+CONECT   22   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+END

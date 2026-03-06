@@ -1,0 +1,24 @@
+HETATM    1  C1  QIC A 284      18.059  53.866   2.057  1.00 24.63           C  
+HETATM    2  O1  QIC A 284      17.879  55.213   1.623  1.00 26.78           O  
+HETATM    3  C2  QIC A 284      19.477  53.729   2.600  1.00 24.05           C  
+HETATM    4  O2  QIC A 284      19.734  55.951   3.578  1.00 25.29           O  
+HETATM    5  C3  QIC A 284      19.674  54.548   3.871  1.00 22.54           C  
+HETATM    6  O3  QIC A 284      18.769  55.082   6.001  1.00 19.53           O  
+HETATM    7  C4  QIC A 284      18.564  54.250   4.873  1.00 20.75           C  
+HETATM    8  O4  QIC A 284      16.195  53.901   5.266  1.00 19.54           O  
+HETATM    9  C5  QIC A 284      17.141  54.383   4.321  1.00 20.93           C  
+HETATM   10  O5  QIC A 284      17.749  53.476  -0.224  1.00 24.99           O  
+HETATM   11  C6  QIC A 284      16.988  53.516   3.082  1.00 23.91           C  
+HETATM   12  O6  QIC A 284      17.970  51.703   1.082  1.00 28.31           O  
+HETATM   13  C7  QIC A 284      17.914  52.946   0.888  1.00 27.61           C  
+CONECT    1    2    3   11   13
+CONECT    3    5
+CONECT    4    5
+CONECT    5    7
+CONECT    6    7
+CONECT    7    9
+CONECT    8    9
+CONECT    9   11
+CONECT   10   13
+CONECT   12   13
+END

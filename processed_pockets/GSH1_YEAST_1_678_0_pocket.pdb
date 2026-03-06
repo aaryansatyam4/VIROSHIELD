@@ -1,0 +1,28 @@
+HETATM    1  N   LBP A 693      35.499   1.706  18.525  1.00 27.65           N  
+HETATM    2  P   LBP A 693      32.703  -4.219  17.742  1.00 30.58           P  
+HETATM    3  S   LBP A 693      32.343  -1.541  18.423  1.00 29.44           S  
+HETATM    4  C1  LBP A 693      35.895   1.307  20.908  1.00 28.86           C  
+HETATM    5  O1  LBP A 693      35.583   0.814  22.046  1.00 30.12           O  
+HETATM    6  CA  LBP A 693      34.898   1.236  19.771  1.00 27.87           C  
+HETATM    7  CB  LBP A 693      34.339  -0.200  19.558  1.00 26.74           C  
+HETATM    8  CD  LBP A 693      31.094  -1.272  17.318  1.00 30.32           C  
+HETATM    9  CE  LBP A 693      30.419   0.124  17.418  1.00 28.37           C  
+HETATM   10  CF  LBP A 693      29.376   0.309  16.309  1.00 29.12           C  
+HETATM   11  CG  LBP A 693      33.181  -0.099  18.573  1.00 26.65           C  
+HETATM   12  NS  LBP A 693      33.331  -2.674  17.997  1.00 27.99           N  
+HETATM   13  OS  LBP A 693      31.623  -1.632  19.817  1.00 30.33           O  
+HETATM   14  C18 LBP A 693      28.682   1.661  16.351  1.00 30.05           C  
+HETATM   15  O1T LBP A 693      36.984   1.911  20.715  1.00 30.60           O  
+HETATM   16  OP1 LBP A 693      31.246  -4.043  17.640  1.00 28.62           O  
+HETATM   17  OP2 LBP A 693      33.068  -5.009  18.965  1.00 26.13           O  
+HETATM   18  OP3 LBP A 693      33.483  -4.577  16.477  1.00 28.13           O  
+CONECT    1    6
+CONECT    2   12   16   17   18
+CONECT    3    8   11   12   13
+CONECT    4    5    6   15
+CONECT    6    7
+CONECT    7   11
+CONECT    8    9
+CONECT    9   10
+CONECT   10   14
+END

@@ -1,0 +1,74 @@
+COMPND    OI1
+ATOM      1  OH  TYR A   2      45.868  74.087  22.449  1.00  0.00           O  
+ATOM      2  CZ  TYR A   2      45.294  75.067  21.651  1.00  0.00           C  
+ATOM      3  CE1 TYR A   2      44.913  76.286  22.209  1.00  0.00           C  
+ATOM      4  CD1 TYR A   2      44.343  77.256  21.410  1.00  0.00           C  
+ATOM      5  CG  TYR A   2      44.134  77.046  20.047  1.00  0.00           C  
+ATOM      6  CD2 TYR A   2      44.521  75.825  19.502  1.00  0.00           C  
+ATOM      7  CE2 TYR A   2      45.099  74.835  20.291  1.00  0.00           C  
+ATOM      8  CB  TYR A   2      43.614  78.157  19.166  1.00  0.00           C  
+ATOM      9  CA  TYR A   2      42.173  77.907  18.832  1.00  0.00           C  
+ATOM     10  C   TYR A   2      42.045  76.728  17.808  1.00  0.00           C  
+ATOM     11  O   TYR A   2      42.508  76.834  16.660  1.00  0.00           O  
+HETATM   12  N   UNK A   1      41.417  75.496  18.184  1.00  0.00           N  
+HETATM   13  C   UNK A   1      40.874  75.275  19.557  1.00  0.00           C  
+HETATM   14  C   UNK A   1      40.726  76.586  20.346  1.00  0.00           C  
+HETATM   15  O   UNK A   1      40.042  76.548  21.368  1.00  0.00           O1-
+ATOM     16  N   TYR A   2      41.402  77.798  19.991  1.00  0.00           N1+
+HETATM   17  C   UNK A   0      41.246  79.010  20.838  1.00  0.00           C  
+HETATM   18  C   UNK A   0      41.889  78.774  22.279  1.00  0.00           C  
+HETATM   19  O   UNK A   0      42.809  79.517  22.588  1.00  0.00           O  
+HETATM   20  N   UNK A   0      41.465  77.813  23.098  1.00  0.00           N  
+HETATM   21  C   UNK A   0      42.090  77.608  24.404  1.00  0.00           C  
+HETATM   22  C   UNK A   0      41.026  77.582  25.494  1.00  0.00           C  
+HETATM   23  C   UNK A   0      40.091  78.766  25.432  1.00  0.00           C  
+HETATM   24  C   UNK A   0      40.500  80.018  25.902  1.00  0.00           C  
+HETATM   25  C   UNK A   0      39.695  81.140  25.775  1.00  0.00           C  
+HETATM   26  C   UNK A   0      38.460  81.030  25.177  1.00  0.00           C  
+HETATM   27  O   UNK A   0      37.676  82.154  25.081  1.00  0.00           O  
+HETATM   28  C   UNK A   0      38.015  79.801  24.688  1.00  0.00           C  
+HETATM   29  C   UNK A   0      38.836  78.666  24.820  1.00  0.00           C  
+HETATM   30  C   UNK A   0      39.685  79.334  20.939  1.00  0.00           C  
+HETATM   31  C   UNK A   0      39.428  80.761  21.208  1.00  0.00           C  
+HETATM   32  C   UNK A   0      37.949  81.123  21.155  1.00  0.00           C  
+HETATM   33  C   UNK A   1      41.660  74.129  20.253  1.00  0.00           C  
+HETATM   34  C   UNK A   1      42.089  73.038  19.268  1.00  0.00           C  
+HETATM   35  C   UNK A   1      42.657  71.871  19.795  1.00  0.00           C  
+HETATM   36  C   UNK A   1      43.075  70.826  18.936  1.00  0.00           C  
+HETATM   37  C   UNK A   1      42.936  70.949  17.535  1.00  0.00           C  
+HETATM   38  C   UNK A   1      42.358  72.126  16.980  1.00  0.00           C  
+HETATM   39  C   UNK A   1      41.931  73.173  17.843  1.00  0.00           C  
+HETATM   40  C   UNK A   1      41.317  74.427  17.247  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    3    7
+CONECT    3    4
+CONECT    4    5    5
+CONECT    5    6    8
+CONECT    6    7    7
+CONECT    8    9
+CONECT    9   10   16
+CONECT   10   11   11   12
+CONECT   12   13   40
+CONECT   13   14   33
+CONECT   14   15   16   16
+CONECT   16   17
+CONECT   17   18   30
+CONECT   18   19   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24   24   29
+CONECT   24   25
+CONECT   25   26   26
+CONECT   26   27   28
+CONECT   28   29   29
+CONECT   30   31
+CONECT   31   32
+CONECT   33   34
+CONECT   34   35   35   39
+CONECT   35   36
+CONECT   36   37   37
+CONECT   37   38
+CONECT   38   39   39
+CONECT   39   40
+END

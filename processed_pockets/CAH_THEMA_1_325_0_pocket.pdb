@@ -1,0 +1,27 @@
+HETATM    1  O14 OIA A 400       0.472  -7.543 -31.201  1.00 20.53           O  
+HETATM    2  C11 OIA A 400      -0.287  -8.594 -31.407  1.00 28.52           C  
+HETATM    3  O13 OIA A 400      -1.546  -8.591 -31.481  1.00 23.65           O  
+HETATM    4  C10 OIA A 400       0.378  -9.972 -31.629  1.00 29.03           C  
+HETATM    5  C3  OIA A 400      -0.378 -11.295 -31.157  1.00 32.58           C  
+HETATM    6  C9  OIA A 400      -0.821 -11.381 -29.778  1.00 32.21           C  
+HETATM    7  C4  OIA A 400      -0.193 -11.377 -28.573  1.00 30.15           C  
+HETATM    8  C5  OIA A 400      -0.878 -11.484 -27.323  1.00 30.86           C  
+HETATM    9  C6  OIA A 400      -2.259 -11.647 -27.352  1.00 35.42           C  
+HETATM   10  C7  OIA A 400      -2.906 -11.681 -28.627  1.00 38.36           C  
+HETATM   11  C8  OIA A 400      -2.181 -11.558 -29.792  1.00 41.87           C  
+HETATM   12  N1  OIA A 400      -2.612 -11.584 -31.082  1.00 37.66           N  
+HETATM   13  C2  OIA A 400      -1.563 -11.466 -31.909  1.00 37.09           C  
+HETATM   14  O12 OIA A 400      -1.666 -11.406 -33.150  1.00 33.00           O  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6   13
+CONECT    6    7   11
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+END

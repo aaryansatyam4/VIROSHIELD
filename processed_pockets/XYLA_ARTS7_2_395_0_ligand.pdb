@@ -1,0 +1,19 @@
+COMPND    __4xia_A_rec_1die_noj_lig_docked.pdb
+HETATM    1  C1  UNL     1      26.256  72.530   8.850  1.00  0.00           C  
+HETATM    2  C2  UNL     1      26.197  71.730  10.160  1.00  0.00           C  
+HETATM    3  O1  UNL     1      26.179  70.344   9.982  1.00  0.00           O  
+HETATM    4  C3  UNL     1      25.044  72.270  10.984  1.00  0.00           C  
+HETATM    5  O2  UNL     1      24.944  71.467  12.139  1.00  0.00           O  
+HETATM    6  C4  UNL     1      25.373  73.712  11.239  1.00  0.00           C  
+HETATM    7  O3  UNL     1      24.172  74.345  11.715  1.00  0.00           O  
+HETATM    8  C5  UNL     1      25.748  74.469   9.995  1.00  0.00           C  
+HETATM    9  N1  UNL     1      26.569  73.794   9.199  1.00  0.00           N  
+HETATM   10  C6  UNL     1      26.382  75.804  10.405  1.00  0.00           C  
+HETATM   11  O4  UNL     1      27.816  75.433  10.821  1.00  0.00           O  
+CONECT    1    2    9
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7    8
+CONECT    8    9   10
+CONECT   10   11
+END

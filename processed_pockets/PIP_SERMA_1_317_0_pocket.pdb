@@ -1,0 +1,23 @@
+HETATM    1  N   ATX A 401      19.161   0.088  -9.474  1.00 64.46           N  
+HETATM    2  CA  ATX A 401      19.737   0.032  -8.086  1.00 65.85           C  
+HETATM    3  C   ATX A 401      21.275  -0.112  -8.127  1.00 67.12           C  
+HETATM    4  O   ATX A 401      21.844  -1.092  -7.667  1.00 66.75           O  
+HETATM    5  CB  ATX A 401      19.019  -1.147  -7.413  1.00 66.11           C  
+HETATM    6  C5  ATX A 401      22.042   0.990  -8.716  1.00 68.32           C  
+HETATM    7  N4  ATX A 401      22.041   1.538  -9.947  1.00 69.91           N  
+HETATM    8  N3  ATX A 401      22.923   2.516  -9.983  1.00 71.27           N  
+HETATM    9  C2  ATX A 401      23.528   2.636  -8.773  1.00 71.65           C  
+HETATM   10  O1  ATX A 401      22.988   1.667  -7.916  1.00 69.63           O  
+HETATM   11  C6  ATX A 401      24.600   3.560  -8.232  1.00 73.08           C  
+HETATM   12  C7  ATX A 401      25.796   2.726  -7.762  1.00 74.05           C  
+HETATM   13  C8  ATX A 401      24.049   4.365  -7.063  1.00 72.15           C  
+HETATM   14  C9  ATX A 401      25.034   4.519  -9.343  1.00 74.25           C  
+CONECT    1    2
+CONECT    2    3    5
+CONECT    3    4    6
+CONECT    6    7   10
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   11   12   13   14
+END

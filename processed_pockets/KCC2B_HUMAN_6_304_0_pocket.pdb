@@ -1,0 +1,52 @@
+HETATM    1  C4  5CP A 600      20.170  67.726  31.479  1.00 15.55           C  
+HETATM    2  C5  5CP A 600      19.101  68.434  30.978  1.00 18.03           C  
+HETATM    3  C6  5CP A 600      17.910  67.799  30.705  1.00 16.78           C  
+HETATM    4  N1  5CP A 600      17.808  66.469  30.913  1.00 18.73           N  
+HETATM    5  N3  5CP A 600      19.978  66.417  31.688  1.00 23.79           N  
+HETATM    6  C1U 5CP A 600      24.233  64.020  32.711  1.00 15.44           C  
+HETATM    7  C1W 5CP A 600      24.712  64.670  34.022  1.00 15.72           C  
+HETATM    8  C1T 5CP A 600      25.026  65.316  32.679  1.00 10.26           C  
+HETATM    9  C1R 5CP A 600      24.201  66.518  32.265  1.00 17.21           C  
+HETATM   10  C1S 5CP A 600      22.871  66.600  32.342  1.00 10.49           C  
+HETATM   11  N1Q 5CP A 600      24.715  67.637  31.732  1.00 26.31           N  
+HETATM   12  N1P 5CP A 600      23.752  68.391  31.498  1.00 22.51           N  
+HETATM   13  C1H 5CP A 600      22.583  67.806  31.803  1.00  6.29           C  
+HETATM   14  N1G 5CP A 600      21.354  68.386  31.727  1.00 20.78           N  
+HETATM   15  N1X 5CP A 600      16.878  68.498  30.214  1.00 20.00           N  
+HETATM   16  C1Y 5CP A 600      16.834  69.986  30.234  1.00 37.88           C  
+HETATM   17  C2  5CP A 600      18.835  65.780  31.402  1.00  9.19           C  
+HETATM   18  N1I 5CP A 600      18.721  64.446  31.587  1.00 19.08           N  
+HETATM   19  C1J 5CP A 600      19.534  63.653  32.341  1.00 28.29           C  
+HETATM   20  C1O 5CP A 600      19.865  63.969  33.674  1.00 35.83           C  
+HETATM   21  C1N 5CP A 600      20.660  63.137  34.465  1.00 21.46           C  
+HETATM   22  C1K 5CP A 600      20.029  62.463  31.798  1.00 35.30           C  
+HETATM   23  C1L 5CP A 600      20.842  61.635  32.580  1.00 40.17           C  
+HETATM   24  C1M 5CP A 600      21.142  61.956  33.909  1.00 23.45           C  
+HETATM   25  C1V 5CP A 600      22.013  61.036  34.738  1.00 24.52           C  
+HETATM   26  C1Z 5CP A 600      23.409  61.070  34.275  1.00 31.77           C  
+HETATM   27  N1A 5CP A 600      24.502  61.072  33.964  1.00 19.78           N  
+CONECT    1    2    5   14
+CONECT    2    3
+CONECT    3    4   15
+CONECT    4   17
+CONECT    5   17
+CONECT    6    7    8
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   10   13
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   15   16
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20   22
+CONECT   20   21
+CONECT   21   24
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+END

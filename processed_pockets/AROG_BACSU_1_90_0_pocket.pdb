@@ -1,0 +1,43 @@
+HETATM    1  CAX 7LH B 101       7.315   9.080  27.764  1.00 29.69           C  
+HETATM    2  CAV 7LH B 101       7.135  10.317  27.120  1.00 30.67           C  
+HETATM    3  OAW 7LH B 101       6.146  11.216  27.558  1.00 35.31           O  
+HETATM    4  CAT 7LH B 101       7.950  10.678  26.037  1.00 36.58           C  
+HETATM    5  OAU 7LH B 101       7.786  11.913  25.394  1.00 39.66           O  
+HETATM    6  CAS 7LH B 101       8.933   9.817  25.563  1.00 34.31           C  
+HETATM    7  CAR 7LH B 101       9.107   8.582  26.188  1.00 40.20           C  
+HETATM    8  CAQ 7LH B 101       8.306   8.211  27.283  1.00 29.10           C  
+HETATM    9  CAP 7LH B 101       8.631   6.842  27.847  1.00 29.61           C  
+HETATM   10  CAO 7LH B 101       7.820   6.448  29.056  1.00 25.09           C  
+HETATM   11  CAM 7LH B 101       8.315   5.121  29.564  1.00 25.56           C  
+HETATM   12  OAN 7LH B 101       9.134   4.421  29.021  1.00 27.00           O  
+HETATM   13  OAL 7LH B 101       7.739   4.759  30.771  1.00 26.87           O  
+HETATM   14  CAK 7LH B 101       7.976   3.483  31.302  1.00 25.47           C  
+HETATM   15  CAY 7LH B 101       7.280   2.463  30.369  1.00 23.45           C  
+HETATM   16  CAD 7LH B 101       5.772   2.542  30.419  1.00 22.73           C  
+HETATM   17  CAB 7LH B 101       5.295   1.377  29.553  1.00 19.44           C  
+HETATM   18  OAC 7LH B 101       4.252   1.657  28.718  1.00 24.18           O  
+HETATM   19  OAA 7LH B 101       5.541   0.099  29.970  1.00 23.03           O  
+HETATM   20  OAE 7LH B 101       5.299   3.694  29.787  1.00 29.05           O  
+HETATM   21  CAF 7LH B 101       5.215   2.501  31.871  1.00 26.60           C  
+HETATM   22  CAG 7LH B 101       5.834   3.672  32.670  1.00 33.21           C  
+HETATM   23  OAH 7LH B 101       5.368   3.648  33.997  1.00 31.34           O  
+HETATM   24  CAI 7LH B 101       7.359   3.522  32.706  1.00 28.79           C  
+HETATM   25  OAJ 7LH B 101       7.933   4.616  33.396  1.00 29.98           O  
+CONECT    1    2    8
+CONECT    2    3    4
+CONECT    4    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   13   14
+CONECT   14   15   24
+CONECT   15   16
+CONECT   16   17   20   21
+CONECT   17   18   19
+CONECT   21   22
+CONECT   22   23   24
+CONECT   24   25
+END

@@ -1,0 +1,20 @@
+COMPND    PGE
+HETATM    1  C   UNL     1     -16.364   8.163  19.736  1.00  0.00           C  
+HETATM    2  O   UNL     1     -15.487   7.096  19.294  1.00  0.00           O  
+HETATM    3  C   UNL     1     -17.809   7.716  19.963  1.00  0.00           C  
+HETATM    4  O   UNL     1     -18.694   8.783  20.366  1.00  0.00           O  
+HETATM    5  C   UNL     1     -19.245   8.757  21.691  1.00  0.00           C  
+HETATM    6  C   UNL     1     -18.207   8.506  22.796  1.00  0.00           C  
+HETATM    7  O   UNL     1     -17.535   7.372  27.500  1.00  0.00           O  
+HETATM    8  C   UNL     1     -18.268   7.155  26.261  1.00  0.00           C  
+HETATM    9  C   UNL     1     -17.937   8.172  25.177  1.00  0.00           C  
+HETATM   10  O   UNL     1     -18.811   8.049  24.029  1.00  0.00           O  
+CONECT    1    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6   10
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+END

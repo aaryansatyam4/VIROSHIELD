@@ -1,0 +1,27 @@
+COMPND    4MRM_2BY_A_501
+HETATM    1  C1  UNL     1     -24.439  19.963 -31.121  1.00  0.00           C  
+HETATM    2 CL1  UNL     1     -21.930  22.431 -36.045  1.00  0.00          CL  
+HETATM    3  C2  UNL     1     -22.660  21.725 -34.620  1.00  0.00           C  
+HETATM    4  C3  UNL     1     -23.508  22.493 -33.816  1.00  0.00           C  
+HETATM    5  C4  UNL     1     -22.397  20.393 -34.287  1.00  0.00           C  
+HETATM    6  C5  UNL     1     -22.979  19.829 -33.148  1.00  0.00           C  
+HETATM    7  C6  UNL     1     -23.826  20.594 -32.337  1.00  0.00           C  
+HETATM    8  C7  UNL     1     -24.090  21.930 -32.677  1.00  0.00           C  
+HETATM    9  C8  UNL     1     -25.213  18.705 -31.487  1.00  0.00           C  
+HETATM   10  N1  UNL     1     -24.971  17.666 -30.502  1.00  0.00           N  
+HETATM   11  C9  UNL     1     -25.359  20.932 -30.389  1.00  0.00           C  
+HETATM   12  P1  UNL     1     -25.127  20.823 -28.588  1.00  0.00           P  
+HETATM   13  O1  UNL     1     -25.916  19.444 -28.009  1.00  0.00           O  
+HETATM   14  O2  UNL     1     -23.653  20.727 -28.270  1.00  0.00           O  
+HETATM   15  O3  UNL     1     -25.777  22.192 -27.837  1.00  0.00           O  
+CONECT    1    7    9   11
+CONECT    2    3
+CONECT    3    4    5    5
+CONECT    4    8    8
+CONECT    5    6
+CONECT    6    7    7
+CONECT    7    8
+CONECT    9   10
+CONECT   11   12
+CONECT   12   13   14   14   15
+END

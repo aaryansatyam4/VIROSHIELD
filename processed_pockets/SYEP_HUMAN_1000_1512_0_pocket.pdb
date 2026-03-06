@@ -1,0 +1,35 @@
+HETATM    1  O5' ADN A 602     -40.488   9.932  31.028  1.00 83.49           O  
+HETATM    2  C5' ADN A 602     -40.644   8.879  30.086  1.00 89.41           C  
+HETATM    3  C4' ADN A 602     -39.360   8.055  29.992  1.00 88.33           C  
+HETATM    4  O4' ADN A 602     -38.444   8.657  30.848  1.00 94.84           O  
+HETATM    5  C3' ADN A 602     -39.597   6.733  30.644  1.00 90.75           C  
+HETATM    6  O3' ADN A 602     -39.468   5.736  29.674  1.00 83.32           O  
+HETATM    7  C2' ADN A 602     -38.492   6.578  31.649  1.00 85.62           C  
+HETATM    8  O2' ADN A 602     -37.901   5.342  31.424  1.00 80.62           O  
+HETATM    9  C1' ADN A 602     -37.559   7.620  31.214  1.00 90.66           C  
+HETATM   10  N9  ADN A 602     -36.756   8.195  32.298  1.00 89.99           N  
+HETATM   11  C8  ADN A 602     -37.263   8.928  33.264  1.00 94.65           C  
+HETATM   12  N7  ADN A 602     -36.274   9.321  34.046  1.00 95.27           N  
+HETATM   13  C5  ADN A 602     -35.155   8.830  33.563  1.00 92.20           C  
+HETATM   14  C6  ADN A 602     -33.915   8.937  33.990  1.00 90.70           C  
+HETATM   15  N6  ADN A 602     -33.738   9.643  35.086  1.00 93.58           N  
+HETATM   16  N1  ADN A 602     -32.893   8.375  33.364  1.00 85.95           N  
+HETATM   17  C2  ADN A 602     -33.163   7.650  32.233  1.00 82.60           C  
+HETATM   18  N3  ADN A 602     -34.479   7.546  31.807  1.00 82.51           N  
+HETATM   19  C4  ADN A 602     -35.449   8.143  32.480  1.00 87.26           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5
+CONECT    4    9
+CONECT    5    6    7
+CONECT    7    8    9
+CONECT    9   10
+CONECT   10   11   19
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   19
+CONECT   14   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+END
